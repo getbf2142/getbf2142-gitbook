@@ -1,18 +1,32 @@
+---
+description: Guide you hand-by-hand to get and play BF2142 in 2022!
+---
+
 # Homepage
 
-If you're still finding ways to make your Battlefield 2142 work again, or you simply don't know where to get a copy of the game, maybe you can really give us a try!
+If you're still finding ways to get your Battlefield 2142 coming to live again, or you simply don't know where to get a copy of the game, maybe you can really give us a try!
+
+{% hint style="info" %}
+If you like our work, please do consider leaving a comment or a supportive message in our [Forum](http://getbf2142.weebly.com) or [Contact](https://getbf2142.weebly.com/contact.html) page! Your support is very important!
+{% endhint %}
 
 ### About Us
 
-GetBF2142.net is a new little fan website made by some die-hards of the franchise!
+GetBF2142.net is a little fan website made by some die-hards of the franchise!
 
-Our goal is to provide all the necessary resources and information for those who still want to play this 15-year-old game today!
+Many of us still love the game up to this day, but it is getting harder and harder day by day to actually get the game from a working source and to play it with friends without issues. We understand all these struggles and that's why we made this website.
 
-If it ever comes to a day that this website has to be taken down, then let's be it. But before that, we will still be here trying to offer a helping hand to those who still want to play bf2142 today.
+Our goal is to provide all the necessary resources and information all in one place so that everyone else who still want to play this 15-year-old game today can have access to it and have fun in no time!
 
-Good luck and have fun!
+If it ever comes to a day that this website has to be taken down, then let's be it. But before that ever happens, we will still be here trying our very best to help out those who still want to play the game.&#x20;
 
-_You may_ [_Contact Us_](https://getbf2142.weebly.com/contact.html) _if you want to contribute to this wiki._
+Just a side note that we made this website out of good intentions. We never meant to support priated games nor encorage any infringement of copyrights. As die-hard fans of the franchise, we would always want to pay our respects to EA and DICE for making such a good game and to acknowledge their copyrights over the intellectual property. But the game itself has been abandoned for so many years from now with no official ways to play online or buy online, so we really have no choice but have to resort to our very own little ways to get and play the game. We're terribly sorry for that.
+
+So, good luck and have fun!
+
+{% hint style="info" %}
+Feel free to drop us a message in our [Forum](http://getbf2142.weebly.com) or [Contact](https://getbf2142.weebly.com/contact.html) Page if you want to be part of us to make contribution to this project.
+{% endhint %}
 
 ### Features
 
