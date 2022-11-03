@@ -1,5 +1,5 @@
 ---
-description: Guide you hand-by-hand to play BF2142 in 2022!
+description: Guide you hand-by-hand to get and play BF2142 in 2022!
 ---
 
 # Homepage
