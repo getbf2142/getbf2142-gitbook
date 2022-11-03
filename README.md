@@ -1,5 +1,5 @@
 ---
-description: Here you can have everything you need to know to play BF2142 in 2022!
+description: Guide you hand-by-hand to get your BF2142 to work in 2022!
 ---
 
 # Homepage
