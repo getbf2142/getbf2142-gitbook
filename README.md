@@ -22,12 +22,12 @@ If it ever comes to a day that this website has to be taken down, then let's be 
 
 Just a side note that we made this website out of good intentions. There is no ads or revenues made out from this project. We also never meant to support priated games nor encorage any infringement of copyrights.&#x20;
 
-As die-hard fans of the franchise, we would always want to pay our respects to EA and DICE for making such a good game if possible. But the game itself has been abandoned for so many years from now with no better ways to play online or buy online, so we really have no choice but to resort to our very own little ways to get and play the game. We're terribly sorry for what we've done here if it upsets you or makes you feel uncomfortable.
+As die-hard fans of the franchise, we would always want to pay our full respects to EA and DICE for making such a good game. But the game itself has been abandoned for so many years from now with no better ways to play online or buy online, so we really have no choice but to resort to our very own little ways to get and play the game. We're terribly sorry for what we've done here if it upsets you or makes you feel uncomfortable.
 
 {% hint style="info" %}
 Feel free to drop us a message in our [Forum](http://getbf2142.weebly.com) or [Contact](https://getbf2142.weebly.com/contact.html) Page if you want to be part of us to make contribution to this project.
 
-If you feel that this project is inappropriate, also feel free to contact us so that we can have your concerns addressed together.
+If it happens to you that this project is inappropriate, also feel free to contact us so that we can have your concerns addressed together.
 {% endhint %}
 
 ### Features
