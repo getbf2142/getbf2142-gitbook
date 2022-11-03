@@ -30,7 +30,7 @@ You are strongly advised to backup the original python folder first before proce
 ## Downloads
 
 {% tabs %}
-{% tab title="Primary Sources" %}
+{% tab title="Primary - Official" %}
 offline\_rewards.zip (Google Drive, 42KB)
 
 {% embed url="https://drive.google.com/file/d/16WwI7T8NAv3oJaNS4BysAfJ2Uev2ugrd/view?usp=sharing" %}
