@@ -20,7 +20,9 @@ Our goal is to provide all the necessary resources and information all in one pl
 
 If it ever comes to a day that this website has to be taken down, then let's be it. But before that ever happens, we will still be here trying our very best to help out those who still want to play the game.&#x20;
 
-Just a side note that we made this website out of good intentions. We never meant to support priated games nor encorage any infringement of copyrights. As die-hard fans of the franchise, we would always want to pay our respects to EA and DICE for making such a good game and to acknowledge their copyrights over the intellectual property. But the game itself has been abandoned for so many years from now with no official ways to play online or buy online, so we really have no choice but have to resort to our very own little ways to get and play the game. We're terribly sorry for that.
+Just a side note that we made this website out of good intentions. There is no ads or revenues made out from this project. We also never meant to support priated games nor encorage any infringement of copyrights.&#x20;
+
+As die-hard fans of the franchise, we would always want to pay our respects to EA and DICE for making such a good game if possible. But the game itself has been abandoned for so many years from now with no better ways to play online or buy online, so we really have no choice but to resort to our very own little ways to get and play the game. We're terribly sorry for what we've done here if it upsets you or makes you feel uncomfortable.
 
 So, good luck and have fun!
 
