@@ -64,4 +64,4 @@ It won't even take you more than an hour to get a fully functional bf2142 from s
 ​This website is neither affiliated with nor endorsed by DICE or Electronic Arts, Inc.\
 ​All trademarks and copyrights are the property of their respective owners.
 
-For Education and Entertainment Purposed Only.
+For Education and Entertainment Purposes Only.
