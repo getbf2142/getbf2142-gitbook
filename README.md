@@ -23,7 +23,7 @@ If it ever comes to a day that this website has to be taken down, then let's be 
 Good luck and have fun!
 
 {% hint style="info" %}
-You may drop a message in our [Forum](http://getbf2142.weebly.com) or [Contact](https://getbf2142.weebly.com/contact.html) Page if you want to contribute to this wiki.
+Feel free to drop us a message in our [Forum](http://getbf2142.weebly.com) or [Contact](https://getbf2142.weebly.com/contact.html) Page if you want to be part of us to make contribution to this project.
 {% endhint %}
 
 ### Features
