@@ -1,5 +1,5 @@
 ---
-description: If you like our work, please leave a comment in our Forum!
+description: Here you can have everything you need to know to play BF2142 in 2022!
 ---
 
 # Homepage
