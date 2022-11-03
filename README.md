@@ -27,7 +27,7 @@ As die-hard fans of the franchise, we would always want to pay our full respects
 {% hint style="info" %}
 Feel free to drop us a message in our [Forum](http://getbf2142.weebly.com) or [Contact](https://getbf2142.weebly.com/contact.html) Page if you want to be part of us to make contribution to this project.
 
-If it happens to you that this project is inappropriate, also feel free to contact us so that we can have your concerns addressed together.
+If it happens to you that the project seems inappropriate in some sense, also feel free to contact us so that we can have your concerns addressed together.
 {% endhint %}
 
 ### Features
