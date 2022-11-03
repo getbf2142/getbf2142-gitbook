@@ -14,7 +14,9 @@ If you like our work, please do consider leaving a comment or a supportive messa
 
 GetBF2142.net is a little fan website made by some die-hards of the franchise!
 
-Our goal is to provide all the necessary resources and information for those who still want to play this 15-year-old game today!
+Many of us still love the game up to this day, but it is getting harder and harder day by day to actually get the game from a working source and to play it with friends. We understand all these struggles and therefore we made this website.
+
+Our goal is to provide all the necessary resources and information all in one place for those who still want to play this 15-year-old game today!
 
 If it ever comes to a day that this website has to be taken down, then let's be it. But before that, we will still be here trying to offer a helping hand to those who still want to play bf2142 today.
 
