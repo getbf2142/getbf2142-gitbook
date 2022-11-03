@@ -1,5 +1,5 @@
 ---
-description: Guide you hand-by-hand to get your BF2142 alive in 2022!
+description: Guide you hand-by-hand to get your BF2142 come to live again in 2022!
 ---
 
 # Homepage
