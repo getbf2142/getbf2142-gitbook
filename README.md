@@ -1,10 +1,14 @@
 ---
-description: Guide you hand-by-hand to get your BF2142 to work in 2022!
+description: Guide you hand-by-hand to get your BF2142 alive in 2022!
 ---
 
 # Homepage
 
 If you're still finding ways to make your Battlefield 2142 work again, or you simply don't know where to get a copy of the game, maybe you can really give us a try!
+
+{% hint style="info" %}
+If you like our work, please leave a comment in our [Forum](http://getbf2142.weebly.com)! Your support is important!
+{% endhint %}
 
 ### About Us
 
