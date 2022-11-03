@@ -4,7 +4,7 @@ description: Guide you hand-by-hand to get and play BF2142 in 2022!
 
 # Homepage
 
-If you're still finding ways to make your Battlefield 2142 work again, or you simply don't know where to get a copy of the game, maybe you can really give us a try!
+If you're still finding ways to get your Battlefield 2142 coming to live again, or you simply don't know where to get a copy of the game, maybe you can really give us a try!
 
 {% hint style="info" %}
 If you like our work, please do consider leaving a comment or a supportive message in our [Forum](http://getbf2142.weebly.com) or [Contact](https://getbf2142.weebly.com/contact.html) page! Your support is very important! Thanks and have a good day!
@@ -12,7 +12,7 @@ If you like our work, please do consider leaving a comment or a supportive messa
 
 ### About Us
 
-GetBF2142.net is a new little fan website made by some die-hards of the franchise!
+GetBF2142.net is a little fan website made by some die-hards of the franchise!
 
 Our goal is to provide all the necessary resources and information for those who still want to play this 15-year-old game today!
 
@@ -20,7 +20,7 @@ If it ever comes to a day that this website has to be taken down, then let's be 
 
 Good luck and have fun!
 
-_You may_ [_Contact Us_](https://getbf2142.weebly.com/contact.html) _if you want to contribute to this wiki._
+_You may drop a message in our_ [_Forum_](http://getbf2142.weebly.com) _or_ [_Contact_](https://getbf2142.weebly.com/contact.html) _Page if you want to contribute to this wiki._
 
 ### Features
 
