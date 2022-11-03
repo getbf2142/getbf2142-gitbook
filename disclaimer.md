@@ -1,7 +1,3 @@
----
-description: For Education and Entertainment Purposes Only.
----
-
 # Disclaimer
 
 **​This website is neither affiliated with nor endorsed by DICE or Electronic Arts, Inc.**\
