@@ -18,7 +18,7 @@ Many of us still love the game up to this day, but it is getting harder and hard
 
 Our goal is to provide all the necessary resources and information all in one place so that everyone else who still want to play this 15-year-old game today can have access to it and have fun in no time!
 
-If it ever comes to a day that this website has to be taken down, then let's be it. But before that, we will still be here trying to offer a helping hand to those who still want to play the game.
+If it ever comes to a day that this website has to be taken down, then let's be it. But before that, we will still be here trying our very best to help those who still want to play the game.
 
 Good luck and have fun!
 
