@@ -8,7 +8,7 @@
 * [1. Installing Base Game](getting-started/1.-installing-base-game.md)
 * [2. Installing v1.51 Patch](getting-started/2.-installing-v1.51-patch.md)
 * [3. Installing ​Project Remaster](getting-started/3.-installing-project-remaster.md)
-* [Before Moving On...](getting-started/before-moving-on....md)
+* [Before Proceeding](getting-started/before-proceeding.md)
 * [4. Installing ​BF2142 Hub](getting-started/4.-installing-bf2142-hub.md)
 * [5. Installing OpenSpy Patches](getting-started/5.-installing-openspy-patches.md)
 * [6. Configuring Remaster Launcher](getting-started/6.-configuring-remaster-launcher.md)
@@ -16,6 +16,7 @@
 * [8. Playing Singleplayer](getting-started/8.-playing-singleplayer.md)
 * [9. Playing Multiplayer](getting-started/9.-playing-multiplayer.md)
 * [10. Hosting Servers](getting-started/10.-hosting-servers.md)
+* [Further Readings](getting-started/further-readings.md)
 
 ## Enhancement
 
