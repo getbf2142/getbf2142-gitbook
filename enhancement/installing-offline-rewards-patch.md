@@ -1,5 +1,7 @@
 ---
-description: This tutorial will guide you through how to install offline rewards patch.
+description: >-
+  This tutorial will guide you through the steps to install offline rewards
+  patch.
 ---
 
 # Installing Offline Rewards Patch
