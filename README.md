@@ -16,9 +16,9 @@ GetBF2142.net is a fan website made by some die-hard fans of the franchise. Many
 
 Our goal is to provide all the necessary resources and information in one place so that anyone who wants to play this 15-year-old game can access it and have fun in no time! If the day comes when this website must be taken down, so be it. However, until then, we will be here, doing our very best to help those who still want to play the game.
 
-As you can see, we created this website out of good intentions. There're no ads here, no revenues are generated from this project. In fact, we even had to spend our own money to buy the domain and to deliver a lot of time to upkeep the content. We, as well, do not support pirated games or encourage any infringement of copyrights.&#x20;
+As you can see, we created this website out of good intentions. There're no ads here, no revenues are generated from this project. In fact, we even had to spend our own money to buy the domain and to deliver a lot of time to upkeep the content. We, as well, do not mean to support pirated games or encourage any infringement of copyrights.&#x20;
 
-As die-hard fans of the franchise, we always want to pay our full respects to EA and DICE for creating such a great game. However, the game has been abandoned for many years with no better ways to play online or purchase online, so we really have no choice but to resort to our very own ways to obtain and play the game. We apologize if this upsets you or makes you feel uncomfortable.
+As die-hard fans of the franchise, we would always want to pay our full respects to EA and DICE for creating such a great game. However, the game has been abandoned for many years, to the point that there're no other better ways to play online or purchase online. Because of that, we really have no choice but to resort to our very own ways to obtain and play the game. We do apologize if this upsets you or makes you feel uncomfortable.
 
 If it happens to you that this project is inappropriate in some sense, feel free to contact us so that we can have your concerns addressed together.
 
