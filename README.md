@@ -7,7 +7,7 @@ description: Guide you hand-by-hand to get and play BF2142 in 2022!
 If you're still finding ways to get your Battlefield 2142 coming to life again, or you simply don't know where to get a copy of the game, maybe you can really give us a try!
 
 {% hint style="success" %}
-If you really like our work, please consider upvoting this page to show your support. The upvote button is located right at the bottom of this page.
+If you appreciate our effort, please consider upvoting this page to show your support. The upvote button is located right at the bottom of this page.
 {% endhint %}
 
 ### About Us
