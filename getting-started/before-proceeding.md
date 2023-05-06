@@ -5,13 +5,13 @@ description: It's time to pick a stream to continue.
 # Before Proceeding
 
 {% hint style="success" %}
-**Nostalgic Stream**
+**lassic Setup**
 
 If you want to play the game in the most classic way, you may continue with the current flow by following the instructions in <mark style="color:blue;">4. Installing BF2142 Hub</mark> to <mark style="color:blue;">10. Hosting Servers</mark>. It is also the stream that most of our tutorials on this site focus on.
 
 
 
-**Straight-Forward Stream**
+**Quick Setup**
 
 If you want to play a simple game in no time or you don't want to go through all those clumsy steps that follow, you may skip <mark style="color:blue;">4. Installing BF2142 Hub</mark> to <mark style="color:blue;">10. Hosting Servers</mark>. Refer to the <mark style="color:blue;">Using BF2142 Unlocker</mark> section for more details on how to create or join a game using the intuitive GUI that comes with Project Remaster.
 {% endhint %}
