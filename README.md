@@ -24,10 +24,10 @@ If it happens to you that this project is inappropriate in some sense, feel free
 
 ### Features
 
-* Instructions are well-organised and written in detail.
-* Download resources are tested & mirrored.
-* Extra info and tips are included.
-* Contents are constantly reviewed & updated.
+* Instructions are well-organised and well-written with abundant details.
+* Download resources are tested and mirrored.
+* Extra information and tips are always provided.
+* Contents are constantly reviewed and updated.
 
 ### Tutorial Topics
 
@@ -46,7 +46,7 @@ Our tutorials cover some of the most frequently asked topics:
 * How to Create an OpenSpy or NovGames Account?
 * How to Play Singleplayer (Singleplayer + LAN Setup + Offline Mini-Mod)?
 * How to Play Multiplayer (Joining LAN Server, Public WAN Server, Private WAN Server)?
-* How to Host a Server using the In-Game Menu?
+* How to Host a Server Using the In-Game Menu?
 * How to Host a Dedicated Server?
 * How to Use BF2142 Unlocker?
 
