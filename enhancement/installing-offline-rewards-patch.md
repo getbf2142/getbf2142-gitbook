@@ -1,14 +1,16 @@
 ---
-description: This tutorial will guide you through how to install offline rewards patch.
+description: >-
+  This tutorial will guide you through the steps to install offline rewards
+  patch.
 ---
 
 # Installing Offline Rewards Patch
 
-What the patch does is to emulate the ranked server's rewards system (pin, ribbons, badges, medals) in your single-player or LAN's coop mode games. But keep in mind that it's just a simulation. The rewards will only last for a round and will be gone once the game ends.
+What the patch does is emulate the ranked server's rewards system (pin, ribbons, badges, medals) in your single-player or LAN's coop mode games. But keep in mind that it's just a simulation. The rewards will only last for a round and will be gone once the game ends.
 
 But it's still a very good QoL enhancement. It makes bots grinding a much more enjoyable thing.
 
-The problem is that you're not really getting any medals or badges if things work in vanilla standard. Remember the rewards will be reset after every round? But many rewards require something like "**150 Total Hours Played**" or "**300 Wins EU Team**", something that isn't possible to achieve in just a single round. So we've revamped the whole rewards system so that it's much more compatible with coop games.
+The problem is that you're not really getting any medals or badges if things work in vanilla standard. Remember the rewards will be reset after every round? But many rewards require something like <mark style="color:blue;">150 Total Hours Played</mark> or <mark style="color:blue;">300 Wins EU Team</mark>, something that isn't possible to achieve in just a single round. So we've revamped the whole rewards system so that it's much more compatible with coop games.
 
 * Removing rewards related to Titan mode.
 * Removing requirements that are impossible to achieve.
@@ -20,12 +22,12 @@ The problem is that you're not really getting any medals or badges if things wor
 ## Procedures
 
 {% hint style="info" %}
-You are strongly advised to backup the original python folder first before proceeding to install this patch.
+You are strongly advised to back up the original Python folder first before proceeding to install this patch.
 {% endhint %}
 
-1. Download "**`offline_rewards.zip`**".
-2. Unzip the file and then drag and drop the python folder into the root directory of the game folder, which is "**`/Battlefield 2142/`** "
-3. Click "**Replace All**" if files need to be overwritten.
+1. Download <mark style="color:blue;">offline\_rewards.zip</mark>.
+2. Unzip the file and then drag and drop the Python folder into the root directory of the game folder, which is <mark style="color:blue;">/Battlefield 2142/</mark>&#x20;
+3. Click <mark style="color:blue;">Replace All</mark> if files need to be overwritten.
 
 ## Downloads
 
