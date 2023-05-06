@@ -7,13 +7,13 @@ description: It's time to pick a stream to continue.
 {% hint style="success" %}
 **Classic Setup**
 
-If you want to play the game in the most classic way, you may continue with the current flow by following the instructions in <mark style="color:blue;">4. Installing BF2142 Hub</mark> to <mark style="color:blue;">10. Hosting Servers</mark>. It is also the stream that most of our tutorials on this site focus on.
+If you want to play the game in the most classic way, you may continue with the current flow by following the instructions from <mark style="color:blue;">4. Installing BF2142 Hub</mark> to <mark style="color:blue;">10. Hosting Servers</mark>. It is also the setup that most of our tutorials on this site focus on.
 
 
 
 **Quick Setup**
 
-If you want to play a simple game in no time or you don't want to go through all those clumsy steps that follow, you may skip <mark style="color:blue;">4. Installing BF2142 Hub</mark> to <mark style="color:blue;">10. Hosting Servers</mark>. Refer to the <mark style="color:blue;">Using BF2142 Unlocker</mark> section for more details on how to create or join a game using the intuitive GUI that comes with Project Remaster.
+If you want to play a simple game in no time or you don't want to go through all those clumsy steps that follow, you may skip <mark style="color:blue;">4. Installing BF2142 Hub</mark> to <mark style="color:blue;">10. Hosting Servers</mark>. Refer to the section <mark style="color:blue;">Using BF2142 Unlocker</mark> for more details on how to create or join a game using the intuitive GUI that comes with Project Remaster.
 {% endhint %}
 
 At GetBF2142.net, we have a soft spot for nostalgia, and we believe in teaching newcomers how to install the game in a classic way. While this method may take a few more steps compared to the straightforward setup, it results in a fully functional game that can be launched using the old GUI. You can then spend your happy moments exploring the game and creating or joining games through it.
