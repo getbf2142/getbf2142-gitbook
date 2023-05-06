@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Homepage](README.md)
-* [Forum](http://getbf2142.weebly.com)
 
 ## Getting Started
 
