@@ -24,12 +24,12 @@ To lengthen your game duration, simply configure the ticket ratio (available whe
 ## Procedures
 
 {% hint style="info" %}
-You are strongly advised to back up the original Python folder first before proceeding to install this patch.
+You are strongly advised to back up the original Python folder (i.e., <mark style="color:blue;">/Battlefield 2142/python/</mark>) first before proceeding to install this patch.
 {% endhint %}
 
 1. Download <mark style="color:blue;">offline\_rewards.zip</mark>.
 2. Unzip the file and then drag and drop the Python folder into the root directory of the game folder (i.e., <mark style="color:blue;">/Battlefield 2142/</mark>)
-3. Click <mark style="color:blue;">Replace All</mark> if you're asked to. You're safe to do so.
+3. Click <mark style="color:blue;">Replace All</mark> if you're asked to do so.
 
 ## Downloads
 
