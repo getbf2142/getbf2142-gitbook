@@ -16,7 +16,7 @@ The problem is that you're not really getting any medals or badges if things wor
 * Removing requirements that are impossible to achieve.
 * Simplified the requirements of many rewards.
 * Follows the hierarchy of `Pins < Ribbons < Badges < Medals`.
-* Most of the rewards can be obtained in a 15 mins game, preferably > 25 mins
+* Most of the rewards can be obtained in a 15 mins game, preferably a 30 mins one.
 * A few rewards may not work properly due to PR's new weapons name.
 
 To lengthen your game duration, simply configure the ticket ratio (available when you create a LAN game). Note that ticket ratio is in the form of multiples. 300 means x3, 350 means x3.5. So the recommended value is somewhere from 200 to 400, and that will allow you to scale up the ticket to around 500 to 1000.
