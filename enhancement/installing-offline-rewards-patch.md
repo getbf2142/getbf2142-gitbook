@@ -26,8 +26,8 @@ You are strongly advised to back up the original Python folder first before proc
 {% endhint %}
 
 1. Download <mark style="color:blue;">offline\_rewards.zip</mark>.
-2. Unzip the file and then drag and drop the Python folder into the root directory of the game folder, which is <mark style="color:blue;">/Battlefield 2142/</mark>&#x20;
-3. Click <mark style="color:blue;">Replace All</mark> if files need to be overwritten.
+2. Unzip the file and then drag and drop the Python folder into the root directory of the game folder (i.e., <mark style="color:blue;">/Battlefield 2142/</mark>)
+3. Click <mark style="color:blue;">Replace All</mark> if you're asked to. You're safe to do so.
 
 ## Downloads
 
