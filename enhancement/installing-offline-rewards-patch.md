@@ -8,9 +8,9 @@ description: >-
 
 What the patch does is emulate the ranked server's rewards system (pin, ribbons, badges, medals) in your single-player or LAN's coop mode games. But keep in mind that it's just a simulation. The rewards will only last for a round and will be gone once the game ends.
 
-But it's still a very good QoL enhancement. It makes bots grinding a much more enjoyable thing.
+But it's still a very good QoL enhancement as it makes bots grinding a much more enjoyable thing. Just imagine getting most of the medals in one game and feel that you're a good honourable soldier. That's really cool, isn't it?
 
-The problem is that you're not really getting any medals or badges if things work in vanilla standard. Remember the rewards will be reset after every round? But many rewards require something like <mark style="color:blue;">150 Total Hours Played</mark> or <mark style="color:blue;">300 Wins EU Team</mark>, something that isn't possible to achieve in just a single round. So we've revamped the whole rewards system so that it's much more compatible with coop games.
+The problem is that you're not really getting any medals or badges if things work in vanilla standard. Remember the rewards will be reset after every round? But many rewards require something like <mark style="color:blue;">150 Total Hours Played</mark> or <mark style="color:blue;">300 Wins EU Team</mark>, something that just isn't possible to achieve in a single round. So we've revamped the whole rewards system as well as the requirements so that it's much more compatible with coop games.
 
 * Removing rewards related to Titan mode.
 * Removing requirements that are impossible to achieve.
