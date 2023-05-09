@@ -10,14 +10,16 @@ What the patch does is emulate the ranked server's rewards system (pin, ribbons,
 
 But it's still a very good QoL enhancement as it makes bots grinding a much more enjoyable thing. Just imagine getting most of the medals in one game and feel that you're a good honourable soldier. That's really cool, isn't it?
 
-The problem is that you're not really getting any medals or badges if things work in vanilla standard. Remember the rewards will be reset after every round? But many rewards require something like <mark style="color:blue;">150 Total Hours Played</mark> or <mark style="color:blue;">300 Wins EU Team</mark>, something that just isn't possible to achieve in a single round. So we've revamped the whole rewards system as well as the requirements so that it's much more compatible with coop games.
+The problem is that you're not really getting any medals or badges if things work in vanilla standard. Remember the rewards will be reset after every round? But many rewards require something like <mark style="color:blue;">150 Total Hours Played</mark> or <mark style="color:blue;">300 Wins EU Team</mark>, something that just isn't possible to achieve in a single round. So we've revamped the whole rewards system as well as the requirements so that it's much more compatible with a 15-min coop games.
 
 * Removing rewards related to Titan mode.
 * Removing requirements that are impossible to achieve.
 * Simplified the requirements of many rewards.
 * Follows the hierarchy of `Pins < Ribbons < Badges < Medals`.
-* Most of the rewards can be obtained in a 15mins game, preferably > 25mins.
+* Most of the rewards can be obtained in a 15 mins game, preferably > 25 mins
 * A few rewards may not work properly due to PR's new weapons name.
+
+To lengthen your game duration, simply configure the ticket ratio (available when you create a LAN game). Note that ticket ratio is in the form of multiples. 300 means x3, 350 means x3.5. So the recommended value is somewhere from 200 to 400, and that will allow you to scale up the ticket to around 500 to 1000.
 
 ## Procedures
 
