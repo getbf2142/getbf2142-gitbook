@@ -13,7 +13,7 @@ The wiki can be accessed by clicking the manual button located at the very botto
 To install BF2142 Unlocker, simply click the corresponding button under the <mark style="color:blue;">Play</mark> tab.
 
 {% hint style="info" %}
-The details as to how to use BF2142 Unlocker will not be discussed here in this tutorial. Read the Project Remaster Manual for more instructions.
+The details as to how to use BF2142 Unlocker will not be discussed here in this tutorial. You may refer to the Project Remaster Manual for more instructions.
 {% endhint %}
 
 ![](../.gitbook/assets/efwewewefw.PNG)
