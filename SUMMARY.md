@@ -34,8 +34,8 @@
 
 * [Setting Up Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
-***
+## Others
 
 * [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
 * [Contact Us](https://getbf2142.weebly.com/contact.html)
-* [Disclaimer](disclaimer.md)
+* [Disclaimer](others/disclaimer.md)
