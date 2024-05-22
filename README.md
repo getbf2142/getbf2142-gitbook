@@ -7,7 +7,7 @@ description: Guide you hand-by-hand to get and play BF2142 in 2024 online for fr
 If you're still yearning to experience the thrill of Battlefield 2142 once more, or if you're lost on where to find a copy of this classic game, look no further! Give us a chance, and we'll make sure you're back in action.
 
 {% hint style="success" %}
-If you find our efforts valuable, we'd greatly appreciate your support by considering an upvote for this page. The upvote button is located at the bottom of this page.
+If you find our efforts valuable, we'd greatly appreciate your support by considering an upvote for this page. The upvote button is on the right sidebar of this page.
 {% endhint %}
 
 ### About Us
