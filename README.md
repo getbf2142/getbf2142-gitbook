@@ -56,4 +56,4 @@ We are an independent website, not affiliated with or endorsed by DICE or Electr
 
 This website is for educational and entertainment purposes only.
 
-Thanks, [Enoy](https://gamefaqs.gamespot.com/boards/937913-battlefield-2142-northern-strike/80527949), for the rephrasing of content on this page.
+Thanks, [Enoy](https://gamefaqs.gamespot.com/boards/937913-battlefield-2142-northern-strike/80527949), for enriching the content on this page.
