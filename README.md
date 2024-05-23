@@ -1,5 +1,5 @@
 ---
-description: Guide you hand-by-hand to get and play BF2142 online for free!
+description: Guide you hand-by-hand to get and play BF2142 in 2024!
 ---
 
 # Homepage
@@ -16,7 +16,7 @@ GetBF2142.net is a passion project created by die-hard fans of the franchise. We
 
 Our goal is simple: to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast! We're here to support you as long as possible (before being taken down), ensuring the game stays alive for those who want to play.
 
-No ads, no revenue—our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content. We don't condone piracy or copyright infringement; we respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game accessible again.
+No ads, no revenue — our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content. We don't condone piracy or copyright infringement; we respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game accessible again.
 
 If you have any reservations about our project, please reach out to us. We're open to addressing your concerns together.
 
@@ -38,7 +38,7 @@ We cover all the essential topics you need to know:
 * How to Download and Install v1.50 Patch?
 * How to Download and Install v1.51 Patch?
 * How to Download and Install Project Remaster Mod?
-* What are Master Servers?&#x20;
+* What are Master Servers?
 * How to Install OpenSpy Components via BF2142 Hub?
 * How to Configure Remaster Launcher?
 * How to Create an OpenSpy Account?
@@ -52,8 +52,8 @@ No time to waste! You can have a fully functional BF2142 up and running in less 
 
 ### Disclaimer
 
-We are an independent website, not affiliated with or endorsed by DICE or Electronic Arts, Inc. All trademarks and copyrights belong to their respective owners.&#x20;
+This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), nor Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
 
-This website is for educational and entertainment purposes only.
+### Contributor
 
-Thanks, [Enoy](https://gamefaqs.gamespot.com/boards/937913-battlefield-2142-northern-strike/80527949), for enriching the content on this page.
+Thanks, [Enoy](https://gamefaqs.gamespot.com/boards/937913-battlefield-2142-northern-strike/80527949), for helping to enrich the content on this page.

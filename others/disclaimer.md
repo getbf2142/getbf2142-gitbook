@@ -1,8 +1,7 @@
 ---
-description: For Education and Entertainment Purposes Only.
+description: Our intentions are pure...
 ---
 
 # Disclaimer
 
-**​This website is neither affiliated with nor endorsed by DICE or Electronic Arts, Inc.**\
-**​All trademarks and copyrights are the property of their respective owners.**
+**​This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), or Electronic Arts (EA). All trademarks and copyrights are the property of their respective owners.**
