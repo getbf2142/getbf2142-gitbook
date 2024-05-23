@@ -22,9 +22,13 @@ We do not condone piracy or copyright infringement — we respect EA and DICE fo
 
 If you still have any reservations about our project, feel free reach out to us. We are always open to addressing your concerns together.
 
+### BF2142 in 2024
+
+Battlefield 2142 is still the perfect game when you want to have some fun **alone** or with some accompanies. Not only is coop bot grinding very fun and relaxing to play alone, it is also the top game for hosting a quick LAN party with your family and friends. Not to mention, the multiplayer titan mode is still an unsurpassable invention even up to this day.
+
 ### Features
 
-GetBF2142.net is a treasure trove of Battlefield 2142 modding knowledge:
+GetBF2142.net is a treasure trove of modern Battlefield 2142 modding knowledge:
 
 * Instructions are well-organised with abundant details.
 * Download resources are tested and mirrored.
