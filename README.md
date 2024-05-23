@@ -24,9 +24,9 @@ If you still have any reservations about our project, feel free reach out to us.
 
 ### Features
 
-Our website is a treasure trove of Battlefield 2142 knowledge:
+GetBF2142.net is a treasure trove of Battlefield 2142 modding knowledge:
 
-* Instructions are well-organised and well-written with abundant details.
+* Instructions are well-organised with abundant details.
 * Download resources are tested and mirrored.
 * Extra information and tips are always at your disposal.
 * Contents are constantly reviewed and updated.
