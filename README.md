@@ -4,7 +4,7 @@ description: Guide you hand-by-hand to get and play BF2142 online for free!
 
 # Homepage
 
-If you're still yearning to experience the thrill of Battlefield 2142 once more, or if you're lost on where to find a copy of this classic game, look no further! Give us a chance, and we'll make sure you're back in action.
+If you're still yearning to experience the thrill of Battlefield 2142 once more, or if you're lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We'll make sure you're back in action in no time!
 
 {% hint style="success" %}
 We'd greatly appreciate your support by considering an upvote for this page. The upvote button is on the right sidebar of this page.
@@ -16,7 +16,7 @@ GetBF2142.net is a passion project created by die-hard fans of the franchise. We
 
 Our goal is simple: to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast! We're here to support you as long as possible (before being taken down), ensuring the game stays alive for those who want to play.
 
-No ads, no revenue—our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content. We don't condone piracy or copyright infringement; we respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make it accessible once again. Join us in reliving the glory days of Battlefield 2142!
+No ads, no revenue—our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content. We don't condone piracy or copyright infringement; we respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game accessible again.
 
 If you have any reservations about our project, please reach out to us. We're open to addressing your concerns together.
 
@@ -33,8 +33,8 @@ Our website is a treasure trove of Battlefield 2142 knowledge:
 
 We cover all the essential topics you need to know:
 
-* How to Download Battlefield 2142 for Free?
-* How to Install Battlefield 2142 Base Game v1.01?
+* Where to Download Battlefield 2142 for Free?
+* How to Install Battlefield 2142 Base Game?
 * How to Download and Install v1.50 Patch?
 * How to Download and Install v1.51 Patch?
 * How to Download and Install Project Remaster Mod?
