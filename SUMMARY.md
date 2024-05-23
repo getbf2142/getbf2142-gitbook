@@ -2,20 +2,20 @@
 
 * [Homepage](README.md)
 
-## Getting Started
+## Get Started
 
-* [① Install the base game](getting-started/1.-installing-base-game.md)
-* [② Patch the game to v1.51](getting-started/2.-installing-v1.51-patch.md)
-* [③ Install the ​Project Remaster mod](getting-started/3.-installing-project-remaster.md)
-* [Before proceeding](getting-started/before-proceeding.md)
-* [④ Install ​BF2142 Hub](getting-started/4.-installing-bf2142-hub.md)
-* [⑤ Apply OpenSpy Patches](getting-started/5.-installing-openspy-patches.md)
-* [⑥ Configure Remaster Launcher](getting-started/6.-configuring-remaster-launcher.md)
-* [⑦ Create an account](getting-started/7.-creating-accounts.md)
-* [⑧ Play Singleplayer](getting-started/8.-playing-singleplayer.md)
-* [⑨ Play Multiplayer](getting-started/9.-playing-multiplayer.md)
-* [⑩ Host servers](getting-started/10.-hosting-servers.md)
-* [Further readings](getting-started/further-readings.md)
+* [① Install the base game](get-started/1.-installing-base-game.md)
+* [② Patch the game to v1.51](get-started/2.-installing-v1.51-patch.md)
+* [③ Install ​the Project Remaster mod](get-started/3.-installing-project-remaster.md)
+* [Before proceeding](get-started/before-proceeding.md)
+* [④ Install the ​BF2142 Hub](get-started/4.-installing-bf2142-hub.md)
+* [⑤ Apply the OpenSpy patches](get-started/5.-installing-openspy-patches.md)
+* [⑥ Configure the Remaster Launcher](get-started/6.-configuring-remaster-launcher.md)
+* [⑦ Create an account](get-started/7.-creating-accounts.md)
+* [⑧ Play a singleplayer game](get-started/8.-playing-singleplayer.md)
+* [⑨ Play a multiplayer game](get-started/9.-playing-multiplayer.md)
+* [⑩ Host a server](get-started/10.-hosting-servers.md)
+* [Further readings](get-started/further-readings.md)
 
 ## Enhancement
 
