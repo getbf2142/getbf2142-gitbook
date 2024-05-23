@@ -1,5 +1,5 @@
 ---
-description: Guide you hand-by-hand to get and play BF2142 in 2024 online for free!
+description: Guide you hand-by-hand to get and play BF2142 online for free!
 ---
 
 # Homepage
