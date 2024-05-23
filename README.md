@@ -4,21 +4,23 @@ description: Guide you hand-by-hand to get and play BF2142 in 2024!
 
 # Homepage
 
-If you're still yearning to experience the thrill of Battlefield 2142 once more, or if you're lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We'll make sure you're back in action in no time!
+If you are still yearning to experience the thrill of Battlefield 2142 once more, or if you are lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We will make sure to get you back in action in no time!
 
 {% hint style="success" %}
-We'd greatly appreciate your support by considering an upvote for this page. The upvote button is on the right sidebar of this page.
+We would greatly appreciate your support by considering an upvote[^1] for this page.
 {% endhint %}
 
 ### About Us
 
-GetBF2142.net is a passion project created by die-hard fans of the franchise. We still cherish this game today, but finding a way to play with friends without any issues has become quite a challenge. We understand your struggles, and that's why we've put together this website.
+GetBF2142.net is a passion project created by die-hard fans of the franchise. Ever since [GameSpy's termination](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014, finding a way to play with friends without running into issues has become quite a challenge. For those who still cherish this game today, we understand your struggles, and that's why we have put together this website.
 
-Our goal is simple: to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast! We're here to support you as long as possible (before being taken down), ensuring the game stays alive for those who want to play.
+Our goal is simple: to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast in no time!&#x20;
 
-No ads, no revenue — our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content. We don't condone piracy or copyright infringement; we respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game accessible again.
+No ads, no revenue — our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content. We just want to make things easier for everyone so that more people can come back to enjoy this masterpiece.
 
-If you have any reservations about our project, please reach out to us. We're open to addressing your concerns together.
+We don't condone piracy or copyright infringement — We respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game stays alive for those who still want to play this old title.
+
+If you have any reservations about our project, please reach out to us. We are open to addressing your concerns together.
 
 ### Features
 
@@ -54,6 +56,8 @@ No time to waste! You can have a fully functional BF2142 up and running in less 
 
 This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), nor Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
 
-### Contributor
+### Contributors
 
 Thanks, [Enoy](https://gamefaqs.gamespot.com/boards/937913-battlefield-2142-northern-strike/80527949), for helping to enrich the content on this page.
+
+[^1]: You can find the upvote button on the right sidebar of this page.
