@@ -1,5 +1,5 @@
 ---
-description: It's time to pick a stream to continue.
+description: It is time to make a decision.
 ---
 
 # Before proceeding
