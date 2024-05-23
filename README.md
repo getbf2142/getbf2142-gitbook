@@ -16,11 +16,11 @@ GetBF2142.net is a passion project created by die-hard fans of the franchise. Ev
 
 Our goal is simple: to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast in no time!&#x20;
 
-No ads, no revenue — our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content. We just want to make things easier for everyone so that more people can come back to enjoy this masterpiece.
+No ads, no revenue — our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content up-to-date. What we are trying to do is just to make things easier for everyone so that more people can come back to enjoy this masterpiece.
 
-We don't condone piracy or copyright infringement — We respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game stays alive for those who still want to play this old title.
+We do not condone piracy or copyright infringement — we respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game stays alive for those who still want to play this old title.
 
-If you have any reservations about our project, please reach out to us. We are open to addressing your concerns together.
+If you still have any reservations about our project, feel free reach out to us. We are always open to addressing your concerns together.
 
 ### Features
 
