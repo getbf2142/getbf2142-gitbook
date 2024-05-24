@@ -1,5 +1,5 @@
 ---
-description: Guide you hand-by-hand to get and play BF2142 in 2024!
+description: Guide you hand-by-hand to get and play Battlefield 2142 in 2024!
 ---
 
 # Homepage
@@ -26,6 +26,8 @@ If you still have any reservations about our project, feel free reach out to us.
 
 Battlefield 2142 is still the perfect game when you want to have some fun **alone** or with some accompanies. Not only is coop bot grinding very fun and relaxing to play alone, it is also the top game for hosting a quick LAN party with your family and friends. Not to mention, the multiplayer titan mode is still an unsurpassable invention even up to this day.
 
+No time to waste! You can have a fully functional BF2142 up and running in less than an hour!
+
 ### Features
 
 GetBF2142.net is a treasure trove of modern Battlefield 2142 modding knowledge:
@@ -35,26 +37,7 @@ GetBF2142.net is a treasure trove of modern Battlefield 2142 modding knowledge:
 * Extra information and tips are always at your disposal.
 * Contents are constantly reviewed and updated.
 
-### Tutorial Topics
-
-We cover all the essential topics you need to know:
-
-* Where to Download Battlefield 2142 for Free?
-* How to Install Battlefield 2142 Base Game?
-* How to Download and Install v1.50 Patch?
-* How to Download and Install v1.51 Patch?
-* How to Download and Install Project Remaster Mod?
-* What are Master Servers?
-* How to Install OpenSpy Components via BF2142 Hub?
-* How to Configure Remaster Launcher?
-* How to Create an OpenSpy Account?
-* How to Play Singleplayer (Singleplayer + LAN Setup + Offline Mini-Mod)?
-* How to Play Multiplayer (Joining LAN Server, Public WAN Server, Private WAN Server)?
-* How to Host a Server Using the In-Game Menu?
-* How to Host a Dedicated Server?
-* How to Use BF2142 Unlocker?
-
-No time to waste! You can have a fully functional BF2142 up and running in less than an hour!
+We cover all the essential topics you need to know about the game.
 
 ### Disclaimer
 

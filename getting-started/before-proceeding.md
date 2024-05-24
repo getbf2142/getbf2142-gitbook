@@ -1,10 +1,8 @@
 ---
-description: >-
-  It's time to make a decision. What kind of gaming experience do you wish to
-  have?
+description: What kind of experience do you wish to have?
 ---
 
-# Before Proceeding ...
+# Before Proceeding
 
 {% hint style="success" %}
 **Classic Setup**
