@@ -1,12 +1,12 @@
 ---
 description: >-
-  This tutorial will guide you through the steps to install offline rewards
-  patch.
+  This tutorial will guide you through all the necessary steps to apply the
+  offline rewards patch.
 ---
 
-# Installing Offline Rewards Patch
+# Applying the offline rewards patch
 
-What the patch does is emulate the ranked server's rewards system (pin, ribbons, badges, medals) in your single-player or LAN's coop mode games. But keep in mind that it's just a simulation. The rewards will only last for a round and will be gone once the game ends.
+What this patch does is emulate the ranked server's rewards system (pin, ribbons, badges, medals) in your single-player or LAN's coop mode games. But keep in mind that it's just a simulation. The rewards will only last for a round and will be gone once the game ends.
 
 But it's still a very good QoL enhancement as it makes bots grinding a much more enjoyable thing to do. Just imagine getting a bunch of medals in one game and get excited. That's really cool, isn't it?
 
@@ -24,11 +24,11 @@ To lengthen your game duration, simply configure the ticket ratio (available whe
 ## Procedures
 
 {% hint style="info" %}
-You are strongly advised to back up the original Python folder (i.e., <mark style="color:blue;">/Battlefield 2142/python/</mark>) first before proceeding to install this patch.
+You are strongly advised to back up the game's [Python folder](#user-content-fn-1)[^1] before proceeding to install this patch.
 {% endhint %}
 
 1. Download <mark style="color:blue;">offline\_rewards.zip</mark>.
-2. Unzip the file and then drag and drop the Python folder into the root directory of the game folder (i.e., <mark style="color:blue;">/Battlefield 2142/</mark>)
+2. Unzip the file and then drag and drop the Python folder into the root directory of the [game folder](#user-content-fn-2)[^2].
 3. Click <mark style="color:blue;">Replace All</mark> if you're asked to do so.
 
 ## Downloads
@@ -43,8 +43,12 @@ SouSource: GetBF2142.net \[[Contact us](https://getbf2142.weebly.com/contact.htm
 {% endtab %}
 {% endtabs %}
 
-## Content
+## Patch Content
 
 ![Offline Rewards System](../.gitbook/assets/unknown23.png)
 
 ![Offline Rewards System](../.gitbook/assets/unknown345t5r.png)
+
+[^1]: i.e., <mark style="color:blue;">/Battlefield 2142/python/</mark>
+
+[^2]: i.e., <mark style="color:blue;">/Battlefield 2142/</mark>

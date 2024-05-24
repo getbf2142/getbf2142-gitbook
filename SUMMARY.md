@@ -7,7 +7,7 @@
 * [① Installing the base game](getting-started/1.-installing-base-game.md)
 * [② Patching the game to v1.51](getting-started/2.-installing-v1.51-patch.md)
 * [③ Installing ​the Project Remaster mod](getting-started/3.-installing-project-remaster.md)
-* [Before proceeding](getting-started/before-proceeding.md)
+* [Before proceeding ...](getting-started/before-proceeding.md)
 * [④ Installing the ​BF2142 Hub](getting-started/4.-installing-bf2142-hub.md)
 * [⑤ Applying the OpenSpy patches](getting-started/5.-installing-openspy-patches.md)
 * [⑥ Configuring the Remaster Launcher](getting-started/6.-configuring-remaster-launcher.md)
@@ -15,16 +15,12 @@
 * [⑧ Playing a singleplayer game](getting-started/8.-playing-singleplayer.md)
 * [⑨ Playing a multiplayer game](getting-started/9.-playing-multiplayer.md)
 * [⑩ Hosting a server](getting-started/10.-hosting-servers.md)
-* [Further readings](getting-started/further-readings.md)
-* [Troubleshooting](getting-started/troubleshooting.md)
+* [Further readings & troubleshooting](getting-started/further-readings.md)
+* [BF2142Unlocker](getting-started/using-bf2142-unlocker.md)
 
 ## Enhancement
 
-* [Installing Offline Rewards Patch](enhancement/installing-offline-rewards-patch.md)
-
-## BF2142 Unlocker
-
-* [Using BF2142 Unlocker](bf2142-unlocker/using-bf2142-unlocker.md)
+* [Applying the offline rewards patch](enhancement/installing-offline-rewards-patch.md)
 
 ## Dedicated Server
 
@@ -37,6 +33,7 @@
 
 ## Others
 
+* [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
 * [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
 * [Contact Us](https://getbf2142.weebly.com/contact.html)
 * [Disclaimer](others/disclaimer.md)
