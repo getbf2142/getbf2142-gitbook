@@ -15,7 +15,7 @@
 * [⑧ Playing a singleplayer game](getting-started/8.-playing-singleplayer.md)
 * [⑨ Playing a multiplayer game](getting-started/9.-playing-multiplayer.md)
 * [⑩ Hosting a server](getting-started/10.-hosting-servers.md)
-* [Further readings & troubleshooting](getting-started/further-readings.md)
+* [Further readings ...](getting-started/further-readings.md)
 * [BF2142Unlocker](getting-started/using-bf2142-unlocker.md)
 
 ## Enhancement
@@ -24,17 +24,21 @@
 
 ## Dedicated Server
 
-* [1. Installing Server Client](dedicated-server/1.-installing-server-client.md)
-* [2. Hosting Dedicated Server](dedicated-server/2.-hosting-dedicated-server.md)
+* [① Installing the server client](dedicated-server/1.-installing-server-client.md)
+* [② Hosting a dedicated server](dedicated-server/2.-hosting-dedicated-server.md)
 
-## Expert level
+## Advanced
 
-* [Setting Up Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
+* [Setting up a master server and ranked server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
+
+## Projects
+
+* [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
+* [BF2142 Remaster](https://www.moddb.com/mods/project-remaster)
+* [BF2142 Reclamation](https://battlefield2142.co/)
 
 ## Others
 
-* [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
-* [BF2142 Reclamation](https://battlefield2142.co/)
 * [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
 * [Contact Us](https://getbf2142.weebly.com/contact.html)
 * [Disclaimer](others/disclaimer.md)
