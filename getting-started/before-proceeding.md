@@ -1,5 +1,7 @@
 ---
-description: It is time to make a decision.
+description: >-
+  It is time to make a decision. What kind of gaming experience do you actually
+  want?
 ---
 
 # Before proceeding
