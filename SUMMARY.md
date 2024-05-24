@@ -16,7 +16,7 @@
 * [⑨ Playing a multiplayer game](getting-started/9.-playing-multiplayer.md)
 * [⑩ Hosting a server](getting-started/10.-hosting-servers.md)
 * [Further readings](getting-started/further-readings.md)
-* [Troubleshooting & FAQ](getting-started/troubleshooting-and-faq.md)
+* [Troubleshooting](getting-started/troubleshooting.md)
 
 ## Enhancement
 
