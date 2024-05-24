@@ -38,10 +38,6 @@
 ## Others
 
 * [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
-* [Contact Us](https://getbf2142.weebly.com/contact.html)
+* [Contact Us](others/contact-us.md)
 * [Support](http://google.com)
 * [Disclaimer](others/disclaimer.md)
-
-***
-
-* [Page 1](page-1.md)
