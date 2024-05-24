@@ -34,6 +34,7 @@
 ## Others
 
 * [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
+* [BF2142 Reclamation](https://battlefield2142.co/)
 * [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
 * [Contact Us](https://getbf2142.weebly.com/contact.html)
 * [Disclaimer](others/disclaimer.md)

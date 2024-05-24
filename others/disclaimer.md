@@ -1,5 +1,5 @@
 ---
-description: Our intentions are pure...
+description: No ads, no revenue — our intentions are pure.
 ---
 
 # Disclaimer
