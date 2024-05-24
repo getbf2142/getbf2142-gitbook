@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Homepage](README.md)
-* [Support](http://google.com)
+* [Discord Group](http://google.com)
 
 ## Getting Started
 
@@ -27,7 +27,7 @@
 
 * [① Installing the server client](dedicated-server/1.-installing-server-client.md)
 * [② Hosting a dedicated server](dedicated-server/2.-hosting-dedicated-server.md)
-* [Setting up a master server & ranked server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
+* [Hosting a master server + ranked server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
 ## Projects
 
@@ -39,4 +39,5 @@
 
 * [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
 * [Contact Us](https://getbf2142.weebly.com/contact.html)
+* [Support](http://google.com)
 * [Disclaimer](others/disclaimer.md)
