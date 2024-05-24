@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Homepage](README.md)
+* [Support](http://google.com)
 
 ## Getting Started
 
@@ -16,20 +17,17 @@
 * [⑨ Playing a multiplayer game](getting-started/9.-playing-multiplayer.md)
 * [⑩ Hosting a server](getting-started/10.-hosting-servers.md)
 * [Further readings ...](getting-started/further-readings.md)
-* [BF2142Unlocker](getting-started/using-bf2142-unlocker.md)
 
 ## Enhancement
 
-* [Applying the offline rewards patch](enhancement/installing-offline-rewards-patch.md)
+* [BF2142Unlocker](enhancement/using-bf2142-unlocker.md)
+* [Offline Rewards Patch](enhancement/installing-offline-rewards-patch.md)
 
 ## Dedicated Server
 
 * [① Installing the server client](dedicated-server/1.-installing-server-client.md)
 * [② Hosting a dedicated server](dedicated-server/2.-hosting-dedicated-server.md)
-
-## Advanced
-
-* [Setting up a master server and ranked server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
+* [Setting up a master server & ranked server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
 ## Projects
 
