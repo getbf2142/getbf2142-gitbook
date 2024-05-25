@@ -4,7 +4,7 @@ description: Get to know the gaming changing all-in-one launcher.
 
 # BF2142Unlocker
 
-It's very easy to use BF2142 Unlocker to play online! Read the Project Remaster's [manual](../getting-started/further-readings.md) and you will find that out.
+It's very easy to use BF2142 Unlocker to play online! Read the Project Remaster's [manual](../battlefield-2142/further-readings.md) and you will find that out.
 
 The manual can be accessed by clicking the <mark style="color:blue;">Manual</mark> button in the <mark style="color:blue;">Remaster Launcher</mark>. To install the unlocker, simply click the <mark style="color:blue;">BF2142Unlocker</mark> button in the <mark style="color:blue;">Play</mark> page.
 
