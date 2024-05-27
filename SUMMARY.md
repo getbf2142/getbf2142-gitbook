@@ -2,6 +2,7 @@
 
 * [Homepage](README.md)
 * [Discord Group](https://discord.gg/VnxTDPBebZ)
+* [Download Battlefield 2142](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
 
 ## Getting Started
 
