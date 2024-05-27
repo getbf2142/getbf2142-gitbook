@@ -1,8 +1,8 @@
 # Table of contents
 
 * [Homepage](README.md)
-* [Discord Group](https://discord.gg/VnxTDPBebZ)
-* [Download Battlefield 2](https://discord.gg/VnxTDPBebZ)
+* [Discord Group](https://discord.gg/DaMVNknVnV)
+* [Download Battlefield 2](https://discord.gg/DaMVNknVnV)
 * [Download Battlefield 2142](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
 
 ## Getting Started
@@ -41,5 +41,5 @@
 
 * [Contact Us](others/contact-us.md)
 * [Disclaimer](others/disclaimer.md)
-* [Support](https://discord.gg/VnxTDPBebZ)
+* [Support](https://discord.gg/DaMVNknVnV)
 * [Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
