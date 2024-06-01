@@ -36,9 +36,10 @@
 
 ## Community Projects
 
-* [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
-* [BF2142 Remaster](https://www.moddb.com/mods/project-remaster)
-* [BF2142 Reclamation](https://battlefield2142.co/)
+* [❇ BF2142 Remaster](https://www.moddb.com/mods/project-remaster)
+* [❇ BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
+* [❇ BF2142 First Strike](https://www.moddb.com/mods/first-strike)
+* [❇ BF2142 Reclamation](https://battlefield2142.co/)
 
 ## Others
 
