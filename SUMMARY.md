@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Homepage](README.md)
+
+## Quick Links
+
 * [Discord Group](https://discord.gg/DaMVNknVnV)
 * [Download Battlefield 2](https://discord.gg/DaMVNknVnV)
 * [Download Battlefield 2142](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
@@ -31,7 +34,7 @@
 * [② Host a dedicated server](dedicated-server/2.-hosting-dedicated-server.md)
 * [Host a master server + ranked server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
-## Projects
+## Community Projects
 
 * [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
 * [BF2142 Remaster](https://www.moddb.com/mods/project-remaster)
