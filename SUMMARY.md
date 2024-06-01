@@ -5,6 +5,7 @@
 ## Quick Links
 
 * [❇ Discord Group](https://discord.gg/DaMVNknVnV)
+* [❇ Github Repository](https://github.com/getbf2142/getbf2142-gitbook)
 * [❇ Download Battlefield 2](https://discord.gg/DaMVNknVnV)
 * [❇ Download Battlefield 2142](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
 
@@ -45,5 +46,5 @@
 
 * [Contact Us](others/contact-us.md)
 * [Disclaimer](others/disclaimer.md)
-* [Support](https://discord.gg/DaMVNknVnV)
-* [Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
+* [❇ Support](https://discord.gg/DaMVNknVnV)
+* [❇ Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)

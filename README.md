@@ -7,7 +7,7 @@ description: Guide you hand-by-hand to get and play Battlefield 2142 in 2024!
 If you are still yearning to experience the thrill of Battlefield 2142 once more, or if you are lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We will make sure to get you back in action in no time!
 
 {% hint style="success" %}
-We would greatly appreciate your support by considering an upvote[^1] for this page.
+Join our [Discord server](https://discord.gg/DaMVNknVnV) to receive support.
 {% endhint %}
 
 ### About Us
@@ -46,5 +46,3 @@ This website is neither affiliated with nor endorsed by GameSpy, Digital Illusio
 ### Contributors
 
 Thanks, [Enoy](https://gamefaqs.gamespot.com/boards/937913-battlefield-2142-northern-strike/80527949), for helping to enrich the content on this page.
-
-[^1]: You can find the upvote button on the right sidebar of this page.
