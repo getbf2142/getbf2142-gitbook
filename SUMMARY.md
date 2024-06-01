@@ -20,10 +20,10 @@
 * [⑩ Host a server](getting-started/10.-hosting-servers.md)
 * [Further readings ...](getting-started/further-readings.md)
 
-## Enhancement
+## Enhancements
 
-* [BF2142Unlocker](enhancement/using-bf2142-unlocker.md)
-* [Offline Rewards Patch](enhancement/installing-offline-rewards-patch.md)
+* [BF2142Unlocker](enhancements/using-bf2142-unlocker.md)
+* [Offline Rewards Patch](enhancements/installing-offline-rewards-patch.md)
 
 ## Dedicated Server
 
