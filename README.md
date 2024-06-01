@@ -7,7 +7,7 @@ description: Guide you hand-by-hand to get and play Battlefield 2142 in 2024!
 If you are still yearning to experience the thrill of Battlefield 2142 once more, or if you are lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We will make sure to get you back in action in no time!
 
 {% hint style="success" %}
-Join our [Discord server](https://discord.gg/DaMVNknVnV) to receive support.
+We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](others/contact-us.md) to receive support.
 {% endhint %}
 
 ### About Us
