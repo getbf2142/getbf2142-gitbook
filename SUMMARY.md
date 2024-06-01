@@ -4,16 +4,16 @@
 
 ## Quick Links
 
-* [◌ Discord Group](https://discord.gg/DaMVNknVnV)
-* [Download Battlefield 2](https://discord.gg/DaMVNknVnV)
-* [Download Battlefield 2142](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
+* [❇ Discord Group](https://discord.gg/DaMVNknVnV)
+* [❇ Download Battlefield 2](https://discord.gg/DaMVNknVnV)
+* [❇ Download Battlefield 2142](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
 
 ## Getting Started
 
 * [① Install BF2142 base game](getting-started/1.-installing-base-game.md)
 * [② Update BF2142 to v1.51](getting-started/2.-installing-v1.51-patch.md)
 * [③ Install ​Remaster mod](getting-started/3.-installing-project-remaster.md)
-* [ⓘ Before proceeding ...](getting-started/before-proceeding.md)
+* [☆ Before proceeding ...](getting-started/before-proceeding.md)
 * [④ Install ​BF2142 Hub](getting-started/4.-installing-bf2142-hub.md)
 * [⑤ Apply OpenSpy patches](getting-started/5.-installing-openspy-patches.md)
 * [⑥ Configure Remaster Launcher](getting-started/6.-configuring-remaster-launcher.md)
@@ -21,18 +21,18 @@
 * [⑧ Play singleplayer](getting-started/8.-playing-singleplayer.md)
 * [⑨ Play multiplayer](getting-started/9.-playing-multiplayer.md)
 * [⑩ Host a server](getting-started/10.-hosting-servers.md)
-* [ⓘ Further readings ...](getting-started/further-readings.md)
+* [☆ Further readings ...](getting-started/further-readings.md)
 
 ## Enhancements
 
-* [BF2142Unlocker](enhancements/using-bf2142-unlocker.md)
-* [Offline Rewards Patch](enhancements/installing-offline-rewards-patch.md)
+* [BF2142Unlocker](enhancements/bf2142unlocker.md)
+* [Offline Rewards Patch](enhancements/offline-rewards-patch.md)
 
 ## Dedicated Server
 
 * [① Install the server client](dedicated-server/1.-installing-server-client.md)
 * [② Host a dedicated server](dedicated-server/2.-hosting-dedicated-server.md)
-* [ⓘ Host a master + ranked server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
+* [☆ Host a master + ranked server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
 ## Community Projects
 
