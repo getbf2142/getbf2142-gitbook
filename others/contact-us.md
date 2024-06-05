@@ -7,3 +7,5 @@ description: Get in touch with our team — we are happy to help!
 We are here to help — contact us with any questions related to the game or this site you may have.
 
 {% embed url="https://docs.google.com/forms/d/e/1FAIpQLSc6iBxekI1mgRURcDypm2HZdFG-mpNDfhib-xH9vvLV-YUX-Q/viewform?usp=sf_link" %}
+
+{% embed url="https://getbf2142.weebly.com/#/" %}
