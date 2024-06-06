@@ -24,9 +24,11 @@ If you still have any reservations about our project, feel free to reach out to 
 
 ### BF2142 in 2024
 
-Battlefield 2142 is still the perfect game when you want to have some fun alone or with some accompanies. Not only is grinding bot in singleplayer very fun and relaxing to play with, it is also the top game for hosting a quick LAN party with your family and friends. Not to mention, the multiplayer titan mode is still an unsurpassable invention even up to this day.
+Battlefield 2142 was the sequel to critically-acclaimed Battlefield 2, taking place in the distant future. During a new ice age, two superpowers fight for survival, the European Union and the Pan-Asian Coalition.
 
-No time to waste! You can have a fully functional BF2142 up and running in less than an hour!&#x20;
+Battlefield 2142 is still the perfect game today when you want to have some fun alone or with some accompanies. Not only is grinding bot a very fun and relaxing way to kill time, it is also the top game for having a quick LAN party with your family and friends. Not to mention, it runs smoothly on budget laptops, and the multiplayer titan mode is still an unsurpassable invention even up to this day.
+
+No time to waste! You can have a fully functional Battlefield 2142 up and running in less than 30 minutes!&#x20;
 
 ### Features
 
