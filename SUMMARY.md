@@ -11,11 +11,11 @@
 
 ## Getting Started
 
-* [① Download + Install BF2142](getting-started/1.-installing-base-game.md)
-* [② Download + Install v1.51 Patch](getting-started/2.-installing-v1.51-patch.md)
-* [③ Download + Install Remaster Mod](getting-started/3.-installing-project-remaster.md)
+* [① Download & Install BF2142](getting-started/1.-installing-base-game.md)
+* [② Download & Install v1.51 Patch](getting-started/2.-installing-v1.51-patch.md)
+* [③ Download & Install Remaster Mod](getting-started/3.-installing-project-remaster.md)
 * [⍟ Before Proceeding ...](getting-started/before-proceeding.md)
-* [④ Download + Install ​BF2142 Hub](getting-started/4.-installing-bf2142-hub.md)
+* [④ Download & Install ​BF2142 Hub](getting-started/4.-installing-bf2142-hub.md)
 * [⑤ Apply OpenSpy Patches](getting-started/5.-installing-openspy-patches.md)
 * [⑥ Configure Remaster Launcher](getting-started/6.-configuring-remaster-launcher.md)
 * [⑦ Create an Account](getting-started/7.-creating-accounts.md)
@@ -31,9 +31,9 @@
 
 ## Dedicated Server
 
-* [① Download + Install the Server Client](dedicated-server/1.-installing-server-client.md)
+* [① Download & Install the Server Client](dedicated-server/1.-installing-server-client.md)
 * [② Host a Dedicated Unranked Server](dedicated-server/2.-hosting-dedicated-server.md)
-* [⍟ Host a Master + Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
+* [⍟ Host a Master & Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
 ## Community Projects
 
