@@ -28,18 +28,37 @@ Battlefield 2142 was the sequel to critically-acclaimed Battlefield 2, taking pl
 
 Battlefield 2142 is still the perfect game today when you want to have some fun alone or with some accompanies. Not only is grinding bot a very fun and relaxing way to kill time, it is also the top game for having a quick LAN party with your family and friends. Not to mention, it runs smoothly on budget laptops, and the multiplayer titan mode is still an unsurpassable invention even up to this day.
 
-No time to waste! You can have a fully functional Battlefield 2142 up and running in less than 30 minutes!&#x20;
+No time to waste! You can have a fully functional Battlefield 2142 up and running **in less than 30 minutes**!&#x20;
 
 ### Features
 
 GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 
 * Instructions are well-organised with abundant details.
-* Download resources are tested and mirrored.
+* Download resources are tested and mirrored; **safe and virus-free**.
 * Extra information and tips are always at your disposal.
 * Contents are constantly reviewed and updated.
 
+### Content
+
 We cover all the essential topics you need to know about the game.
+
+* Where to download Battlefield 2142 Safe and Free?
+* How to Install the base game? What components do I need to install?
+* Where can I find the serial keys? What should I press in the installer?
+* How to update the game from v1.01 / v1.50 to v1.51?
+* Where to download the v1.50 and v1.51 patch?
+* What is Remaster mod? Why Remaster mod?
+* Where to download Remaster mod? How to install the mod?
+* What are Master Servers? What is OpenSpy? What is BF2142 Hub?
+* How to apply OpenSpy patches via BF2142 Hub?
+* How to configure Remaster Launcher?
+* How to create an OpenSpy account?
+* How to play singleplayer (Quick Singleplayer + LAN Setup + Offline Mini-Mod)?
+* How to play multiplayer (Joining LAN Server, Public WAN Server, Private WAN Server)?
+* How to host a server (LAN / WAN) in-game?
+* How to host a dedicated server? How to host a master server + ranked server?
+* What is BF2142Unlocker? Why BF2142Unlocker?
 
 ### Disclaimer
 
