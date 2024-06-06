@@ -2,12 +2,12 @@
 description: This tutorial will guide you through the steps to join a server.
 ---
 
-# ⑨ Play multiplayer
+# ⑨ Play Multiplayer
 
 {% hint style="warning" %}
 * If you are joining an unmodded server, you must unselect all the [modded options](#user-content-fn-1)[^1] in the launcher before launching the game.
 * You should join the server with a compatible[^2] mod. You cannot join an unmodded server with a mod or vice versa.
-* You need to install [custom maps](5.-installing-openspy-patches.md#installing-the-reclamation-map-pack) to play on Reclamation servers.
+* You need to install [custom maps](apply-openspy-patches.md#installing-the-reclamation-map-pack) to play on Reclamation servers.
 {% endhint %}
 
 ## Joining a LAN Server

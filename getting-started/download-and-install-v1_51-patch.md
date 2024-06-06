@@ -2,7 +2,7 @@
 description: This tutorial will guide you through the steps to update the game.
 ---
 
-# ② Update BF2142 to v1.51
+# ② Download & Install v1.51 Patch
 
 {% hint style="warning" %}
 You may skip this tutorial if you [already have the game patched](#user-content-fn-1)[^1] to `v1.51`. Whenever you are unsure about your game's version, launch the game and you will see the version string near the bottom right corner of the login box. If you cannot [launch the game without a disc](#user-content-fn-2)[^2], it means your game has not been updated to the latest version.
@@ -28,7 +28,7 @@ This is in contrast with the official updater, which can only be applied increme
 
 ## Procedures
 
-1. Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](2.-installing-v1.51-patch.md#downloads) -> Primary Sources.
+1. Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1\_51-patch.md#downloads) -> Primary Sources.
 2. Double-click to run the installer. It may [take a while](#user-content-fn-5)[^5] before something shows up.
 3. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
 4. ​Click [<mark style="color:blue;">More Info</mark>](#user-content-fn-6)[^6] and then <mark style="color:blue;">Run Anyway</mark> if the dialogue <mark style="color:blue;">Windows Protected Your PC</mark> (Windows Defender SmartScreen) pops up.
@@ -105,7 +105,7 @@ Source: ytres from [ModDB](https://www.moddb.com/) \[Last Checked: 05/24]
 
 [^1]: This is not the case for those who used the setup from Primary Sources to install the base game.
 
-[^2]: If the game asks you to insert the game disc whenever you try to launch the game, it means your game has not been patched to the latest version. To fix this,  follow the instructions [here](2.-installing-v1.51-patch.md) to fully update the game to `v1.51`.
+[^2]: If the game asks you to insert the game disc whenever you try to launch the game, it means your game has not been patched to the latest version. To fix this,  follow the instructions [here](download-and-install-v1\_51-patch.md) to fully update the game to `v1.51`.
 
 [^3]: DRM is an anti-piracy mechanism that requires players to launch their games with their game discs.
 

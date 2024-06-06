@@ -2,7 +2,7 @@
 description: This tutorial will guide you through the steps to install the mod.
 ---
 
-# ③ Install ​Remaster mod
+# ③ Download & Install Remaster Mod
 
 {% hint style="warning" %}
 We strongly recommend installing the Project Remaster mod for an enhanced gaming experience. If you are new to modding, our tutorial heavily relies on this mod, so it is advised to follow along.
@@ -24,7 +24,7 @@ GetBF2142.net is not affliated with Project Remaster.
 If you already have an older version of the mod installed, you **must** uninstall it first, including removing any leftover files in the [mod folder](#user-content-fn-1)[^1], before proceeding to install a newer version.
 {% endhint %}
 
-1. Download <mark style="color:blue;">project\_remaster\_v14\_setup\_BETA13.exe</mark> from [Downloads](3.-installing-project-remaster.md#downloads).
+1. Download <mark style="color:blue;">project\_remaster\_v14\_setup\_BETA13.exe</mark> from [Downloads](download-and-install-remaster-mod.md#downloads).
 2. Double-click to run the installer. It may [take a while](#user-content-fn-2)[^2] before something shows up.
 3. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
 4. ​Click [<mark style="color:blue;">More Info</mark>](#user-content-fn-3)[^3] and then <mark style="color:blue;">Run Anyway</mark> if the dialogue <mark style="color:blue;">Windows Protected Your PC</mark> (Windows Defender SmartScreen) pops up.

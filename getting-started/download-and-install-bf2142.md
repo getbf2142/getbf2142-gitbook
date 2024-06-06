@@ -2,12 +2,12 @@
 description: This tutorial will guide you through the steps to install the base game.
 ---
 
-# ① Install BF2142 base game
+# ① Download & Install BF2142
 
 In this tutorial, we will walk you through several online resources to download the game and the correct procedures for installation. Feel free to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) whenever you run into issues or you have something to enquire.
 
 {% hint style="warning" %}
-Don't forget to check out the [System Requirements](1.-installing-base-game.md#system-requirements) before heading to download or install the game.
+Don't forget to check out the [System Requirements](download-and-install-bf2142.md#system-requirements) before heading to download or install the game.
 {% endhint %}
 
 {% hint style="success" %}
@@ -16,15 +16,15 @@ We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV)
 
 ## Procedures
 
-1. Download <mark style="color:blue;">BF2142\_Setup.rar</mark> from [Downloads](1.-installing-base-game.md#downloads) -> Primary Sources.
+1. Download <mark style="color:blue;">BF2142\_Setup.rar</mark> from [Downloads](download-and-install-bf2142.md#downloads) -> Primary Sources.
 2. Create a new folder on your desktop.
 3. Open <mark style="color:blue;">BF2142\_Setup.rar</mark> with a [file archiver](#user-content-fn-1)[^1].
 4. Drag and drop all the items from the .rar file into the new folder.
 5. Look for [<mark style="color:blue;">setup.exe</mark>](#user-content-fn-2)[^2] in the folder. Double-click to run the installer.
 6. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app to make changes to your device?</mark> pops up.
-7. Follow the wizard instructions to complete the installation. Some of the important remarks are provided [here](1.-installing-base-game.md#wizard-remarks).
+7. Follow the wizard instructions to complete the installation. Some of the important remarks are provided [here](download-and-install-bf2142.md#wizard-remarks).
 8. When the installation completes, finish the wizard and [**DO NOT** launch the game](#user-content-fn-3)[^3].
-9. Proceed to [patch the game to v1.51](2.-installing-v1.51-patch.md). [**DO NOT** try to omit this step](#user-content-fn-4)[^4].
+9. Proceed to [patch the game to v1.51](download-and-install-v1\_51-patch.md). [**DO NOT** try to omit this step](#user-content-fn-4)[^4].
 
 ## Downloads
 
@@ -36,7 +36,7 @@ The setup provided under this section is an image of the <mark style="color:blue
 
 English, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Polish, Spanish, Swedish, Thai, Russian
 
-Since this setup only holds an early version (i.e.,`v1.01`) of the game, you [**must**](#user-content-fn-5)[^5] follow the instructions in the [next tutorial](2.-installing-v1.51-patch.md) right after finishing all the steps in this tutorial to have the game correctly patched to the latest version  (i.e.,`v1.51`).
+Since this setup only holds an early version (i.e.,`v1.01`) of the game, you [**must**](#user-content-fn-5)[^5] follow the instructions in the [next tutorial](download-and-install-v1\_51-patch.md) right after finishing all the steps in this tutorial to have the game correctly patched to the latest version  (i.e.,`v1.51`).
 
 **If you are new to the game or the modding process, we suggest always sticking to the primary sources as they are the main references we use throughout our tutorials.**
 
@@ -73,7 +73,7 @@ _Novgames Alliance Edition (2016) - Russian Community_
 
 The setup provided under this section is prepared by Novgames for its Russian-speaking community. The installer will forcibly[^6] install the Russian locale and the [latest version](#user-content-fn-7)[^7] of the game.
 
-If you choose to download the game from the following links, you may skip the part about [patching the game](2.-installing-v1.51-patch.md) to `v1.51`. You also do not have to worry about the serial keys as the installer [does not](#user-content-fn-8)[^8] require one.
+If you choose to download the game from the following links, you may skip the part about [patching the game](download-and-install-v1\_51-patch.md) to `v1.51`. You also do not have to worry about the serial keys as the installer [does not](#user-content-fn-8)[^8] require one.
 
 **If you are new to the game or the modding process, we suggest always sticking to the primary sources as they are the main references we use throughout our tutorials.**
 
@@ -185,13 +185,13 @@ Resolution: 800 x 600 16 bits colour or above
 
 [^2]: The correct installer is <mark style="color:blue;">setup.exe</mark>, not <mark style="color:blue;">Autorun.exe</mark>. If you use the wrong installer, you won't be able to install the game since it will keep asking you to insert the game disc to proceed.
 
-[^3]: Since the game isn't patched to the latest version, if you try to launch the game, it will ask you to insert the game disc. Details as to why this is happening will be discussed [here](2.-installing-v1.51-patch.md).
+[^3]: Since the game isn't patched to the latest version, if you try to launch the game, it will ask you to insert the game disc. Details as to why this is happening will be discussed [here](download-and-install-v1\_51-patch.md).
 
-[^4]: If you skip patching the game to the latest version, you won't be able to launch the game as it will keep asking you to insert the game disc. Details as to why this is happening will be discussed [here](2.-installing-v1.51-patch.md).
+[^4]: If you skip patching the game to the latest version, you won't be able to launch the game as it will keep asking you to insert the game disc. Details as to why this is happening will be discussed [here](download-and-install-v1\_51-patch.md).
 
-[^5]: If you skip patching the game to the latest version, you won't be able to launch the game as it will keep asking you to insert the game disc. Details as to why this is happening will be discussed [here](2.-installing-v1.51-patch.md).
+[^5]: If you skip patching the game to the latest version, you won't be able to launch the game as it will keep asking you to insert the game disc. Details as to why this is happening will be discussed [here](download-and-install-v1\_51-patch.md).
 
-[^6]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](3.-installing-project-remaster.md).
+[^6]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](download-and-install-remaster-mod.md).
 
 [^7]: Deluxe Edition has the latest patch incorporated in its content.
 
@@ -199,7 +199,7 @@ Resolution: 800 x 600 16 bits colour or above
 
 [^9]: Anything Windows XP or above should be fine. The game has been tested on Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Windows 11.
 
-[^10]: Note that these keys are only applicable to the <mark style="color:blue;">Standard Edition</mark> setup provided in [Downloads](1.-installing-base-game.md#downloads) -> Primary Sources.
+[^10]: Note that these keys are only applicable to the <mark style="color:blue;">Standard Edition</mark> setup provided in [Downloads](download-and-install-bf2142.md#downloads) -> Primary Sources.
 
 [^11]: i.e., <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142</mark>
 

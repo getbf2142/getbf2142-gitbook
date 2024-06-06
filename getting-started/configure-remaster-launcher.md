@@ -31,7 +31,7 @@ description: This tutorial will guide you through the steps to configure the lau
 17. Navigate to the <mark style="color:blue;">Settings</mark> page.
 18. Configure the <mark style="color:blue;">Resolution</mark> from the drop-down menu under the <mark style="color:blue;">General</mark> section.
 19. Close the launcher.
-20. Read all the [remarks](6.-configuring-remaster-launcher.md#remarks) as they are important.
+20. Read all the [remarks](configure-remaster-launcher.md#remarks) as they are important.
 
 ## Remarks
 
@@ -66,11 +66,11 @@ description: This tutorial will guide you through the steps to configure the lau
 
 [^9]: If you do not uncheck these options, your game is considered modded. You may not be able to join the server, or you may get kicked for modified content.
 
-[^10]: [Project\_Remaster\_v14\_vanilla\_weapons](3.-installing-project-remaster.md#more-about-mods)
+[^10]: [Project\_Remaster\_v14\_vanilla\_weapons](download-and-install-remaster-mod.md#more-about-mods)
 
 [^11]: e.g., damage, recoil, rate of fire, amount of ammo, etc.
 
-[^12]: [Project\_Remaster\_v14\_offline](3.-installing-project-remaster.md#more-about-mods)
+[^12]: [Project\_Remaster\_v14\_offline](download-and-install-remaster-mod.md#more-about-mods)
 
 [^13]: The mod emulates the scenario when your computer loses connection to the internet. It makes use of an offline profile to pass through the login screen.
 
