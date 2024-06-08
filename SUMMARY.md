@@ -49,3 +49,4 @@
 * [Disclaimer](others/disclaimer.md)
 * [⁕ Support](https://discord.gg/DaMVNknVnV)
 * [⁕ Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
+* [⁕ Prima eGuide](https://archive.org/details/Battlefield\_2142\_Prima\_Official\_eGuide)
