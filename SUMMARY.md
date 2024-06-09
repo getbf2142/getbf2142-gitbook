@@ -2,13 +2,6 @@
 
 * [Homepage](README.md)
 
-## Quick Links
-
-* [⁕ Discord Group](https://discord.gg/DaMVNknVnV)
-* [⁕ Github Repository](https://github.com/getbf2142/getbf2142-gitbook)
-* [⁕ Download Battlefield 2](https://discord.gg/DaMVNknVnV)
-* [⁕ Download Battlefield 2142](https://docs.getbf2142.net/getting-started/1.-installing-base-game)
-
 ## Getting Started
 
 * [① Download & Install BF2142](getting-started/download-and-install-bf2142.md)
@@ -29,6 +22,11 @@
 * [BF2142Unlocker](enhancements/bf2142unlocker.md)
 * [Offline Rewards Patch](enhancements/offline-rewards-patch.md)
 
+## Manuals
+
+* [⁕ Official Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
+* [⁕ Prima eGuide](https://archive.org/details/Battlefield\_2142\_Prima\_Official\_eGuide)
+
 ## Dedicated Server
 
 * [① Download & Install the Server Client](dedicated-server/download-and-install-the-server-client.md)
@@ -43,10 +41,15 @@
 * [⁕ BF2142 Reclamation](https://battlefield2142.co/)
 * [⁕ BF2142 FFOLKES Unlocks](https://www.bf-games.net/downloads/2946/ffolkes-unlocks-mod-v15-inoffiziell.html)
 
+## Quick Links
+
+* [⁕ Battlefield 1942](https://oldgamesdownload.com/battlefield-1942-hg4/)
+* [⁕ Battlefield Vietnam](https://oldgamesdownload.com/battlefield-vietnam-2tt/)
+* [⁕ Battlefield 2](https://discord.gg/DaMVNknVnV)
+
 ## Others
 
 * [Contact Us](others/contact-us.md)
 * [Disclaimer](others/disclaimer.md)
-* [⁕ Support](https://discord.gg/DaMVNknVnV)
-* [⁕ Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
-* [⁕ Prima eGuide](https://archive.org/details/Battlefield\_2142\_Prima\_Official\_eGuide)
+* [⁕ Discord Group](https://discord.gg/DaMVNknVnV)
+* [⁕ Github Repository](https://github.com/getbf2142/getbf2142-gitbook)
