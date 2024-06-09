@@ -22,9 +22,9 @@ We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV)
 4. Drag and drop all the items from the .rar file into the new folder.
 5. Look for [<mark style="color:blue;">setup.exe</mark>](#user-content-fn-2)[^2] in the folder. Double-click to run the installer.
 6. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app to make changes to your device?</mark> pops up.
-7. Follow the wizard instructions to complete the installation. Some of the important remarks are provided [here](download-and-install-bf2142.md#wizard-remarks).
-8. When the installation completes, finish the wizard and [**DO NOT** launch the game](#user-content-fn-3)[^3].
-9. Proceed to [patch the game to v1.51](download-and-install-v1\_51-patch.md). [**DO NOT** try to omit this step](#user-content-fn-4)[^4].
+7. Follow the wizard instructions to complete the installation. Some of the [important remarks](#user-content-fn-3)[^3] are provided [here](download-and-install-bf2142.md#wizard-remarks).
+8. When the installation completes, finish the wizard and [**DO NOT** launch the game](#user-content-fn-4)[^4].
+9. Proceed to [patch the game to v1.51](download-and-install-v1\_51-patch.md). [**DO NOT** try to omit this step](#user-content-fn-5)[^5].
 
 ## Downloads
 
@@ -36,7 +36,7 @@ The setup provided under this section is an image of the <mark style="color:blue
 
 English, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Polish, Spanish, Swedish, Thai, Russian
 
-Since this setup only holds an early version (i.e.,`v1.01`) of the game, you [**must**](#user-content-fn-5)[^5] follow the instructions in the [next tutorial](download-and-install-v1\_51-patch.md) right after finishing all the steps in this tutorial to have the game correctly patched to the latest version  (i.e.,`v1.51`).
+Since this setup only holds an early version (i.e.,`v1.01`) of the game, you [**must**](#user-content-fn-6)[^6] follow the instructions in the [next tutorial](download-and-install-v1\_51-patch.md) right after finishing all the steps in this tutorial to have the game correctly patched to the latest version  (i.e.,`v1.51`).
 
 **If you are new to the game or the modding process, we suggest always sticking to the primary sources as they are the main references we use throughout our tutorials.**
 
@@ -71,9 +71,9 @@ Source: [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142) \[Last Checked
 **Battlefield 2142 Deluxe Edition v1.51**\
 _Novgames Alliance Edition (2016) - Russian Community_
 
-The setup provided under this section is prepared by Novgames for its Russian-speaking community. The installer will forcibly[^6] install the Russian locale and the [latest version](#user-content-fn-7)[^7] of the game.
+The setup provided under this section is prepared by Novgames for its Russian-speaking community. The installer will forcibly[^7] install the Russian locale and the [latest version](#user-content-fn-8)[^8] of the game.
 
-If you choose to download the game from the following links, you may skip the part about [patching the game](download-and-install-v1\_51-patch.md) to `v1.51`. You also do not have to worry about the serial keys as the installer [does not](#user-content-fn-8)[^8] require one.
+If you choose to download the game from the following links, you may skip the part about [patching the game](download-and-install-v1\_51-patch.md) to `v1.51`. You also do not have to worry about the serial keys as the installer [does not](#user-content-fn-9)[^9] require one.
 
 **If you are new to the game or the modding process, we suggest always sticking to the primary sources as they are the main references we use throughout our tutorials.**
 
@@ -112,9 +112,13 @@ Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[Last Checked
 {% endembed %}
 {% endtab %}
 
-{% tab title="Internet Archive" %}
+{% tab title="Other Sources" %}
 {% embed url="https://archive.org/search?query=battlefield+2142" %}
 Source: [Internet Archive](https://archive.org/) \[Last Checked: 05/24]
+{% endembed %}
+
+{% embed url="https://oldgamesdownload.com/battlefield-2142-gdx1/" %}
+Source: [Old Games Download](https://oldgamesdownload.com/) \[Last Checked: 05/24]
 {% endembed %}
 {% endtab %}
 
@@ -150,23 +154,23 @@ Source: [Amazon](https://www.amazon.com/) \[Last Checked: 05/24]
    * 瑞典語 -> Swedish
    * 意大利語 -> Italiano
    * 德語 -> German
-2. If you see the popup <mark style="color:blue;">This game has only been tested on WinXP(32bit)</mark>, click <mark style="color:blue;">Confirm</mark> to safely ignore this warning as the game works perfectly fine on most[^9] Windows platforms.
-3. When you are asked to provide the serial code, simply pick one of the [<mark style="color:blue;">Standard Edition</mark>](#user-content-fn-10)[^10] keys below to pass through the prompt. More keys are available [here](https://mozziefiles.wixsite.com/bf2142).
+2. If you see the popup <mark style="color:blue;">This game has only been tested on WinXP(32bit)</mark>, click <mark style="color:blue;">Confirm</mark> to safely ignore this warning as the game works perfectly fine on most[^10] Windows platforms.
+3. When you are asked to provide the serial code, simply pick one of the [<mark style="color:blue;">Standard Edition</mark>](#user-content-fn-11)[^11] keys below to pass through the prompt. More keys are available [here](https://mozziefiles.wixsite.com/bf2142).
    * SDV5-JZDE-L6B8-P2Q4-1911
    * SVMV-LBNV-W7W5-J3X4-1911
    * E6HH-DWUG-U8X1-R8F0-1911
    * UTFP-4DMN-D2U0-X3T3-1911​
    * TRCL-YBIJ-D4H4-Y3O5-1911
-4. You are strongly advised to install the game to the [default path](#user-content-fn-11)[^11] but it is also fine to install it to other location.
+4. You are strongly advised to install the game to the [default path](#user-content-fn-12)[^12] but it is also fine to install it to other location.
 5. You are strongly advised to install the <mark style="color:blue;">English</mark> version of the game to take advantage of the <mark style="color:blue;">HD English fonts</mark> provided by the Project Remaster mod.
-6. BattleCammo is a VoIP service that allows you to voice chat in-game. Believe it or not, [you won't be using it that much](#user-content-fn-12)[^12]. You can simply skip configuring it by clicking the <mark style="color:blue;">Cancel</mark> button.
+6. BattleCammo is a VoIP service that allows you to voice chat in-game. Believe it or not, [you won't be using it that much](#user-content-fn-13)[^13]. You can simply skip configuring it by clicking the <mark style="color:blue;">Cancel</mark> button.
 7. GameSpy Comrade is a community gaming application providing functions like friends, stats, and instant messaging. Unfortunately, it no longer works due to [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014. Select the <mark style="color:blue;">No, install GameSpy Comrade later</mark> option to skip installing it.
 8. EA Master Server no longer exists due to [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014. Click <mark style="color:blue;">REGISTER LATER</mark> to skip registering an EA account.
 
 ## System Requirements
 
 {% hint style="warning" %}
-Most[^13] modern laptops or desktops should be able to run this game acceptably well.
+Most[^14] modern laptops or desktops should be able to run this game acceptably well.
 {% endhint %}
 
 OS: Windows XP or above, Administrator Access
@@ -177,7 +181,7 @@ RAM: 512 MB or above
 
 Disk Space: 2.2GB or above
 
-[Display Card](#user-content-fn-14)[^14]: ATI Radeon 9500 / NVIDIA GeForce FX 5700 or above
+[Display Card](#user-content-fn-15)[^15]: ATI Radeon 9500 / NVIDIA GeForce FX 5700 or above
 
 Resolution: 800 x 600 16 bits colour or above
 
@@ -185,26 +189,28 @@ Resolution: 800 x 600 16 bits colour or above
 
 [^2]: The correct installer is <mark style="color:blue;">setup.exe</mark>, not <mark style="color:blue;">Autorun.exe</mark>. If you use the wrong installer, you won't be able to install the game since it will keep asking you to insert the game disc to proceed.
 
-[^3]: Since the game isn't patched to the latest version, if you try to launch the game, it will ask you to insert the game disc. Details as to why this is happening will be discussed [here](download-and-install-v1\_51-patch.md).
+[^3]: When asked for a serial, use: E6HH-DWUG-U8X1-R8F0-1911. Continue the game setup until the installation is completed – do not download GameSpy Arcade and do not register to EA servers. More remarks are provided [here](download-and-install-bf2142.md#wizard-remarks).
 
-[^4]: If you skip patching the game to the latest version, you won't be able to launch the game as it will keep asking you to insert the game disc. Details as to why this is happening will be discussed [here](download-and-install-v1\_51-patch.md).
+[^4]: Since the game isn't patched to the latest version, if you try to launch the game, it will ask you to insert the game disc. Details as to why this is happening will be discussed [here](download-and-install-v1\_51-patch.md).
 
 [^5]: If you skip patching the game to the latest version, you won't be able to launch the game as it will keep asking you to insert the game disc. Details as to why this is happening will be discussed [here](download-and-install-v1\_51-patch.md).
 
-[^6]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](download-and-install-remaster-mod.md).
+[^6]: If you skip patching the game to the latest version, you won't be able to launch the game as it will keep asking you to insert the game disc. Details as to why this is happening will be discussed [here](download-and-install-v1\_51-patch.md).
 
-[^7]: Deluxe Edition has the latest patch incorporated in its content.
+[^7]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](download-and-install-remaster-mod.md).
 
-[^8]: That is because the installer has generated a serial key for you. Remember the russian program that pops up at the end of installation? That's the keygen.
+[^8]: Deluxe Edition has the latest patch incorporated in its content.
 
-[^9]: Anything Windows XP or above should be fine. The game has been tested on Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Windows 11.
+[^9]: That is because the installer has generated a serial key for you. Remember the russian program that pops up at the end of installation? That's the keygen.
 
-[^10]: Note that these keys are only applicable to the <mark style="color:blue;">Standard Edition</mark> setup provided in [Downloads](download-and-install-bf2142.md#downloads) -> Primary Sources.
+[^10]: Anything Windows XP or above should be fine. The game has been tested on Windows XP, Windows Vista, Windows 7, Windows 8, Windows 10, Windows 11.
 
-[^11]: i.e., <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142</mark>
+[^11]: Note that these keys are only applicable to the <mark style="color:blue;">Standard Edition</mark> setup provided in [Downloads](download-and-install-bf2142.md#downloads) -> Primary Sources.
 
-[^12]: You have something called Discord anyway.
+[^12]: i.e., <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142</mark>
 
-[^13]: Any laptops or desktops that is able run Windows 7 or above, Office 2013 or above acceptably well can run this game acceptably well.
+[^13]: You have something called Discord anyway.
 
-[^14]: Graphics card is not something mandatory for this game. Intel Integrated Graphics should already be sufficient to run this game acceptably well.
+[^14]: Any laptops or desktops that is able run Windows 7 or above, Office 2013 or above acceptably well can run this game acceptably well.
+
+[^15]: Graphics card is not something mandatory for this game. Intel Integrated Graphics should already be sufficient to run this game acceptably well.
