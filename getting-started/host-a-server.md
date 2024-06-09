@@ -15,7 +15,7 @@ In this tutorial, you will learn how to host a simple server in-game. However, t
 * There are fewer[^1] game settings available for you to configure.
 * The server hoster has to be [playing on the server](#user-content-fn-2)[^2] as well.
 
-​That's why for a production server, you will need to host it with a [dedicated server client](../dedicated-server/download-and-install-the-server-client.md). But this quick setup method should already be sufficient for most of the use cases.
+​That's why for a production server, you will need to host it with a [dedicated server client](../dedicated-server/download-and-install-server-client.md). But this quick setup method should already be sufficient for most of the use cases.
 
 <details>
 

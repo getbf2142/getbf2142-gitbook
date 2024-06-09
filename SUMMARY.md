@@ -21,35 +21,35 @@
 
 * [BF2142Unlocker](enhancements/bf2142unlocker.md)
 * [Offline Rewards Patch](enhancements/offline-rewards-patch.md)
+* [FFOLKES Unlocks Mod](https://www.bf-games.net/downloads/2946/ffolkes-unlocks-mod-v15-inoffiziell.html)
 
-## Manuals
+## Manuals / Guides <a href="#manuals" id="manuals"></a>
 
-* [⁕ Official Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
-* [⁕ Prima eGuide](https://archive.org/details/Battlefield\_2142\_Prima\_Official\_eGuide)
+* [Official Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
+* [Prima eGuide](https://archive.org/details/Battlefield\_2142\_Prima\_Official\_eGuide)
 
 ## Dedicated Server
 
-* [① Download & Install the Server Client](dedicated-server/download-and-install-the-server-client.md)
+* [① Download & Install Server Client](dedicated-server/download-and-install-server-client.md)
 * [② Host a Dedicated Unranked Server](dedicated-server/host-a-dedicated-unranked-server.md)
 * [⍟ Host a Master & Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
 ## Community Projects
 
-* [⁕ BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
-* [⁕ BF2142 First Strike](https://www.moddb.com/mods/first-strike)
-* [⁕ BF2142 Remastered](https://www.moddb.com/mods/project-remaster)
-* [⁕ BF2142 Reclamation](https://battlefield2142.co/)
-* [⁕ BF2142 FFOLKES Unlocks](https://www.bf-games.net/downloads/2946/ffolkes-unlocks-mod-v15-inoffiziell.html)
+* [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
+* [BF2142 First Strike](https://www.moddb.com/mods/first-strike)
+* [BF2142 Remastered](https://www.moddb.com/mods/project-remaster)
+* [BF2142 Reclamation](https://battlefield2142.co/)
 
 ## Quick Links
 
-* [⁕ Battlefield 1942](https://oldgamesdownload.com/battlefield-1942-hg4/)
-* [⁕ Battlefield Vietnam](https://oldgamesdownload.com/battlefield-vietnam-2tt/)
-* [⁕ Battlefield 2](https://discord.gg/DaMVNknVnV)
+* [Battlefield 1942](https://oldgamesdownload.com/battlefield-1942-hg4/)
+* [Battlefield Vietnam](https://oldgamesdownload.com/battlefield-vietnam-2tt/)
+* [Battlefield 2](https://discord.gg/DaMVNknVnV)
 
 ## Others
 
+* [Discord Group](https://discord.gg/DaMVNknVnV)
+* [Github Repository](https://github.com/getbf2142/getbf2142-gitbook)
 * [Contact Us](others/contact-us.md)
 * [Disclaimer](others/disclaimer.md)
-* [⁕ Discord Group](https://discord.gg/DaMVNknVnV)
-* [⁕ Github Repository](https://github.com/getbf2142/getbf2142-gitbook)
