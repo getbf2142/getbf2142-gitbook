@@ -1,5 +1,5 @@
 ---
-description: Guide you hand-by-hand to get and play Battlefield 2142 in 2024!
+description: Guide you hand-by-hand to get and play Battlefield 2142 today!
 ---
 
 # Homepage
@@ -22,7 +22,7 @@ We do not condone piracy or copyright infringement — we respect EA and DICE fo
 
 If you still have any reservations about our project, feel free to reach out to us. We are always open to address your concerns together.
 
-### BF2142 in 2024
+### Today's BF2142
 
 Battlefield 2142 was the sequel to critically-acclaimed Battlefield 2, taking place in the distant future. During a new ice age, two superpowers fight for survival, the European Union and the Pan-Asian Coalition.
 
