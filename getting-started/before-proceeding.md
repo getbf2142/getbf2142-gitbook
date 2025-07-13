@@ -1,8 +1,9 @@
 ---
 description: What kind of experience do you wish to have?
+hidden: true
 ---
 
-# ☆ Before proceeding ...
+# ⍟ Before Proceeding ...
 
 {% hint style="success" %}
 **Classic Setup**

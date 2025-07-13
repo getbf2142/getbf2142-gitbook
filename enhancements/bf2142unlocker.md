@@ -1,5 +1,6 @@
 ---
 description: Get to know the gaming changing all-in-one launcher.
+hidden: true
 ---
 
 # BF2142Unlocker
