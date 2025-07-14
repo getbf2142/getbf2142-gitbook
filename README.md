@@ -4,10 +4,10 @@ description: Guide you hand-by-hand to get and play Battlefield 2142 today!
 
 # Homepage
 
-If you are still yearning to experience the thrill of Battlefield 2142 once more, or if you are lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We will make sure to get you back in action in no time!
+If you are still yearning to experience the thrill of Battlefield 2142 once more, or you are lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We will make sure to get you back in action in no time!
 
 {% hint style="success" %}
-We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](others/contact-us.md) to receive support.
+We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) to receive support.
 {% endhint %}
 
 ### About Us
@@ -22,15 +22,17 @@ We do not condone piracy or copyright infringement — we respect EA and DICE fo
 
 If you still have any reservations about our project, feel free to reach out to us. We are always open to address your concerns together.
 
-### Today's BF2142
+### About BF2142
 
-Battlefield 2142 was the sequel to critically-acclaimed Battlefield 2, taking place in the distant future. During a new ice age, two superpowers fight for survival, the European Union and the Pan-Asian Coalition.
+Battlefield 2142 was the sequel to critically-acclaimed Battlefield 2, taking place in the distant future. During a new ice age, two superpowers, the European Union (EU) and the Pan-Asian Coalition (PAC), fight for survival.
 
-Battlefield 2142 is still the perfect game today when you want to have some fun alone or with some accompanies. Not only is grinding bot a very fun and relaxing way to kill time, it is also the top game for having a quick LAN party with your family and friends. Not to mention, it runs smoothly on budget laptops, and the multiplayer titan mode is still an unsurpassable invention even up to this day.
+### Why BF2142?
+
+Battlefield 2142 is still the perfect game today when you want to have some fun alone or with some accompanies. Bots are available in both singleplayer and multiplayer. Not only is grinding bots a very fun and relaxing way to kill time, it is also the top game for having a quick LAN party with your family or friends. The game runs smoothly on budget laptops, and the multiplayer titan mode is still an unsurpassable invention even up to this day.
 
 No time to waste! You can have a fully functional Battlefield 2142 up and running **in less than 30 minutes**!&#x20;
 
-### Features
+### Why GetBF2142?
 
 GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 
@@ -38,26 +40,6 @@ GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 * Download resources are tested and mirrored; **safe and virus-free**.
 * Extra information and tips are always at your disposal.
 * Contents are constantly reviewed and updated.
-
-### Content
-
-We cover all the essential topics you need to know about the game.
-
-* Where to download Battlefield 2142 Safe and Free?
-* How to Install the base game? What components do I need to install?
-* Where can I find the serial keys? What should I press in the installer?
-* How to update the game from v1.01 / v1.50 to v1.51?
-* Where to download the v1.50 and v1.51 patch?
-* What is Remaster mod? Why Remaster mod?
-* Where to download Remaster mod? How to install the mod?
-* What are Master Servers? What is OpenSpy? What is BF2142 Hub?
-* How to apply OpenSpy patches via BF2142 Hub?
-* How to configure Remaster Launcher?
-* How to create an OpenSpy account?
-* How to play singleplayer (Quick Singleplayer + LAN Setup + Offline Mini-Mod)?
-* How to play multiplayer (Joining LAN Server, Public WAN Server, Private WAN Server)?
-* How to host a server (LAN / WAN) in-game?
-* How to host a dedicated server? How to host a master server + ranked server?
 
 ### Disclaimer
 

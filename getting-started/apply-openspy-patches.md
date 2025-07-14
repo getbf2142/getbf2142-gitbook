@@ -10,7 +10,7 @@ Apart from Openspy - Reclamation, there are other master servers and communities
 
 A master server is a server that holds the database of your login credentials and soldier data. It broadcasts[^1] game servers to the server browser, while in return a game server regularly reports the player's in-game progress to the master server.
 
-Installing OpenSpy patches to the game forces the _game to connect through OpenSpy instead of the dead GameSpy. This allows the game to work again, especially for the login and online part, after_ [_GameSpy shutdown_](https://en.wikipedia.org/wiki/GameSpy#Shutdown) _in June 2014._
+Installing OpenSpy patches to the game forces the game to connect through OpenSpy instead of the dead GameSpy. This allows the game to work again, especially for the login and online part, after [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
 
 ## About OpenSpy - Reclamation
 
@@ -27,10 +27,6 @@ Installing OpenSpy patches to the game forces the _game to connect through OpenS
 * Requirements: Install Reclamation Map Pack or maps that the server is currently running upon via BF2142 Hub
 
 You do not have to play on ranked servers to rank up because you are given all the unlocks right from the start. This provides a very ideal setting for grinding bots on a Project Remaster's Conquest Coop (Solo/LAN/Multi) game.
-
-{% embed url="https://discord.com/invite/MEwBW9U" %}
-GetBF2142.net is not affiliated with Project Reclamation.
-{% endembed %}
 {% endtab %}
 {% endtabs %}
 
@@ -76,8 +72,6 @@ There is an option to download the maps individually. To do so, you may refer to
 {% hint style="info" %}
 Reclamation servers are [unmodded servers](#user-content-fn-2)[^2], but are run on a set of modified maps. The downloaded maps are installed to the <mark style="color:blue;">/mods/bf2142/Levels</mark> folder.
 {% endhint %}
-
-~~To explore and switch between different master servers, it is better to use~~ [~~BF2142 Unlocker~~](../enhancements/bf2142unlocker.md)~~. But let's stick with OpenSpy at the moment until we get a more thorough understanding of how the game works.~~
 
 [^1]: A master server makes a game server visible on the client's server browser.
 
