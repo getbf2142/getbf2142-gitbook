@@ -30,7 +30,7 @@ You do not have to play on ranked servers to rank up because you are given all t
 {% endtab %}
 {% endtabs %}
 
-## Apply the OpenSpy Patches
+## Apply OpenSpy Patches
 
 {% hint style="warning" %}
 ​Before proceeding to patch your game, you are strongly advised to backup the following files in your game folder: <mark style="color:blue;">BF2142.exe</mark>, <mark style="color:blue;">RendDX9.dll</mark>.
@@ -46,7 +46,7 @@ You do not have to play on ranked servers to rank up because you are given all t
 7. Click <mark style="color:blue;">Confirm</mark> when the dialogue <mark style="color:blue;">Patch completed, Enjoy!</mark> pops up.
 8. Make sure the checkmarks for <mark style="color:blue;">Patch 1.51</mark>, <mark style="color:blue;">BF2142.exe</mark>, <mark style="color:blue;">RendDX9.d</mark>, <mark style="color:blue;">RendDX9ori.dll</mark> are all <mark style="color:green;">green</mark> after the patching process. If that is not the case, repeat from step 5.
 
-## Installing the Reclamation Map Pack
+## Install Reclamation Map Pack
 
 The Reclamation Community operates 2 multiplayer servers, with both running their modified version of maps. In order to play on their public servers, you will have to install their map pack or the map that the server is currently running on.
 

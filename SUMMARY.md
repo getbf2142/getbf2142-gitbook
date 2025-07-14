@@ -4,10 +4,11 @@
 
 ## Getting Started
 
+* [⍟ Before Proceeding](getting-started/before-proceeding.md)
 * [① Download & Install BF2142](getting-started/download-and-install-bf2142.md)
 * [② Download & Install v1.51 Patch](getting-started/download-and-install-v1_51-patch.md)
 * [③ Download & Install Remaster Mod](getting-started/download-and-install-remaster-mod.md)
-* [⍟ Before Proceeding ...](getting-started/before-proceeding.md)
+* [⍟ Before Proceeding (Deprecated)](getting-started/before-proceeding-deprecated.md)
 * [④ Download & Install ​BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
 * [⑤ Apply OpenSpy Patches](getting-started/apply-openspy-patches.md)
 * [⑥ Configure Remaster Launcher](getting-started/configure-remaster-launcher.md)

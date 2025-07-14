@@ -1,30 +1,71 @@
 ---
-description: What kind of experience do you wish to have?
-hidden: true
+description: Which steps do you need / not need to do?
 ---
 
-# ⍟ Before Proceeding ...
+# ⍟ Before Proceeding
 
-{% hint style="success" %}
-**Classic Setup**
+## Game installed?
 
-If you want to play the game classically[^1], simply continue with the current flow by following the tutorials from <mark style="color:blue;">④ Installing BF2142 Hub</mark> to <mark style="color:blue;">⑩ Hosting Servers</mark>. It is also the setup that most of our tutorials on this site focus on.
+This affects whether you can skip any steps in ① - ② or not.
 
+<details>
 
+<summary>No, I don't have the game installed.</summary>
 
-**Quick Setup**
+You should follow these steps:\
+[① Download & Install BF2142](download-and-install-bf2142.md) → [② Download & Install v1.51 Patch](download-and-install-v1_51-patch.md)
 
-If you just want to enjoy the game without more waiting, you can skip <mark style="color:blue;">④ Installing BF2142 Hub</mark> to <mark style="color:blue;">⑩ Hosting Servers</mark> and refer to the tutorial [<mark style="color:blue;">BF2142Unlocker</mark>](../enhancements/bf2142unlocker.md) for more details on how to create or join a game using the off-game[^2] intuitive GUI that comes with Project Remaster.
-{% endhint %}
+</details>
 
-At GetBF2142.net, we have a soft spot for nostalgia, and we believe in teaching newcomers how to install the game classically. While this method may take a few more steps compared to the quick setup, it results in a fully functional game that can be launched using the old GUI. You can then spend your happy moments exploring the game and creating or joining games through it.
+<details>
 
-However, we do understand the need to provide a generally simpler modding experience for those who want to enjoy the game without more waiting. For this very purpose, a quick setup with the use of [BF2142Unlocker](../enhancements/bf2142unlocker.md) is provided. This tool eliminates the need to install patches yourself and handles everything from joining servers, switching master servers, hosting LAN games, to finding a server. All you need to do is launch [BF2142Unlocker](../enhancements/bf2142unlocker.md) and use their intuitive off-game GUI to start playing the game.
+<summary>Yes, I already have the Standard Edition installed.</summary>
 
-**If you are new to the game or unsure which method to choose, it is always better to stick with our classic setup.** We do provide a detailed tutorial on how to install the patches and mods. It is also helpful to try the classic setup first because you will learn a lot about the patching or modding process for BF2142 and why we have these steps in place. This knowledge will help you understand [BF2142Unlocker](../enhancements/bf2142unlocker.md) better as it integrates all these concepts into one.
+You can skip this step: [① Download & Install BF2142](download-and-install-bf2142.md)
 
-Lastly, it is worth noting that you can always switch to using [BF2142Unlocker](../enhancements/bf2142unlocker.md) later on if you find the classic GUI inconvenient. For now, let's enjoy the modding process together!
+You should follow this step: [② Download & Install v1.51 Patch](download-and-install-v1_51-patch.md)
 
-[^1]: You play the game by launching the game, passing through the login screen, navigating through the game's menu and browser.
+</details>
 
-[^2]: You do not have to manually launch the game to play the game. Everything is done off-game using the external program <mark style="color:blue;">BF2142 Unlocker</mark>. It will launch the game for you.
+<details>
+
+<summary>Yes, I already have the Deluxe Edition installed.</summary>
+
+You can skip these steps: [① Download & Install BF2142](download-and-install-bf2142.md), [② Download & Install v1.51 Patch](download-and-install-v1_51-patch.md)
+
+</details>
+
+## Modded or Unmodded?
+
+This affects whether you can skip any steps in ③ - ⑥ or not.
+
+* If you will mostly play public multiplayer on Reclamation servers, choose Unmodded. \[Why?[^1]]
+* If you will mostly play singleplayer and sometimes with your friends via LAN, choose Modded. \[Why?[^2]]
+* If you have no idea, choose Modded. \[Why?[^3]]
+
+<details>
+
+<summary>I prefer modded.</summary>
+
+You should follow these steps:\
+[③ Download & Install Remaster Mod](download-and-install-remaster-mod.md) → [④ Download & Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [⑤ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑥ Configure Remaster Launcher](configure-remaster-launcher.md) → [⑦ Create Account](create-account.md)
+
+</details>
+
+<details>
+
+<summary>I prefer unmodded.</summary>
+
+You can skip these steps:\
+[③ Download & Install Remaster Mod](download-and-install-remaster-mod.md), [⑥ Configure Remaster Launcher](configure-remaster-launcher.md)
+
+You should follow these steps:\
+[④ Download & Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [⑤ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑦ Create Account](create-account.md)
+
+</details>
+
+[^1]: Most players who still play BF2142 multiplayer are on Reclamation servers. Reclamation servers are, however, unmodded. To join their servers, you need to launch the game without mods.
+
+[^2]: Remaster mod offers high-quality textures, realistic animations and new weapons to the game.
+
+[^3]: You can easily switched between modded and unmodded with Remaster Launcher.
