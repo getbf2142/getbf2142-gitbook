@@ -58,12 +58,7 @@ We cover all the essential topics you need to know about the game.
 * How to play multiplayer (Joining LAN Server, Public WAN Server, Private WAN Server)?
 * How to host a server (LAN / WAN) in-game?
 * How to host a dedicated server? How to host a master server + ranked server?
-* What is BF2142Unlocker? Why BF2142Unlocker?
 
 ### Disclaimer
 
 This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), nor Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
-
-### Contributors
-
-Thanks, [Enoy](https://gamefaqs.gamespot.com/boards/937913-battlefield-2142-northern-strike/80527949), for helping to enrich the content on this page.
