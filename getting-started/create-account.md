@@ -4,7 +4,17 @@ description: >-
   configure important in-game settings.
 ---
 
-# ⑦ Create an account
+# ⑦ Create Account
+
+## Launching
+
+If you have Remaster Mod installed, launch the game using Remaster Launcher:
+
+1. Double-click the <mark style="color:blue;">Remaster Launcher</mark> shortcut on your desktop to start the launcher.
+2. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
+3. In the <mark style="color:blue;">Play</mark> page, click the <mark style="color:blue;">Start Game!</mark> button.
+
+If you did not have the mod installed, launch the game using the BF2142 shortcut on your desktop.
 
 ## Registration
 
@@ -12,29 +22,24 @@ description: >-
 Windows Firewall may pop up if it is your first time passing through the login page. Whenever you see this prompt, allow the game to communicate through both private and public networks to avoid connection issues.
 {% endhint %}
 
-1. Double-click the <mark style="color:blue;">Remaster Launcher</mark> shortcut on your desktop to start the launcher.
-2. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
-3. In the <mark style="color:blue;">Play</mark> page, click the <mark style="color:blue;">Start Game!</mark> button.
-4. On the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It may [take a while](#user-content-fn-1)[^1] before something shows up.
-5. Ignore the warning message <mark style="color:blue;">EA MASTER SERVER IS DOWN. PLEASE USE BF2142UNLOCKER</mark> if you see it.
-6. Click [<mark style="color:blue;">ACCEPT TERMS</mark>](#user-content-fn-2)[^2].
-7. Fill in the registration form with fake data. \[Why?[^3]] But please do remember your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. \[Why?[^4]]
-8. Click [<mark style="color:blue;">CREATE</mark>](#user-content-fn-5)[^5].
-9. Click <mark style="color:blue;">CREATE NEW SOLDIER</mark>. Type in the <mark style="color:blue;">SOLDIER NAME</mark> that you want to use in-game and click <mark style="color:blue;">CREATE NEW SOLDER</mark>.
-10. You may notice some changes[^6] to the game resolution.
-11. To fix this, go to <mark style="color:blue;">OPTIONS</mark>, and then <mark style="color:blue;">VIDEO</mark> to configure the video settings. Change the resolution[^7] first before touching the video quality settings.
-12. Set <mark style="color:blue;">ANTI-ALIASING</mark> to <mark style="color:blue;">Off</mark> to avoid problems.
-13. Don't forget to adjust the <mark style="color:blue;">AUDIO</mark> settings as well!​
-14. Congratulations! You have completed all the necessary steps to get Battlefield 2142 working! Now you may close the game to make the video settings applied.
+1. On the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It may [take a while](#user-content-fn-1)[^1] before something shows up.
+2. Ignore the warning message <mark style="color:blue;">EA MASTER SERVER IS DOWN. PLEASE USE BF2142UNLOCKER</mark> if you see it.
+3. Click [<mark style="color:blue;">ACCEPT TERMS</mark>](#user-content-fn-2)[^2].
+4. Fill in the registration form with fake data. \[Why?[^3]] But please do remember your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. \[Why?[^4]]
+5. Click [<mark style="color:blue;">CREATE</mark>](#user-content-fn-5)[^5].
+6. Click <mark style="color:blue;">CREATE NEW SOLDIER</mark>. Type in the <mark style="color:blue;">SOLDIER NAME</mark> that you want to use in-game and click <mark style="color:blue;">CREATE NEW SOLDER</mark>.
+7. You may notice some changes[^6] to the game resolution.
+8. To fix this, go to <mark style="color:blue;">OPTIONS</mark>, and then <mark style="color:blue;">VIDEO</mark> to configure the video settings. Change the resolution[^7] first before touching the video quality settings.
+9. Set <mark style="color:blue;">ANTI-ALIASING</mark> to <mark style="color:blue;">Off</mark> to avoid problems.
+10. Don't forget to adjust the <mark style="color:blue;">AUDIO</mark> settings as well!​
+11. Congratulations! You have completed all the necessary steps to get Battlefield 2142 working! Now you may close the game to apply the video settings.
 
 ## Logging in
 
-1. Double-click the <mark style="color:blue;">Remaster Launcher</mark> shortcut on your desktop to start the launcher.
-2. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
-3. In the <mark style="color:blue;">Play</mark> page, click the <mark style="color:blue;">Start Game!</mark> button.
-4. On the login screen, type in your OpenSpy <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. Check the option <mark style="color:blue;">REMEMBER ME</mark> and click <mark style="color:blue;">LOGIN</mark>.
-5. Double-click on the <mark style="color:blue;">SOLDIER NAME</mark> that you want to use in-game.
-6. Have fun exploring the game! See you on the battlefield!
+1. Launch the game.
+2. On the login screen, type in your OpenSpy <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. Check the option <mark style="color:blue;">REMEMBER ME</mark> and click <mark style="color:blue;">LOGIN</mark>.
+3. Double-click on the <mark style="color:blue;">SOLDIER NAME</mark> that you want to use in-game.
+4. Have fun exploring the game! See you on the battlefield!
 
 [^1]: It takes time for the server to process your requests since most master servers are located in Europe or America. Unless you didn't receive a response from it within 10 seconds, it is still considered acceptable.
 

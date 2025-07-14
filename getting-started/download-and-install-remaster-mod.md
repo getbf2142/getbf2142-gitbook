@@ -7,18 +7,14 @@ description: >-
 # ③ Download & Install Remaster Mod
 
 {% hint style="warning" %}
-We strongly recommend installing the mod for an enhanced gaming experience. If you are new to modding, our tutorial heavily relies on this mod, so it is advised to follow along.
+It is best to install the mod for an enhanced gaming experience. If you are new to modding, our tutorial heavily relies on this mod, so it is advised to follow along.
 {% endhint %}
 
 Project Remaster is a high-quality enhancement modification for Battlefield 2142. It aims to remaster this 15-year-old game for a complete modern experience by introducing high-quality textures, realistic animations and new weapons into the game engine.&#x20;
 
-The mod also comes with a collection of troubleshooting and diagnosis tools that are often helpful when the game runs into issues. Not to mention, the mod includes a wiki that gives you all information about how to get the game running, how to fix video issues, how to fix crashes, etc. **That is why we would strongly encourage you to install the mod to have access to these useful resources.**
+The mod also comes with a collection of troubleshooting and diagnosis tools that are often helpful when the game runs into issues. Not to mention, the mod includes a wiki that gives you all information about how to get the game running, how to fix video issues, how to fix crashes, etc. **That is why you are strongly encouraged to install the mod to have access to these useful resources.**
 
-The mod is developed and maintained by a modding group called [Project Remaster Team](https://prmp.boards.net/). You are encouraged to join their [Discord server](https://discord.com/invite/nVdDkgA) to receive support and the latest updates about their project.
-
-{% embed url="https://discord.com/invite/nVdDkgA" %}
-GetBF2142.net is not affliated with Project Remaster.
-{% endembed %}
+The mod is developed and maintained by the [Project Remaster Team](https://prmp.boards.net/). You can join their [Discord server](https://discord.com/invite/nVdDkgA) to receive support and the latest updates about their project.
 
 ## Procedures
 

@@ -4,6 +4,8 @@ description: Which steps do you need / not need to do?
 
 # ⍟ Before Proceeding
 
+To have a fully functional Battlefield 2142 up and running, you should read the guide ① - ⑩ in sequence. However, based on your preferences and situation, you may skip some of the steps safely. The following guide you which steps you must take and which steps you can safely skip.
+
 ## Game installed?
 
 This affects whether you can skip any steps in ① - ② or not.

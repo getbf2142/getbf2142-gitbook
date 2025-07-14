@@ -16,7 +16,7 @@
 * [⑧ Play Singleplayer](getting-started/play-singleplayer.md)
 * [⑨ Play Multiplayer](getting-started/play-multiplayer.md)
 * [⑩ Host Server](getting-started/host-server.md)
-* [⍟ Further Readings ...](getting-started/further-readings.md)
+* [⍟ Further Readings](getting-started/further-readings.md)
 
 ## Enhancements
 

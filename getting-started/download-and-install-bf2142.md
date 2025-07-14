@@ -34,7 +34,11 @@ We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV)
 {% tab title="Primary Sources" %}
 **Battlefield 2142 Standard Edition v1.01**
 
-The setup provided under this section is an image of the <mark style="color:blue;">Standard Edition</mark> retail DVD disc and it contains the following language options:
+{% hint style="info" %}
+As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
+{% endhint %}
+
+The setup in this section is an image of the <mark style="color:blue;">Standard Edition</mark> retail DVD disc and it contains the following language options:
 
 <sub>_English, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Polish, Spanish, Swedish, Thai, Russian_</sub>
 
@@ -43,10 +47,6 @@ Since this setup only holds an early version (i.e.,`v1.01`) of the game, you [**
 If you are new to the game or the modding process, we suggest always sticking to the primary sources as they are the main references we use throughout our tutorials.
 
 If you have concerns about the sources we provide, try installing an AntiVirus in advance or downloading the base game from sources that you trust. It is very important that you feel comfortable with what you are doing here.
-
-{% hint style="info" %}
-As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
-{% endhint %}
 
 Note that this is not really a legit way to download the game. However, this is becoming the only option left to get the game nowadays apart from buying a second-hand copy from Amazon that doesn't allow you to log in anymore.
 
@@ -73,17 +73,17 @@ Source: [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142) \[Last Checked
 **Battlefield 2142 Deluxe Edition v1.51**\
 &#xNAN;_&#x4E;ovgames Alliance Edition (2016) - Russian Community_
 
-The setup provided under this section is prepared by Novgames for its Russian-speaking community. The installer will forcibly[^6] install the Russian locale and the [latest version](#user-content-fn-7)[^7] of the game.
-
-If you choose to download the game from the following links, you may skip the part about [patching the game](download-and-install-v1_51-patch.md) to `v1.51`. You also do not have to worry about the serial keys as the installer [does not](#user-content-fn-8)[^8] require one.
-
-**If you are new to the game or the modding process, we suggest always sticking to the primary sources as they are the main references we use throughout our tutorials.**
-
-If you have concerns about the sources we provide, try installing an AntiVirus in advance or downloading the base game from sources that you trust. It is very important that you feel comfortable with what you are doing here.
-
 {% hint style="info" %}
 As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
 {% endhint %}
+
+The setup in this section is prepared by Novgames for its Russian-speaking community. The installer will forcibly[^6] install the Russian locale and the [latest version](#user-content-fn-7)[^7] of the game.
+
+If you choose to download the game from the following links, you may skip the part about [patching the game](download-and-install-v1_51-patch.md) to `v1.51`. You also do not have to worry about the serial keys as the installer [does not](#user-content-fn-8)[^8] require one.
+
+If you are new to the game or the modding process, we suggest always sticking to the primary sources as they are the main references we use throughout our tutorials.
+
+If you have concerns about the sources we provide, try installing an AntiVirus in advance or downloading the base game from sources that you trust. It is very important that you feel comfortable with what you are doing here.
 
 Note that this is not really a legit way to download the game. However, this is becoming the only option left to get the game nowadays apart from buying a second-hand copy from Amazon that doesn't allow you to log in anymore.
 

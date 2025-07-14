@@ -30,7 +30,7 @@ You do not have to play on ranked servers to rank up because you are given all t
 {% endtab %}
 {% endtabs %}
 
-## Apply OpenSpy Patches
+## Procedures
 
 {% hint style="warning" %}
 ​Before proceeding to patch your game, you are strongly advised to backup the following files in your game folder: <mark style="color:blue;">BF2142.exe</mark>, <mark style="color:blue;">RendDX9.dll</mark>.
@@ -46,12 +46,16 @@ You do not have to play on ranked servers to rank up because you are given all t
 7. Click <mark style="color:blue;">Confirm</mark> when the dialogue <mark style="color:blue;">Patch completed, Enjoy!</mark> pops up.
 8. Make sure the checkmarks for <mark style="color:blue;">Patch 1.51</mark>, <mark style="color:blue;">BF2142.exe</mark>, <mark style="color:blue;">RendDX9.d</mark>, <mark style="color:blue;">RendDX9ori.dll</mark> are all <mark style="color:green;">green</mark> after the patching process. If that is not the case, repeat from step 5.
 
-## Install Reclamation Map Pack
+## Reclamation Map Pack
 
 The Reclamation Community operates 2 multiplayer servers, with both running their modified version of maps. In order to play on their public servers, you will have to install their map pack or the map that the server is currently running on.
 
 {% hint style="info" %}
 The following steps are optional as they are only required if you want to play on Reclamation's multiplayer servers.
+{% endhint %}
+
+{% hint style="info" %}
+Reclamation servers are [unmodded servers](#user-content-fn-2)[^2], but are run on a set of modified maps. The downloaded maps are installed to the <mark style="color:blue;">/mods/bf2142/Levels</mark> folder.
 {% endhint %}
 
 **Installing the complete pack**
@@ -68,10 +72,6 @@ There is an option to download the maps individually. To do so, you may refer to
 1. In the <mark style="color:blue;">Download</mark> tab, click <mark style="color:blue;">Individual Maps</mark>.&#x20;
 2. Select the maps that you want to download from the <mark style="color:blue;">Available Maps</mark> box and click <mark style="color:blue;">>></mark>.&#x20;
 3. To uninstall a map, select the map from the <mark style="color:blue;">Installed Maps</mark> box and click <mark style="color:blue;"><<</mark>.
-
-{% hint style="info" %}
-Reclamation servers are [unmodded servers](#user-content-fn-2)[^2], but are run on a set of modified maps. The downloaded maps are installed to the <mark style="color:blue;">/mods/bf2142/Levels</mark> folder.
-{% endhint %}
 
 [^1]: A master server makes a game server visible on the client's server browser.
 
