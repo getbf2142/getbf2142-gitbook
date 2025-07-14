@@ -1,11 +1,13 @@
 ---
-description: This tutorial will guide you through the steps to install the mod.
+description: >-
+  This tutorial will guide you through the steps to download and install the
+  mod.
 ---
 
 # ③ Download & Install Remaster Mod
 
 {% hint style="warning" %}
-We strongly recommend installing the Project Remaster mod for an enhanced gaming experience. If you are new to modding, our tutorial heavily relies on this mod, so it is advised to follow along.
+We strongly recommend installing the mod for an enhanced gaming experience. If you are new to modding, our tutorial heavily relies on this mod, so it is advised to follow along.
 {% endhint %}
 
 Project Remaster is a high-quality enhancement modification for Battlefield 2142. It aims to remaster this 15-year-old game for a complete modern experience by introducing high-quality textures, realistic animations and new weapons into the game engine.&#x20;
@@ -38,20 +40,31 @@ If you already have an older version of the mod installed, you **must** uninstal
 {% tabs %}
 {% tab title="Primary Sources" %}
 {% hint style="warning" %}
-Download the version you prefer to use.
+Download the version you prefer to use. We recommend v14 BETA13.
 {% endhint %}
-
-**project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**14**</mark>**.exe (Google Drive, 3.6 GB)**
-
-{% embed url="https://drive.google.com/file/d/11Lo-b3Hv9jMpoSYz0frVC4cgNiwpFS4Y" %}
-Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Checked: 05/24]
-{% endembed %}
 
 **\[STABLE] project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**13**</mark>**.exe (Google Drive, 3.6 GB)**
 
 {% embed url="https://drive.google.com/file/d/1CqDNfcjALCEs1KEkJut2k2VTeGGUwx4Q/view?usp=share_link" %}
 Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Checked: 05/24]
 {% endembed %}
+
+**project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**14**</mark>**.exe (Google Drive, 3.6 GB)**
+
+{% embed url="https://drive.google.com/file/d/11Lo-b3Hv9jMpoSYz0frVC4cgNiwpFS4Y" %}
+Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Checked: 05/24]
+{% endembed %}
+{% endtab %}
+
+{% tab title="v14 BETA13 Changelog" %}
+* Wiki instead of PDF manual
+* HD crosshairs for all weapons&#x20;
+* HD minimaps&#x20;
+* Blood patch \[Optional]&#x20;
+* Translations for the new weapons and stuff
+* Latest version of BF2142Unlocker (fixes many crashes)&#x20;
+
+Information retrieved from [Project Remaster Discord](https://discord.com/invite/nVdDkgA).
 {% endtab %}
 
 {% tab title="v14 BETA14 Changelog" %}
@@ -76,17 +89,6 @@ Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Checked: 0
 * Added documentation for BF2142Unlocker to the included Wiki
   * Head to Remaster-Launcher and hit **Manual** at the bottom of the window or check ⁠manual
 * Made the game and the installer smaller.
-
-Information retrieved from [Project Remaster Discord](https://discord.com/invite/nVdDkgA).
-{% endtab %}
-
-{% tab title="v14 BETA13 Changelog" %}
-* Wiki instead of PDF manual
-* HD crosshairs for all weapons&#x20;
-* HD minimaps&#x20;
-* Blood patch \[Optional]&#x20;
-* Translations for the new weapons and stuff
-* Latest version of BF2142Unlocker (fixes many crashes)&#x20;
 
 Information retrieved from [Project Remaster Discord](https://discord.com/invite/nVdDkgA).
 {% endtab %}

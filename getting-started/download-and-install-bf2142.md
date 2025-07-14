@@ -1,5 +1,7 @@
 ---
-description: This tutorial will guide you through the steps to install the base game.
+description: >-
+  This tutorial will guide you through the steps to download and install the
+  base game.
 ---
 
 # ① Download & Install BF2142
@@ -34,7 +36,7 @@ We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV)
 
 The setup provided under this section is an image of the <mark style="color:blue;">Standard Edition</mark> retail DVD disc and it contains the following language options:
 
-English, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Polish, Spanish, Swedish, Thai, Russian
+<sub>_English, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Polish, Spanish, Swedish, Thai, Russian_</sub>
 
 Since this setup only holds an early version (i.e.,`v1.01`) of the game, you [**must**](#user-content-fn-5)[^5] follow the instructions in the [next tutorial](download-and-install-v1_51-patch.md) right after finishing all the steps in this tutorial to have the game correctly patched to the latest version  (i.e.,`v1.51`).
 
@@ -139,33 +141,18 @@ Source: [Amazon](https://www.amazon.com/) \[Last Checked: 05/24]
 
 ## Wizard Remarks
 
-1. If you see the prompt <mark style="color:blue;">選擇安裝語言</mark> (English: Select installer language) -> <mark style="color:blue;">從下列選項中選擇安裝語言</mark> (English: Select a language from the list), refer to the following cross-reference list to select your preferred language.
-   * 中文 (繁體) -> Chinese (Traditional)
-   * 丹麥語 -> Danish
-   * 日語 -> Japanese
-   * 西班牙語 -> Spanish
-   * 法語 (標準) -> French (Standard)
-   * 波蘭語 -> Polish
-   * 芬蘭語 -> Finnish
-   * 俄語 -> Russian
-   * <mark style="color:blue;">英語 -> English</mark>
-   * 捷克語 -> Czech
-   * 荷蘭語 -> Dutch
-   * 瑞典語 -> Swedish
-   * 意大利語 -> Italiano
-   * 德語 -> German
-2. If you see the popup <mark style="color:blue;">This game has only been tested on WinXP(32bit)</mark>, click <mark style="color:blue;">Confirm</mark> to safely ignore this warning as the game works perfectly fine on most[^9] Windows platforms.
-3. When you are asked to provide the serial code, simply pick one of the [<mark style="color:blue;">Standard Edition</mark>](#user-content-fn-10)[^10] keys below to pass through the prompt. More keys are available [here](https://mozziefiles.wixsite.com/bf2142).
+1. If you see the popup <mark style="color:blue;">This game has only been tested on WinXP(32bit)</mark>, click <mark style="color:blue;">Confirm</mark> to safely ignore this warning as the game works perfectly fine on most[^9] Windows platforms.
+2. When you are asked to provide the serial code, simply pick one of the [<mark style="color:blue;">Standard Edition</mark>](#user-content-fn-10)[^10] keys below to pass through the prompt. More keys are available [here](https://mozziefiles.wixsite.com/bf2142).
    * SDV5-JZDE-L6B8-P2Q4-1911
    * SVMV-LBNV-W7W5-J3X4-1911
    * E6HH-DWUG-U8X1-R8F0-1911
    * UTFP-4DMN-D2U0-X3T3-1911​
    * TRCL-YBIJ-D4H4-Y3O5-1911
-4. You are strongly advised to install the game to the [default path](#user-content-fn-11)[^11] but it is also fine to install it to other location.
-5. You are strongly advised to install the <mark style="color:blue;">English</mark> version of the game to take advantage of the <mark style="color:blue;">HD English fonts</mark> provided by the Project Remaster mod.
-6. BattleCammo is a VoIP service that allows you to voice chat in-game. Believe it or not, [you won't be using it that much](#user-content-fn-12)[^12]. You can simply skip configuring it by clicking the <mark style="color:blue;">Cancel</mark> button.
-7. GameSpy Comrade is a community gaming application providing functions like friends, stats, and instant messaging. Unfortunately, it no longer works due to [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014. Select the <mark style="color:blue;">No, install GameSpy Comrade later</mark> option to skip installing it.
-8. EA Master Server no longer exists due to [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014. Click <mark style="color:blue;">REGISTER LATER</mark> to skip registering an EA account.
+3. You are strongly advised to install the game to the [default path](#user-content-fn-11)[^11] but it is also fine to install it to other location.
+4. You are strongly advised to install the <mark style="color:blue;">English</mark> version of the game to take advantage of the <mark style="color:blue;">HD English fonts</mark> provided by the Project Remaster mod.
+5. BattleCammo is a VoIP service that allows you to voice chat in-game. Believe it or not, [you won't be using it that much](#user-content-fn-12)[^12]. You can simply skip configuring it by clicking the <mark style="color:blue;">Cancel</mark> button.
+6. GameSpy Comrade is a community gaming application providing functions like friends, stats, and instant messaging. Unfortunately, it no longer works due to [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014. Select the <mark style="color:blue;">No, install GameSpy Comrade later</mark> option to skip installing it.
+7. EA Master Server no longer exists due to [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014. Click <mark style="color:blue;">REGISTER LATER</mark> to skip registering an EA account.
 
 ## System Requirements
 

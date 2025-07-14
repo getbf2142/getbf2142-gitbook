@@ -2,7 +2,7 @@
 description: This tutorial will guide you through the steps to apply the patches.
 ---
 
-# ⑤ Apply OpenSpy patches
+# ⑤ Apply OpenSpy Patches
 
 OpenSpy is an open-source GameSpy clone which aims to provide 100% compatibility with GameSpy games. Reclamation is the core BF2142 community that utilises the OpenSpy master server.
 
@@ -10,13 +10,13 @@ Apart from Openspy - Reclamation, there are other master servers and communities
 
 A master server is a server that holds the database of your login credentials and soldier data. It broadcasts[^1] game servers to the server browser, while in return a game server regularly reports the player's in-game progress to the master server.
 
-Installing OpenSpy patches to the game forces the game to connect through OpenSpy instead of the dead GameSpy. This allows the game to work again, especially for the login and online part, after [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
+Installing OpenSpy patches to the game forces the _game to connect through OpenSpy instead of the dead GameSpy. This allows the game to work again, especially for the login and online part, after_ [_GameSpy shutdown_](https://en.wikipedia.org/wiki/GameSpy#Shutdown) _in June 2014._
 
 ## About OpenSpy - Reclamation
 
 {% tabs %}
 {% tab title="OpenSpy - Reclamation" %}
-![OpenSpy Server List](../.gitbook/assets/reclamation\_orig.png)
+![OpenSpy Server List](../.gitbook/assets/reclamation_orig.png)
 
 * Gadgets: All gadget items are unlocked
 * Playerbase: 10+ players on weekdays, 30+ at weekends

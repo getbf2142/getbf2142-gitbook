@@ -1,21 +1,19 @@
 ---
-description: This tutorial will guide you through the steps to install the client.
+description: >-
+  This tutorial will guide you through the steps to download and install the
+  server client.
 ---
 
-# ① Install the server client
+# ① Download & Install Server Client
 
 ## Procedures
 
-1. ​Download "**Battlefield\_2142\_Server\_Unranked.exe**".​​
+1. ​Download <mark style="color:blue;">Battlefield\_2142\_Server\_Unranked.exe</mark> from [Downloads](download-and-install-server-client.md#downloads).​​
 2. Double-click the .exe file to run the InstallShield wizard.
-3. Click "**Yes**" when the dialogue "**Do you want to allow this app from an unknown publisher to make changes to your device?**" pops up.
+3. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
 4. Follow the wizard instructions to complete the installation.​
-5. Copy the folder "**Project\_Remaster\_v14**" in "**C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods**" and paste it in "**C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods**"_._\
-   _This is a necessary operation if you want to run a modded Project Remaster server. You can do so with other mods as well._
 
-{% hint style="info" %}
-​To keep things simple, you're strongly recommended to install the server client to the default path, which is "**C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server**".
-{% endhint %}
+**​Step 4:** To keep things simple, you are stronly advised to install the server client to the [default path](#user-content-fn-1)[^1].
 
 ## Downloads
 
@@ -24,7 +22,7 @@ description: This tutorial will guide you through the steps to install the clien
 **Battlefield\_2142\_Server\_Unranked (GameFront, 140 MB)**
 
 {% embed url="https://www.gamefront.com/files/battlefield-2142-windows-v1-51-server-files/download" %}
-Source: GameFront.com \[Last Checked on 12 Dec 2022]
+Source: GameFront.com \[Last Checked on 07/25]
 {% endembed %}
 {% endtab %}
 
@@ -32,7 +30,9 @@ Source: GameFront.com \[Last Checked on 12 Dec 2022]
 **Battlefield\_2142\_Server\_Unranked.exe (Google Drive, 140 MB)**
 
 {% embed url="https://drive.google.com/file/d/1RtsJs7_mO6BLtMhSmEdBsUutc_QAQY97/view?usp=sharing" %}
-Source: GetBF2142.net \[Last Checked on 12 Dec 2022]
+Source: GetBF2142.net \[Last Checked on 07/25]
 {% endembed %}
 {% endtab %}
 {% endtabs %}
+
+[^1]: i.e., <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server</mark>

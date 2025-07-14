@@ -28,7 +28,7 @@ This is in contrast with the official updater, which can only be applied increme
 
 ## Procedures
 
-1. Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1\_51-patch.md#downloads) -> Primary Sources.
+1. Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) -> Primary Sources.
 2. Double-click to run the installer. It may [take a while](#user-content-fn-5)[^5] before something shows up.
 3. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
 4. ​Click [<mark style="color:blue;">More Info</mark>](#user-content-fn-6)[^6] and then <mark style="color:blue;">Run Anyway</mark> if the dialogue <mark style="color:blue;">Windows Protected Your PC</mark> (Windows Defender SmartScreen) pops up.
@@ -40,14 +40,10 @@ This is in contrast with the official updater, which can only be applied increme
 
 {% tabs %}
 {% tab title="Primary Sources" %}
-This fan-made installer is able to patch your game directly to `v1.51` , regardless of whether your game is at `v1.00`, `v1.01` or `v1.50`, or whether you have the Standard Edition or the Deluxe Edition installed.&#x20;
+This installer will update the game to the latest version in one-go regardless of the game's current version. It updates the game from `v1.00` / `v1.01`/ `v1.50` to `v1.51`.
 
 {% hint style="danger" %}
-The installer we recommend is a fan-made program, meaning that you might receive virus warnings as it comes from a third-party, "untrusted" source or author. If you are worried about the safety of these files, consider downloading the mirrored official installers in the <mark style="color:blue;">Alternative Sources</mark> tab.
-{% endhint %}
-
-{% hint style="info" %}
-The comment section and the number of downloads are often useful indicators to assess whether a file is safe or not.
+You might receive virus warnings when launching this installer. If you are worried about the safety of these files, consider downloading the mirrored official installers in the <mark style="color:blue;">Alternative Sources</mark> tab.
 {% endhint %}
 
 **BF2142\_Update\_1.51\_Full.exe (ModDB, 2.3 GB)**
@@ -64,12 +60,12 @@ Source: [BF2142 Reclamation](https://battlefield2142.co/) \[Last Checked: 05/24]
 {% endtab %}
 
 {% tab title="Alternative Sources" %}
-The installers provided here are mirrored from official sites before the game's termination. To update the game to the latest version, start by installing the `v1.50` patch and then proceed with the `v1.51` patch. It is important not to mix up the order or you might risk corrupting the game files.
+The installers here are mirrored from EA prior to the game's termination. To update the game to the latest version, start by installing the `v1.50` patch and then proceed with the `v1.51` patch.
 
 The `v1.50` patch updates the game from `v1.00` / `v1.01` to `v1.50`. The `v1.51` patch updates the game from `v1.50` to `v1.51`.
 
 {% hint style="danger" %}
-It is important not to mix up the installation order. Ensure the correct sequence starts by installing the `v1.50` patch followed by the `v1.51` patch.
+Ensure the correct sequence starts by installing the `v1.50` patch followed by the `v1.51` patch.
 {% endhint %}
 
 **BF2142\_Update\_**<mark style="color:red;">**1.50**</mark>**.exe (ModDB, 523 MB)**
@@ -105,7 +101,7 @@ Source: ytres from [ModDB](https://www.moddb.com/) \[Last Checked: 05/24]
 
 [^1]: This is not the case for those who used the setup from Primary Sources to install the base game.
 
-[^2]: If the game asks you to insert the game disc whenever you try to launch the game, it means your game has not been patched to the latest version. To fix this,  follow the instructions [here](download-and-install-v1\_51-patch.md) to fully update the game to `v1.51`.
+[^2]: If the game asks you to insert the game disc whenever you try to launch the game, it means your game has not been patched to the latest version. To fix this,  follow the instructions [here](download-and-install-v1_51-patch.md) to fully update the game to `v1.51`.
 
 [^3]: DRM is an anti-piracy mechanism that requires players to launch their games with their game discs.
 

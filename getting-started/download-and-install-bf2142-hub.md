@@ -1,5 +1,7 @@
 ---
-description: This tutorial will guide you through the steps to install the hub.
+description: >-
+  This tutorial will guide you through the steps to download and install bf2142
+  hub.
 ---
 
 # ④ Download & Install ​BF2142 Hub
