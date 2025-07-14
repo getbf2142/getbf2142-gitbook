@@ -8,7 +8,7 @@ In this step, you will apply OpenSpy patches to the server client, which allows 
 
 ## Procedures
 
-1. Download <mark style="color:blue;">BF2142\_Server\_Patch.zip</mark> from [Downloads](2-download-and-install-server-patch.md#downloads).
+1. Download <mark style="color:blue;">BF2142\_Server\_Patch.zip</mark> from [Downloads](download-and-install-server-patch.md#downloads).
 2. Unpack the zip file to your desktop.
 3. Drag and drop "**BF2142\_w32ded.exe**" from "**C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server**" to the unzipped folder on your desktop.
 4. Look for "**BF2142\_Server\_Patch.exe**" in the unzipped folder. Right-click it and select "**run it as an Administrator**".

@@ -11,10 +11,10 @@
 * [④ Download & Install ​BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
 * [⑤ Apply OpenSpy Patches](getting-started/apply-openspy-patches.md)
 * [⑥ Configure Remaster Launcher](getting-started/configure-remaster-launcher.md)
-* [⑦ Create Account](getting-started/creating-an-account.md)
+* [⑦ Create Account](getting-started/create-account.md)
 * [⑧ Play Singleplayer](getting-started/play-singleplayer.md)
 * [⑨ Play Multiplayer](getting-started/play-multiplayer.md)
-* [⑩ Host Server](getting-started/host-a-server.md)
+* [⑩ Host Server](getting-started/host-server.md)
 * [⍟ Further Readings ...](getting-started/further-readings.md)
 
 ## Enhancements
@@ -27,13 +27,14 @@
 
 * [Official Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
 * [Prima eGuide](https://archive.org/details/Battlefield_2142_Prima_Official_eGuide)
+* [Modding Guide](https://prmp.boards.net/board/9/guides)
 
 ## Dedicated Server
 
 * [① Download & Install Server Client](dedicated-server/download-and-install-server-client.md)
-* [② Download & Install Server Patch](dedicated-server/2-download-and-install-server-patch.md)
-* [③ Host Unranked Server](dedicated-server/host-a-dedicated-unranked-server.md)
-* [⍟ Host a Master & Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
+* [② Download & Install Server Patch](dedicated-server/download-and-install-server-patch.md)
+* [③ Host Unranked Server](dedicated-server/host-unranked-server.md)
+* [⍟ Host Master & Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
 ## Community Projects
 

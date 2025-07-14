@@ -1,8 +1,8 @@
 ---
-description: This tutorial will guide you through the steps to host a server.
+description: This tutorial will guide you through the steps to quickly host a server.
 ---
 
-# ⑩ Host a Server
+# ⑩ Host Server
 
 {% hint style="warning" %}
 * Port forwarding is only required for WAN servers.
@@ -35,7 +35,7 @@ An alternative is to host a LAN server over a VLAN[^3] o that your friends can j
 
 A local server is a game server that appears on the local server browser and is accessible within a LAN network.
 
-This option is most suitable for hosting a game party for your family within your home network, or with your friends across the internet through the use of VLAN[^4].
+This option is most suitable for hosting a game party for your family within your home network, or with your friends across the internet through the use of VLAN[^3].
 
 1. Log in to the game.
 2. Click <mark style="color:blue;">MULTIPLAY</mark>.
@@ -49,7 +49,7 @@ A private WAN server is a game server that does not appear on the online server 
 
 This option is most suitable for hosting a game party with your friends without the need of using any virtual LAN solutions.
 
-1. Forward[^5] the following ports to your server's local IP address in your home router's control panel:\
+1. Forward[^4] the following ports to your server's local IP address in your home router's control panel:\
    `29900 - 29900 UDP or Both`\
    `17567 - 17567 Both​`
 2. Go to [https://www.whatismyip.com/](https://www.whatismyip.com/) to view your public IP address. Tell the IP address to your friends.
@@ -64,9 +64,9 @@ This option is most suitable for hosting a game party with your friends without 
 
 ​A public server is a game server that appears on the online server browser and is accessible through the Internet.&#x20;
 
-Since the server is visible on the browser, you will be [allowing random people](#user-content-fn-6)[^6] on the Internet to join your game.
+Since the server is visible on the browser, you will be [allowing random people](#user-content-fn-5)[^5] on the Internet to join your game.
 
-1. Forward[^7] the following ports to your server's local IP address in your wireless router control panel:\
+1. Forward[^4] the following ports to your server's local IP address in your wireless router control panel:\
    `29900 - 29900 UDP or Both`\
    `17567 - 17567 Both​`
 2. Use file explorer to navigate to <mark style="color:blue;">C:\Users\xxxxx\Documents\Battlefield 2142\Profiles</mark>.
@@ -74,7 +74,7 @@ Since the server is visible on the browser, you will be [allowing random people]
 4. Look for the line that begins with <mark style="color:blue;">GlobalSettings.setDefaultUser</mark>. \
    If its value is <mark style="color:blue;">0001</mark>, open the folder <mark style="color:blue;">0001</mark>.
 5. In the folder, open <mark style="color:blue;">ServerSettings.con</mark> using a text editor.
-6. Look for the line <mark style="color:blue;">GameServerSettings.setInternet 0</mark>. [Change <mark style="color:blue;">0</mark> to <mark style="color:blue;">1</mark>](#user-content-fn-8)[^8]. Save the file.
+6. Look for the line <mark style="color:blue;">GameServerSettings.setInternet 0</mark>. [Change <mark style="color:blue;">0</mark> to <mark style="color:blue;">1</mark>](#user-content-fn-6)[^6]. Save the file.
 7. Go to [https://www.whatismyip.com/](https://www.whatismyip.com/) to view your public IP address. Tell the IP address to your friends.
 8. Log in to the game.
 9. Click <mark style="color:blue;">MULTIPLAY</mark>.
@@ -94,12 +94,8 @@ If port forwarding is not configured properly on the server side, you will still
 
 [^3]: i.e., virtual LAN, e.g., [Hamachi](https://vpn.net/), [PartyLAN](https://github.com/gyf304/partylan)
 
-[^4]: i.e., virtual LAN, e.g., [Hamachi](https://vpn.net/), [PartyLAN](https://github.com/gyf304/partylan)
+[^4]: i.e., Port Forwarding / NAT Virtual Server)
 
-[^5]: i.e., Port Forwarding / NAT Virtual Server)
+[^5]: If you don't want to be disturbed, set a password for your server.
 
-[^6]: If you don't want to be disturbed, set a password for your server.
-
-[^7]: i.e., Port Forwarding / NAT Virtual Server)
-
-[^8]: This tells OpenSpy to show your server on the server browser. `1` for Internet, `0` for LAN.
+[^6]: This tells OpenSpy to show your server on the server browser. `1` for Internet, `0` for LAN.
