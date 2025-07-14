@@ -39,7 +39,7 @@
 
 * [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
 * [BF2142 First Strike](https://www.moddb.com/mods/first-strike)
-* [BF2142 Remastered](https://www.moddb.com/mods/project-remaster)
+* [BF2142 Remastered](https://www.moddb.com/mods/bf2142-project-remaster)
 * [BF2142 Reclamation](https://battlefield2142.co/)
 
 ## Quick Links

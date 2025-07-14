@@ -28,7 +28,7 @@ GetBF2142.net is not affliated with Project Reclamation.
 **BF2142\_Hub\_Setup.exe (ModDB, 1.2 MB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/bf2142-hub-2" %}
-Source: [BF2142 Reclamation](https://battlefield2142.co/) \[Last Checked: 05/24]
+Source: [BF2142 Reclamation](https://battlefield2142.co/) \[Last Checked: 07/2025]
 {% endembed %}
 {% endtab %}
 {% endtabs %}

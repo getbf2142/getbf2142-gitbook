@@ -40,7 +40,7 @@ The setup provided under this section is an image of the <mark style="color:blue
 
 Since this setup only holds an early version (i.e.,`v1.01`) of the game, you [**must**](#user-content-fn-5)[^5] follow the instructions in the [next tutorial](download-and-install-v1_51-patch.md) right after finishing all the steps in this tutorial to have the game correctly patched to the latest version  (i.e.,`v1.51`).
 
-**If you are new to the game or the modding process, we suggest always sticking to the primary sources as they are the main references we use throughout our tutorials.**
+If you are new to the game or the modding process, we suggest always sticking to the primary sources as they are the main references we use throughout our tutorials.
 
 If you have concerns about the sources we provide, try installing an AntiVirus in advance or downloading the base game from sources that you trust. It is very important that you feel comfortable with what you are doing here.
 
@@ -53,19 +53,19 @@ Note that this is not really a legit way to download the game. However, this is 
 **BF2142\_Setup.rar (Google Drive, 3.24 GB)**
 
 {% embed url="https://drive.google.com/file/d/1gDA9OtbxGK2aYDBltoDZ-id0Ta6LtjHQ/view" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 05/24]
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 07/2025]
 {% endembed %}
 
 **\[MIRROR] BF2142\_Setup.rar (MediaFire, 3.24 GB)**
 
 {% embed url="https://mediafire.com/file/g6xhktutdtnpgs3/BF2142_Setup.rar/file" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 05/24]
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 07/2025]
 {% endembed %}
 
 **\[MIRROR] Battlefield 2142 Setup.rar (MediaFire, 3.24 GB)**
 
 {% embed url="https://www.mediafire.com/file/1eugw0jb8tr93e3/Battlefield_2142_Setup.rar/file" %}
-Source: [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142) \[Last Checked: 05/24]
+Source: [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142) \[Last Checked: 07/2025]
 {% endembed %}
 {% endtab %}
 
@@ -87,22 +87,22 @@ As the game has been nothing but abandoned by the developers and its publisher, 
 
 Note that this is not really a legit way to download the game. However, this is becoming the only option left to get the game nowadays apart from buying a second-hand copy from Amazon that doesn't allow you to log in anymore.
 
-**BF2142\_Novgames.zip (Yandex, 2.44 GB)**
+**BF2142\_Novgames.zip (Google Drive / Torrent, 2.44 GB)**
 
-{% embed url="https://disk.yandex.ru/d/XY7LR48r7yNbYQ" %}
-Source: [NovGames](https://novgames.ru/) \[Last Checked: 05/24]
+{% embed url="https://novgames.ru/download_en/" %}
+Source: [NovGames](https://novgames.ru/) \[Last Checked: 07/2025]
 {% endembed %}
 
 **\[MIRROR] BF2142\_Novgames.zip (MediaFire, 2.44 GB)**
 
 {% embed url="https://www.mediafire.com/file/1k7kdaxblradlo1/BF2142_Novgames.zip/file" %}
-Source: [NovGames](https://novgames.ru/) \[Last Checked: 05/24]
+Source: [NovGames](https://novgames.ru/) \[Last Checked: 07/2025]
 {% endembed %}
 
 **\[MIRROR] BF2142\_Novgames.zip (Google Drive, 2.44 GB)**
 
 {% embed url="https://drive.google.com/file/d/1DBy_cPleUuHD2SgGPrqjjjTtArod1OUO/view" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 05/24]
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 07/2025]
 {% endembed %}
 
 **2142nov.rar (Google Drive, 4.9 GB) All-in-one Pack**\
@@ -110,31 +110,29 @@ Unzip Password: bettercallsaul\
 Content: BF2142 Novgames AE, Remaster mod, BF2142 Hub
 
 {% embed url="https://drive.google.com/file/d/1aL8mFnq3Dv_BXzto0RvmSzf39kUeb1nW/view?usp=sharing" %}
-Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[Last Checked: 05/24]
+Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[Last Checked: 07/2025]
 {% endembed %}
 {% endtab %}
 
 {% tab title="Other Sources" %}
 {% embed url="https://archive.org/search?query=battlefield+2142" %}
-Source: [Internet Archive](https://archive.org/) \[Last Checked: 05/24]
+Source: [Internet Archive](https://archive.org/) \[Last Checked: 07/2025]
 {% endembed %}
 
 {% embed url="https://oldgamesdownload.com/battlefield-2142-gdx1/" %}
-Source: [Old Games Download](https://oldgamesdownload.com/) \[Last Checked: 05/24]
+Source: [Old Games Download](https://oldgamesdownload.com/) \[Last Checked: 07/2025]
 {% endembed %}
 {% endtab %}
 
 {% tab title="Amazon" %}
-**Battlefield 2142 Deluxe Edition v1.51**
-
 The only way to obtain the game "legitimately" is to buy a second-hand retail DVD. A used copy usually means the product key is activated or expired. Though this may have defeated the purpose of spending money on it, nostalgia is always a good reason to support an old title like this.
 
 If you really like the game and have some extra money to spend, we do encourage buying one yourself. It may seem unobvious at first but actually many of the die-hards own a physical copy of the game. Some even got the disc as early as in 2005. As we always say, we are real Battlefield lovers, and that's why we made this website.
 
-**Battlefield 2142 Deluxe Edition Retail DVD**
+**Battlefield 2142 Retail DVD**
 
 {% embed url="https://www.amazon.com/Battlefield-2142-Deluxe-PC/dp/B000YJ3TR8" %}
-Source: [Amazon](https://www.amazon.com/) \[Last Checked: 05/24]
+Source: [Amazon](https://www.amazon.com/) \[Last Checked: 07/2025]
 {% endembed %}
 {% endtab %}
 {% endtabs %}

@@ -5,7 +5,7 @@ description: Supplementary materials that are worth taking notes of.
 # ⍟ Further Readings ...
 
 {% hint style="warning" %}
-The Remaster's manual includes a lot of important information about the game and the mod itself, so we strongly recommend taking the time to read through their materials.
+Remaster's manual includes a lot of important information about the game and the mod itself, so we strongly recommend taking the time to read through their materials.
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/WhatsApp Image 2022-12-12 at 1.48.18 AM.jpeg" alt=""><figcaption><p>Source: <a href="https://discord.gg/nVdDkgA">Project Remaster Discord</a></p></figcaption></figure>

@@ -49,13 +49,7 @@ You might receive virus warnings when launching this installer. If you are worri
 **BF2142\_Update\_1.51\_Full.exe (ModDB, 2.3 GB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-v151-full" %}
-Source: [LordSte](https://www.moddb.com/members/lordste) from [ModDB](https://www.moddb.com/) \[Last Checked: 05/24]
-{% endembed %}
-
-**\[MIRROR] BF2142\_Update\_1.51\_Full.exe (Google Drive, 2.3 GB)**
-
-{% embed url="https://drive.google.com/file/d/1JMjXerwYKSS8xwisfSAX6ihiTB0UeqsL/view" %}
-Source: [BF2142 Reclamation](https://battlefield2142.co/) \[Last Checked: 05/24]
+Source: [LordSte](https://www.moddb.com/members/lordste) from [ModDB](https://www.moddb.com/) \[Last Checked: 07/2025]
 {% endembed %}
 {% endtab %}
 
@@ -71,13 +65,13 @@ Ensure the correct sequence starts by installing the `v1.50` patch followed by t
 **BF2142\_Update\_**<mark style="color:red;">**1.50**</mark>**.exe (ModDB, 523 MB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-150" %}
-Source: [RhodN](https://www.moddb.com/members/grafix1) from [ModDB](https://www.moddb.com/) \[Last Checked: 05/24]
+Source: [RhodN](https://www.moddb.com/members/grafix1) from [ModDB](https://www.moddb.com/) \[Last Checked: 07/2025]
 {% endembed %}
 
 **BF2142\_Patch\_**<mark style="color:red;">**1.51**</mark>**.exe (ModDB, 1.95 GB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-v151-patch-final" %}
-Source: ytres from [ModDB](https://www.moddb.com/) \[Last Checked: 05/24]
+Source: ytres from [ModDB](https://www.moddb.com/) \[Last Checked: 07/2025]
 {% endembed %}
 {% endtab %}
 {% endtabs %}

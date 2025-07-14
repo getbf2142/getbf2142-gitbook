@@ -19,18 +19,16 @@ description: >-
 
 {% tabs %}
 {% tab title="Primary Sources" %}
-**Battlefield\_2142\_Server\_Unranked (GameFront, 140 MB)**
+**Battlefield\_2142\_Server\_Unranked (BF-GAMES, 140 MB)**
 
-{% embed url="https://www.gamefront.com/files/battlefield-2142-windows-v1-51-server-files/download" %}
-Source: GameFront.com \[Last Checked on 07/25]
+{% embed url="https://www.bf-games.net/downloads/mirror/4659" %}
+Source: BF-GAMES \[Last Checked on 07/2025]
 {% endembed %}
-{% endtab %}
 
-{% tab title="Alternative Sources" %}
-**Battlefield\_2142\_Server\_Unranked.exe (Google Drive, 140 MB)**
+**\[MIRROR] Battlefield\_2142\_Server\_Unranked.exe (Google Drive, 140 MB)**
 
 {% embed url="https://drive.google.com/file/d/1RtsJs7_mO6BLtMhSmEdBsUutc_QAQY97/view?usp=sharing" %}
-Source: GetBF2142.net \[Last Checked on 07/25]
+Source: GetBF2142 \[Last Checked on 07/2025]
 {% endembed %}
 {% endtab %}
 {% endtabs %}
