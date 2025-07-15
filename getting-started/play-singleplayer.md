@@ -39,12 +39,12 @@ You should consider this option only when OpenSpy service is down or when intern
 1. Start the launcher.
 2. Go to the <mark style="color:blue;">Play Offline</mark> page and click <mark style="color:blue;">Play offline</mark>.
 3. On the login screen, click <mark style="color:blue;">LOGIN</mark> [without having to input the password](#user-content-fn-1)[^1].
-4. Follow the steps in either [Option 1](play-singleplayer.md#setting-up-a-quick-game-in-singleplay) or [Option 2](play-singleplayer.md#setting-up-a-lan-server-in-multiplay).
+4. Follow the steps in either [#setting-up-a-quick-game-in-singleplay](play-singleplayer.md#setting-up-a-quick-game-in-singleplay "mention") or [#setting-up-a-lan-server-in-multiplay](play-singleplayer.md#setting-up-a-lan-server-in-multiplay "mention").
 
 ## Remarks
 
 1. Use the launcher to configure the number of bots. Set it to an odd number so that the team can be balanced.
-2. The customisation screen is only available for use in [Option 1](play-singleplayer.md#setting-up-a-quick-game-in-singleplay) and [Option 2](play-singleplayer.md#setting-up-a-lan-server-in-multiplay) with OpenSpy. It will not work in [Option 3](play-singleplayer.md#launching-the-offline-mini-mod).
+2. The customisation screen is only available for [#setting-up-a-quick-game-in-singleplay](play-singleplayer.md#setting-up-a-quick-game-in-singleplay "mention") and [#setting-up-a-lan-server-in-multiplay](play-singleplayer.md#setting-up-a-lan-server-in-multiplay "mention"). It will not work for [#launching-the-offline-mini-mod](play-singleplayer.md#launching-the-offline-mini-mod "mention").
 3. Windows Firewall may pop up if it is your first time [hosting a LAN server](play-singleplayer.md#setting-up-a-lan-server-in-multiplay). Whenever you see this prompt, allow the game to communicate through both private and public networks to avoid connection issues.
 
 [^1]: If this doesn't work, ​change the account name to <mark style="color:blue;">singleplayer</mark> and press <mark style="color:blue;">LOGIN</mark>. Leave the password empty.

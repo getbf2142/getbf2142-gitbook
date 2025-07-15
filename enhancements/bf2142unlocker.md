@@ -13,4 +13,4 @@ The manual can be accessed by clicking the <mark style="color:blue;">Manual</mar
 The details of how to use BF2142 Unlocker will not be discussed here in this tutorial. You may refer to the Project Remaster's manual for more instructions.
 {% endhint %}
 
-![](../.gitbook/assets/efwewewefw.PNG)
+![](broken-reference)

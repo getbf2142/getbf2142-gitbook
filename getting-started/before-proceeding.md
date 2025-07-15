@@ -4,11 +4,11 @@ description: Which steps do you need / not need to do?
 
 # ⍟ Before Proceeding
 
-To have a fully functional Battlefield 2142 up and running, you should read the guide ① - ⑩ in sequence. However, based on your preferences and situation, you may skip some of the steps safely. The following guide you which steps you must take and which steps you can safely skip.
+To get Battlefield 2142 up and running, just follow steps ① – ⑩ in order. Depending on your setup, you can safely skip a few steps — this guide will show you which ones are essential and which you can skip!
 
 ## Game installed?
 
-This affects whether you can skip any steps in ① - ② or not.
+This will determine whether you can skip any steps in ① – ② or if you need to complete them both.
 
 <details>
 
@@ -39,11 +39,11 @@ You can skip these steps: [① Download & Install BF2142](download-and-install-b
 
 ## Modded or Unmodded?
 
-This affects whether you can skip any steps in ③ - ⑥ or not.
+This will determine whether you need to complete all the steps in ③ – ⑥ or if you can skip some of them.
 
-* If you will mostly play public multiplayer on Reclamation servers, choose Unmodded. \[Why?[^1]]
-* If you will mostly play singleplayer and sometimes with your friends via LAN, choose Modded. \[Why?[^2]]
-* If you have no idea, choose Modded. \[Why?[^3]]
+* If you will be mostly playing public multiplayer on Reclamation servers, go with Unmodded. \[Why?[^1]]
+* If you are mainly interested in singleplayer or playing with friends over LAN, choose Modded. \[Why?[^2]]
+* Not sure? Modded is a safe bet. \[Why?[^3]]
 
 <details>
 
@@ -66,8 +66,8 @@ You should follow these steps:\
 
 </details>
 
-[^1]: Most players who still play BF2142 multiplayer are on Reclamation servers. Reclamation servers are, however, unmodded. To join their servers, you need to launch the game without mods.
+[^1]: Most multiplayer players are on Reclamation servers, which are unmodded. So, if you want to join those servers, you’ll need to launch the game without any mods.
 
-[^2]: Remaster mod offers high-quality textures, realistic animations and new weapons to the game.
+[^2]: Remaster mod adds high-quality textures, realistic animations, and new weapons to the game.
 
-[^3]: You can easily switched between modded and unmodded with Remaster Launcher.
+[^3]: With Remaster Launcher, it’s easy to switch between modded and unmodded whenever you like.

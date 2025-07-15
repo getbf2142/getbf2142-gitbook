@@ -8,6 +8,10 @@ description: This tutorial will guide you through the steps to update the game.
 You can skip this tutorial if you [already have the game patched](#user-content-fn-1)[^1] to `v1.51`. If you cannot [launch the game without a disc](#user-content-fn-2)[^2], it means your game has not been updated to `v1.51`.
 {% endhint %}
 
+{% hint style="info" %}
+Whenever you are unsure about your game's version, check the version string in <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods\bf2142</mark>.
+{% endhint %}
+
 It is necessary to update the game to `v1.51` because:
 
 * DRM[^3] is officially removed: Game disc is no longer something required to launch the game.
@@ -15,8 +19,6 @@ It is necessary to update the game to `v1.51` because:
 * Northern Strike expansion pack content is added to the game free of charge: A final goodbye to the game as DICE moved on to Battlefield 3 and beyond.
 * All the game's final features become accessible, including various bug fixes and additional content.
 * Most existing master servers (e.g., OpenSpy), game servers (e.g., Reclamation) and mods (e.g., Project Remaster) require this version of the game.
-
-Whenever you are unsure about your game's version, check the version string in <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods\bf2142</mark>.
 
 ## Procedures
 

@@ -9,7 +9,7 @@ description: This tutorial will guide you through the steps to host a server.
 * Players do not need to do port forwarding. Only servers need to do that.
 * BF2142ServerLauncher does not support mod. That's why you have to run it via a shortcut.
 * Modded and unmodded servers read server settings files from different locations.
-* For more server configurations, please refer to [https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html](https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html).
+* For more server configurations, please refer to [https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html](https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html) or \mods\bf2142\Settings\ServerSettings.csv.
 {% endhint %}
 
 ## Hosting a Modded Server on OpenSpy
