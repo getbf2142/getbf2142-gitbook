@@ -124,7 +124,7 @@ Refer to [https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--
 
 </details>
 
-[^1]: However, you can configure more settings using a text editor.
+[^1]: However, you can configure more settings using a text editor. More details will be discussed [here](host-server.md#useful-flags-to-be-appended-to-gamelogicinit.con).
 
 [^2]: The server hoster plays while hosting. If he or she closes the game, the server will be closed as well.
 
