@@ -12,7 +12,7 @@ description: This tutorial will guide you through the steps to quickly host a se
 
 In this tutorial, you will learn how to host a simple server in-game. However, there are always some bad things behind something that is quick and easy to set up:
 
-* There are fewer[^1] game settings available for you to configure.
+* There are fewer game settings available for you to configure in-game[^1].
 * The server hoster has to be [playing on the server](#user-content-fn-2)[^2] as well.
 
 ​That's why for a production server, you will need to host it with a [dedicated server client](../dedicated-server/download-and-install-server-client.md). But this quick setup method should already be sufficient for most of the use cases.
@@ -52,7 +52,7 @@ This option is most suitable for hosting a game party with your friends without 
 1. Forward[^4] the following ports to your server's local IP address in your home router's control panel:\
    `29900 - 29900 UDP or Both`\
    `17567 - 17567 Both​`
-2. Go to [https://www.whatismyip.com/](https://www.whatismyip.com/) to view your public IP address. Tell the IP address to your friends.
+2. Go to [https://www.whatismyip.com/](https://www.whatismyip.com/) to view your public IP address. Message your friends the IP address.
 3. Log in to the game.
 4. Click <mark style="color:blue;">MULTIPLAY</mark>.
 5. Click <mark style="color:blue;">LOCAL</mark>.
@@ -75,7 +75,7 @@ Since the server is visible on the browser, you will be [allowing random people]
    If its value is <mark style="color:blue;">0001</mark>, open the folder <mark style="color:blue;">0001</mark>.
 5. In the folder, open <mark style="color:blue;">ServerSettings.con</mark> using a text editor.
 6. Look for the line <mark style="color:blue;">GameServerSettings.setInternet 0</mark>. [Change <mark style="color:blue;">0</mark> to <mark style="color:blue;">1</mark>](#user-content-fn-6)[^6]. Save the file.
-7. Go to [https://www.whatismyip.com/](https://www.whatismyip.com/) to view your public IP address. Tell the IP address to your friends.
+7. Go to [https://www.whatismyip.com/](https://www.whatismyip.com/) to view your public IP address. Message your friends the IP address.
 8. Log in to the game.
 9. Click <mark style="color:blue;">MULTIPLAY</mark>.
 10. Click <mark style="color:blue;">LOCAL</mark>.
@@ -88,7 +88,17 @@ If port forwarding is not configured properly on the server side, you will still
 
 ​LAN players can still join your server using your local IP address while WAN players can join your server using your public IP address.
 
-[^1]: Relative to a dedicated server.
+## Configuring more server settings
+
+1. Use file explorer to navigate to <mark style="color:blue;">C:\Users\xxxxx\Documents\Battlefield 2142\Profiles</mark>.
+2. Open <mark style="color:blue;">Global.con</mark> using a text editor.&#x20;
+3. Look for the line that begins with <mark style="color:blue;">GlobalSettings.setDefaultUser</mark>. \
+   If its value is <mark style="color:blue;">0001</mark>, open the folder <mark style="color:blue;">0001</mark>.
+4. In the folder, open <mark style="color:blue;">ServerSettings.con</mark> using a text editor.
+5. Modify the values, add or remove flags according to your needs.
+6. Refer to [https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html](https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html) or <mark style="color:blue;">\mods\bf2142\Settings\ServerSettings.csv</mark> for reference.
+
+[^1]: However, you can configure more settings using a text editor.
 
 [^2]: The server hoster plays while hosting. If he or she closes the game, the server will be closed as well.
 
