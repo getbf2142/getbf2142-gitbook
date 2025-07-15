@@ -16,8 +16,6 @@ When the game is [OpenSpy-ready](apply-openspy-patches.md), the customisation sc
 2. Click <mark style="color:blue;">SINGLEPLAY</mark>.
 3. Configure your game and click <mark style="color:blue;">START PLAYLIST</mark>.
 
-Refer to [here](host-server.md#configuring-more-server-settings) for more game settings.
-
 ## **M2. Setting up a LAN server in "MULTIPLAY"**
 
 This option allows you to adjust game options like ticket ratio, team ratio, round time, friendly fire, spawn time, etc.
