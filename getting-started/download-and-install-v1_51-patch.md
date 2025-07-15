@@ -9,7 +9,7 @@ You can skip this tutorial if you [already have the game patched](#user-content-
 {% endhint %}
 
 {% hint style="info" %}
-Whenever you are unsure about your game's version, check the version string in <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods\bf2142</mark>.
+Whenever you are unsure about your game's version, check the version string in <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods\bf2142\Mod.desc</mark>.
 {% endhint %}
 
 It is necessary to update the game to `v1.51` because:

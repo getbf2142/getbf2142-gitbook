@@ -55,7 +55,7 @@ The following steps are optional as they are only required if you want to play o
 {% endhint %}
 
 {% hint style="info" %}
-Reclamation servers are [unmodded servers](#user-content-fn-2)[^2], but are run on a set of modified maps. The downloaded maps are installed to the <mark style="color:blue;">/mods/bf2142/Levels</mark> folder.
+Reclamation servers are [unmodded servers](#user-content-fn-2)[^2], but are run on a set of modified maps. The downloaded maps are installed to the <mark style="color:blue;">\mods\bf2142\Levels</mark> folder.
 {% endhint %}
 
 **Installing the complete pack**

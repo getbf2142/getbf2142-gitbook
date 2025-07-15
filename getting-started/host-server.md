@@ -69,7 +69,7 @@ Since the server is visible on the browser, you will be [allowing random people]
 1. Forward[^4] the following ports to your server's local IP address in your wireless router control panel:\
    `29900 - 29900 UDP or Both`\
    `17567 - 17567 Both​`
-2. Use file explorer to navigate to <mark style="color:blue;">C:\Users\xxxxx\Documents\Battlefield 2142\Profiles</mark>.
+2. Use file explorer to navigate to <mark style="color:blue;">C:\Users\\\<YOU>\Documents\Battlefield 2142\Profiles</mark>.
 3. Open <mark style="color:blue;">Global.con</mark> using a text editor.&#x20;
 4. Look for the line that begins with <mark style="color:blue;">GlobalSettings.setDefaultUser</mark>. \
    If its value is <mark style="color:blue;">0001</mark>, open the folder <mark style="color:blue;">0001</mark>.
@@ -90,13 +90,13 @@ If port forwarding is not configured properly on the server side, you will still
 
 ## Configuring more server settings
 
-1. Use file explorer to navigate to <mark style="color:blue;">C:\Users\xxxxx\Documents\Battlefield 2142\Profiles</mark>.
+1. Use file explorer to navigate to <mark style="color:blue;">C:\Users\\\<YOU>\Documents\Battlefield 2142\Profiles</mark>.
 2. Open <mark style="color:blue;">Global.con</mark> using a text editor.&#x20;
 3. Look for the line that begins with <mark style="color:blue;">GlobalSettings.setDefaultUser</mark>. \
    If its value is <mark style="color:blue;">0001</mark>, open the folder <mark style="color:blue;">0001</mark>.
 4. In the folder, open <mark style="color:blue;">ServerSettings.con</mark> using a text editor.
-5. Modify the values, add or remove flags according to your needs.
-6. Refer to [https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html](https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html) or <mark style="color:blue;">\mods\bf2142\Settings\ServerSettings.csv</mark> for reference.
+5. Modify the values according to your needs. \[How?[^7]]
+6. Safe the file to apply the changes.
 
 [^1]: However, you can configure more settings using a text editor.
 
@@ -109,3 +109,5 @@ If port forwarding is not configured properly on the server side, you will still
 [^5]: If you don't want to be disturbed, set a password for your server.
 
 [^6]: This tells OpenSpy to show your server on the server browser. `1` for Internet, `0` for LAN.
+
+[^7]: Refer to [https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html](https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html) or <mark style="color:blue;">\mods\bf2142\Settings\ServerSettings.csv</mark> as a reference.
