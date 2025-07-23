@@ -98,7 +98,7 @@ At GetBF2142.net, we have a soft spot for nostalgia, and we believe in teaching 
 
 <summary>Why are there so many steps?</summary>
 
-We want to guide you step-by-step, making sure you’ve done everything correctly as you go. Along the way, we’ll explain why each action matters and share solutions to common problems you might encounter. All these helps boost your chances of getting the game up and running smoothly.
+Getting a legacy game up and running does take a bit of patience, and there are plenty of spots where things can go wrong. That’s why we guide you step-by-step, making sure everything’s done correctly as you go. We’ll explain why each step matters and offer solutions to common issues along the way — all to give you the best shot at getting the game working smoothly.
 
 </details>
 
