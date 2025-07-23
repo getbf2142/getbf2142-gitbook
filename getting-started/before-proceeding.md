@@ -37,17 +37,17 @@ You can skip these steps: [① Download & Install BF2142](download-and-install-b
 
 </details>
 
-## Modded or Unmodded?
+## Vanilla or Remastered?
 
 This will determine whether you need to complete all the steps in ③ – ⑥ or if you can skip some of them.
 
-* If you will be mostly playing public multiplayer on Reclamation servers, go with Unmodded. \[Why?[^1]]
-* If you are mainly interested in singleplayer or playing with friends over LAN, choose Modded. \[Why?[^2]]
-* Not sure? Modded is a safe bet. \[Why?[^3]]
+* If you will be mostly playing public multiplayer on Reclamation servers, go with Vanilla. \[Why?[^1]]
+* If you are mainly interested in singleplayer or playing with friends over LAN, choose Remastered. \[Why?[^2]]
+* Not sure? Remastered is a safe bet. \[Why?[^3]]
 
 <details>
 
-<summary>I prefer modded.</summary>
+<summary>I prefer Remastered.</summary>
 
 You should follow these steps:\
 [③ Download & Install Remaster Mod](download-and-install-remaster-mod.md) → [④ Download & Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [⑤ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑥ Configure Remaster Launcher](configure-remaster-launcher.md) → [⑦ Create Account](create-account.md)
@@ -56,7 +56,7 @@ You should follow these steps:\
 
 <details>
 
-<summary>I prefer unmodded.</summary>
+<summary>I prefer Vanilla.</summary>
 
 You can skip these steps:\
 [③ Download & Install Remaster Mod](download-and-install-remaster-mod.md), [⑥ Configure Remaster Launcher](configure-remaster-launcher.md)
