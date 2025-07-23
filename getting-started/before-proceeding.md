@@ -4,11 +4,11 @@ description: Which steps do you need / not need to do?
 
 # ⍟ Before Proceeding
 
-To get Battlefield 2142 up and running, just follow steps ① – ⑩ in order. Depending on your setup, you can safely skip a few steps — this guide will show you which ones are essential and which you can skip!
+To get Battlefield 2142 up and running, just follow tutorial **①** – **⑩** in order. Depending on your setup, you can safely skip a few steps — this guide will show you which ones are essential and which you can skip!
 
-## Game installed?
+## ① – ② Game installed?
 
-This will determine whether you can skip any steps in ① – ② or if you need to complete them both.
+This will determine whether you can skip any tutorial in ① – ② or if you need to complete them both.
 
 <details>
 
@@ -37,9 +37,9 @@ You can skip these steps: [① Download & Install BF2142](download-and-install-b
 
 </details>
 
-## Vanilla or Remastered?
+## **③** – **⑦** Vanilla or Remastered?
 
-This will determine whether you need to complete all the steps in ③ – ⑥ or if you can skip some of them.
+This will determine whether you need to complete tutorial **③** – **⑦** or if you can skip some of them.
 
 * If you will be mostly playing public multiplayer on Reclamation servers, go with Vanilla. \[Why?[^1]]
 * If you are mainly interested in singleplayer or playing with friends over LAN, choose Remastered. \[Why?[^2]]
@@ -49,8 +49,11 @@ This will determine whether you need to complete all the steps in ③ – ⑥ or
 
 <summary>I prefer Remastered.</summary>
 
-You should follow these steps:\
+You should follow these steps in order:\
 [③ Download & Install Remaster Mod](download-and-install-remaster-mod.md) → [④ Download & Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [⑤ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑥ Configure Remaster Launcher](configure-remaster-launcher.md) → [⑦ Create Account](create-account.md)
+
+Depending on your needs, the tutorials below are optional:\
+[⑧ Play Singleplayer](play-singleplayer.md), [⑨ Play Multiplayer](play-multiplayer.md), [⑩ Host Server](host-server.md)
 
 </details>
 
@@ -63,6 +66,9 @@ You can skip these steps:\
 
 You should follow these steps:\
 [④ Download & Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [⑤ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑦ Create Account](create-account.md)
+
+Depending on your needs, the tutorials below are optional:\
+[⑧ Play Singleplayer](play-singleplayer.md), [⑨ Play Multiplayer](play-multiplayer.md), [⑩ Host Server](host-server.md)
 
 </details>
 
