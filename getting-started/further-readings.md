@@ -12,6 +12,6 @@ The Remaster Manual and Tweak Guide are full of helpful info about the game and 
 
 These materials are great resources if you want to dive deeper into the game. They come built right into the mod — just [install Project Remaster](download-and-install-remaster-mod.md) and click their respective button in the launcher to access them.
 
-<figure><img src="../.gitbook/assets/launcher_manual.png" alt=""><figcaption><p>Source: <a href="https://discord.gg/nVdDkgA">Project Remaster Discord</a></p></figcaption></figure>
+<figure><img src="../.gitbook/assets/launcher_manual.png" alt="" width="375"><figcaption><p>Source: <a href="https://discord.gg/nVdDkgA">Project Remaster Discord</a></p></figcaption></figure>
 
 Enjoy exploring the wiki! See you on the battlefield!

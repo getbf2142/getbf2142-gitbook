@@ -72,6 +72,36 @@ Depending on your needs, the tutorials below are optional:\
 
 </details>
 
+## FAQ
+
+<details>
+
+<summary>Why don’t the guides cover BF2142Unlocker?</summary>
+
+{% hint style="danger" %}
+It is currently not possible to play the game via BF2142Unlocker.
+
+BF2142 Unlocker has been broken after Windows update and there is no known fix for that. For some people it still works. But for most (mainly Windows 10/11 users) it doesn't.
+{% endhint %}
+
+**What is BF2142Unlocker, and what makes it so useful?**
+
+This tool eliminates the need to install patches yourself and handles everything from joining servers, switching master servers, hosting LAN games, to finding a server. All you need to do is launch BF2142Unlocker and use their intuitive off-game GUI to start playing the game.
+
+**Why didn’t our tutorials cover BF2142Unlocker?**
+
+At GetBF2142.net, we have a soft spot for nostalgia, and we believe in teaching newcomers how to install the game classically. While this method may take a few more steps compared to the quick setup, it results in a fully functional game that can be launched using the old GUI. You can then spend your happy moments exploring the game and creating or joining games through it.
+
+</details>
+
+<details>
+
+<summary>Why are there so many steps?</summary>
+
+We want to guide you step-by-step, making sure you’ve done everything correctly as you go. Along the way, we’ll explain why each action matters and share solutions to common problems you might encounter. All these helps boost your chances of getting the game up and running smoothly.
+
+</details>
+
 [^1]: Most multiplayer players are on Reclamation servers, which are unmodded. So, if you want to join those servers, you’ll need to launch the game without any mods.
 
 [^2]: Remaster mod adds high-quality textures, realistic animations, and new weapons to the game.
