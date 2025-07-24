@@ -33,9 +33,12 @@ Activating Reshade is super simple. Just open your <mark style="color:blue;">Rem
 
 1. Download either the latest or older release.
 2. Extract all the files from the .rar to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`. If not, then manually edit all the paths in `d3d9.ini` .
-3. Launch the game.
-4. Press <mark style="color:blue;">Shift + F2</mark> to open ReShade in-game tool.
-5. On the <mark style="color:blue;">Home</mark> tab, check if the preset has loaded — you should see shaders like Levels.fx and Vignette.fx listed. If the page is empty, the shaders are not loaded yet.&#x20;
+
+## Let’s try it out in-game !
+
+1. Launch the game.
+2. Press <mark style="color:blue;">Shift + F2</mark> to open ReShade in-game tool.
+3. On the <mark style="color:blue;">Home</mark> tab, check if the preset has loaded — you should see shaders like Levels.fx and Vignette.fx listed. If the page is empty, the shaders are not loaded yet.&#x20;
    1. Go to the <mark style="color:blue;">Settings</mark> tab and enter the correct paths:
       1. Effect search path: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\reshade-shaders\Shaders` (or wherever your setup is)
       2. Texture search path: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\reshade-shaders\Textures` (or wherever your setup is)
