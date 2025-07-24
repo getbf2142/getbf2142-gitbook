@@ -99,7 +99,7 @@ If port forwarding is not configured properly on the server side, you will still
    If its value is <mark style="color:blue;">0001</mark>, open the folder <mark style="color:blue;">0001</mark>.
 5. In the folder, open <mark style="color:blue;">ServerSettings.con</mark> using a text editor.
 6. Modify the values according to your needs. \[How?[^7]]
-7. Safe the file to apply the changes.
+7. Save the file to apply the changes.
 8. Use file explorer to navigate to <mark style="color:blue;">\<GAME\_FOLDER>\mods\\<</mark>[<mark style="color:blue;">MOD</mark>](#user-content-fn-8)[^8]<mark style="color:blue;">></mark>.
 9. Open <mark style="color:blue;">GameLogicInit.con</mark> using a text editor.
 10. Append the params and flags that you need to the end of the file. \[How?[^9]]\

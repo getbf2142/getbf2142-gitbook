@@ -22,7 +22,7 @@ It is necessary to update the game to `v1.51` because:
 
 ## Procedures
 
-1. Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) -> Primary Sources.
+1. Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) → Primary Sources.
 2. Double-click to run the installer. It may [take a while](#user-content-fn-4)[^4] before something shows up.
 3. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
 4. ​Click [<mark style="color:blue;">More Info</mark>](#user-content-fn-5)[^5] and then <mark style="color:blue;">Run Anyway</mark> if the dialogue <mark style="color:blue;">Windows Protected Your PC</mark> (Windows Defender SmartScreen) pops up.

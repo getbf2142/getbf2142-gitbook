@@ -20,7 +20,6 @@
 
 ## Enhancements
 
-* [BF2142Unlocker](enhancements/bf2142unlocker.md)
 * [Offline Rewards Patch](enhancements/offline-rewards-patch.md)
 * [FFOLKES Unlocks Mod](https://www.bf-games.net/downloads/2946/ffolkes-unlocks-mod-v15-inoffiziell.html)
 
