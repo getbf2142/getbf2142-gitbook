@@ -1,4 +1,4 @@
-# Unlimited Sprint
+# Unlimited Sprint Tweak
 
 If you’re getting used to the new Battlefield’s play style, you might find BF2142’s limited sprint a bit frustrating. Unlimited sprint is really just about convenience — some players see no reason not to have it. So, let’s mod BF2142 to give ourselves unlimited sprint too!
 
@@ -12,7 +12,7 @@ If you want this change to affect vanilla BF2142, make your edits in the `mods/b
 
 Inside `Soldiers_server.zip`, open the `EU` or `PAC` folder and edit the `.tweak` files. For example, to modify the EU heavy armor soldier, edit `us/US_HEAVY_SOLDIER.tweak:`
 
-```
+```json
 ObjectTemplate.SprintRecoverTime 1
 ObjectTemplate.SprintDissipationTime 100
 ObjectTemplate.SprintLimit 0.1

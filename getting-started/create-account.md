@@ -31,8 +31,9 @@ Windows Firewall may pop up if it is your first time passing through the login p
 7. You may notice some changes[^6] to the game resolution.
 8. To fix this, go to <mark style="color:blue;">OPTIONS</mark>, and then <mark style="color:blue;">VIDEO</mark> to configure the video settings. Change the resolution[^7] first before touching the video quality settings.
 9. Set <mark style="color:blue;">ANTI-ALIASING</mark> to <mark style="color:blue;">Off</mark> to avoid problems.
-10. Don't forget to adjust the <mark style="color:blue;">AUDIO</mark> settings as well!​
-11. Congratulations! You have completed all the necessary steps to get Battlefield 2142 working! Now you may close the game to apply the video settings.
+10. Check the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) for tips on optimizing your video settings. I’d recommend setting everything to max, except for Anti-Aliasing, which should be turned off.
+11. Don’t forget to adjust your <mark style="color:blue;">AUDIO</mark> settings too!​ The [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) has tips on how to optimize them for the best experience.
+12. Congratulations! You have completed all the necessary steps to get Battlefield 2142 working! Now you may close the game to apply the video settings.
 
 ## Logging in
 

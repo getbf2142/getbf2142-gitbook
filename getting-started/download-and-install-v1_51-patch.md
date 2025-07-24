@@ -14,7 +14,7 @@ Whenever you are unsure about your game's version, check the version string in <
 
 It is necessary to update the game to `v1.51` because:
 
-* DRM[^3] is officially removed: Game disc is no longer something required to launch the game.
+* DRM[^3] is officially removed (a.k.a. No-CD Patch): Game disc is no longer something required to launch the game. For more details, check out the [No-CD Patch](https://tweakguides.dmegaming.com/BF2142_4.html) section in the Tweak Guide.
 * Widescreen support is added: This makes multitasking more comfortable and enhances your gaming experience with an immersive field of view.
 * Northern Strike expansion pack content is added to the game free of charge: A final goodbye to the game as DICE moved on to Battlefield 3 and beyond.
 * All the game's final features become accessible, including various bug fixes and additional content.
@@ -22,7 +22,7 @@ It is necessary to update the game to `v1.51` because:
 
 ## Procedures
 
-1. Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) → Primary Sources.
+1. Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) → Full Installer.
 2. Double-click to run the installer. It may [take a while](#user-content-fn-4)[^4] before something shows up.
 3. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
 4. ​Click [<mark style="color:blue;">More Info</mark>](#user-content-fn-5)[^5] and then <mark style="color:blue;">Run Anyway</mark> if the dialogue <mark style="color:blue;">Windows Protected Your PC</mark> (Windows Defender SmartScreen) pops up.
@@ -33,10 +33,10 @@ It is necessary to update the game to `v1.51` because:
 ## Downloads
 
 {% tabs %}
-{% tab title="Primary Sources" %}
-This installer will update the game to the latest version regardless of the game's current version that is installed on your system. It updates the game from `v1.00` / `v1.01`/ `v1.50` to `v1.51`.
+{% tab title="Full Installer" %}
+This installer will update your game to the latest version, no matter which version you currently have installed. It updates the game from `v1.00` / `v1.01`/ `v1.50` to `v1.51`.
 
-This is in contrast with the official updater provided in [Alternative Sources](download-and-install-v1_51-patch.md#alternative-sources), which can only be applied incrementally[^7]. By abstracting those intermediate steps, this installer makes patching the game to the latest version much more user-friendly and straightforward.
+Unlike the official updater in the other tab, which only works incrementally[^7], this installer skips the intermediate steps and makes updating to the latest version much simpler and more user-friendly.
 
 {% hint style="danger" %}
 You might receive virus warnings when launching this installer. If you are worried about the safety of these files, consider downloading the mirrored official installers in the <mark style="color:blue;">Alternative Sources</mark> tab.
@@ -49,7 +49,7 @@ Source: [LordSte](https://www.moddb.com/members/lordste) from [ModDB](https://ww
 {% endembed %}
 {% endtab %}
 
-{% tab title="Alternative Sources" %}
+{% tab title="Incremental Installer" %}
 The installers here are mirrored from EA prior to the game's termination. To update the game to the latest version, start by installing the `v1.50` patch and then proceed with the `v1.51` patch.
 
 The `v1.50` patch updates the game from `v1.00` / `v1.01` to `v1.50`. The `v1.51` patch updates the game from `v1.50` to `v1.51`.

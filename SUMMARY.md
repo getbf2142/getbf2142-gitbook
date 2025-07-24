@@ -18,21 +18,24 @@
 * [⑩ Host Server](getting-started/host-server.md)
 * [⍟ Further Readings](getting-started/further-readings.md)
 
-## Addons / Mods
+## Addons / Tweaks
 
-* [Offline Rewards Patch](addons-mods/offline-rewards-patch.md)
-* [Unlimited Sprint](addons-mods/unlimited-sprint.md)
-* [Field of View (FOV)](addons-mods/field-of-view-fov.md)
-* [BF3 Styled Chat](addons-mods/bf3-styled-chat.md)
-* [ReShade & Shaders](addons-mods/reshade-and-shaders.md)
-* [Extra Maps w/ Bot Support](addons-mods/extra-maps-w-bot-support.md)
-* [Star Wars Soldier Pack](addons-mods/star-wars-soldier-pack.md)
+* [Offline Rewards Patch](addons-tweaks/offline-rewards-patch.md)
+* [Unlimited Sprint Tweak](addons-tweaks/unlimited-sprint-tweak.md)
+* [Field of View (FOV) Tweak](addons-tweaks/field-of-view-fov-tweak.md)
+* [BF3-Styled Chat Patch](addons-tweaks/bf3-styled-chat-patch.md)
+* [ReShade & Shaders](addons-tweaks/reshade-and-shaders.md)
+* [Extra Maps w/ Bot Support](addons-tweaks/extra-maps-w-bot-support.md)
+* [Star Wars Soldier Pack](addons-tweaks/star-wars-soldier-pack.md)
+* [Server Settings Tweak](addons-tweaks/server-settings-tweak.md)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 
-* [Official Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
+* [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
 * [Prima eGuide](https://archive.org/details/Battlefield_2142_Prima_Official_eGuide)
-* [Modding Guide](https://prmp.boards.net/board/9/guides)
+* [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html)
+* [Modding Wiki](https://classic-battlefield-modding.fandom.com/wiki/Classic_Battlefield_Modding_Wikia)
+* [Online Services Guide](https://prmp.boards.net/board/9/guides)
 
 ## Dedicated Server
 

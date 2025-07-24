@@ -51,7 +51,7 @@ If you already have an older version of the mod installed, you **must** uninstal
 ## Downloads
 
 {% tabs %}
-{% tab title="Primary Sources" %}
+{% tab title="Downloads" %}
 {% hint style="warning" %}
 Download the version you prefer to use. We recommend v14 BETA13.
 {% endhint %}

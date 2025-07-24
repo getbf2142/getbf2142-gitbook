@@ -20,7 +20,7 @@ The tool is developed and maintained by the [Reclamation Team](https://battlefie
 ## Downloads
 
 {% tabs %}
-{% tab title="Primary Sources" %}
+{% tab title="Downloads" %}
 **BF2142\_Hub\_Setup.exe (ModDB, 1.2 MB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/bf2142-hub-2" %}

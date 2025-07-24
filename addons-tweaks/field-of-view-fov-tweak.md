@@ -1,4 +1,4 @@
-# Better FOV
+# Field of View (FOV) Tweak
 
 Unlike modern Battlefield games, BF2142 doesn’t let you adjust your FOV in-game. Many players find the default field of view too low, so this guide will show you how to change it to whatever you prefer!
 
@@ -12,7 +12,7 @@ If you want this change to affect vanilla BF2142, make your edits in the `mods/b
 
 Inside `Soldiers_server.zip`, open the `Common` and edit the `SoldierCamera.tweak` files. Here's the default value:
 
-```
+```json
 ObjectTemplate.worldFOV 1.1
 ObjectTemplate.insideFOV 1.1
 ```
