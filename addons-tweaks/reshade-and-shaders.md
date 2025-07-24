@@ -1,3 +1,3 @@
-# Reshade
+# ReShade & Shaders
 
-Work in progress
+Work in progress. Coming soon...

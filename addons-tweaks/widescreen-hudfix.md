@@ -1,3 +1,3 @@
-# Star Wars Soldier Pack
+# Widescreen Hudfix
 
 Work in progress. Coming soon...

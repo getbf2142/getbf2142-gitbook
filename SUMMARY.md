@@ -28,6 +28,7 @@
 * [Extra Maps w/ Bot Support](addons-tweaks/extra-maps-w-bot-support.md)
 * [Star Wars Soldier Pack](addons-tweaks/star-wars-soldier-pack.md)
 * [Server Settings Tweak](addons-tweaks/server-settings-tweak.md)
+* [Widescreen Hudfix](addons-tweaks/widescreen-hudfix.md)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 

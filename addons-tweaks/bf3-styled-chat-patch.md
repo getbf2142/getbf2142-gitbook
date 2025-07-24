@@ -1,3 +1,3 @@
-# BF3 Styled Chat
+# BF3-Styled Chat Patch
 
-Work in progress
+Work in progress. Coming soon...

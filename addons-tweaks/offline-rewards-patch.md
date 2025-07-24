@@ -33,15 +33,11 @@ You are strongly advised to back up the game's [Python folder](#user-content-fn-
 
 ## Downloads
 
-{% tabs %}
-{% tab title="Primary Sources" %}
-offline\_rewards.zip (Google Drive, 42KB)
+**offline\_rewards.zip (Google Drive, 42KB)**
 
 {% embed url="https://drive.google.com/file/d/16WwI7T8NAv3oJaNS4BysAfJ2Uev2ugrd/view?usp=sharing" %}
-SouSource: GetBF2142.net \[[Contact us](https://getbf2142.weebly.com/contact.html) if the link is broken.]&#x20;
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 07/2025]
 {% endembed %}
-{% endtab %}
-{% endtabs %}
 
 ## Patch Content
 

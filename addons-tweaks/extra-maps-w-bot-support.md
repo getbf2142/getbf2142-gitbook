@@ -1,3 +1,3 @@
-# Additional Maps with Bot Support
+# Extra Maps w/ Bot Support
 
-Work in progress
+Work in progress. Coming soon...
