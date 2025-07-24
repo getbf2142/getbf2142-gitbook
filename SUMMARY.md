@@ -26,6 +26,7 @@
 * [BF3 Styled Chat](addons-mods/bf3-styled-chat.md)
 * [ReShade & Shaders](addons-mods/reshade-and-shaders.md)
 * [Extra Maps w/ Bot Support](addons-mods/extra-maps-w-bot-support.md)
+* [Star Wars Soldier Pack](addons-mods/star-wars-soldier-pack.md)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 
