@@ -27,6 +27,8 @@ If you can’t save the file after editing, it might be set to read-only. Just r
 
 If you want to play with friends over LAN, everyone needs to have the same modification. If you plan to join a server without this mod, just switch back to your original `Soldiers_server.zip` file.
 
-### More readings here ...
+### Special thanks to ...
 
-[https://forums.bf2s.com/viewtopic.php?id=23762](https://forums.bf2s.com/viewtopic.php?id=23762)
+* [FFOLKES](https://forums.bf2s.com/profile.php?id=5041) sharing details on how to modify sprint
+
+This guide is based on info from [https://forums.bf2s.com/viewtopic.php?id=23762](https://forums.bf2s.com/viewtopic.php?id=23762).

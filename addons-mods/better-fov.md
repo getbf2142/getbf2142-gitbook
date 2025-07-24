@@ -17,12 +17,14 @@ ObjectTemplate.worldFOV 1.1
 ObjectTemplate.insideFOV 1.1
 ```
 
-You can set the value as low as 0.65 to mimic BF P4F’s FOV, or as high as 1.85 for an ultra-wide view —but keep in mind, the game doesn’t look great with extreme settings.&#x20;
+You can set the value as low as `0.65` to mimic BF P4F’s FOV, or as high as `1.85` for an ultra-wide view  — but keep in mind, the game doesn’t look great with extreme settings.&#x20;
 
-According to illicitSoul on ModDB, a value of 1.1 gives you about 60–65 FOV, while 1.6 is roughly 90–95 FOV. So, a good place to start is by changing 1.1 to 1.5.
+According to illicitSoul on ModDB, a value of `1.1` gives you about 60-65 FOV, while `1.6` is roughly 90-95 FOV. So a good place to start is by changing `1.1` to `1.5`.
 
 If you can’t save the file after editing, it might be set to read-only. Just right-click the file, go to Properties, and uncheck the read-only box.
 
-### More readings here ...
+### Special thanks to ...
 
-[https://www.moddb.com/tutorials/bf2bf2142-field-of-view-modding-tutorial](https://www.moddb.com/tutorials/bf2bf2142-field-of-view-modding-tutorial)
+* [illicitSoul](https://www.moddb.com/members/ainas) for sharing details on how to modify FOV
+
+This guide is based on info from [https://www.moddb.com/tutorials/bf2bf2142-field-of-view-modding-tutorial](https://www.moddb.com/tutorials/bf2bf2142-field-of-view-modding-tutorial).

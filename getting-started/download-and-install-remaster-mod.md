@@ -16,6 +16,23 @@ The mod also comes with a collection of troubleshooting and diagnosis tools that
 
 The mod is developed and maintained by the [Project Remaster Team](https://prmp.boards.net/). You can join their [Discord server](https://discord.com/invite/nVdDkgA) to receive support and the latest updates about their project.
 
+<details>
+
+<summary>What's so special about Remaster Mod? What exactly it includes?</summary>
+
+* Features a lot of improvements on textures, sounds, 3D models and animations.
+* Supports 4K resolution and 120Hz / 144Hz framerates.
+* Supports widescreen with real 16:9 HUD.
+* Supports Reshade overlay and SMAA.
+* Improves the drag-and-drop customisation screen.
+* Improves the Coop mode with better bot AI and more maps.
+* Adds the 4th primary rifle slot to each soldier class with a new weapon in it.
+* Comes with a launcher, manual and debugging tools.
+
+You may refer to the Project Remaster [manual](further-readings.md) for more details about the mod.
+
+</details>
+
 ## Procedures
 
 {% hint style="danger" %}
@@ -45,11 +62,14 @@ Download the version you prefer to use. We recommend v14 BETA13.
 Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Checked: 07/2025]
 {% endembed %}
 
-**project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**14**</mark>**.exe (Google Drive, 3.6 GB)**
+**\[LATEST] project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**14**</mark>**.exe (Google Drive, 3.6 GB)**
 
 {% embed url="https://drive.google.com/file/d/11Lo-b3Hv9jMpoSYz0frVC4cgNiwpFS4Y" %}
 Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Checked: 07/2025]
 {% endembed %}
+
+**\[BETA TEST] project\_remaster\_v16**\
+Ask in Project Remaster Discord nicely.
 {% endtab %}
 
 {% tab title="v14 BETA13 Changelog" %}
@@ -104,19 +124,6 @@ You will have four folders in your <mark style="color:blue;">/Battlefield 2142/m
    • Loot dead bots' backpacks to use other load-outs.
 4. <mark style="color:blue;">Project\_Remaster\_v14\_vanilla\_weapons</mark> is a mini-mod with all weapons and gadgets having their vanilla stats (damage, recoil, rate of fire, amount of ammo etc.).\
    It also removes the new 4th primary rifles from the soldiers. Animations, however, stay the same as in the main mod.
-
-## Mod Content
-
-* Features a lot of improvements on textures, sounds, 3D models and animations.
-* Supports 4K resolution and 120Hz / 144Hz framerates.
-* Supports widescreen with real 16:9 HUD.
-* Supports Reshade overlay and SMAA.
-* Improves the drag-and-drop customisation screen.
-* Improves the Coop mode with better bot AI and more maps.
-* Adds the 4th primary rifle slot to each soldier class with a new weapon in it.
-* Comes with a launcher, manual and debugging tools.
-
-You may refer to the Project Remaster [manual](further-readings.md) for more details about the mod.
 
 [^1]: i.e., <mark style="color:blue;">/Battlefield 2142/mods/</mark>
 

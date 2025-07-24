@@ -23,6 +23,9 @@
 * [Offline Rewards Patch](addons-mods/offline-rewards-patch.md)
 * [Unlimited Sprint](addons-mods/unlimited-sprint.md)
 * [Better FOV](addons-mods/better-fov.md)
+* [BF3 Styled Chat](addons-mods/bf3-styled-chat.md)
+* [Reshade](addons-mods/reshade.md)
+* [Additional Maps with Bot Support](addons-mods/additional-maps-with-bot-support.md)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 
