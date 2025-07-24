@@ -13,7 +13,7 @@ The original post about Reshade for BF2142 by the Project Remaster Team is here:
 
 {% embed url="https://www.moddb.com/downloads/bf2142-reshade" %}
 
-However, that version is outdated. The team now uses a newer Reshade client and has updated shader presets. The latest Reshade package for BF2142 is included with the [Remaster Mod](../getting-started/download-and-install-remaster-mod.md) installation.
+However, that version is outdated. The team now uses a newer Reshade client and has updated shader presets. The latest Reshade package for BF2142 is included with the [Remaster Mod](../getting-started/download-and-install-remaster-mod.md) v14 installation.
 
 ## If you have Remaster Mod ...
 
