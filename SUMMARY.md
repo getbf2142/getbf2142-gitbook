@@ -18,10 +18,11 @@
 * [⑩ Host Server](getting-started/host-server.md)
 * [⍟ Further Readings](getting-started/further-readings.md)
 
-## Enhancements
+## Addons / Mods
 
-* [Offline Rewards Patch](enhancements/offline-rewards-patch.md)
-* [FFOLKES Unlocks Mod](https://www.bf-games.net/downloads/2946/ffolkes-unlocks-mod-v15-inoffiziell.html)
+* [Offline Rewards Patch](addons-mods/offline-rewards-patch.md)
+* [Unlimited Sprint](addons-mods/unlimited-sprint.md)
+* [Better FOV](addons-mods/better-fov.md)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 
@@ -42,6 +43,7 @@
 * [BF2142 First Strike](https://www.moddb.com/mods/first-strike)
 * [BF2142 Remastered](https://www.moddb.com/mods/bf2142-project-remaster)
 * [BF2142 Reclamation](https://battlefield2142.co/)
+* [FFOLKES Unlocks Mod](https://www.bf-games.net/downloads/2946/ffolkes-unlocks-mod-v15-inoffiziell.html)
 
 ## Quick Links
 
