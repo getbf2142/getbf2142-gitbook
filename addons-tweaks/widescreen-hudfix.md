@@ -65,8 +65,8 @@ If you want this change to affect vanilla BF2142, make your edits in the `mods/b
 
 ## Special thanks to ...
 
-* Project Remaster Team for creating this fix
-* ompadu on Remaster Discord for providing details on how to install this fix on vanilla bf2142
+* [Project Remaster Team](https://discord.com/invite/nVdDkgA) for creating this fix
+* ompadu on [Remaster Discord](https://discord.com/invite/nVdDkgA) for sharing details on how to install the fix on vanilla BF2142
 
 
 

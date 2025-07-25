@@ -19,7 +19,7 @@ A few things to note:
 * ReShade will apply to all mods, including vanilla 2142.
 * ReShade can be easily uninstalled by just deleting the files you added.
 
-The original post about Reshade for BF2142 by the Project Remaster Team is here:&#x20;
+The original post about **Reshade for BF2142** by the [Project Remaster Team](https://discord.com/invite/nVdDkgA) is here:&#x20;
 
 {% embed url="https://www.moddb.com/downloads/bf2142-reshade" %}
 
@@ -79,9 +79,9 @@ You can create a new preset by clicking the <mark style="color:blue;">+</mark> b
 
 ## Special thanks to ...
 
-* Project Remaster Team for making this shaders for BF2142
-
-This guide is based on info from [https://www.moddb.com/mods/heat-of-battle2/downloads/heat-of-battle-reshade-20](https://www.moddb.com/mods/heat-of-battle2/downloads/heat-of-battle-reshade-20) and [https://www.moddb.com/downloads/bf2142-reshade](https://www.moddb.com/downloads/bf2142-reshade).
+* [Project Remaster Team](https://discord.com/invite/nVdDkgA) for adapting this excellent shader for BF2142
+* [illicitSoul](https://www.moddb.com/members/ainas) on ModDB for necessary instructions on ReShade setup @ [BF2142 Reshade](https://www.moddb.com/downloads/bf2142-reshade)
+* [phale](https://www.moddb.com/members/phale) on ModDB for detailed instructions on ReShade setup @ [Heat of Battle Reshade](https://www.moddb.com/mods/heat-of-battle2/downloads/heat-of-battle-reshade-20)
 
 
 

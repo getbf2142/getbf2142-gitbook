@@ -29,8 +29,6 @@ ObjectTemplate.SprintLossAtJump 0.10
 
 ## Special thanks to ...
 
-* [FFOLKES](https://forums.bf2s.com/profile.php?id=5041) sharing details on how to modify sprint
-
-This guide is based on info from [https://forums.bf2s.com/viewtopic.php?id=23762](https://forums.bf2s.com/viewtopic.php?id=23762).
+* [FFOLKES](https://forums.bf2s.com/profile.php?id=5041) on BF2S Forum for sharing details on how to modify sprint @ [Unlimited Sprint Modification](https://forums.bf2s.com/viewtopic.php?id=23762)
 
 [^1]: That’s because it’s easy to restore the files. You wouldn’t want to go through the hassle of reinstalling the whole game just because something got messed up and you didn’t have a backup.

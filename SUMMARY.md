@@ -25,10 +25,10 @@
 * [Widescreen Hudfix](addons-tweaks/widescreen-hudfix.md)
 * [Unlimited Sprint Tweak](addons-tweaks/unlimited-sprint-tweak.md)
 * [Field of View (FOV) Tweak](addons-tweaks/field-of-view-fov-tweak.md)
-* [BF3-Styled Chat Patch](addons-tweaks/bf3-styled-chat-patch.md)
 * [Extra Maps w/ Bot Support](addons-tweaks/extra-maps-w-bot-support.md)
-* [Star Wars Soldier Pack](addons-tweaks/star-wars-soldier-pack.md)
 * [Server Settings Tweak](addons-tweaks/server-settings-tweak.md)
+* [BF3-Styled Chat Patch](addons-tweaks/bf3-styled-chat-patch.md)
+* [Star Wars Soldier Pack](addons-tweaks/star-wars-soldier-pack.md)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 
