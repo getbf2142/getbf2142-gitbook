@@ -80,8 +80,8 @@ You can create a new preset by clicking the <mark style="color:blue;">+</mark> b
 ## Special thanks to ...
 
 * [Project Remaster Team](https://discord.com/invite/nVdDkgA) for adapting this excellent shader for BF2142
-* [illicitSoul](https://www.moddb.com/members/ainas) on ModDB for necessary instructions on ReShade setup @ [BF2142 Reshade](https://www.moddb.com/downloads/bf2142-reshade)
-* [phale](https://www.moddb.com/members/phale) on ModDB for detailed instructions on ReShade setup @ [Heat of Battle Reshade](https://www.moddb.com/mods/heat-of-battle2/downloads/heat-of-battle-reshade-20)
+* [illicitSoul](https://www.moddb.com/members/ainas) for sharing instructions on ReShade setup @ [BF2142 Reshade](https://www.moddb.com/downloads/bf2142-reshade)
+* [phale](https://www.moddb.com/members/phale) for sharing details on ReShade setup @ [Heat of Battle Reshade](https://www.moddb.com/mods/heat-of-battle2/downloads/heat-of-battle-reshade-20)
 
 
 

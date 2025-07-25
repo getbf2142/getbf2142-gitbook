@@ -34,6 +34,6 @@ ObjectTemplate.insideFOV 1.1
 
 ## Special thanks to ...
 
-* [illicitSoul](https://www.moddb.com/members/ainas) on ModDB for sharing details on how to modify FOV @ [BF2/BF2142 FOV Modding Tutorial](https://www.moddb.com/tutorials/bf2bf2142-field-of-view-modding-tutorial)
+* [illicitSoul](https://www.moddb.com/members/ainas) for sharing details on how to modify FOV @ [BF2/BF2142 FOV Modding Tutorial](https://www.moddb.com/tutorials/bf2bf2142-field-of-view-modding-tutorial)
 
 [^1]: That’s because it’s easy to restore the files. You wouldn’t want to go through the hassle of reinstalling the whole game just because something got messed up and you didn’t have a backup.
