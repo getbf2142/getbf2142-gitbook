@@ -33,7 +33,7 @@ You got just 5 maps with bot support for singleplayer and multiplayer.
 
 <details>
 
-<summary>Maps in Vanilla BF2142 w/ Bot Support</summary>
+<summary>List of Maps in Vanilla BF2142 w/ Bot Support</summary>
 
 * Belgrade - 16
 
@@ -57,7 +57,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 <details>
 
-<summary>Maps in Remaster Mod w/ Bot Support</summary>
+<summary>List of Maps in Remaster Mod w/ Bot Support</summary>
 
 #### Core Maps:
 
@@ -110,7 +110,7 @@ If you’re looking to play new maps with bots in singleplayer or multiplayer, h
 
 <details>
 
-<summary>Maps in Reclamation Map Pack w/ Bot Support</summary>
+<summary>List of Maps in Reclamation Map Pack w/ Bot Support</summary>
 
 Core Maps (with \_coop suffix):
 
@@ -164,13 +164,15 @@ Check out [this guide](../getting-started/apply-openspy-patches.md#installing-in
 
 You’ll get a few maps from the Reclamation Map Pack that we’ve fixed or tweaked for a better experience.
 
-{% tabs %}
-{% tab title="Street" %}
+<details>
+
+<summary>Street</summary>
+
 <figure><img src="../.gitbook/assets/street_preview.png" alt="" width="563"><figcaption></figcaption></figure>
 
-Extract the file to the `mods\<MOD>\Levels` folder of your desired mod.
+Street is a ...
 
-{% embed url="https://drive.google.com/file/d/13KGr74VHJZ0cEUhrWTj0lILPQYoCEedl" %}
+
 
 What has been changed?
 
@@ -178,21 +180,25 @@ What has been changed?
 * Removed ghost car (broken object) found on the street that will get people easily stuck
 * Renamed control points, spawn points for better
 
-Full credits go to spfreak from TGW, the creator who ported the map from BF2 to BF2142.&#x20;
+Full credits go to spfreak from TGW who ported the map from BF2 to BF2142.&#x20;
 
 The original version is available in Reclamation Map Pack.
-{% endtab %}
 
-{% tab title="Desert Storm" %}
+</details>
 
-{% endtab %}
+<details>
 
-{% tab title="Victory Village" %}
-<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+<summary>Desert Storm</summary>
 
-Extract the map folder to `.../Battlefield 2142/mods/<MOD>/Levels` of your desired mod.
 
-{% embed url="https://drive.google.com/file/d/16tQTpHsVWRzDdANgcCxDBuu5PWxNt3Qi" %}
+
+</details>
+
+<details>
+
+<summary>Victory Village</summary>
+
+<figure><img src="../.gitbook/assets/victory_village_ingame.png" alt="" width="375"><figcaption></figcaption></figure>
 
 Victory Village is a famous map in Battlefield: Heroes level. Now it has been fixed to work on vanilla BF2142 with bot support.
 
@@ -202,7 +208,7 @@ Victory Village is a famous map in Battlefield: Heroes level. Now it has been fi
 
 We combine the 2 version together with some of our tweaks to make this map available again for Conquest Coop.
 
-What has been changed?
+###
 
 * Tweaked ticket ratio: 200tk for 16
 * Fixed bot support
@@ -210,25 +216,53 @@ What has been changed?
 * Removed unnecessary load files
 * Made the base of both side uncapaturable, make the 3 control points in the middle uncaptured by default
 
+### Download
+
+Extract the map folder to `.../Battlefield 2142/mods/<MOD>/Levels`.
+
+### Credits
+
 Full credits go to yone and matthysjordaan who ported the map from BFHeroes to BF2142.&#x20;
 
 The original version is available on ModDB and in Reclamation Map Pack.
-{% endtab %}
 
-{% tab title="Sharqi Peninsula" %}
+</details>
 
-{% endtab %}
+<details>
 
-{% tab title="Operation Amos" %}
+<summary>Sharqi Peninsula</summary>
 
-{% endtab %}
-{% endtabs %}
+<figure><img src="../.gitbook/assets/sharqi_peninsula_ingame.png" alt="" width="375"><figcaption></figcaption></figure>
 
-
+Sharqi Peninsula is a famous map in Battlefield 2. Now it has been fixed to work on vanilla BF2142 with bot support.
 
 
 
+</details>
 
+<details>
+
+<summary>Operation Amos</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Wall of Jericho</summary>
+
+Work in progress
+
+</details>
+
+Extract the map folder to `.../Battlefield 2142/mods/<MOD>/Levels`.
+
+{% embed url="https://drive.google.com/file/d/13KGr74VHJZ0cEUhrWTj0lILPQYoCEedl" %}
+
+{% embed url="https://drive.google.com/file/d/16tQTpHsVWRzDdANgcCxDBuu5PWxNt3Qi" %}
+
+{% embed url="https://drive.google.com/file/d/11TrHvUL2v9573yHqbN0KtgP07KTkg-5_" %}
 
 [^1]: Highway Tampa is a remake of its Battlefield 2 version. The map mostly retains the original layout but is recreated with BF2142 objects throughout.
 
