@@ -16,7 +16,7 @@ Any changes you make with this method will apply to all mods.
 2. Open `ServerSettings.con` file with a text editor.
 3. Edit the game settings here.
 4. Save the changes.
-5. Now here' s the most important step! Right click on the `ServerSettings.con` file and click on <mark style="color:blue;">Properties</mark>. On the bottom you will have the option to make the file <mark style="color:blue;">Read-Only</mark>. Click the option, apply and save.
+5. Now here' s the most important step! Right click on the `ServerSettings.con` file and click on <mark style="color:blue;">Properties</mark>. On the bottom you will have the option to make the file <mark style="color:blue;">Read-Only</mark>. Click the option, apply and save. \[Why?]
 
 You might wonder why we need to set the .con file to read-only instead of just editing it and leaving it as is. The reason is that BF2142 can be pretty buggy when reading server settings — if you don’t make the file read-only, the game will often overwrite your changes every time you start, and your edits won’t stick.
 
