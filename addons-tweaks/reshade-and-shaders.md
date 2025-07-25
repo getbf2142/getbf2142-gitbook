@@ -14,10 +14,10 @@ Reshade adds a layer of shaders to the game, giving the visuals a big boost. It 
 
 A few things to note:
 
-* Reshade can lower your FPS, so you might see a performance hit.
-* Reshade only works on Windows 7 or newer.
-* Reshade will apply to all mods, including vanilla 2142.
-* To uninstall, just delete the files you added.
+* ReShade can lower your FPS, so you might see a performance hit.
+* ReShade only works on Windows 7 or newer.
+* ReShade will apply to all mods, including vanilla 2142.
+* ReShade can be easily uninstalled by just deleting the files you added.
 
 The original post about Reshade for BF2142 by the Project Remaster Team is here:&#x20;
 
@@ -27,7 +27,12 @@ However, that version is outdated. The team now uses a newer Reshade client and 
 
 ## If you have Remaster Mod ...
 
-Activating Reshade is super easy. Just open your <mark style="color:blue;">Remaster Launcher</mark>, head to the <mark style="color:blue;">Settings</mark> tab, and check the <mark style="color:blue;">Reshade</mark> option. That’s it — you’re all set!
+Activating Reshade is super easy with the mod's launcher, simply:
+
+1. Open your <mark style="color:blue;">Remaster Launcher</mark>.
+2. Head to the <mark style="color:blue;">Settings</mark> tab.
+3. Check the <mark style="color:blue;">Reshade</mark> option.
+4. That’s it — you’re all set!
 
 To uninstall, just uncheck the <mark style="color:blue;">Reshade</mark> option. It’s that simple!
 
@@ -36,16 +41,22 @@ To uninstall, just uncheck the <mark style="color:blue;">Reshade</mark> option. 
 {% tabs %}
 {% tab title="Latest Release" %}
 {% embed url="https://drive.google.com/file/d/1McXt77aT1TUCl72h9LOy3zSMRbR97fEv" %}
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 07/2025]
+{% endembed %}
 {% endtab %}
 
 {% tab title="Older Release" %}
 {% embed url="https://www.moddb.com/downloads/bf2142-reshade" %}
+Source: [illicitSoul](https://www.moddb.com/members/ainas) on [ModDB](https://www.moddb.com/) \[Last Checked: 07/2025]
+{% endembed %}
 {% endtab %}
 {% endtabs %}
 
 1. Download either the latest or an older release from above.
 2. Extract all the files to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`. Overwrite any files.
-3. If you installed the game somewhere other than `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`, you’ll need to manually update all the paths in `d3d9.ini` to match your setup.
+3. If you installed the game somewhere other than `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`, you’ll need to manually update all the paths in `d3d9.ini` using a text editor to match your setup.
+
+To uninstall, just delete the files you added.
 
 ## Let’s try it out in-game !
 
@@ -65,8 +76,6 @@ By default, you can toggle the Reshade effect with the <mark style="color:blue;"
 If you want to adjust the shaders, just go to the <mark style="color:blue;">Settings</mark> tab and enable <mark style="color:blue;">Configuration Mode</mark>. Then, return to the <mark style="color:blue;">Home</mark> tab to tweak the parameters however you like.
 
 You can create a new preset by clicking the <mark style="color:blue;">+</mark> button next to the dropdown menu in the <mark style="color:blue;">Home</mark> tab. There are two presets \[?[^1]] — `DefaultPreset` and `DefaultPreset2` — that you can select from the dropdown.
-
-
 
 ## Special thanks to ...
 

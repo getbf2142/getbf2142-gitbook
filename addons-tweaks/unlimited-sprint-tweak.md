@@ -4,7 +4,7 @@ If you’re getting used to the new Battlefield’s play style, you might find B
 
 ## Before we start ...
 
-* You’ll be editing files in `mods/<MOD>/Objects/Soldiers_server.zip`, so it’s a good idea to make a backup of the .zip file first — just add a suffix like `_bak` or `_o` to the filename of the clone.
+* You’ll be editing files in `mods/<MOD>/Objects/Soldiers_server.zip`, so it’s a good idea to make a backup of the .zip file first — just add a suffix like `_bak` or `_o` to the filename of the clone. \[Why?[^1]]
 * If you want this change to affect vanilla BF2142, make your edits in the `mods/bf2142` folder. Otherwise, edit the files in the `mods/<MOD>` folder for your chosen mod.
 
 ## Here we go ...
@@ -24,10 +24,13 @@ ObjectTemplate.SprintLossAtJump 0.10
 
 ## Keep in mind ...
 
-If you want to play with friends over LAN, everyone needs to have the same modification. If you plan to join a server without this mod, just switch back to your original `Soldiers_server.zip` file.
+* If you want to play with friends over LAN, everyone needs to have the same modification.
+* If you plan to join a server without this mod, just switch back to your original `Soldiers_server.zip` file.
 
 ## Special thanks to ...
 
 * [FFOLKES](https://forums.bf2s.com/profile.php?id=5041) sharing details on how to modify sprint
 
 This guide is based on info from [https://forums.bf2s.com/viewtopic.php?id=23762](https://forums.bf2s.com/viewtopic.php?id=23762).
+
+[^1]: That’s because it’s easy to restore the files. You wouldn’t want to go through the hassle of reinstalling the whole game just because something got messed up and you didn’t have a backup.

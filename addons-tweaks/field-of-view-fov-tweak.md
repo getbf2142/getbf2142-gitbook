@@ -14,7 +14,7 @@ Unlike modern Battlefield games, BF2142 doesn’t let you adjust your FOV in-gam
 
 ## Before we start ...
 
-* You’ll be editing files in `mods/<MOD>/Objects/Soldiers_server.zip`, so it’s a good idea to make a backup of the .zip file first — just add a suffix like `_bak` or `_o` to the filename of the clone.
+* You’ll be editing files in `mods/<MOD>/Objects/Soldiers_server.zip`, so it’s a good idea to make a backup of the .zip file first — just add a suffix like `_bak` or `_o` to the filename of the clone. \[Why?[^1]]
 * If you want this change to affect vanilla BF2142, make your edits in the `mods/bf2142` folder. Otherwise, edit the files in the `mods/<MOD>` folder for your chosen mod.
 
 ## Here we go ...
@@ -37,3 +37,5 @@ ObjectTemplate.insideFOV 1.1
 * [illicitSoul](https://www.moddb.com/members/ainas) for sharing details on how to modify FOV
 
 This guide is based on info from [https://www.moddb.com/tutorials/bf2bf2142-field-of-view-modding-tutorial](https://www.moddb.com/tutorials/bf2bf2142-field-of-view-modding-tutorial).
+
+[^1]: That’s because it’s easy to restore the files. You wouldn’t want to go through the hassle of reinstalling the whole game just because something got messed up and you didn’t have a backup.
