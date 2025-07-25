@@ -1,8 +1,16 @@
 # ReShade & Shaders
 
-Reshade adds a layer of shaders to the game, giving the visuals a big boost. It was first used in Project Reality for BF2 and has since been adapted for BF2142 as well. Below, you can see the noticeable difference after applying the Reshade overlay.
+Reshade adds a layer of shaders to the game, giving the visuals a big boost. It was first used in Project Reality for BF2 and has since been adapted for BF2142 as well.
 
-<p align="center"><img src="../.gitbook/assets/reshade_remagen.gif" alt="" data-size="original">         <img src="../.gitbook/assets/reshade_street.gif" alt=""></p>
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/reshade_remagen.gif" alt=""><figcaption><p>Map: Breakthrough at Remagen</p></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/reshade_street.gif" alt=""><figcaption><p>Map: Street</p></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 A few things to note:
 
@@ -15,7 +23,7 @@ The original post about Reshade for BF2142 by the Project Remaster Team is here:
 
 {% embed url="https://www.moddb.com/downloads/bf2142-reshade" %}
 
-However, that version is outdated. The team now uses a newer Reshade client and has updated shader presets. The latest Reshade package for BF2142 is included with the [Remaster Mod](../getting-started/download-and-install-remaster-mod.md) v14 installation.
+However, that version is outdated. The team now uses a newer Reshade client and has updated shader presets. The latest Reshade package for BF2142 is included with the [Remaster Mod](../getting-started/download-and-install-remaster-mod.md) v14 installation. In this guide, we’ll also cover how to install ReShade if you don’t have the mod.
 
 ## If you have Remaster Mod ...
 
@@ -56,7 +64,9 @@ By default, you can toggle the Reshade effect with the <mark style="color:blue;"
 
 If you want to adjust the shaders, just go to the <mark style="color:blue;">Settings</mark> tab and enable <mark style="color:blue;">Configuration Mode</mark>. Then, return to the <mark style="color:blue;">Home</mark> tab to tweak the parameters however you like.
 
-You can create a new preset by clicking the <mark style="color:blue;">+</mark> button next to the dropdown menu in the <mark style="color:blue;">Home</mark> tab. There are two presets — `DefaultPreset` and `DefaultPreset2` — that you can select from the dropdown.
+You can create a new preset by clicking the <mark style="color:blue;">+</mark> button next to the dropdown menu in the <mark style="color:blue;">Home</mark> tab. There are two presets \[?[^1]] — `DefaultPreset` and `DefaultPreset2` — that you can select from the dropdown.
+
+
 
 ## Special thanks to ...
 
@@ -64,3 +74,6 @@ You can create a new preset by clicking the <mark style="color:blue;">+</mark> b
 
 This guide is based on info from [https://www.moddb.com/mods/heat-of-battle2/downloads/heat-of-battle-reshade-20](https://www.moddb.com/mods/heat-of-battle2/downloads/heat-of-battle-reshade-20) and [https://www.moddb.com/downloads/bf2142-reshade](https://www.moddb.com/downloads/bf2142-reshade).
 
+
+
+[^1]: For anyone installing the pack from the latest release link.

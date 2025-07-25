@@ -23,13 +23,10 @@ To lengthen your game duration, simply configure the ticket ratio (available whe
 
 ## Procedures
 
-{% hint style="info" %}
-You are strongly advised to back up the game's [Python folder](#user-content-fn-1)[^1] before proceeding to install this patch.
-{% endhint %}
-
-1. Download <mark style="color:blue;">offline\_rewards.zip</mark>.
-2. Unzip the file and then drag and drop the Python folder into the root directory of the [game folder](#user-content-fn-2)[^2].
-3. Click <mark style="color:blue;">Replace All</mark> if you're asked to do so.
+1. Download <mark style="color:blue;">offline\_rewards.zip</mark> from [Downloads](offline-rewards-patch.md#downloads).
+2. In your game directory (usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`), find the folder named `python` and rename it to something like `python_o` or `python_backup` to create a backup.
+3. Drag and drop the `python` folder from the .zip file into the root directory of your game folder.
+4. Overwrite or <mark style="color:blue;">Replace All</mark> if necessary.
 
 ## Downloads
 
@@ -44,7 +41,3 @@ Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 07/2025]
 ![Offline Rewards System](../.gitbook/assets/unknown23.png)
 
 ![Offline Rewards System](../.gitbook/assets/unknown345t5r.png)
-
-[^1]: i.e., <mark style="color:blue;">/Battlefield 2142/python/</mark>
-
-[^2]: i.e., <mark style="color:blue;">/Battlefield 2142/</mark>

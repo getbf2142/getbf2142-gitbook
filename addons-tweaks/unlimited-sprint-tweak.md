@@ -4,13 +4,12 @@ If you’re getting used to the new Battlefield’s play style, you might find B
 
 ## Before we start ...
 
-You’ll be editing files in `mods/<MOD>/Objects/Soldiers_server.zip`, so it’s a good idea to make a backup of the .zip file first — just add a suffix like `_bak` or `_o` to the filename of the clone.
-
-If you want this change to affect vanilla BF2142, make your edits in the `mods/bf2142` folder. Otherwise, edit the files in the `mods/<MOD>` folder for your chosen mod.
+* You’ll be editing files in `mods/<MOD>/Objects/Soldiers_server.zip`, so it’s a good idea to make a backup of the .zip file first — just add a suffix like `_bak` or `_o` to the filename of the clone.
+* If you want this change to affect vanilla BF2142, make your edits in the `mods/bf2142` folder. Otherwise, edit the files in the `mods/<MOD>` folder for your chosen mod.
 
 ## Here we go ...
 
-Inside `Soldiers_server.zip`, open the `EU` or `PAC` folder and edit the `.tweak` files. For example, to modify the EU heavy armor soldier, edit `us/US_HEAVY_SOLDIER.tweak:`
+1. Inside `Soldiers_server.zip`, open the `EU` or `PAC` folder and edit the `.tweak` files. For example, to modify the EU heavy armor soldier, open `us/US_HEAVY_SOLDIER.tweak` with a text editor and make your changes like this:
 
 ```json
 ObjectTemplate.SprintRecoverTime 1
@@ -19,9 +18,9 @@ ObjectTemplate.SprintLimit 0.1
 ObjectTemplate.SprintLossAtJump 0.10
 ```
 
-Increase `SprintDissipationTime` to give yourself a bigger buffer before sprint runs out, and lower `SprintRecoverTime` so sprint refills quicker. You can also adjust `SprintLimit` and `SprintLossAtJump` if you want, but the first two settings are usually enough.
-
-If you can’t save the file after editing, it might be set to read-only. Just right-click the file, go to Properties, and uncheck the read-only box.
+2. Increase `SprintDissipationTime` to give yourself a bigger buffer before sprint runs out, and lower `SprintRecoverTime` so sprint refills quicker.
+3. You can also adjust `SprintLimit` and `SprintLossAtJump` if you want, but the first two settings are usually enough. `SprintLimit` sets the minimum sprint bar needed before you can sprint again, while `SprintLossAtJump` controls how much sprint bar you lose when you jump.
+4. Save your changes.
 
 ## Keep in mind ...
 
