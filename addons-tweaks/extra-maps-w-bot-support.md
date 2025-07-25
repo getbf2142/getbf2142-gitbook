@@ -8,16 +8,16 @@ If you’re a Battlefield fan who loves playing with bots, you’ve probably not
 
 **This is just my personal take...**
 
-* Belgrade offers street fighting that isn’t too intense, with plenty of open areas.
-* Fall of Berlin delivers classic street battles in Berlin with a great atmosphere.
-* Camp Gibraltar is all about close-quarters combat — perfect for shotgun and assault fans.
-* Bridge at Remagen is my pick for the best snow map for street fighting.
-* Breakthrough at Remagen is ideal for sniping, with some medium-sized open spaces in a snowy setting.
-* Strike at Karkand brings that BF2 nostalgic, linear Middle Eastern street fighting vibe.
-* Desert Storm feels a lot like BF1’s Sinai Desert — an open map with hills, perfect for tank and walker battles, and a paradise for engineers.
-* Victory Village is a European town map focused on street fighting.
-* Street is another linear Middle Eastern map, great for street battles.
-* Suez Canal is a sniper’s dream, with a linear layout that really suits long-range play.
+* `Belgrade` offers street fighting that isn’t too intense, with plenty of open areas.
+* `Fall of Berlin` delivers classic street battles in Berlin with a great atmosphere.
+* `Camp Gibraltar` is all about close-quarters combat — perfect for shotgun and assault fans.
+* `Bridge at Remagen` is my pick for the best snow map for street fighting.
+* `Breakthrough at Remagen` is ideal for sniping, with some medium-sized open spaces in a snowy setting.
+* `Strike at Karkand` brings that BF2 nostalgic, linear Middle Eastern street fighting vibe.
+* `Desert Storm` feels a lot like BF1’s Sinai Desert — an open map with hills, perfect for tank and walker battles, and a paradise for engineers.
+* `Victory Village` is a European town map focused on street fighting.
+* `Street` is another linear Middle Eastern map, great for street battles.
+* `Suez Canal` is a sniper’s dream, with a linear layout that really suits long-range play.
 
 **How to get the maps?**
 
@@ -165,14 +165,68 @@ Check out [this guide](../getting-started/apply-openspy-patches.md#installing-in
 You’ll get a few maps from the Reclamation Map Pack that we’ve fixed or tweaked for a better experience.
 
 {% tabs %}
-{% tab title="First Tab" %}
+{% tab title="Street" %}
+<figure><img src="../.gitbook/assets/street_preview.png" alt="" width="563"><figcaption></figcaption></figure>
+
+Extract the file to the `mods\<MOD>\Levels` folder of your desired mod.
+
+{% embed url="https://drive.google.com/file/d/13KGr74VHJZ0cEUhrWTj0lILPQYoCEedl" %}
+
+What has been changed?
+
+* Tweaked ticket ratio: 200tk for 16
+* Removed ghost car (broken object) found on the street that will get people easily stuck
+* Renamed control points, spawn points for better
+
+Full credits go to spfreak from TGW, the creator who ported the map from BF2 to BF2142.&#x20;
+
+The original version is available in Reclamation Map Pack.
+{% endtab %}
+
+{% tab title="Desert Storm" %}
 
 {% endtab %}
 
-{% tab title="Second Tab" %}
+{% tab title="Victory Village" %}
+<figure><img src="broken-reference" alt=""><figcaption></figcaption></figure>
+
+Extract the map folder to `.../Battlefield 2142/mods/<MOD>/Levels` of your desired mod.
+
+{% embed url="https://drive.google.com/file/d/16tQTpHsVWRzDdANgcCxDBuu5PWxNt3Qi" %}
+
+Victory Village is a famous map in Battlefield: Heroes level. Now it has been fixed to work on vanilla BF2142 with bot support.
+
+[Victory Village 2142](https://www.moddb.com/games/battlefield-2142/addons/na16686) with bot support is first published by [yone](https://www.moddb.com/members/yone) on ModDB. Sadly the map does not load well on newer version and will mostly cause crash instantly when loaded into the map.
+
+[matthysjordaan](https://www.moddb.com/members/matthysjordaan) then published [Victory Village (Fixed)](https://www.moddb.com/addons/victory-village-fixed) based on yone's work on ModDB that loads properly but he dropped bot support.
+
+We combine the 2 version together with some of our tweaks to make this map available again for Conquest Coop.
+
+What has been changed?
+
+* Tweaked ticket ratio: 200tk for 16
+* Fixed bot support
+* Removed buggy spawn points that cause bots die instantly
+* Removed unnecessary load files
+* Made the base of both side uncapaturable, make the 3 control points in the middle uncaptured by default
+
+Full credits go to yone and matthysjordaan who ported the map from BFHeroes to BF2142.&#x20;
+
+The original version is available on ModDB and in Reclamation Map Pack.
+{% endtab %}
+
+{% tab title="Sharqi Peninsula" %}
+
+{% endtab %}
+
+{% tab title="Operation Amos" %}
 
 {% endtab %}
 {% endtabs %}
+
+
+
+
 
 
 
