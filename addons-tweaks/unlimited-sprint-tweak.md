@@ -2,13 +2,13 @@
 
 If you’re getting used to the new Battlefield’s play style, you might find BF2142’s limited sprint a bit frustrating. Unlimited sprint is really just about convenience — some players see no reason not to have it. So, let’s mod BF2142 to give ourselves unlimited sprint too!
 
-### Before we start ...
+## Before we start ...
 
 You’ll be editing files in `mods/<MOD>/Objects/Soldiers_server.zip`, so it’s a good idea to make a backup of the .zip file first — just add a suffix like `_bak` or `_o` to the filename of the clone.
 
 If you want this change to affect vanilla BF2142, make your edits in the `mods/bf2142` folder. Otherwise, edit the files in the `mods/<MOD>` folder for your chosen mod.
 
-### Here we go ...
+## Here we go ...
 
 Inside `Soldiers_server.zip`, open the `EU` or `PAC` folder and edit the `.tweak` files. For example, to modify the EU heavy armor soldier, edit `us/US_HEAVY_SOLDIER.tweak:`
 
@@ -23,11 +23,11 @@ Increase `SprintDissipationTime` to give yourself a bigger buffer before sprint 
 
 If you can’t save the file after editing, it might be set to read-only. Just right-click the file, go to Properties, and uncheck the read-only box.
 
-### Keep in mind ...
+## Keep in mind ...
 
 If you want to play with friends over LAN, everyone needs to have the same modification. If you plan to join a server without this mod, just switch back to your original `Soldiers_server.zip` file.
 
-### Special thanks to ...
+## Special thanks to ...
 
 * [FFOLKES](https://forums.bf2s.com/profile.php?id=5041) sharing details on how to modify sprint
 

@@ -1,11 +1,13 @@
 # ReShade & Shaders
 
-Reshade adds a layer of shaders to the game, giving the visuals a big boost. It was first used in Project Reality for BF2 and has since been adapted for BF2142 as well.
+Reshade adds a layer of shaders to the game, giving the visuals a big boost. It was first used in Project Reality for BF2 and has since been adapted for BF2142 as well. Below, you can see the noticeable difference after applying the Reshade overlay.
+
+<p align="center"><img src="../.gitbook/assets/reshade_remagen.gif" alt="" data-size="original">         <img src="../.gitbook/assets/reshade_street.gif" alt=""></p>
 
 A few things to note:
 
 * Reshade can lower your FPS, so you might see a performance hit.
-* It only works on Windows 7 or newer.
+* Reshade only works on Windows 7 or newer.
 * Reshade will apply to all mods, including vanilla 2142.
 * To uninstall, just delete the files you added.
 
@@ -17,7 +19,9 @@ However, that version is outdated. The team now uses a newer Reshade client and 
 
 ## If you have Remaster Mod ...
 
-Activating Reshade is super simple. Just open your <mark style="color:blue;">Remaster Launcher</mark>, go to the <mark style="color:blue;">Settings</mark> tab, and enable the <mark style="color:blue;">Reshade</mark> option. That’s it — you’re all set!
+Activating Reshade is super easy. Just open your <mark style="color:blue;">Remaster Launcher</mark>, head to the <mark style="color:blue;">Settings</mark> tab, and check the <mark style="color:blue;">Reshade</mark> option. That’s it — you’re all set!
+
+To uninstall, just uncheck the <mark style="color:blue;">Reshade</mark> option. It’s that simple!
 
 ## If you don't have Remaster Mod ...
 
@@ -31,22 +35,28 @@ Activating Reshade is super simple. Just open your <mark style="color:blue;">Rem
 {% endtab %}
 {% endtabs %}
 
-1. Download either the latest or older release.
-2. Extract all the files from the .rar to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`. If not, then manually edit all the paths in `d3d9.ini` .
+1. Download either the latest or an older release from above.
+2. Extract all the files to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`. Overwrite any files.
+3. If you installed the game somewhere other than `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`, you’ll need to manually update all the paths in `d3d9.ini` to match your setup.
 
 ## Let’s try it out in-game !
 
 1. Launch the game.
-2. Press <mark style="color:blue;">Shift + F2</mark> to open ReShade in-game tool.
-3. On the <mark style="color:blue;">Home</mark> tab, check if the preset has loaded — you should see shaders like Levels.fx and Vignette.fx listed. If the page is empty, the shaders are not loaded yet.&#x20;
+2. As soon as you reach the intro or login screen, you’ll notice the visual effect right away.
+3. Press <mark style="color:blue;">Shift + F2</mark> to open ReShade in-game tool. This button lets you toggle the tool on or off.
+4. On the <mark style="color:blue;">Home</mark> tab, check if the preset has loaded — you should see shaders like Levels.fx and Vignette.fx listed.
+5. If the page is empty, the shaders are not loaded yet. You should:
    1. Go to the <mark style="color:blue;">Settings</mark> tab and enter the correct paths:
       1. Effect search path: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\reshade-shaders\Shaders` (or wherever your setup is)
       2. Texture search path: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\reshade-shaders\Textures` (or wherever your setup is)
    2. Then return to the <mark style="color:blue;">Home</mark> tab and click <mark style="color:blue;">Reload</mark>. The preset should load properly now.
+   3. Also, in the <mark style="color:blue;">Home</mark> tab, check that the preset path in the dropdown menu points to the correct location: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\DefaultPreset.ini` (or wherever your setup is).
 
 By default, you can toggle the Reshade effect with the <mark style="color:blue;">Scroll Lock</mark> key, but you can change this key bind using the in-game tool. I would recommend setting it to <mark style="color:blue;">Shift + F1</mark>.
 
 If you want to adjust the shaders, just go to the <mark style="color:blue;">Settings</mark> tab and enable <mark style="color:blue;">Configuration Mode</mark>. Then, return to the <mark style="color:blue;">Home</mark> tab to tweak the parameters however you like.
+
+You can create a new preset by clicking the <mark style="color:blue;">+</mark> button next to the dropdown menu in the <mark style="color:blue;">Home</mark> tab. There are two presets — `DefaultPreset` and `DefaultPreset2` — that you can select from the dropdown.
 
 ## Special thanks to ...
 
