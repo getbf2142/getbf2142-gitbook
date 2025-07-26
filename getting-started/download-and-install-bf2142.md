@@ -69,8 +69,8 @@ When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-co
 {% step %}
 Follow the setup wizard to complete the installation — there are a few [important notes](download-and-install-bf2142.md#remarks) along the way, so keep an eye out for those. **\[**[**TL;DR**](#user-content-fn-5)[^5]**]**
 
-1. If you see a popup saying <mark style="color:blue;">This game has only been tested on WinXP(32bit)</mark>, just click <mark style="color:blue;">Confirm</mark>. **\[**[**?**](#user-content-fn-6)[^6]**]**
-2.  When prompted for a serial code, simply use one of these [<mark style="color:blue;">Standard Edition</mark>](#user-content-fn-7)[^7] keys to continue.
+* <sub>If you see a popup saying</sub> <sub></sub><sub><mark style="color:blue;">This game has only been tested on WinXP(32bit)<mark style="color:blue;"></sub><sub>, just click</sub> <sub></sub><sub><mark style="color:blue;">Confirm<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-6)[^6]<sub>**]**</sub>
+*   <sub>When prompted for a serial code, simply use one of these</sub> [<sub><mark style="color:blue;">Standard Edition<mark style="color:blue;"></sub>](#user-content-fn-7)[^7] <sub>keys to continue.</sub>
 
     ```
     SDV5-JZDE-L6B8-P2Q4-1911
@@ -79,11 +79,11 @@ Follow the setup wizard to complete the installation — there are a few [import
     UTFP-4DMN-D2U0-X3T3-1911​
     TRCL-YBIJ-D4H4-Y3O5-1911
     ```
-3. It’s recommended to install the game to the [default path](#user-content-fn-8)[^8], but you can choose a different location if you prefer.
-4. For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with the [Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
-5. Feel free to skip BattleCammo setup by clicking <mark style="color:blue;">Cancel</mark>. **\[**[**?**](#user-content-fn-9)[^9]**]**
-6. Select <mark style="color:blue;">No, install GameSpy Comrade later</mark> to skip GameSpy Comrade setup. **\[**[**?**](#user-content-fn-10)[^10]**]**
-7. When asked to register an EA account, just click <mark style="color:blue;">REGISTER LATER</mark> to move on. **\[**[**?**](#user-content-fn-11)[^11]**]**
+* <sub>It’s recommended to install the game to the</sub> [<sub>default path</sub>](#user-content-fn-8)[^8]<sub>, but you can choose a different location if you prefer.</sub>
+* <sub>For the best experience, install the</sub> <sub></sub><sub><mark style="color:blue;">English version<mark style="color:blue;"></sub> <sub></sub><sub>to take advantage of the</sub> <sub></sub><sub><mark style="color:blue;">HD English fonts<mark style="color:blue;"></sub> <sub></sub><sub>included with the</sub> [<sub>Remaster mod</sub>](../project-remaster/download-and-install-remaster-mod.md)<sub>.</sub>
+* <sub>Feel free to skip BattleCammo setup by clicking</sub> <sub></sub><sub><mark style="color:blue;">Cancel<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-9)[^9]<sub>**]**</sub>
+* <sub>Select</sub> <sub></sub><sub><mark style="color:blue;">No, install GameSpy Comrade later<mark style="color:blue;"></sub> <sub></sub><sub>to skip GameSpy Comrade setup.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-10)[^10]<sub>**]**</sub>
+* <sub>When asked to register an EA account, just click</sub> <sub></sub><sub><mark style="color:blue;">REGISTER LATER<mark style="color:blue;"></sub> <sub></sub><sub>to move on.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-11)[^11]<sub>**]**</sub>
 {% endstep %}
 
 {% step %}
@@ -206,24 +206,6 @@ Source: [Amazon](https://www.amazon.com/) \[Last Verified: July 2025]
 {% endembed %}
 {% endtab %}
 {% endtabs %}
-
-## Remarks
-
-1. If you see a popup saying <mark style="color:blue;">This game has only been tested on WinXP(32bit)</mark>, just click <mark style="color:blue;">Confirm</mark>. **\[**[**?**](#user-content-fn-6)[^6]**]**
-2.  When prompted for a serial code, simply use one of these [<mark style="color:blue;">Standard Edition</mark>](#user-content-fn-7)[^7] keys to continue.
-
-    ```
-    SDV5-JZDE-L6B8-P2Q4-1911
-    SVMV-LBNV-W7W5-J3X4-1911
-    E6HH-DWUG-U8X1-R8F0-1911
-    UTFP-4DMN-D2U0-X3T3-1911​
-    TRCL-YBIJ-D4H4-Y3O5-1911
-    ```
-3. It’s recommended to install the game to the [default path](#user-content-fn-8)[^8], but you can choose a different location if you prefer.
-4. For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with the [Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
-5. Feel free to skip BattleCammo setup by clicking <mark style="color:blue;">Cancel</mark>. **\[**[**?**](#user-content-fn-9)[^9]**]**
-6. Select <mark style="color:blue;">No, install GameSpy Comrade later</mark> to skip GameSpy Comrade setup. **\[**[**?**](#user-content-fn-10)[^10]**]**
-7. When asked to register an EA account, just click <mark style="color:blue;">REGISTER LATER</mark> to move on. **\[**[**?**](#user-content-fn-11)[^11]**]**
 
 [^1]: A dedicated graphics card isn’t required for this game—your Intel Integrated Graphics should be more than enough to run it smoothly.
 
