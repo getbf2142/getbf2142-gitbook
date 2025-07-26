@@ -1,8 +1,10 @@
+---
+description: Where to download Battlefield 2142? How to install Battlefield 2142?
+---
+
 # ① Download AND Install BF2142
 
 In this tutorial, we’ll guide you through various online resources for downloading the game and show you the proper steps for installation.
-
-If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
 
 {% hint style="success" %}
 We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](../others/contact-us.md) to receive support.
@@ -69,7 +71,7 @@ When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-co
 {% step %}
 Follow the setup wizard to complete the installation — there are a few [important notes](download-and-install-bf2142.md#remarks) along the way, so keep an eye out for those. **\[**[**TL;DR**](#user-content-fn-5)[^5]**]**
 
-* <sub>If you see a popup saying</sub> <sub></sub><sub><mark style="color:blue;">This game has only been tested on WinXP(32bit)<mark style="color:blue;"></sub><sub>, just click</sub> <sub></sub><sub><mark style="color:blue;">Confirm<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-6)[^6]<sub>**]**</sub>
+* <sup><sub>If you see a popup saying<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">This game has only been tested on WinXP(32bit)<mark style="color:blue;"><sub></sup><sup><sub>, just click<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">Confirm<mark style="color:blue;"><sub></sup><sup><sub>.<sub></sup> <sup><sub> </sup><sup><sub>**\[**<sub></sup>[<sup><sub>**?**<sub></sup>](#user-content-fn-6)[^6]<sup><sub>**]**<sub></sup>
 *   <sub>When prompted for a serial code, simply use one of these</sub> [<sub><mark style="color:blue;">Standard Edition<mark style="color:blue;"></sub>](#user-content-fn-7)[^7] <sub>keys to continue.</sub>
 
     ```

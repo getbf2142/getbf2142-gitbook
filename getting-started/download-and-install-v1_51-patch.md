@@ -1,12 +1,10 @@
 ---
-description: >-
-  In this tutorial, we’ll walk you through the steps to update the game to the
-  latest version.
+description: Where to download v1.51 Patch? How to install v1.51 Patch?
 ---
 
 # ② Install v1.51 Patch
 
-If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
+In this tutorial, we’ll walk you through the steps to update the game to the latest version.
 
 {% hint style="success" %}
 We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](../others/contact-us.md) to receive support.
@@ -49,12 +47,31 @@ Yes, you can skip this tutorial if your game is already patched to v1.51. Howeve
 
 ## Procedures
 
-1. Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) → <mark style="color:blue;">Full Installer</mark>.
-2. Double-click the file to start the installer - it may take a moment for anything to appear. **\[**[**?**](#user-content-fn-2)[^2]**]**
-3. When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-3)[^3]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
-4. If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-4)[^4]**]**
-5. Follow the on-screen instructions in the wizard to finish the installation.​
-6. Next, make sure to [install BF2142 Hub](download-and-install-bf2142-hub.md) and [apply OpenSpy Patches](apply-openspy-patches.md) — _these steps are crucial, so don't skip them_! **\[**[**?**](#user-content-fn-5)[^5]**]**
+{% stepper %}
+{% step %}
+Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) → <mark style="color:blue;">Full Installer</mark>.
+{% endstep %}
+
+{% step %}
+Double-click the file to start the installer - it may take a moment for anything to appear. **\[**[**?**](#user-content-fn-2)[^2]**]**
+{% endstep %}
+
+{% step %}
+When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-3)[^3]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+{% endstep %}
+
+{% step %}
+If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-4)[^4]**]**
+{% endstep %}
+
+{% step %}
+Follow the on-screen instructions in the wizard to finish the installation.​
+{% endstep %}
+
+{% step %}
+Next, make sure to [install BF2142 Hub](download-and-install-bf2142-hub.md) and [apply OpenSpy Patches](apply-openspy-patches.md) — _these steps are crucial, so don't skip them_! **\[**[**?**](#user-content-fn-5)[^5]**]**
+{% endstep %}
+{% endstepper %}
 
 ## Downloads
 
