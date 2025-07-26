@@ -39,21 +39,21 @@ If you’re set on finding a native Mac version, we wish you the best of luck wi
 
 ## Procedures
 
-1. Download `BF2142_Setup.rar` from [Downloads](download-and-install-bf2142.md#downloads) → Standard Edition v1.01.
+1. Download `BF2142_Setup.rar` from [Downloads](download-and-install-bf2142.md#downloads) → <mark style="color:blue;">Standard Edition v1.01</mark>.
 2. Create a new folder on your desktop.
 3. Open `BF2142_Setup.rar` with your [file archiver](#user-content-fn-2)[^2].
 4. Drag and drop everything from the `.rar` file into your new folder.
 5. Find `setup.exe` in that folder and double-click it to start the installer. **\[**[**?**](#user-content-fn-3)[^3]**]**
 6. When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-4)[^4]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
 7. Follow the setup wizard to complete the installation — there are a few [important notes](download-and-install-bf2142.md#remarks) along the way, so keep an eye out for those. **\[**[**TL;DR**](#user-content-fn-5)[^5]**]**
-8. Once the installation finishes, close the wizard but _don’t launch the game just yet_. **\[?]**
-9. Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md) — _don’t skip this step_! **\[**[**?**](#user-content-fn-6)[^6]**]**
+8. Once the installation finishes, close the wizard but _don’t launch the game just yet_. **\[**[**?**](#user-content-fn-6)[^6]**]**
+9. Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md) — _don’t skip this step_! **\[**[**?**](#user-content-fn-7)[^7]**]**
 
 ## Downloads
 
 {% tabs %}
 {% tab title="Standard Edition v1.01" %}
-**Battlefield 2142 Standard Edition v1.01**
+## **Battlefield 2142 Standard Edition v1.01**
 
 {% hint style="info" %}
 As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
@@ -75,13 +75,13 @@ More to note:
 Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
 
-\[MIRROR] **BF2142\_Setup.rar (MediaFire, 3.24 GB)**
+**\[MIRROR] BF2142\_Setup.rar (MediaFire, 3.24 GB)**
 
 {% embed url="https://mediafire.com/file/g6xhktutdtnpgs3/BF2142_Setup.rar/file" %}
 &#x20;Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
 
-\[MIRROR] **Battlefield 2142 Setup.rar (MediaFire, 3.24 GB)**
+**\[MIRROR] Battlefield 2142 Setup.rar (MediaFire, 3.24 GB)**
 
 {% embed url="https://www.mediafire.com/file/1eugw0jb8tr93e3/Battlefield_2142_Setup.rar/file" %}
 &#x20;Source: [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142) \[Last Verified: July 2025]
@@ -102,7 +102,7 @@ Source: [Old Games Download](https://oldgamesdownload.com/) \[Last Verified: Jul
 As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
 {% endhint %}
 
-The setup in this section was prepared by Novgames for the Russian-speaking community. This installer will automatically[^7] set the game to Russian and update it to the latest version.
+The setup in this section was prepared by Novgames for the Russian-speaking community. This installer will automatically[^8] set the game to Russian and update it to the latest version.
 
 If you download the game from the links below, you can skip the patching steps for v1.51, and you won’t need a serial key — the installer doesn’t require one.
 
@@ -131,7 +131,7 @@ Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
 
 **2142nov.rar (Google Drive, 4.9 GB)**\
-<sub>Unzip Password: bettercallsaul</sub>
+<sup>Unzip Password: bettercallsaul</sup>
 
 {% embed url="https://drive.google.com/file/d/1aL8mFnq3Dv_BXzto0RvmSzf39kUeb1nW/view?usp=sharing" %}
 Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[Last Verified: July 2025]
@@ -159,8 +159,8 @@ Source: [Amazon](https://www.amazon.com/) \[Last Verified: July 2025]
 
 ## Remarks
 
-1. If you see a popup saying <mark style="color:blue;">This game has only been tested on WinXP(32bit)</mark>, just click <mark style="color:blue;">Confirm</mark>. **\[**[**?**](#user-content-fn-8)[^8]**]**
-2.  When prompted for a serial code, simply use one of these [<mark style="color:blue;">Standard Edition</mark>](#user-content-fn-9)[^9] keys to continue.
+1. If you see a popup saying <mark style="color:blue;">This game has only been tested on WinXP(32bit)</mark>, just click <mark style="color:blue;">Confirm</mark>. **\[**[**?**](#user-content-fn-9)[^9]**]**
+2.  When prompted for a serial code, simply use one of these [<mark style="color:blue;">Standard Edition</mark>](#user-content-fn-10)[^10] keys to continue.
 
     ```
     SDV5-JZDE-L6B8-P2Q4-1911
@@ -169,11 +169,11 @@ Source: [Amazon](https://www.amazon.com/) \[Last Verified: July 2025]
     UTFP-4DMN-D2U0-X3T3-1911​
     TRCL-YBIJ-D4H4-Y3O5-1911
     ```
-3. It’s recommended to install the game to the [default path](#user-content-fn-10)[^10], but you can choose a different location if you prefer.
+3. It’s recommended to install the game to the [default path](#user-content-fn-11)[^11], but you can choose a different location if you prefer.
 4. For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with the [Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
-5. Feel free to skip BattleCammo setup by clicking <mark style="color:blue;">Cancel</mark>. **\[**[**?**](#user-content-fn-11)[^11]**]**
-6. Select <mark style="color:blue;">No, install GameSpy Comrade later</mark> to skip GameSpy Comrade setup. **\[**[**?**](#user-content-fn-12)[^12]**]**
-7. When asked to register an EA account, just click <mark style="color:blue;">REGISTER LATER</mark> to move on. **\[**[**?**](#user-content-fn-13)[^13]**]**
+5. Feel free to skip BattleCammo setup by clicking <mark style="color:blue;">Cancel</mark>. **\[**[**?**](#user-content-fn-12)[^12]**]**
+6. Select <mark style="color:blue;">No, install GameSpy Comrade later</mark> to skip GameSpy Comrade setup. **\[**[**?**](#user-content-fn-13)[^13]**]**
+7. When asked to register an EA account, just click <mark style="color:blue;">REGISTER LATER</mark> to move on. **\[**[**?**](#user-content-fn-14)[^14]**]**
 
 [^1]: A dedicated graphics card isn’t required for this game—your Intel Integrated Graphics should be more than enough to run it smoothly.
 
@@ -185,18 +185,20 @@ Source: [Amazon](https://www.amazon.com/) \[Last Verified: July 2025]
 
 [^5]: When asked for a serial, use: <mark style="color:blue;">E6HH-DWUG-U8X1-R8F0-1911</mark>. Continue the game setup until the installation is completed – do not download GameSpy Arcade and do not register to EA servers. More details are provided [here](download-and-install-bf2142.md#wizard-remarks).
 
-[^6]: If you skip updating to the latest version, the game won’t launch and will keep asking for the disc. Here’s why: the patch removes the disc check, so without it, the game can’t start properly.
+[^6]: Since the game isn’t updated, trying to launch it will prompt you to insert the disc. This happens because the patch removes the disc check — without the update, the game still looks for the original disc before starting.
 
-[^7]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
+[^7]: If you skip updating to the latest version, the game won’t launch and will keep asking for the disc. Here’s why: the patch removes the disc check, so without it, the game can’t start properly.
 
-[^8]: You can safely ignore this warning. The game works perfectly fine on most Windows versions.
+[^8]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
 
-[^9]: Just a quick note: these serial keys only work with the Standard Edition setup. If you’re using a different version, these keys won’t apply.
+[^9]: You can safely ignore this warning. The game works perfectly fine on most Windows versions.
 
-[^10]: i.e., `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`
+[^10]: Just a quick note: these serial keys only work with the Standard Edition setup. If you’re using a different version, these keys won’t apply.
 
-[^11]: BattleCammo is a VoIP service for in-game voice chat, but you probably won’t need it.
+[^11]: i.e., `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`
 
-[^12]: GameSpy Comrade was a community gaming app for friends, stats, and messaging, but it no longer works since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
+[^12]: BattleCammo is a VoIP service for in-game voice chat, but you probably won’t need it.
 
-[^13]: EA Master Server is offline due to the [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
+[^13]: GameSpy Comrade was a community gaming app for friends, stats, and messaging, but it no longer works since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
+
+[^14]: EA Master Server is offline due to the [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
