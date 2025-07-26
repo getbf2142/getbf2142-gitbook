@@ -18,7 +18,7 @@ Double-click the <mark style="color:blue;">Battlefield 2142</mark> shortcut on y
 {% endstep %}
 
 {% step %}
-At the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It might take a moment for the next screen to appear. \[Why?[^1]]
+At the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It might take a moment for the next screen to appear. **\[**[**?**](#user-content-fn-1)[^1]**]**
 {% endstep %}
 
 {% step %}
@@ -26,11 +26,11 @@ Click [<mark style="color:blue;">ACCEPT TERMS</mark>](#user-content-fn-2)[^2].
 {% endstep %}
 
 {% step %}
-Fill out the registration form with fake information \[Why?[^3]] — but make sure to remember your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. \[Why?[^4]]
+Fill out the registration form with fake information **\[**[**?**](#user-content-fn-3)[^3]**]** — but make sure to remember your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. **\[**[**?**](#user-content-fn-4)[^4]**]**
 {% endstep %}
 
 {% step %}
-Click <mark style="color:blue;">CREATE</mark>. If you received an error, then \[...[^5]]
+Click <mark style="color:blue;">CREATE</mark>. If you received an error, then **\[**[**...**](#user-content-fn-5)[^5]**]**
 {% endstep %}
 
 {% step %}
@@ -42,11 +42,11 @@ Enter the <mark style="color:blue;">SOLDIER NAME</mark> you want to use in-game 
 {% endstep %}
 
 {% step %}
-You may notice the game resolution has changed. \[Why?[^6]]
+You may notice the game resolution has changed. **\[**[**?**](#user-content-fn-6)[^6]**]**
 {% endstep %}
 
 {% step %}
-To fix this, go to <mark style="color:blue;">OPTIONS</mark> → <mark style="color:blue;">VIDEO</mark> and adjust the resolution first. Only choose the resolution and refresh rate that your monitor actually supports. \[Why?[^7]]
+To fix this, go to <mark style="color:blue;">OPTIONS</mark> → <mark style="color:blue;">VIDEO</mark> and adjust the resolution first. Only choose the resolution and refresh rate that your monitor actually supports. **\[**[**?**](#user-content-fn-7)[^7]**]**
 {% endstep %}
 
 {% step %}
@@ -61,8 +61,6 @@ Don’t forget to adjust your <mark style="color:blue;">AUDIO</mark> settings to
 _**Congratulations! You have completed all the steps to get Battlefield 2142 up and running! See you on the battlefield!**_
 {% endstep %}
 {% endstepper %}
-
-
 
 ## Follow-ups
 

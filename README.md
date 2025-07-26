@@ -10,29 +10,43 @@ If you are still yearning to experience the thrill of Battlefield 2142 once more
 We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) to receive support.
 {% endhint %}
 
-### About Us
+#### We are a fan site ...
 
 GetBF2142 is a passion project created by die-hard fans of the franchise. Ever since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014, finding a way to play online or with friends has become quite a challenge. For those who still cherish this game today, we understand your struggles, and that's why we have put together this website.
 
-Our goal is simple: to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast in no time!&#x20;
+#### Our goal is simple ...
 
-No ads, no revenue — our intentions are pure. We invested our own money to buy the domain and spent countless hours maintaining the content up-to-date. What we are trying to do is just to make things easier for everyone so that more people can come back to enjoy this masterpiece.
+We're here to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast in no time!&#x20;
+
+#### Our intention is pure ...
+
+No ads, no revenue. We invested our own money to buy the domain and spent countless hours maintaining the content up-to-date. What we are trying to do is just to make things easier for everyone so that more people can come back to enjoy this masterpiece.
+
+#### We do not condone piracy or copyright infringement ...
 
 We do not condone piracy or copyright infringement — we respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game stays alive for those who still want to play this old title.
 
 If you still have any reservations about our project, feel free to reach out to us. We are always open to address your concerns together.
 
-### About BF2142
+<details>
 
-Battlefield 2142 was the sequel to critically-acclaimed Battlefield 2, taking place in the distant future. During a new ice age, two superpowers, the European Union (EU) and the Pan-Asian Coalition (PAC), fight for survival.
+<summary>What is BF2142 all about?</summary>
 
-### Why BF2142?
+Battlefield 2142 is the sequel to the critically acclaimed Battlefield 2, set in a distant future where a new ice age has gripped the world. In this harsh environment, two superpowers — the European Union (EU) and the Pan-Asian Coalition (PAC) — battle for survival and control.
 
-Battlefield 2142 is still the perfect game today when you want to have some fun alone or with some accompanies. Bots are available in both singleplayer and multiplayer. Not only is grinding bots a very fun and relaxing way to kill time, it is also the top game for having a quick LAN party with your family or friends. The game runs smoothly on budget laptops, and the multiplayer titan mode is still an unsurpassable invention even up to this day.
+</details>
 
-No time to waste! You can have a fully functional Battlefield 2142 up and running **in less than 30 minutes**!&#x20;
+<details>
 
-### Why GetBF2142?
+<summary>Why would anyone still play BF2142?</summary>
+
+Battlefield 2142 is still a fantastic choice for both solo and group fun. You can play with bots in singleplayer or multiplayer, making it great for relaxing bot-grinding sessions or quick LAN parties with friends and family. The game runs smoothly even on budget laptops, and its multiplayer Titan mode remains a unique and unmatched experience to this day.
+
+</details>
+
+<details>
+
+<summary>What's so special about GetBF2142?</summary>
 
 GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 
@@ -40,6 +54,10 @@ GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 * Download resources are tested and mirrored; **safe and virus-free**.
 * Extra information and tips are always at your disposal.
 * Contents are constantly reviewed and updated.
+
+</details>
+
+No time to waste! You can have a fully functional Battlefield 2142 up and running **in less than 15 minutes**!&#x20;
 
 ### Disclaimer
 

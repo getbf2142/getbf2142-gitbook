@@ -121,6 +121,14 @@ No, the steps below are optional and only needed if you want to play on Reclamat
 
 <details>
 
+<summary>Can I download the maps individually?</summary>
+
+Yes, you can download the maps individually without downloading the entire pack.
+
+</details>
+
+<details>
+
 <summary>Where are the maps installed?</summary>
 
 The maps are automatically installed to the `\mods\bf2142\Levels` folder.
@@ -129,18 +137,45 @@ The maps are automatically installed to the `\mods\bf2142\Levels` folder.
 
 #### **Installing the complete pack**
 
-1. In the <mark style="color:blue;">Download</mark> tab, double-click on <mark style="color:blue;">BF2142 MapPack v1.0</mark>. This will open your browser to the download link of the pack. Download <mark style="color:blue;">2142\_MapPack\_v1.zip</mark> ([bf2142.ddns.net](http://bf2142.ddns.net/), 3.9GB).
-2. Once the download finishes, click the <mark style="color:blue;">MapPack Installer \*</mark> button and select the .zip file you just downloaded.
-3. A command-line window will appear and close automatically when the installation is done.
-4. If everything looks good, you can close the app.
+{% stepper %}
+{% step %}
+In the <mark style="color:blue;">Download</mark> tab, double-click on <mark style="color:blue;">BF2142 MapPack v1.0</mark>.
+{% endstep %}
+
+{% step %}
+This will open your browser to the download link of the pack.
+
+Download `ReclamationMapPack.zip` (ModDB, 5.41 GB).
+{% endstep %}
+
+{% step %}
+Once the download finishes, click the <mark style="color:blue;">MapPack Installer \*</mark> button and select the `.zip` file you just downloaded.
+{% endstep %}
+
+{% step %}
+A command-line window will appear and close automatically when the installation is done.
+{% endstep %}
+
+{% step %}
+If everything looks good, you can close the app.
+{% endstep %}
+{% endstepper %}
 
 #### **Installing individual maps**
 
-You can also download maps individually. If you’d like to do this, just follow the instructions below.
+{% stepper %}
+{% step %}
+In the <mark style="color:blue;">Download</mark> tab, click on <mark style="color:blue;">Individual Maps</mark>.&#x20;
+{% endstep %}
 
-1. In the <mark style="color:blue;">Download</mark> tab, click on <mark style="color:blue;">Individual Maps</mark>.&#x20;
-2. Choose the maps you want to download from the <mark style="color:blue;">Available Maps</mark> box and click <mark style="color:blue;">>></mark> to download them.
-3. To uninstall a map, select it from the <mark style="color:blue;">Installed Maps</mark> box and click <mark style="color:blue;"><<</mark>.
+{% step %}
+Choose the maps you want to download from the <mark style="color:blue;">Available Maps</mark> box and click <mark style="color:blue;">>></mark> to download them.
+{% endstep %}
+
+{% step %}
+To uninstall a map, select it from the <mark style="color:blue;">Installed Maps</mark> box and click <mark style="color:blue;"><<</mark>.
+{% endstep %}
+{% endstepper %}
 
 [^1]: This way, you’ll have a safety net in case anything goes wrong during the patching process.
 
