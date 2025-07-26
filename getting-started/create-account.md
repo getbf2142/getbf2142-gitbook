@@ -4,7 +4,7 @@ In this tutorial, we’ll walk you through how to create an account and set up t
 
 ## Procedures
 
-{% hint style="danger" %}
+{% hint style="warning" %}
 Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks to prevent any connection issues.
 {% endhint %}
 
@@ -22,7 +22,7 @@ Whenever you see a Windows Firewall prompt, be sure to allow the game to communi
 
 _**Congratulations! You have completed all the steps to get Battlefield 2142 up and running! See you on the battlefield!**_
 
-## Follow-up
+## Follow-ups
 
 Don’t forget to check out these tutorials to learn how to join a game or start your own server!
 
@@ -30,10 +30,16 @@ Don’t forget to check out these tutorials to learn how to join a game or start
 * [Play Multiplayer](play-multiplayer.md)
 * [Host Server](host-server.md)
 
-For some players, the Remaster mod has become their new standard—many can’t imagine playing without it. Check out these tutorials to get started!
+For some players, the Remaster mod has become their new standard — many can’t imagine playing without it. Check out these tutorials to get started!
 
 1. [Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md)
 2. [Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md)
+
+New to the game? We’ve got some manuals packed with helpful info, so it’s definitely worth setting aside a little time to check them out!
+
+* [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS)
+* [Prima eGuide](https://archive.org/details/Battlefield_2142_Prima_Official_eGuide)
+* [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html)
 
 [^1]: It may take a little time for the server to process your requests, since most master servers are based in Europe or America. As long as you get a response within 10 seconds, that’s perfectly normal.
 

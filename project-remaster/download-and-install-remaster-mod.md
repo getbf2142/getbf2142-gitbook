@@ -29,7 +29,7 @@ The mod is developed and maintained by the [Project Remaster Team](https://prmp.
 * Adds the 4th primary rifle slot to each soldier class with a new weapon in it.
 * Comes with a launcher, manual and debugging tools.
 
-You may refer to the Project Remaster [manual](../getting-started/further-readings.md) for more details about the mod.
+You may refer to the Project Remaster [manual](further-readings.md) for more details about the mod.
 
 </details>
 

@@ -10,31 +10,33 @@
 * [③ Install ​BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
 * [④ Apply OpenSpy Patches](getting-started/apply-openspy-patches.md)
 * [⑤ Create Account](getting-started/create-account.md)
-* [⑥ Play Singleplayer](getting-started/play-singleplayer.md)
-* [⑦ Play Multiplayer](getting-started/play-multiplayer.md)
-* [⑧ Host Server](getting-started/host-server.md)
-* [⍟ Further Readings](getting-started/further-readings.md)
+* [⍟ Play Singleplayer](getting-started/play-singleplayer.md)
+* [⍟ Play Multiplayer](getting-started/play-multiplayer.md)
+* [⍟ Host Server](getting-started/host-server.md)
+* [FAQ](getting-started/faq.md)
 
 ## Project Remaster
 
 * [① Install Remaster Mod](project-remaster/download-and-install-remaster-mod.md)
 * [② Configure Remaster Launcher](project-remaster/configure-remaster-launcher.md)
+* [⍟ Further Readings](project-remaster/further-readings.md)
 
 ## Addons / Tweaks
 
 * [Offline Rewards Patch](addons-tweaks/offline-rewards-patch.md)
 * [ReShade & Shaders](addons-tweaks/reshade-and-shaders.md)
 * [Widescreen Hudfix](addons-tweaks/widescreen-hudfix.md)
+* [More Bots Tweak](addons-tweaks/more-bots-tweak.md)
+* [Server Settings Tweak](addons-tweaks/server-settings-tweak.md)
 * [Unlimited Sprint Tweak](addons-tweaks/unlimited-sprint-tweak.md)
 * [Field of View (FOV) Tweak](addons-tweaks/field-of-view-fov-tweak.md)
 * [Extra Maps w/ Bot Support](addons-tweaks/extra-maps-w-bot-support.md)
-* [Server Settings Tweak](addons-tweaks/server-settings-tweak.md)
 * [BF3-Styled Chat Patch](addons-tweaks/bf3-styled-chat-patch.md)
 * [Star Wars Soldier Pack](addons-tweaks/star-wars-soldier-pack.md)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 
-* [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS/view)
+* [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS)
 * [Prima eGuide](https://archive.org/details/Battlefield_2142_Prima_Official_eGuide)
 * [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html)
 * [Modding Wiki](https://classic-battlefield-modding.fandom.com/wiki/Classic_Battlefield_Modding_Wikia)

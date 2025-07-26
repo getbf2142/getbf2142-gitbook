@@ -1,52 +1,45 @@
----
-description: >-
-  This tutorial will guide you through three different ways to play
-  singleplayer.
----
+# ⍟ Play Singleplayer
 
-# ⑧ Play Singleplayer
+In this tutorial, we’ll walk you through three different ways to enjoy singleplayer mode.
 
-## M1. Setting up a quick game in "SINGLEPLAY"&#x20;
+## Setting up a quick game in "SINGLEPLAY"&#x20;
 
-This option gives you a limited experience as you will not able to adjust game options like ticket ratio, team ratio, round time, friendly fire, spawn time, etc.
+This option offers a limited experience — you won’t be able to adjust settings like ticket ratio, team ratio, round time, friendly fire, or spawn time.
 
-When the game is [OpenSpy-ready](apply-openspy-patches.md), the customisation screen will work be functioning and all unlockable equipment will be available for use in-game.
+Once your game is [OpenSpy-ready](apply-openspy-patches.md), the customization screen will work properly, and all unlocks will be available in-game.
 
-1. Log in to the game.
-2. Click <mark style="color:blue;">SINGLEPLAY</mark>.
-3. Configure your game and click <mark style="color:blue;">START PLAYLIST</mark>.
+1. Click <mark style="color:blue;">SINGLEPLAY</mark>.
+2. Configure your game settings and click <mark style="color:blue;">START PLAYLIST</mark>.
 
-## **M2. Setting up a LAN server in "MULTIPLAY"**
+Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for details on customizing your game with extra settings.
 
-This option allows you to adjust game options like ticket ratio, team ratio, round time, friendly fire, spawn time, etc.
+## **Setting up a LAN server in "MULTIPLAY"**
 
-When the game is [OpenSpy-ready](apply-openspy-patches.md), the customisation screen will work be functioning and all unlockable equipment will be available for use in-game.
+{% hint style="warning" %}
+Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks to prevent any connection issues.
+{% endhint %}
 
-1. ​Log in to the game.
-2. ​Click <mark style="color:blue;">MULTIPLAY</mark>.
-3. Click <mark style="color:blue;">LOCAL</mark>.
-4. Click <mark style="color:blue;">CREATE</mark>.
-5. Configure your game and click <mark style="color:blue;">START SERVER</mark>.
+This option lets you adjust game settings such as ticket ratio, team ratio, round time, friendly fire, spawn time, and more.
 
-Refer to [here](host-server.md#configuring-more-server-settings) for more game settings.
+Once your game is [OpenSpy-ready](apply-openspy-patches.md), the customization screen will work properly, and all unlocks will be available in-game.
 
-## M3. Launching the Offline Mini-Mod
+1. ​Click <mark style="color:blue;">MULTIPLAY</mark>.
+2. Click <mark style="color:blue;">LOCAL</mark>.
+3. Click <mark style="color:blue;">CREATE</mark>.
+4. Configure your game settings and click <mark style="color:blue;">START SERVER</mark>.
 
-This option allows you to enter the game without connecting to a master server or an internet connection.
+Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for details on customizing your game with extra settings.
 
-The customisation screen will not work, but you can still get some unlocks from the pre-defined soldier load-outs and kit load-outs when you have. Loot fallen bots' dead bodies to get different primary rifles.&#x20;
+<details>
 
-You should consider this option only when OpenSpy service is down or when internet access is not available for your network. It is worth noting that this mini-mod does not restrict the function of LAN. It only disconnects you from WAN multiplayer.
+<summary>Solution to “1 more player to start game” issue when playing solo</summary>
 
-1. Start the launcher.
-2. Go to the <mark style="color:blue;">Play Offline</mark> page and click <mark style="color:blue;">Play offline</mark>.
-3. On the login screen, click <mark style="color:blue;">LOGIN</mark> [without having to input the password](#user-content-fn-1)[^1].
-4. Follow the steps in either [M1](play-singleplayer.md#m1.-setting-up-a-quick-game-in-singleplay) or [M2](play-singleplayer.md#m2.-setting-up-a-lan-server-in-multiplay)..
+You need this setting:
 
-## Remarks
+```
+set sv.numPlayersNeededToStart 1
+```
 
-1. Use the launcher to configure the number of bots. Set it to an odd number so that the team can be balanced.
-2. The customisation screen is only available for [M1](play-singleplayer.md#m1.-setting-up-a-quick-game-in-singleplay) and [M2](play-singleplayer.md#m2.-setting-up-a-lan-server-in-multiplay) with OpenSpy. It will not work for [M3](play-singleplayer.md#m3.-launching-the-offline-mini-mod).
-3. Windows Firewall may pop up if it is your first time [hosting a LAN server](play-singleplayer.md#setting-up-a-lan-server-in-multiplay). Whenever you see this prompt, allow the game to communicate through both private and public networks to avoid connection issues.
+Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) Guide for instructions on how to do this.
 
-[^1]: If this doesn't work, ​change the account name to <mark style="color:blue;">singleplayer</mark> and press <mark style="color:blue;">LOGIN</mark>. Leave the password empty.
+</details>

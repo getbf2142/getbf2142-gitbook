@@ -10,10 +10,10 @@ Remaster Manual and [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.htm
 
 <figure><img src="../.gitbook/assets/tweak_guide.png" alt=""><figcaption><p>Tweak Guide</p></figcaption></figure>
 
-These materials are great resources if you want to dive deeper into the game. They come built right into the mod — just install the Remaster Mod \[[How?](../project-remaster/download-and-install-remaster-mod.md)] and use the launcher buttons to access them.
+These materials are great resources if you want to dive deeper into the game. They come built right into the mod — just install the Remaster Mod \[[How?](download-and-install-remaster-mod.md)] and use the launcher buttons to access them.
 
 <figure><img src="../.gitbook/assets/launcher_manual.png" alt="" width="375"><figcaption><p>Remaster Launcher</p></figcaption></figure>
 
-If you don’t have the Remaster Mod, you can still check out the the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html) online. The latest Remaster Manual comes only with the mod, but we have an [older PDF version](https://drive.google.com/file/d/1VuFEuFK6_I_iWIEhWMc9cyEC4zq4gQCg/view?usp=sharing) (v14 BETA 10 2021) here for your reference.
+You can still check out the the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html) online. The latest Remaster Manual comes only with the mod, but we have an [older PDF version](https://drive.google.com/file/d/1VuFEuFK6_I_iWIEhWMc9cyEC4zq4gQCg/view?usp=sharing) (v14 BETA 10 2021) here for your reference.
 
 Enjoy exploring the wiki! See you on the battlefield!
