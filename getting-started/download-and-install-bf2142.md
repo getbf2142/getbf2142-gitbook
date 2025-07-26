@@ -71,8 +71,8 @@ When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-co
 {% step %}
 Follow the setup wizard to complete the installation — there are a few [important notes](download-and-install-bf2142.md#remarks) along the way, so keep an eye out for those. **\[**[**TL;DR**](#user-content-fn-5)[^5]**]**
 
-* <sup>If you see a popup saying</sup> <sup></sup><sup><mark style="color:blue;">This game has only been tested on WinXP(32bit)<mark style="color:blue;"></sup><sup>, just click</sup> <sup></sup><sup><mark style="color:blue;">Confirm<mark style="color:blue;"></sup><sup>.</sup> <sup></sup><sup>**\[**</sup>[<sup>**?**</sup>](#user-content-fn-6)[^6]<sup>**]**</sup>
-*   <sup>When prompted for a serial code, simply use one of these</sup> [<sup><mark style="color:blue;">Standard Edition<mark style="color:blue;"></sup>](#user-content-fn-7)[^7] <sup>keys to continue.</sup>
+* <sup><sub>If you see a popup saying<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">This game has only been tested on WinXP(32bit)<mark style="color:blue;"><sub></sup><sup><sub>, just click<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">Confirm<mark style="color:blue;"><sub></sup><sup><sub>.<sub></sup> <sup><sub> </sup><sup><sub>**\[**<sub></sup>[<sup><sub>**?**<sub></sup>](#user-content-fn-6)[^6]<sup><sub>**]**<sub></sup>
+*   <sup><sub>When prompted for a serial code, simply use one of these<sub></sup> [<sup><sub><mark style="color:blue;">Standard Edition<mark style="color:blue;"><sub></sup>](#user-content-fn-7)[^7] <sup><sub>keys to continue.<sub></sup>
 
     ```
     SDV5-JZDE-L6B8-P2Q4-1911
@@ -81,11 +81,11 @@ Follow the setup wizard to complete the installation — there are a few [import
     UTFP-4DMN-D2U0-X3T3-1911​
     TRCL-YBIJ-D4H4-Y3O5-1911
     ```
-* <sup>It’s recommended to install the game to the</sup> [<sup>default path</sup>](#user-content-fn-8)[^8]<sup>, but you can choose a different location if you prefer.</sup>
-* <sup>For the best experience, install the</sup> <sup></sup><sup><mark style="color:blue;">English version<mark style="color:blue;"></sup> <sup></sup><sup>to take advantage of the</sup> <sup></sup><sup><mark style="color:blue;">HD English fonts<mark style="color:blue;"></sup> <sup></sup><sup>included with the</sup> [<sup>Remaster mod</sup>](../project-remaster/download-and-install-remaster-mod.md)<sup>.</sup>
-* <sup>Feel free to skip BattleCammo setup by clicking</sup> <sup></sup><sup><mark style="color:blue;">Cancel<mark style="color:blue;"></sup><sup>.</sup> <sup></sup><sup>**\[**</sup>[<sup>**?**</sup>](#user-content-fn-9)[^9]<sup>**]**</sup>
-* <sup>Select</sup> <sup></sup><sup><mark style="color:blue;">No, install GameSpy Comrade later<mark style="color:blue;"></sup> <sup></sup><sup>to skip GameSpy Comrade setup.</sup> <sup></sup><sup>**\[**</sup>[<sup>**?**</sup>](#user-content-fn-10)[^10]<sup>**]**</sup>
-* <sup>When asked to register an EA account, just click</sup> <sup></sup><sup><mark style="color:blue;">REGISTER LATER<mark style="color:blue;"></sup> <sup></sup><sup>to move on.</sup> <sup></sup><sup>**\[**</sup>[<sup>**?**</sup>](#user-content-fn-11)[^11]<sup>**]**</sup>
+* <sup><sub>It’s recommended to install the game to the<sub></sup> [<sup><sub>default path<sub></sup>](#user-content-fn-8)[^8]<sup><sub>, but you can choose a different location if you prefer.<sub></sup>
+* <sup><sub>For the best experience, install the<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">English version<mark style="color:blue;"><sub></sup> <sup><sub> </sup><sup><sub>to take advantage of the<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">HD English fonts<mark style="color:blue;"><sub></sup> <sup><sub> </sup><sup><sub>included with the<sub></sup> [<sup><sub>Remaster mod<sub></sup>](../project-remaster/download-and-install-remaster-mod.md)<sup><sub>.<sub></sup>
+* <sup><sub>Feel free to skip BattleCammo setup by clicking<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">Cancel<mark style="color:blue;"><sub></sup><sup><sub>.<sub></sup> <sup><sub> </sup><sup><sub>**\[**<sub></sup>[<sup><sub>**?**<sub></sup>](#user-content-fn-9)[^9]<sup><sub>**]**<sub></sup>
+* <sup><sub>Select<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">No, install GameSpy Comrade later<mark style="color:blue;"><sub></sup> <sup><sub> </sup><sup><sub>to skip GameSpy Comrade setup.<sub></sup> <sup><sub> </sup><sup><sub>**\[**<sub></sup>[<sup><sub>**?**<sub></sup>](#user-content-fn-10)[^10]<sup><sub>**]**<sub></sup>
+* <sup><sub>When asked to register an EA account, just click<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">REGISTER LATER<mark style="color:blue;"><sub></sup> <sup><sub> </sup><sup><sub>to move on.<sub></sup> <sup><sub> </sup><sup><sub>**\[**<sub></sup>[<sup><sub>**?**<sub></sup>](#user-content-fn-11)[^11]<sup><sub>**]**<sub></sup>
 {% endstep %}
 
 {% step %}

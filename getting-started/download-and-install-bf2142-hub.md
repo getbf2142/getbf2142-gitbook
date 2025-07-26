@@ -30,7 +30,7 @@ Follow the on-screen instructions in the wizard to finish the installation.
 {% endstep %}
 
 {% step %}
-Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using BF2142 Hub — _this step is essential, so don't skip it!_ \[Why?[^2]]
+Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using BF2142 Hub — _this step is essential, so don't skip it!_ **\[**[**?**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 {% endstepper %}
 
