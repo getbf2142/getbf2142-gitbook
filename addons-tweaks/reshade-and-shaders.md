@@ -35,7 +35,7 @@ BF2142\_Reshade\_PRv14 (Google Drive, 4.2 MB) - Source: [GetBF2142](https://docs
 
 <details>
 
-<summary>If you have Remaster mod ...</summary>
+<summary>If you have Remaster mod installed ...</summary>
 
 Activating Reshade is super easy with the mod's launcher, simply:
 
@@ -50,7 +50,7 @@ To uninstall, just uncheck the <mark style="color:blue;">Reshade</mark> option. 
 
 <details>
 
-<summary>If you don't have Remaster mod ...</summary>
+<summary>If you don't have Remaster mod installed ...</summary>
 
 1. Download `BF2142_Reshade_PRv14.rar` from [Downloads](reshade-and-shaders.md#downloads).
 2. Extract all the files to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`. Overwrite any files.

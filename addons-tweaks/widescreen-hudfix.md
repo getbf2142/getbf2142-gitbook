@@ -18,7 +18,7 @@ Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142
 
 <details>
 
-<summary>If you have Remaster mod ...<br><em>(Hudfix for Remaster mod)</em></summary>
+<summary>If you have Remaster mod installed ...<br><em>(Hudfix for Remaster mod)</em></summary>
 
 To activate Widescreen Hudfix for your Remaster gameplay:
 
@@ -35,7 +35,7 @@ If you ever want to uninstall, simply uncheck those two options. Then, head over
 
 <details>
 
-<summary>If you don't have Remaster mod ...<br><em>(Hudfix for Vanilla, or mods besides Remaster mod)</em></summary>
+<summary>If you don't have Remaster mod installed ...<br><em>(Hudfix for Vanilla BF2142, or mods besides Remaster mod)</em></summary>
 
 ## Before we start ...
 

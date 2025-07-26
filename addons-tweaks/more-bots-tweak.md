@@ -1,8 +1,6 @@
 # More Bots Tweak
 
-Many BF2142 players want to play with more bots — 16 just isn’t enough for most! With today’s PCs, you can easily run over 64 bots without lag, making for a much more immersive battlefield experience. If you enjoy grinding bots for fun, you’re not alone!&#x20;
-
-Here’s a guide on how to increase the number of bots in your game.
+Many BF2142 players want to play with more bots — 16 just isn’t enough for most! With today’s PCs, you can easily run over 64 bots without lag, making for a much more immersive battlefield experience. If you enjoy grinding bots for fun, you’re not alone!  Here’s a guide on how to increase the number of bots in your game.
 
 ## Before we start ...
 
@@ -32,6 +30,7 @@ Here’s a guide on how to increase the number of bots in your game.
 
 * When you launch the game and select a map, it might still display 16 bots, but if you’ve edited the file correctly, you’ll actually have the number of bots you set. Simply load into a map and use the tab list and you will see the effect.
 * Remember, everything is case sensitive — spelling mistakes or incorrect capitalization can cause the game to crash!
+* If you host a server with this tweak, your server will have more bots, and players who join won’t need to make any changes on their end.
 
 ## Special thanks to ...
 
