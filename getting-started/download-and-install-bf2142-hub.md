@@ -1,3 +1,7 @@
+---
+description: Where to download BF2142 Hub? How to install BF2142 Hub?
+---
+
 # ③ Install ​BF2142 Hub
 
 In this tutorial, we'll walk you through the steps to download and install BF2142 Hub.
@@ -8,16 +12,34 @@ The tool is developed and maintained by the [Reclamation Team](https://battlefie
 
 ## Procedures
 
-1. Download <mark style="color:blue;">BF2142\_Hub\_Setup.exe</mark> from [Downloads](download-and-install-bf2142-hub.md#downloads).
-2. Double-click the file to run it.
-3. When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-1)[^1]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
-4. Follow the on-screen instructions in the wizard to finish the installation.
-5. Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using BF2142 Hub — _this step is essential, so don't skip it!_ \[Why?[^2]]
+{% stepper %}
+{% step %}
+Download <mark style="color:blue;">BF2142\_Hub\_Setup.exe</mark> from [Downloads](download-and-install-bf2142-hub.md#downloads).
+{% endstep %}
+
+{% step %}
+Double-click the file to run it.
+{% endstep %}
+
+{% step %}
+When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-1)[^1]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+{% endstep %}
+
+{% step %}
+Follow the on-screen instructions in the wizard to finish the installation.
+{% endstep %}
+
+{% step %}
+Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using BF2142 Hub — _this step is essential, so don't skip it!_ \[Why?[^2]]
+{% endstep %}
+{% endstepper %}
 
 ## Downloads
 
+**BF2142\_Hub\_Setup.exe (ModDB, 1.2 MB)**
+
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/bf2142-hub-2" %}
-**BF2142\_Hub\_Setup.exe (ModDB, 1.2 MB) -** Source: [BF2142 Reclamation](https://battlefield2142.co/)
+Source: [BF2142 Reclamation](https://battlefield2142.co/) \[Last Verified: July 2025]
 {% endembed %}
 
 [^1]: i.e., <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>

@@ -1,3 +1,7 @@
+---
+description: How to install Openspy patches?
+---
+
 # ④ Apply OpenSpy Patches
 
 In this tutorial, we’ll focus on getting your game working with OpenSpy.
