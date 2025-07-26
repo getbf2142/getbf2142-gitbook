@@ -1,6 +1,10 @@
+---
+description: How to play singleplayer? How to start a singleplayer game?
+---
+
 # ⍟ Play Singleplayer
 
-In this tutorial, we’ll walk you through three different ways to enjoy singleplayer mode.
+In this tutorial, we’ll walk you through 2 different ways to enjoy singleplayer mode.
 
 ## Setting up a quick game in "SINGLEPLAY"&#x20;
 
@@ -8,10 +12,17 @@ This option offers a limited experience — you won’t be able to adjust settin
 
 Once your game is [OpenSpy-ready](apply-openspy-patches.md), the customization screen will work properly, and all unlocks will be available in-game.
 
-1. Click <mark style="color:blue;">SINGLEPLAY</mark>.
-2. Configure your game settings and click <mark style="color:blue;">START PLAYLIST</mark>.
+{% stepper %}
+{% step %}
+Select <mark style="color:blue;">SINGLEPLAY</mark>.
+{% endstep %}
 
-Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for details on customizing your game with extra settings.
+{% step %}
+Configure your game settings and click <mark style="color:blue;">START PLAYLIST</mark>.
+
+Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for details on extra cutomization settings.
+{% endstep %}
+{% endstepper %}
 
 ## **Setting up a LAN server in "MULTIPLAY"**
 
@@ -19,12 +30,25 @@ This option lets you adjust game settings such as ticket ratio, team ratio, roun
 
 Once your game is [OpenSpy-ready](apply-openspy-patches.md), the customization screen will work properly, and all unlocks will be available in-game.
 
-1. ​Click <mark style="color:blue;">MULTIPLAY</mark>.
-2. Click <mark style="color:blue;">LOCAL</mark>.
-3. Click <mark style="color:blue;">CREATE</mark>.
-4. Configure your game settings and click <mark style="color:blue;">START SERVER</mark>.
+{% stepper %}
+{% step %}
+Select <mark style="color:blue;">MULTIPLAY</mark>.
+{% endstep %}
 
-Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for details on customizing your game with extra settings.
+{% step %}
+Select <mark style="color:blue;">LOCAL</mark>.
+{% endstep %}
+
+{% step %}
+Select <mark style="color:blue;">CREATE</mark>.
+{% endstep %}
+
+{% step %}
+Configure your game settings and click <mark style="color:blue;">START SERVER</mark>.
+
+Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for details on extra cutomization settings.
+{% endstep %}
+{% endstepper %}
 
 <details>
 
@@ -33,9 +57,9 @@ Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md)
 You need this setting:
 
 ```
-set sv.numPlayersNeededToStart 1
+sv.numPlayersNeededToStart 1
 ```
 
-Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) Guide for instructions on how to do this.
+Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for instructions on how to do this.
 
 </details>

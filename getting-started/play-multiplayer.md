@@ -1,3 +1,7 @@
+---
+description: How to play multiplayer? How to join a server?
+---
+
 # ⍟ Play Multiplayer
 
 In this tutorial, we'll walk you through the steps to join a server.

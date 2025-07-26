@@ -6,13 +6,19 @@ description: How to install Openspy patches? How to install Reclamation maps?
 
 In this tutorial, we’ll focus on getting your game working with OpenSpy.
 
+<details>
+
+<summary>What is OpenSpy?</summary>
+
 OpenSpy is an open-source replacement for GameSpy, designed to provide full compatibility with GameSpy-supported games. The Reclamation community is the main BF2142 group using the OpenSpy master server.
+
+</details>
 
 <details>
 
-<summary>What's a master server?</summary>
+<summary>What is a Master Server?</summary>
 
-A master server manages your login credentials and soldier data, broadcasts available game servers to your server browser, and receives regular updates from game servers about player progress.
+A master server manages your login credentials and soldier data, broadcasts available game servers to your server browser, and receives regular updates from game servers about player progress. OpenSpy is a great example of a Master Server that provides online services for games like Battlefield 2142.
 
 </details>
 
@@ -26,7 +32,7 @@ After [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in 2014
 
 <details>
 
-<summary>Are there any other master servers besides OpenSpy?</summary>
+<summary>Are there any other Master Servers besides OpenSpy?</summary>
 
 Yes, there are a few, like NovGames, PlayBF2142, and MAGMA. However, OpenSpy — especially with the Reclamation community — offers the most reliable and active service.
 
@@ -34,7 +40,7 @@ Yes, there are a few, like NovGames, PlayBF2142, and MAGMA. However, OpenSpy —
 
 <details>
 
-<summary>How's the Reclamation community? Is it active?</summary>
+<summary>How is the Reclamation community? Is it still active?</summary>
 
 <figure><img src="../.gitbook/assets/reclamation_orig.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -42,7 +48,7 @@ The Reclamation servers are quite active! You’ll usually find 10+ players on w
 
 You can enjoy various game modes, including Conquest, Conquest Coop, and Titan.
 
-**To join:**
+To join:
 
 * Make sure you’ve installed OpenSpy patches using BF2142 Hub.
 * Also, install the Reclamation Map Pack (or any maps currently running on the server) through BF2142 Hub.

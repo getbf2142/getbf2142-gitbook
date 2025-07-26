@@ -49,7 +49,7 @@ Yes, you can skip this tutorial if your game is already patched to v1.51. Howeve
 
 {% stepper %}
 {% step %}
-Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) → <mark style="color:blue;">Full Installer</mark>.
+Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) → <mark style="color:blue;">Standalone Installer</mark>.
 {% endstep %}
 
 {% step %}
@@ -76,8 +76,8 @@ Next, make sure to [install BF2142 Hub](download-and-install-bf2142-hub.md) and 
 ## Downloads
 
 {% tabs %}
-{% tab title="Full Installer" %}
-**Full Standalone Installer**
+{% tab title="Standalone Installer" %}
+**Standalone Installer**
 
 This installer will update your game to the latest version (v1.51), no matter which version you currently have — whether it’s v1.00, v1.01, or v1.50.&#x20;
 

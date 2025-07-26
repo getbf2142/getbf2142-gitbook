@@ -107,15 +107,15 @@ Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md
 As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
 {% endhint %}
 
-The setup provided here is an image of the Standard Edition retail DVD, which includes the following language options: _English, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Polish, Spanish, Swedish, Thai, Russian_
+The setup provided here is an image of the Standard Edition retail DVD, which includes the following language options: <sub>_English, Chinese Simplified, Chinese Traditional, Czech, Danish, Dutch, Finnish, French, German, Italian, Japanese, Korean, Polish, Spanish, Swedish, Thai, Russian_</sub>
 
 Please note, this setup contains an early version of the game (v1.01). To ensure your game is up to date, you’ll need to follow the [next tutorial](download-and-install-v1_51-patch.md) right after completing these steps to patch it to the latest version (v1.51).
 
-More to note:
+<sup>More to note:</sup>
 
-* If you’re new to the game or modding, we recommend sticking with the Standard Edition, since our tutorials are designed specifically for that version.
-* If you have any concerns about the sources, consider installing an antivirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.
-* Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which often no longer allows you to log in), this is one of the few remaining options available.
+* <sup>If you’re new to the game, we recommend sticking with the Standard Edition, since our tutorials are designed specifically for that version.</sup>
+* <sup>If you have any concerns about the sources, consider installing an antivirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.</sup>
+* <sup>Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which often no longer allows you to log in), this is one of the few remaining options available.</sup>
 
 **BF2142\_Setup.rar (Google Drive, 3.24 GB)**
 
@@ -154,11 +154,11 @@ The setup in this section was prepared by Novgames for the Russian-speaking comm
 
 If you download the game from the links below, you can skip the patching steps for v1.51, and you won’t need a serial key — the installer doesn’t require one.
 
-More to note:
+<sup>More to note:</sup>
 
-* If you’re new to the game or modding, we recommend sticking with the Standard Edition, since our tutorials are designed specifically for that version.
-* If you have any concerns about the sources, consider installing an antivirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.
-* Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which often no longer allows you to log in), this is one of the few remaining options available.
+* <sup>If you’re new to the game, we recommend sticking with the Standard Edition, since our tutorials are designed specifically for that version.</sup>
+* <sup>If you have any concerns about the sources, consider installing an antivirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.</sup>
+* <sup>Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which often no longer allows you to log in), this is one of the few remaining options available.</sup>
 
 **BF2142\_Novgames.zip (Google Drive / Torrent, 2.44 GB)**
 

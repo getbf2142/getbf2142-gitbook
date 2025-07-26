@@ -73,11 +73,11 @@ You should follow these steps:\
 At the moment, it’s not possible to play the game using BF2142Unlocker. \[Why?[^4]]
 {% endhint %}
 
-### **What's BF2142Unlocker? What makes it so useful?**
+#### **What's BF2142Unlocker? What makes it so useful?**
 
 This tool takes care of everything for you — no need to install patches manually. It handles joining servers, switching master servers, hosting LAN games, and finding servers. Just launch BF2142Unlocker and use its easy-to-use interface to jump right into the game.
 
-### **Why didn’t our tutorials cover BF2142Unlocker?**
+#### **Why didn’t our tutorials cover BF2142Unlocker?**
 
 GetBF2142.net, we have a soft spot for nostalgia and love showing newcomers how to install the game the classic way. While this method takes a few extra steps compared to the quick setup, it gives you a fully functional game that launches with the original interface. From there, you can enjoy exploring, creating, or joining games just like in the old days.
 
