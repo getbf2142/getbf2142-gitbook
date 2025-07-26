@@ -171,7 +171,7 @@ Source: [Amazon](https://www.amazon.com/)
 
 [^10]: Just a quick note: these serial keys only work with the Standard Edition setup. If you’re using a different version, these keys won’t apply.
 
-[^11]: i.e., <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142</mark>
+[^11]: i.e., `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`
 
 [^12]: BattleCammo is a VoIP service for in-game voice chat, but you probably won’t need it.
 

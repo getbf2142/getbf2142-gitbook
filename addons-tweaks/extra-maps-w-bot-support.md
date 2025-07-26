@@ -42,7 +42,7 @@ If you’re a Battlefield fan who loves playing with bots, you’ve probably not
 {% endcolumn %}
 {% endcolumns %}
 
-## What we got from Vanilla ...
+## What we got from Vanilla BF2142 ...
 
 You got just 5 maps with bot support for singleplayer and multiplayer.
 
@@ -62,7 +62,7 @@ You got just 5 maps with bot support for singleplayer and multiplayer.
 
 </details>
 
-## What you will get from Remaster Mod ...
+## What you will get from Project Remaster ...
 
 You'll get a long list of maps with bot support for both singleplayer and multiplayer.
 
@@ -72,7 +72,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 <details>
 
-<summary>List of Maps in Remaster Mod w/ Bot Support</summary>
+<summary>List of Maps in Project Remaster w/ Bot Support</summary>
 
 #### Core Maps:
 

@@ -2,13 +2,19 @@
 
 Reshade adds a layer of shaders to the game, giving the visuals a big boost. It was first used in Project Reality for BF2 and has since been adapted for BF2142 as well.
 
+The original post about **Reshade for BF2142** by the [Project Remaster Team](https://discord.com/invite/nVdDkgA) is here:&#x20;
+
+{% embed url="https://www.moddb.com/downloads/bf2142-reshade" %}
+
+However, that version is outdated. The team now uses a newer Reshade client and has updated shader presets. The latest Reshade package for BF2142 is included with the [Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) v14 installation. In this guide, we’ll also cover how to install ReShade if you don’t have the mod.
+
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/reshade_remagen.gif" alt=""><figcaption><p>Map: Breakthrough at Remagen</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/reshade_remagen.gif" alt=""><figcaption><p>Breakthrough at Remagen</p></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../.gitbook/assets/reshade_street.gif" alt=""><figcaption><p>Map: Street</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/reshade_street.gif" alt=""><figcaption><p>Street</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -19,13 +25,17 @@ A few things to note:
 * ReShade will apply to all mods, including vanilla 2142.
 * ReShade can be easily uninstalled by just deleting the files you added.
 
-The original post about **Reshade for BF2142** by the [Project Remaster Team](https://discord.com/invite/nVdDkgA) is here:&#x20;
+## Downloads
 
-{% embed url="https://www.moddb.com/downloads/bf2142-reshade" %}
+{% embed url="https://drive.google.com/file/d/1McXt77aT1TUCl72h9LOy3zSMRbR97fEv" %}
+BF2142\_Reshade\_PRv14 (Google Drive, 4.2 MB) - Source: [GetBF2142](https://docs.getbf2142.net/)
+{% endembed %}
 
-However, that version is outdated. The team now uses a newer Reshade client and has updated shader presets. The latest Reshade package for BF2142 is included with the [Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) v14 installation. In this guide, we’ll also cover how to install ReShade if you don’t have the mod.
+## Let's install it !
 
-## If you have Remaster Mod ...
+<details>
+
+<summary>If you have Remaster mod ...</summary>
 
 Activating Reshade is super easy with the mod's launcher, simply:
 
@@ -36,27 +46,19 @@ Activating Reshade is super easy with the mod's launcher, simply:
 
 To uninstall, just uncheck the <mark style="color:blue;">Reshade</mark> option. It’s that simple!
 
-## If you don't have Remaster Mod ...
+</details>
 
-{% tabs %}
-{% tab title="Latest Release" %}
-{% embed url="https://drive.google.com/file/d/1McXt77aT1TUCl72h9LOy3zSMRbR97fEv" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Checked: 07/2025]
-{% endembed %}
-{% endtab %}
+<details>
 
-{% tab title="Older Release" %}
-{% embed url="https://www.moddb.com/downloads/bf2142-reshade" %}
-Source: [illicitSoul](https://www.moddb.com/members/ainas) on [ModDB](https://www.moddb.com/) \[Last Checked: 07/2025]
-{% endembed %}
-{% endtab %}
-{% endtabs %}
+<summary>If you don't have Remaster mod ...</summary>
 
-1. Download either the latest or an older release from above.
+1. Download `BF2142_Reshade_PRv14.rar` from [Downloads](reshade-and-shaders.md#downloads).
 2. Extract all the files to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`. Overwrite any files.
 3. If you installed the game somewhere other than `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`, you’ll need to manually update all the paths in `d3d9.ini` using a text editor to match your setup.
 
 To uninstall, just delete the files you added.
+
+</details>
 
 ## Let’s try it out in-game !
 
@@ -70,14 +72,10 @@ To uninstall, just delete the files you added.
       2. Texture search path: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\reshade-shaders\Textures` (or wherever your setup is)
    2. Then return to the <mark style="color:blue;">Home</mark> tab and click <mark style="color:blue;">Reload</mark>. The preset should load properly now.
    3. Also, in the <mark style="color:blue;">Home</mark> tab, check that the preset path in the dropdown menu points to the correct location: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\DefaultPreset.ini` (or wherever your setup is).
-
-By default, you can toggle the Reshade effect with the <mark style="color:blue;">Scroll Lock</mark> key, but you can change this key bind using the in-game tool. I would recommend setting it to <mark style="color:blue;">Shift + F1</mark>.
-
-If you want to adjust the shaders, just go to the <mark style="color:blue;">Settings</mark> tab and enable <mark style="color:blue;">Configuration Mode</mark>. Then, return to the <mark style="color:blue;">Home</mark> tab to tweak the parameters however you like.
-
-You can create a new preset by clicking the <mark style="color:blue;">+</mark> button next to the dropdown menu in the <mark style="color:blue;">Home</mark> tab. There are two presets \[?[^1]] — `DefaultPreset` and `DefaultPreset2` — that you can select from the dropdown.
-
-If you notice any graphical glitches, try turning off the LUT on certain maps.
+6. By default, you can toggle the Reshade effect with the <mark style="color:blue;">Scroll Lock</mark> key, but you can change this key bind using the in-game tool. I would recommend setting it to <mark style="color:blue;">Shift + F1</mark>.
+7. If you want to adjust the shaders, just go to the <mark style="color:blue;">Settings</mark> tab and enable <mark style="color:blue;">Configuration Mode</mark>. Then, return to the <mark style="color:blue;">Home</mark> tab to tweak the parameters however you like.
+8. You can create a new preset by clicking the <mark style="color:blue;">+</mark> button next to the dropdown menu in the <mark style="color:blue;">Home</mark> tab. There are two presets \[?[^1]] — `DefaultPreset` and `DefaultPreset2` — that you can select from the dropdown.
+9. If you notice any graphical glitches, try turning off the LUT on certain maps.
 
 ## Special thanks to ...
 

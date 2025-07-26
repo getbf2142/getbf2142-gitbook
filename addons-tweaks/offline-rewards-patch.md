@@ -21,6 +21,8 @@ The problem is that you're not really getting any medals or badges if things wor
 
 To lengthen your game duration, simply configure the ticket ratio (available when you create a LAN game). Note that ticket ratio is in the form of multiples. 300 means x3, 350 means x3.5. So the recommended value is somewhere from 200 to 400, and that will allow you to scale up the ticket to around 500 to 1000.
 
+Note that this patch will apply to all mods, including vanilla 2142.
+
 ## Procedures
 
 1. Download <mark style="color:blue;">offline\_rewards.zip</mark> from [Downloads](offline-rewards-patch.md#downloads).

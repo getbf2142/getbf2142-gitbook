@@ -8,11 +8,11 @@ In this tutorial, we’ll cover how to make all these settings configurable for 
 
 **Editing ServerSettings.con in Profiles/Default**
 
-Whatever you set in `ServerSettings.con` will override any in-game adjustments. For example, if you set the ticket ratio to 100 in the .con file but use the in-game slider to set it to 300, the game or server will still use the value from the .con file.
-
 {% hint style="info" %}
 Any changes you make with this method will apply to all mods.
 {% endhint %}
+
+Whatever you set in `ServerSettings.con` will override any in-game adjustments. For example, if you set the ticket ratio to 100 in the .con file but use the in-game slider to set it to 300, the game or server will still use the value from the .con file.
 
 1. Go into your `Documents/Battlefield 2142/Profiles/Default` folder.
 2. Open `ServerSettings.con` with a text editor.
@@ -28,11 +28,11 @@ You might wonder why we need to set the .con file to read-only instead of just e
 
 **Editing GameLogicInit.con in mods/\<MOD>**
 
-This is my preferred method: just add the settings you want to override to `GameLogicInit.con` — usually the ones you can’t change in-game. For anything you can adjust in-game, just leave it out of this file. The only downside is you might forget what you’ve added, so if you no longer need certain flags, make sure to remove or comment them out.
-
 {% hint style="info" %}
 Changes made with this method are specific to each mod.
 {% endhint %}
+
+This is my preferred method: just add the settings you want to override to `GameLogicInit.con` — usually the ones you can’t change in-game. For anything you can adjust in-game, just leave it out of this file. The only downside is you might forget what you’ve added, so if you no longer need certain flags, make sure to remove or comment them out.
 
 1. Go into your `mods/<MOD>` folder.
 2. Open `GameLogicInit.con` file with a text editor.

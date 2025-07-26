@@ -27,10 +27,10 @@
 * [ReShade & Shaders](addons-tweaks/reshade-and-shaders.md)
 * [Widescreen Hudfix](addons-tweaks/widescreen-hudfix.md)
 * [More Bots Tweak](addons-tweaks/more-bots-tweak.md)
-* [Server Settings Tweak](addons-tweaks/server-settings-tweak.md)
 * [Unlimited Sprint Tweak](addons-tweaks/unlimited-sprint-tweak.md)
 * [Field of View (FOV) Tweak](addons-tweaks/field-of-view-fov-tweak.md)
 * [Extra Maps w/ Bot Support](addons-tweaks/extra-maps-w-bot-support.md)
+* [Server Settings Tweak](addons-tweaks/server-settings-tweak.md)
 * [BF3-Styled Chat Patch](addons-tweaks/bf3-styled-chat-patch.md)
 * [Star Wars Soldier Pack](addons-tweaks/star-wars-soldier-pack.md)
 
@@ -40,7 +40,7 @@
 * [Prima eGuide](https://archive.org/details/Battlefield_2142_Prima_Official_eGuide)
 * [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html)
 * [Modding Wiki](https://classic-battlefield-modding.fandom.com/wiki/Classic_Battlefield_Modding_Wikia)
-* [Online Services Guide](https://prmp.boards.net/board/9/guides)
+* [Online Services Setup](https://prmp.boards.net/board/9/guides)
 
 ## Dedicated Server
 
@@ -55,13 +55,12 @@
 * [BF2142 First Strike](https://www.moddb.com/mods/first-strike)
 * [BF2142 Remastered](https://www.moddb.com/mods/bf2142-project-remaster)
 * [BF2142 Reclamation](https://battlefield2142.co/)
-* [FFOLKES Unlocks Mod](https://www.bf-games.net/downloads/2946/ffolkes-unlocks-mod-v15-inoffiziell.html)
 
 ## Quick Links
 
-* [Battlefield 1942](https://oldgamesdownload.com/battlefield-1942-hg4/)
 * [Battlefield Vietnam](https://oldgamesdownload.com/battlefield-vietnam-2tt/)
-* [Battlefield 2](https://discord.gg/DaMVNknVnV)
+* [Battlefield 1942](https://oldgamesdownload.com/battlefield-1942-hg4/)
+* [Battlefield 2](https://playbf2.tilda.ws/en)
 
 ## Others
 
