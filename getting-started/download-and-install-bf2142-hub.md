@@ -1,30 +1,25 @@
----
-description: >-
-  This tutorial will guide you through the steps to download and install bf2142
-  hub.
----
+# ③ Install ​BF2142 Hub
 
-# ④ Download & Install ​BF2142 Hub
+In this tutorial, we'll walk you through the steps to download and install BF2142 Hub.
 
-BF2142 Hub is a handy tool that provides a click-to-go method to install OpenSpy and NovGames patches. You will need these custom patches to pass through the login page, find servers from the server browser, and play online. This has something to do with the existence of master servers, which will be discussed in detail in the [next tutorial](apply-openspy-patches.md).
+BF2142 Hub is a convenient tool that lets you easily install OpenSpy patches with just a click. You’ll need these custom patches to get past the login screen, see servers in the server browser, and play online. This is all related to master servers, which we’ll cover in more detail in the [next tutorial](apply-openspy-patches.md).
 
-The tool is developed and maintained by the [Reclamation Team](https://battlefield2142.co/). You can join their [Discord server](https://discord.com/invite/MEwBW9U) to receive the latest updates about their project.
+The tool is developed and maintained by the [Reclamation Team](https://battlefield2142.co/). For the latest updates and support, feel free to join their [Discord server](https://discord.com/invite/MEwBW9U).
 
 ## Procedures
 
 1. Download <mark style="color:blue;">BF2142\_Hub\_Setup.exe</mark> from [Downloads](download-and-install-bf2142-hub.md#downloads).
-2. Double-click to run it.
-3. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
-4. Follow the wizard instructions to complete the installation.
+2. Double-click the file to run it.
+3. When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-1)[^1]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+4. Follow the on-screen instructions in the wizard to finish the installation.
+5. Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using BF2142 Hub — _this step is essential, so don't skip it!_ \[Why?[^2]]
 
 ## Downloads
 
-{% tabs %}
-{% tab title="Downloads" %}
-**BF2142\_Hub\_Setup.exe (ModDB, 1.2 MB)**
-
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/bf2142-hub-2" %}
-Source: [BF2142 Reclamation](https://battlefield2142.co/) \[Last Checked: 07/2025]
+**BF2142\_Hub\_Setup.exe (ModDB, 1.2 MB) -** Source: [BF2142 Reclamation](https://battlefield2142.co/)
 {% endembed %}
-{% endtab %}
-{% endtabs %}
+
+[^1]: i.e., <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>
+
+[^2]: If you skip this step, you won’t be able to log in, since EA’s online services for this game have been shut down.

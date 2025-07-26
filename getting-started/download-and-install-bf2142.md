@@ -1,12 +1,6 @@
----
-description: >-
-  This tutorial will guide you through the steps to download and install the
-  base game.
----
-
 # ① Download & Install BF2142
 
-In this tutorial, we will walk you through several online resources to download the game and the correct procedures for installation. Feel free to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) whenever you run into issues or you have something to enquire.
+In this tutorial, we’ll guide you through various online resources for downloading the game and show you the proper steps for installation. If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
 
 {% hint style="success" %}
 We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](../others/contact-us.md) to receive support.
@@ -42,7 +36,7 @@ Here are the minimum requirements::
 3. Open `BF2142_Setup.rar` with your [file archiver](#user-content-fn-2)[^2].
 4. Drag and drop everything from the .rar file into your new folder.
 5. Find `setup.exe` in that folder and double-click it to start the installer. \[Why?[^3]]
-6. When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-4)[^4]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the app to make changes to your device.
+6. When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-4)[^4]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
 7. Follow the setup wizard to complete the installation — there are a few [important notes](download-and-install-bf2142.md#wizard-remarks) along the way, so keep an eye out for those. \[TL;DR[^5]]
 8. Once the installation finishes, close the wizard but _don’t launch the game just yet_. \[Why[^6]?]
 9. Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md) — _don’t skip this step_! \[Why?[^7]]
@@ -151,7 +145,7 @@ Source: [Amazon](https://www.amazon.com/)
     TRCL-YBIJ-D4H4-Y3O5-1911
     ```
 3. It’s recommended to install the game to the [default path](#user-content-fn-11)[^11], but you can choose a different location if you prefer.
-4. For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with the [Remaster mod](download-and-install-remaster-mod.md).
+4. For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with the [Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
 5. Feel free to skip BattleCammo setup by clicking <mark style="color:blue;">Cancel</mark>. \[Why?[^12]]
 6. Select <mark style="color:blue;">No, install GameSpy Comrade later</mark> to skip GameSpy Comrade setup. \[Why?[^13]]
 7. When asked to register an EA account, just click <mark style="color:blue;">REGISTER LATER</mark> to move on. \[Why?]
@@ -171,7 +165,7 @@ Source: [Amazon](https://www.amazon.com/)
 
 [^7]: If you skip updating to the latest version, the game won’t launch and will keep asking for the disc. Here’s why: the patch removes the disc check, so without it, the game can’t start properly.
 
-[^8]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](download-and-install-remaster-mod.md).
+[^8]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
 
 [^9]: You can safely ignore this warning. The game works perfectly fine on most Windows versions.
 

@@ -22,8 +22,8 @@ If you’re a Battlefield fan who loves playing with bots, you’ve probably not
 
 **How to get the maps?**
 
-* You can get Belgrade, Fall of Berlin, and Camp Gibraltar through either the [Remaster Mod](../getting-started/download-and-install-remaster-mod.md) or [BF2142 Hub](../getting-started/apply-openspy-patches.md).
-* To access Bridge at Remagen, Breakthrough at Remagen, and Strike at Karkand, you’ll need the [Remaster Mod](../getting-started/download-and-install-remaster-mod.md).
+* You can get Belgrade, Fall of Berlin, and Camp Gibraltar through either the [Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) or [BF2142 Hub](../getting-started/apply-openspy-patches.md).
+* To access Bridge at Remagen, Breakthrough at Remagen, and Strike at Karkand, you’ll need the [Remaster Mod](../project-remaster/download-and-install-remaster-mod.md).
 * For our improved versions of Desert Storm, Victory Village, and Street — with fixes for broken bot support — you can download them [here](extra-maps-w-bot-support.md#what-you-will-get-from-us).
 
 </details>
@@ -33,8 +33,6 @@ If you’re a Battlefield fan who loves playing with bots, you’ve probably not
 <figure><img src="../.gitbook/assets/victory_village_ingame.png" alt=""><figcaption><p>Victory Village</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/sharqi_peninsula_ingame.png" alt=""><figcaption><p>Sharqi Peninsula</p></figcaption></figure>
-
-
 {% endcolumn %}
 
 {% column %}
@@ -117,7 +115,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 </details>
 
-Interested? Click [here](../getting-started/download-and-install-remaster-mod.md) to download and install the Remaster Mod.
+Interested? Click [here](../project-remaster/download-and-install-remaster-mod.md) to download and install the Remaster Mod.
 
 ## What you will get from BF2142 Hub ...
 

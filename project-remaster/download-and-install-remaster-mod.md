@@ -4,7 +4,7 @@ description: >-
   mod.
 ---
 
-# ③ Download & Install Remaster Mod
+# ① Install Remaster Mod
 
 {% hint style="warning" %}
 It is best to install the mod for an enhanced gaming experience. If you are new to modding, our tutorial heavily relies on this mod, so it is advised to follow along.
@@ -29,7 +29,7 @@ The mod is developed and maintained by the [Project Remaster Team](https://prmp.
 * Adds the 4th primary rifle slot to each soldier class with a new weapon in it.
 * Comes with a launcher, manual and debugging tools.
 
-You may refer to the Project Remaster [manual](further-readings.md) for more details about the mod.
+You may refer to the Project Remaster [manual](../getting-started/further-readings.md) for more details about the mod.
 
 </details>
 

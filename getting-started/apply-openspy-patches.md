@@ -1,45 +1,72 @@
----
-description: This tutorial will guide you through the steps to apply the patches.
----
+# ④ Apply OpenSpy Patches
 
-# ⑤ Apply OpenSpy Patches
+In this tutorial, we’ll focus on getting your game working with OpenSpy.
 
-OpenSpy is an open-source GameSpy clone which aims to provide 100% compatibility with GameSpy games. Reclamation is the core BF2142 community that utilises the OpenSpy master server.
+OpenSpy is an open-source replacement for GameSpy, designed to provide full compatibility with GameSpy-supported games. The Reclamation community is the main BF2142 group using the OpenSpy master server.
 
-Apart from Openspy - Reclamation, there are other master servers and communities as well. To name a few, we have NovGames, PlayBF2142 and MAGMA. OpenSpy - Reclamation, however, offers the most long-lasting and stable service with a large and active community for support. In this tutorial, we will focus on getting our game to work with OpenSpy.
+<details>
 
-A master server is a server that holds the database of your login credentials and soldier data. It broadcasts[^1] game servers to the server browser, while in return a game server regularly reports the player's in-game progress to the master server.
+<summary>What's a master server?</summary>
 
-Installing OpenSpy patches to the game forces the game to connect through OpenSpy instead of the dead GameSpy. This allows the game to work again, especially for the login and online part, after [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
+A master server manages your login credentials and soldier data, broadcasts available game servers to your server browser, and receives regular updates from game servers about player progress.
 
-## About OpenSpy - Reclamation
+</details>
 
-{% tabs %}
-{% tab title="OpenSpy - Reclamation" %}
-![OpenSpy Server List](../.gitbook/assets/reclamation_orig.png)
+<details>
 
-* Gadgets: All gadget items are unlocked
-* Playerbase: 10+ players on weekdays, 30+ at weekends
-* Servers: Reclamation EU, Reclamation US
-* Community: [Reclamation Discord](https://discord.com/invite/MEwBW9U), English-speaking
-* Gamemodes: Conquest, Conquest Coop, Titan
-* ​Requirements: Install OpenSpy patches via BF2142 Hub
-* Requirements: Install Reclamation Map Pack or maps that the server is currently running upon via BF2142 Hub
+<summary>Why do we need OpenSpy patches?</summary>
 
-You do not have to play on ranked servers to rank up because you are given all the unlocks right from the start. This provides a very ideal setting for grinding bots on a Project Remaster's Conquest Coop (Solo/LAN/Multi) game.
-{% endtab %}
-{% endtabs %}
+After [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in 2014, the original online services for BF2142 stopped working. OpenSpy patches redirect the game to use the OpenSpy master server instead, letting you log in and play online again.
+
+</details>
+
+<details>
+
+<summary>Are there any other master servers besides OpenSpy?</summary>
+
+Yes, there are a few, like NovGames, PlayBF2142, and MAGMA. However, OpenSpy — especially with the Reclamation community — offers the most reliable and active service.
+
+</details>
+
+<details>
+
+<summary>How's the Reclamation community? Is it active?</summary>
+
+<figure><img src="../.gitbook/assets/reclamation_orig.png" alt="" width="563"><figcaption></figcaption></figure>
+
+The Reclamation servers are quite active! You’ll usually find 10+ players on weekdays and 30+ on weekends. There are both EU and US servers available, and the community is English-speaking and connected through the [Reclamation Discord](https://discord.com/invite/MEwBW9U).
+
+You can enjoy various game modes, including Conquest, Conquest Coop, and Titan.
+
+**To join:**
+
+* Make sure you’ve installed OpenSpy patches using BF2142 Hub.
+* Also, install the Reclamation Map Pack (or any maps currently running on the server) through BF2142 Hub.
+
+Jump in and you’ll find a welcoming and active community!
+
+</details>
+
+<details>
+
+<summary>Do we have all the unlocks with OpenSpy?</summary>
+
+Yes, connecting to OpenSpy is a real privilege — it gives you access to all unlocks in Single-Player and Multi-Player LAN modes. This makes it perfect for grinding against bots in a Conquest Coop game.
+
+If you want to unlock everything in BFHQ, just join a Reclamation (ranked) server and play a round. That said, this step isn’t required — you’ll still have access to all unlocks in SP/LAN even if you never play on a ranked server.
+
+</details>
 
 ## Procedures
 
 {% hint style="warning" %}
-​Before you patch your game, it’s highly recommended to make a backup copy of your `BF2142.exe` and `RendDX9.dll` files from your game folder.
+Before patching your game, it’s a good idea to make backup copies of your `BF2142.exe` and `RendDX9.dll` files from your game folder. \[Why?[^1]]
 {% endhint %}
 
-1. Right-click the <mark style="color:blue;">BF2142 Hub</mark> shortcut on your desktop and select <mark style="color:blue;">Properties</mark>.&#x20;
-2. Go to the <mark style="color:blue;">Compatibility</mark> tab, checl <mark style="color:blue;">Run this program as an administrator</mark>, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. \[Why?[^2]]
-3. Double-click the shortcut to launch the app.
-4. &#x20;When prompted with <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>, click <mark style="color:blue;">Yes</mark>
+1. Right-click <mark style="color:blue;">BF2142 Hub</mark> shortcut on your desktop and select <mark style="color:blue;">Properties</mark>.&#x20;
+2. Go to the <mark style="color:blue;">Compatibility</mark> tab, check <mark style="color:blue;">Run this program as an administrator</mark>, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. \[Why?[^2]]
+3. Double-click the shortcut to launch BF2142 Hub.
+4. When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-3)[^3]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
 5. Go to the <mark style="color:blue;">Help</mark> tab (the question mark icon) and check if the <mark style="color:blue;">GamePath</mark> is set to the correct folder. If it isn't, click the gear icon to locate your game folder.
 6. From the <mark style="color:blue;">Redirects\*</mark> drop-down menu, select <mark style="color:blue;">OpenSpy</mark> and click <mark style="color:blue;">Install</mark>.
 7. When asked <mark style="color:blue;">Are you sure you want to patch the game?</mark>, click <mark style="color:blue;">Yes</mark> .
@@ -48,10 +75,14 @@ You do not have to play on ranked servers to rank up because you are given all t
 
 ## Reclamation Map Pack
 
-The Reclamation Community runs two multiplayer servers, both featuring their own modified versions of maps. To join their public servers, you’ll need to install their map pack or the specific map currently in rotation. Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
+The Reclamation Community runs 2 multiplayer servers, both featuring their own modified versions of maps. To join their public servers, you’ll need to install their map pack or the specific map currently in rotation. Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
 
 {% hint style="info" %}
 The steps below are optional and only needed if you want to play on Reclamation’s multiplayer servers.
+{% endhint %}
+
+{% hint style="info" %}
+The downloaded maps are installed to the `\mods\bf2142\Levels` folder.
 {% endhint %}
 
 #### **Installing the complete pack**
@@ -69,12 +100,8 @@ You can also download maps individually. If you’d like to do this, just follow
 2. Choose the maps you want to download from the <mark style="color:blue;">Available Maps</mark> box and click <mark style="color:blue;">>></mark> to download them.
 3. To uninstall a map, select it from the <mark style="color:blue;">Installed Maps</mark> box and click <mark style="color:blue;"><<</mark>.
 
-{% hint style="info" %}
-The downloaded maps are installed to the `\mods\bf2142\Levels` folder. \[Why?[^3]]
-{% endhint %}
+[^1]: This way, you’ll have a safety net in case anything goes wrong during the patching process.
 
-[^1]: A master server makes a game server visible on the client's server browser.
+[^2]: Running as administrator helps prevent permission issues during patching.
 
-[^2]: This is something UAC-related: You’ll need to run Bf2142 Hub as an Administrator to apply patches, since it has to modify files in your game folder.
-
-[^3]: Reclamation servers are unmodded servers, but are run on a set of modified maps.&#x20;
+[^3]: i.e., <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>

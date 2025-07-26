@@ -50,7 +50,7 @@ This will determine whether you need to complete tutorial **③** – **⑦** or
 <summary>I prefer Remaster.</summary>
 
 You should follow these steps in order:\
-[③ Download & Install Remaster Mod](download-and-install-remaster-mod.md) → [④ Download & Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [⑤ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑥ Configure Remaster Launcher](configure-remaster-launcher.md) → [⑦ Create Account](create-account.md)
+[③ Download & Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) → [④ Download & Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [⑤ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑥ Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md) → [⑦ Create Account](create-account.md)
 
 Depending on your needs, the tutorials below are optional:\
 [⑧ Play Singleplayer](play-singleplayer.md), [⑨ Play Multiplayer](play-multiplayer.md), [⑩ Host Server](host-server.md)
@@ -62,7 +62,7 @@ Depending on your needs, the tutorials below are optional:\
 <summary>I prefer Vanilla.</summary>
 
 You can skip these steps:\
-[③ Download & Install Remaster Mod](download-and-install-remaster-mod.md), [⑥ Configure Remaster Launcher](configure-remaster-launcher.md)
+[③ Download & Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md), [⑥ Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md)
 
 You should follow these steps:\
 [④ Download & Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [⑤ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑦ Create Account](create-account.md)

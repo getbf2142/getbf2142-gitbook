@@ -2,7 +2,7 @@
 description: This tutorial will guide you through the steps to configure the launcher.
 ---
 
-# ⑥ Configure Remaster Launcher
+# ② Configure Remaster Launcher
 
 ## Procedures
 
@@ -30,8 +30,11 @@ description: This tutorial will guide you through the steps to configure the lau
     <mark style="color:yellow;">Profile: Found, delete if stuck with a black screen.</mark>
 17. Navigate to the <mark style="color:blue;">Settings</mark> page.
 18. Configure the <mark style="color:blue;">Resolution</mark> from the drop-down menu under the <mark style="color:blue;">General</mark> section.
-19. Close the launcher.
-20. Read all the [remarks](configure-remaster-launcher.md#remarks) as they are important.
+19. Read all the [remarks](configure-remaster-launcher.md#remarks) as they are important.
+20. Double-click the <mark style="color:blue;">Remaster Launcher</mark> shortcut on your desktop to start the launcher.
+21. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
+22. In the <mark style="color:blue;">Play</mark> page, click the <mark style="color:blue;">Start Game!</mark> button.
+23. Ignore the warning message <mark style="color:blue;">EA MASTER SERVER IS DOWN. PLEASE USE BF2142UNLOCKER</mark> if you see it.
 
 ## Remarks
 
@@ -39,7 +42,7 @@ description: This tutorial will guide you through the steps to configure the lau
 2. [<mark style="color:blue;">Vanilla weapons</mark>](#user-content-fn-10)[^10] is a mini-mod of Project Remaster. You may enable this option if you want to play a Project Remaster game with weapons or gadgets having their vanilla stats[^11].
 3. The <mark style="color:blue;">Play Offline</mark> page is a portal to launch the [<mark style="color:blue;">Offline Singleplayer</mark>](#user-content-fn-12)[^12] mini-mod. It is a derivative of the main mod that bypasses[^13] the master server while having the customisation feature disabled.
 4. You can configure the Reshade overlay in-game using the shortcut <mark style="color:blue;">Shift+F2</mark>. You may need to turn off the LUT in [some of the maps](#user-content-fn-14)[^14] if the overlay is glitching the graphics.
-5. Whenever you run into a game issue, such as a game crash, game does not start or a graphics glitch, the troubleshooting and diagnosis tools provided in the <mark style="color:blue;">Help</mark> page becomes very helpful. The offline [manual](further-readings.md) that comes with the launcher may also give you some insights[^15] on how to get things fixed.
+5. Whenever you run into a game issue, such as a game crash, game does not start or a graphics glitch, the troubleshooting and diagnosis tools provided in the <mark style="color:blue;">Help</mark> page becomes very helpful. The offline [manual](../getting-started/further-readings.md) that comes with the launcher may also give you some insights[^15] on how to get things fixed.
 
 [^1]: Battlefield 2142 is a 32-bit game so it can at most utilise 4GB of RAM. But better than not, the 4GB RAM Patch avoids the game from crashing from time to time due to memory overthrow.
 

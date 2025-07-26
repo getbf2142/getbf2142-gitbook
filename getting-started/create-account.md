@@ -1,57 +1,52 @@
----
-description: >-
-  This tutorial will guide you through the steps to create an account and
-  configure important in-game settings.
----
+# ⑤ Create Account
 
-# ⑦ Create Account
+In this tutorial, we’ll walk you through how to create an account and set up the key in-game settings.
 
-## Launching
-
-If you have Remaster Mod installed, launch the game using Remaster Launcher:
-
-1. Double-click the <mark style="color:blue;">Remaster Launcher</mark> shortcut on your desktop to start the launcher.
-2. Click <mark style="color:blue;">Yes</mark> when the dialogue <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark> pops up.
-3. In the <mark style="color:blue;">Play</mark> page, click the <mark style="color:blue;">Start Game!</mark> button.
-
-If you did not have the mod installed, launch the game using the BF2142 shortcut on your desktop.
-
-## Registration
+## Procedures
 
 {% hint style="danger" %}
-Windows Firewall may pop up if it is your first time passing through the login page. Whenever you see this prompt, allow the game to communicate through both private and public networks to avoid connection issues.
+Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks to prevent any connection issues.
 {% endhint %}
 
-1. On the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It may [take a while](#user-content-fn-1)[^1] before something shows up.
-2. Ignore the warning message <mark style="color:blue;">EA MASTER SERVER IS DOWN. PLEASE USE BF2142UNLOCKER</mark> if you see it.
+1. Double-click the <mark style="color:blue;">Battlefield 2142</mark> shortcut on your desktop to launch the game.
+2. At the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It might take a moment for the next screen to appear. \[Why?[^1]]
 3. Click [<mark style="color:blue;">ACCEPT TERMS</mark>](#user-content-fn-2)[^2].
-4. Fill in the registration form with fake data. \[Why?[^3]] But please do remember your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. \[Why?[^4]]
-5. Click [<mark style="color:blue;">CREATE</mark>](#user-content-fn-5)[^5].
-6. Click <mark style="color:blue;">CREATE NEW SOLDIER</mark>. Type in the <mark style="color:blue;">SOLDIER NAME</mark> that you want to use in-game and click <mark style="color:blue;">CREATE NEW SOLDER</mark>.
-7. You may notice some changes[^6] to the game resolution.
-8. To fix this, go to <mark style="color:blue;">OPTIONS</mark>, and then <mark style="color:blue;">VIDEO</mark> to configure the video settings. Change the resolution[^7] first before touching the video quality settings.
-9. Set <mark style="color:blue;">ANTI-ALIASING</mark> to <mark style="color:blue;">Off</mark> to avoid problems.
-10. Check the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) for tips on optimizing your video settings. I’d recommend setting everything to max, except for Anti-Aliasing, which should be turned off.
-11. Don’t forget to adjust your <mark style="color:blue;">AUDIO</mark> settings too!​ The [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) has tips on how to optimize them for the best experience.
-12. Congratulations! You have completed all the necessary steps to get Battlefield 2142 working! Now you may close the game to apply the video settings.
+4. Fill out the registration form with fake information \[Why?[^3]] — but make sure to remember your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. \[Why?[^4]]
+5. Click <mark style="color:blue;">CREATE</mark>. If you received an error, then \[...[^5]]
+6. Click <mark style="color:blue;">CREATE NEW SOLDIER</mark>.
+7. Enter the <mark style="color:blue;">SOLDIER NAME</mark> you want to use in-game and click <mark style="color:blue;">CREATE NEW SOLDER</mark>.
+8. You may notice the game resolution has changed. \[Why?[^6]]
+9. To fix this, go to <mark style="color:blue;">OPTIONS</mark> → <mark style="color:blue;">VIDEO</mark> and adjust the resolution first. Only choose the resolution and refresh rate that your monitor actually supports. \[Why?[^7]]
+10. Check out the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) for tips on optimizing your video settings. I’d recommend setting everything to max, except for <mark style="color:blue;">ANTI-ALIASING</mark>, which should stay [<mark style="color:blue;">Off</mark>](#user-content-fn-8)[^8].
+11. Don’t forget to adjust your <mark style="color:blue;">AUDIO</mark> settings too — the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) has great advice for getting the best sound experience.
 
-## Logging in
+_**Congratulations! You have completed all the steps to get Battlefield 2142 up and running! See you on the battlefield!**_
 
-1. Launch the game.
-2. On the login screen, type in your OpenSpy <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. Check the option <mark style="color:blue;">REMEMBER ME</mark> and click <mark style="color:blue;">LOGIN</mark>.
-3. Double-click on the <mark style="color:blue;">SOLDIER NAME</mark> that you want to use in-game.
-4. Have fun exploring the game! See you on the battlefield!
+## Follow-up
 
-[^1]: It takes time for the server to process your requests since most master servers are located in Europe or America. Unless you didn't receive a response from it within 10 seconds, it is still considered acceptable.
+Don’t forget to check out these tutorials to learn how to join a game or start your own server!
 
-[^2]: Most notably how your password is stored remotely in plain text is something you should be aware of from the <mark style="color:blue;">TERMS AND CONDITIONS</mark>.
+* [Play Singleplayer](play-singleplayer.md)
+* [Play Multiplayer](play-multiplayer.md)
+* [Host Server](host-server.md)
 
-[^3]: Much of this information is irrelevant, therefore false information can be used. Since master servers save your account data in plain text, it is always better to use a simple password e.g., 12344321 and a fake email address e.g., hi@gmail.com.
+For some players, the Remaster mod has become their new standard—many can’t imagine playing without it. Check out these tutorials to get started!
 
-[^4]: The only items of importance are the <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>, which you should write down since OpenSpy account name or password retrieval is non-functional.
+1. [Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md)
+2. [Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md)
 
-[^5]: If you receive an error after clicking <mark style="color:blue;">CREATE</mark>, try different entries for <mark style="color:blue;">ACCOUNT NAME</mark> or <mark style="color:blue;">EMAIL ADDRESS</mark> as they may have been previously used.
+[^1]: It may take a little time for the server to process your requests, since most master servers are based in Europe or America. As long as you get a response within 10 seconds, that’s perfectly normal.
 
-[^6]: The resolution glitch happens because the game creates a new set of profiles for you which only includes the default resolution settings.&#x20;
+[^2]: One important thing to note from the _TERMS AND CONDITIONS_ is that your password is stored remotely in plain text, so just be aware of this when creating your account.
 
-[^7]: Use the same resolution you have selected in the launcher. In that way, you won't experience resolution glitches anymore after logging in.
+[^3]: Most of the information you enter isn’t actually relevant, so it’s fine to use false details. Since master servers store your account data in plain text, it’s best to use a simple password (like `123456`) and a fake email address (for example, `hi@gmail.com`).
+
+[^4]: The only details you really need to remember are your _ACCOUNT NAME_ and _PASSWORD_. Be sure to write them down, since OpenSpy doesn’t support account name or password recovery.
+
+[^5]: Try different entries for _ACCOUNT NAME_ or _EMAIL ADDRESS_ as they may have been previously used.
+
+[^6]: The resolution glitch occurs because the game creates a new set of profiles for you, which only include the default resolution settings. In Battlefield 2142, the resolution can actually be different before you log in and after you log in.
+
+[^7]: Choosing the wrong resolution or refresh rate is the most common reason for game crashes.
+
+[^8]: You can have it set to <mark style="color:blue;">4x</mark> if you don't encounter any issues with it.

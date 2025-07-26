@@ -7,16 +7,18 @@
 * [⍟ Before Proceeding](getting-started/before-proceeding.md)
 * [① Download & Install BF2142](getting-started/download-and-install-bf2142.md)
 * [② Install v1.51 Patch](getting-started/download-and-install-v1_51-patch.md)
-* [③ Install Remaster Mod](getting-started/download-and-install-remaster-mod.md)
-* [⍟ Before Proceeding (Deprecated)](getting-started/before-proceeding-deprecated.md)
-* [④ Install ​BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
-* [⑤ Apply OpenSpy Patches](getting-started/apply-openspy-patches.md)
-* [⑥ Configure Remaster Launcher](getting-started/configure-remaster-launcher.md)
-* [⑦ Create Account](getting-started/create-account.md)
-* [⑧ Play Singleplayer](getting-started/play-singleplayer.md)
-* [⑨ Play Multiplayer](getting-started/play-multiplayer.md)
-* [⑩ Host Server](getting-started/host-server.md)
+* [③ Install ​BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
+* [④ Apply OpenSpy Patches](getting-started/apply-openspy-patches.md)
+* [⑤ Create Account](getting-started/create-account.md)
+* [⑥ Play Singleplayer](getting-started/play-singleplayer.md)
+* [⑦ Play Multiplayer](getting-started/play-multiplayer.md)
+* [⑧ Host Server](getting-started/host-server.md)
 * [⍟ Further Readings](getting-started/further-readings.md)
+
+## Project Remaster
+
+* [① Install Remaster Mod](project-remaster/download-and-install-remaster-mod.md)
+* [② Configure Remaster Launcher](project-remaster/configure-remaster-launcher.md)
 
 ## Addons / Tweaks
 
