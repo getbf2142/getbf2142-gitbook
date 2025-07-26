@@ -26,11 +26,7 @@ If you have any concerns or questions about our project, please don’t hesitate
 
 #### No time to waste !
 
-You can have a fully functional Battlefield 2142 up and running **in less than 15 minutes**! Click [here](getting-started/before-proceeding.md) to get started!
-
-{% hint style="success" %}
-We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) to receive support.
-{% endhint %}
+You can have a fully functional Battlefield 2142 up and running **in less than 15 minutes**!
 
 <details>
 
@@ -60,6 +56,8 @@ GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 * Contents are constantly reviewed and updated.
 
 </details>
+
+Click [here](getting-started/before-proceeding.md) to get started!
 
 #### Disclaimer
 

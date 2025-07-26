@@ -41,9 +41,9 @@ You can skip these steps: [① Download & Install BF2142](download-and-install-b
 
 This will help you figure out if you need to complete any extra tutorials beyond **③** – **⑤**.
 
-* If you'll mostly be playing public multiplayer on Reclamation servers, stick with _Vanilla_. \[Why?[^1]]
-* If you're more interested in singleplayer or LAN with friends, go for _Remaster_. \[Why?[^2]]
-* Not sure? _Remaster_ is a safe bet! \[Why?[^3]]
+* If you'll mostly be playing public multiplayer on Reclamation servers, stick with _Vanilla_. **\[**[**?**](#user-content-fn-1)[^1]**]**
+* If you're more interested in singleplayer or LAN with friends, go for _Remaster_. **\[**[**?**](#user-content-fn-2)[^2]**]**
+* Not sure? _Remaster_ is a safe bet! **\[**[**?**](#user-content-fn-3)[^3]**]**
 
 <details>
 
