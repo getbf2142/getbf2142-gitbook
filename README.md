@@ -6,27 +6,31 @@ description: Guide you hand-by-hand to get and play Battlefield 2142 today!
 
 If you are still yearning to experience the thrill of Battlefield 2142 once more, or you are lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We will make sure to get you back in action in no time!
 
-{% hint style="success" %}
-We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) to receive support.
-{% endhint %}
+#### We understand your struggle ...
 
-#### We are a fan site ...
-
-GetBF2142 is a passion project created by die-hard fans of the franchise. Ever since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014, finding a way to play online or with friends has become quite a challenge. For those who still cherish this game today, we understand your struggles, and that's why we have put together this website.
+Ever since [GameSpy shut down](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014, playing online or with friends has become a real challenge. For everyone who still loves this game, we understand what you’re going through — and that’s exactly why we created this website.
 
 #### Our goal is simple ...
 
-We're here to provide all the resources and information you need in one place, so you can swiftly dive back into this 15-year-old gem and have a blast in no time!&#x20;
+GetBF2142 is a passion project created by die-hard fans of the franchise. We want to provide all the resources and information you need in one place, so you can dive right back into this 15-year-old classic and start having fun again in no time!
 
-#### Our intention is pure ...
+#### Our intention is pure and genuine ...
 
-No ads, no revenue. We invested our own money to buy the domain and spent countless hours maintaining the content up-to-date. What we are trying to do is just to make things easier for everyone so that more people can come back to enjoy this masterpiece.
+No ads, no revenue — we’ve invested our own money to buy the domain and spent countless hours keeping the content up to date. All we want is to make things easier for everyone, so more people can come back and enjoy this masterpiece.
 
-#### We do not condone piracy or copyright infringement ...
+#### We do not condone piracy or copyright infringement  ...
 
-We do not condone piracy or copyright infringement — we respect EA and DICE for creating this masterpiece. But as the game was left behind and no better alternatives existed, we have no choice but to resort to our very own ways to make the game stays alive for those who still want to play this old title.
+We have great respect for EA and DICE for creating this masterpiece. However, since the game has been abandoned and there are no better alternatives, we’ve had to find our own ways to keep it alive for those who still want to play.
 
-If you still have any reservations about our project, feel free to reach out to us. We are always open to address your concerns together.
+If you have any concerns or questions about our project, please don’t hesitate to reach out. We’re always open to discussing and addressing your concerns together.
+
+#### No time to waste !
+
+You can have a fully functional Battlefield 2142 up and running **in less than 15 minutes**! Click [here](getting-started/before-proceeding.md) to get started!
+
+{% hint style="success" %}
+We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) to receive support.
+{% endhint %}
 
 <details>
 
@@ -57,8 +61,6 @@ GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 
 </details>
 
-No time to waste! You can have a fully functional Battlefield 2142 up and running **in less than 15 minutes**!&#x20;
-
-### Disclaimer
+#### Disclaimer
 
 This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), nor Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
