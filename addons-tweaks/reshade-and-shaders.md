@@ -77,6 +77,8 @@ If you want to adjust the shaders, just go to the <mark style="color:blue;">Sett
 
 You can create a new preset by clicking the <mark style="color:blue;">+</mark> button next to the dropdown menu in the <mark style="color:blue;">Home</mark> tab. There are two presets \[?[^1]] — `DefaultPreset` and `DefaultPreset2` — that you can select from the dropdown.
 
+If you notice any graphical glitches, try turning off the LUT on certain maps.
+
 ## Special thanks to ...
 
 * [Project Remaster Team](https://discord.com/invite/nVdDkgA) for adapting this excellent shader for BF2142

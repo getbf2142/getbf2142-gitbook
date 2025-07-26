@@ -12,6 +12,7 @@ A few things to keep in mind:
 * Port forwarding is only necessary if you want your server to be accessible over the internet (WAN).
 * Only the server host needs to set up port forwarding.
 * If you launch the game with a mod, your server will be considered a modded server.
+* Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks to prevent any connection issues.
 
 <details>
 

@@ -15,10 +15,6 @@ Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md)
 
 ## **Setting up a LAN server in "MULTIPLAY"**
 
-{% hint style="warning" %}
-Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks to prevent any connection issues.
-{% endhint %}
-
 This option lets you adjust game settings such as ticket ratio, team ratio, round time, friendly fire, spawn time, and more.
 
 Once your game is [OpenSpy-ready](apply-openspy-patches.md), the customization screen will work properly, and all unlocks will be available in-game.
