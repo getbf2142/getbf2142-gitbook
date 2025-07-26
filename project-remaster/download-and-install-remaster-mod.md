@@ -6,6 +6,16 @@ Project Remaster is a high-quality enhancement mod for Battlefield 2142, designe
 
 Project Remaster is developed and maintained by the [Project Remaster Team](https://prmp.boards.net/). For support and the latest updates, you can join their [Discord server](https://discord.com/invite/nVdDkgA).
 
+{% columns %}
+{% column %}
+{% embed url="https://www.youtube.com/watch?v=eziEoqH9cCY" %}
+{% endcolumn %}
+
+{% column %}
+{% embed url="https://www.youtube.com/watch?v=cia523SYcto" %}
+{% endcolumn %}
+{% endcolumns %}
+
 <details>
 
 <summary>Why Remaster Mod? What exactly does it offer?</summary>
