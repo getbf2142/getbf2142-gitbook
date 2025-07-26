@@ -1,30 +1,6 @@
----
-description: >-
-  In this tutorial, we’ll guide you through various online resources for
-  downloading the game and show you the proper steps for installation.
----
-
 # ① Download AND Install BF2142
 
-{% stepper %}
-{% step %}
-### Test&#x20;
-
-weffw
-{% endstep %}
-
-{% step %}
-### weff
-
-ewfwf
-{% endstep %}
-
-{% step %}
-### wefwef
-
-ewfwef
-{% endstep %}
-{% endstepper %}
+In this tutorial, we’ll guide you through various online resources for downloading the game and show you the proper steps for installation.
 
 If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
 
@@ -64,6 +40,44 @@ If you’re set on finding a native Mac version, we wish you the best of luck wi
 </details>
 
 ## Procedures
+
+{% stepper %}
+{% step %}
+Download `BF2142_Setup.rar` from [Downloads](download-and-install-bf2142.md#downloads) → <mark style="color:blue;">Standard Edition v1.01</mark>.
+{% endstep %}
+
+{% step %}
+Create a new folder on your desktop.
+{% endstep %}
+
+{% step %}
+Open `BF2142_Setup.rar` with your [file archiver](#user-content-fn-2)[^2].
+{% endstep %}
+
+{% step %}
+Drag and drop everything from the `.rar` file into your new folder.
+{% endstep %}
+
+{% step %}
+Find `setup.exe` in that folder and double-click it to start the installer. **\[**[**?**](#user-content-fn-3)[^3]**]**
+{% endstep %}
+
+{% step %}
+When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-4)[^4]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+{% endstep %}
+
+{% step %}
+Follow the setup wizard to complete the installation — there are a few [important notes](download-and-install-bf2142.md#remarks) along the way, so keep an eye out for those. **\[**[**TL;DR**](#user-content-fn-5)[^5]**]**
+{% endstep %}
+
+{% step %}
+Once the installation finishes, close the wizard but _don’t launch the game just yet_. **\[**[**?**](#user-content-fn-6)[^6]**]**
+{% endstep %}
+
+{% step %}
+Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md) — _don’t skip this step_! **\[**[**?**](#user-content-fn-7)[^7]**]**
+{% endstep %}
+{% endstepper %}
 
 1. Download `BF2142_Setup.rar` from [Downloads](download-and-install-bf2142.md#downloads) → <mark style="color:blue;">Standard Edition v1.01</mark>.
 2. Create a new folder on your desktop.
