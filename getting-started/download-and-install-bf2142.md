@@ -1,8 +1,8 @@
 ---
-description: Where to download Battlefield 2142? How to install Battlefield 2142?
+description: Where to download BF2142? How to install BF2142?
 ---
 
-# ① Download AND Install BF2142
+# ① Download & Install BF2142
 
 In this tutorial, we’ll guide you through various online resources for downloading the game and show you the proper steps for installation.
 
@@ -71,8 +71,8 @@ When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-co
 {% step %}
 Follow the setup wizard to complete the installation — there are a few [important notes](download-and-install-bf2142.md#remarks) along the way, so keep an eye out for those. **\[**[**TL;DR**](#user-content-fn-5)[^5]**]**
 
-* <sup><sub>If you see a popup saying<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">This game has only been tested on WinXP(32bit)<mark style="color:blue;"><sub></sup><sup><sub>, just click<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">Confirm<mark style="color:blue;"><sub></sup><sup><sub>.<sub></sup> <sup><sub> </sup><sup><sub>**\[**<sub></sup>[<sup><sub>**?**<sub></sup>](#user-content-fn-6)[^6]<sup><sub>**]**<sub></sup>
-*   <sup><sub>When prompted for a serial code, simply use one of these<sub></sup> [<sup><sub><mark style="color:blue;">Standard Edition<mark style="color:blue;"><sub></sup>](#user-content-fn-7)[^7] <sup><sub>keys to continue.<sub></sup>
+* <sub>If you see a popup saying</sub> <sub></sub><sub><mark style="color:blue;">This game has only been tested on WinXP(32bit)<mark style="color:blue;"></sub><sub>, just click</sub> <sub></sub><sub><mark style="color:blue;">Confirm<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-6)[^6]<sub>**]**</sub>
+*   <sub>When prompted for a serial code, simply use one of these</sub> [<sub><mark style="color:blue;">Standard Edition<mark style="color:blue;"></sub>](#user-content-fn-7)[^7] <sub>keys to continue.</sub>
 
     ```
     SDV5-JZDE-L6B8-P2Q4-1911
@@ -81,11 +81,11 @@ Follow the setup wizard to complete the installation — there are a few [import
     UTFP-4DMN-D2U0-X3T3-1911​
     TRCL-YBIJ-D4H4-Y3O5-1911
     ```
-* <sup><sub>It’s recommended to install the game to the<sub></sup> [<sup><sub>default path<sub></sup>](#user-content-fn-8)[^8]<sup><sub>, but you can choose a different location if you prefer.<sub></sup>
-* <sup><sub>For the best experience, install the<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">English version<mark style="color:blue;"><sub></sup> <sup><sub> </sup><sup><sub>to take advantage of the<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">HD English fonts<mark style="color:blue;"><sub></sup> <sup><sub> </sup><sup><sub>included with the<sub></sup> [<sup><sub>Remaster mod<sub></sup>](../project-remaster/download-and-install-remaster-mod.md)<sup><sub>.<sub></sup>
-* <sup><sub>Feel free to skip BattleCammo setup by clicking<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">Cancel<mark style="color:blue;"><sub></sup><sup><sub>.<sub></sup> <sup><sub> </sup><sup><sub>**\[**<sub></sup>[<sup><sub>**?**<sub></sup>](#user-content-fn-9)[^9]<sup><sub>**]**<sub></sup>
-* <sup><sub>Select<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">No, install GameSpy Comrade later<mark style="color:blue;"><sub></sup> <sup><sub> </sup><sup><sub>to skip GameSpy Comrade setup.<sub></sup> <sup><sub> </sup><sup><sub>**\[**<sub></sup>[<sup><sub>**?**<sub></sup>](#user-content-fn-10)[^10]<sup><sub>**]**<sub></sup>
-* <sup><sub>When asked to register an EA account, just click<sub></sup> <sup><sub> </sup><sup><sub><mark style="color:blue;">REGISTER LATER<mark style="color:blue;"><sub></sup> <sup><sub> </sup><sup><sub>to move on.<sub></sup> <sup><sub> </sup><sup><sub>**\[**<sub></sup>[<sup><sub>**?**<sub></sup>](#user-content-fn-11)[^11]<sup><sub>**]**<sub></sup>
+* <sub>It’s recommended to install the game to the</sub> [<sub>default path</sub>](#user-content-fn-8)[^8]<sub>, but you can choose a different location if you prefer.</sub>
+* <sub>For the best experience, install the</sub> <sub></sub><sub><mark style="color:blue;">English version<mark style="color:blue;"></sub> <sub></sub><sub>to take advantage of the</sub> <sub></sub><sub><mark style="color:blue;">HD English fonts<mark style="color:blue;"></sub> <sub></sub><sub>included with the</sub> [<sub>Remaster mod</sub>](../project-remaster/download-and-install-remaster-mod.md)<sub>.</sub>
+* <sub>Feel free to skip BattleCammo setup by clicking</sub> <sub></sub><sub><mark style="color:blue;">Cancel<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-9)[^9]<sub>**]**</sub>
+* <sub>Select</sub> <sub></sub><sub><mark style="color:blue;">No, install GameSpy Comrade later<mark style="color:blue;"></sub> <sub></sub><sub>to skip GameSpy Comrade setup.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-10)[^10]<sub>**]**</sub>
+* <sub>When asked to register an EA account, just click</sub> <sub></sub><sub><mark style="color:blue;">REGISTER LATER<mark style="color:blue;"></sub> <sub></sub><sub>to move on.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-11)[^11]<sub>**]**</sub>
 {% endstep %}
 
 {% step %}

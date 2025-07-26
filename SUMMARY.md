@@ -5,10 +5,10 @@
 ## Getting Started
 
 * [⍟ Before Proceeding](getting-started/before-proceeding.md)
-* [① Download AND Install BF2142](getting-started/download-and-install-bf2142.md)
+* [① Download & Install BF2142](getting-started/download-and-install-bf2142.md)
 * [② Install v1.51 Patch](getting-started/download-and-install-v1_51-patch.md)
 * [③ Install ​BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
-* [④ Apply OpenSpy Patches](getting-started/apply-openspy-patches.md)
+* [④ Install OpenSpy Patches](getting-started/apply-openspy-patches.md)
 * [⑤ Create Account](getting-started/create-account.md)
 * [⍟ Play Singleplayer](getting-started/play-singleplayer.md)
 * [⍟ Play Multiplayer](getting-started/play-multiplayer.md)

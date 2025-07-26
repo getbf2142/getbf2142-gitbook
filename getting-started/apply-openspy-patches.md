@@ -1,8 +1,8 @@
 ---
-description: How to install Openspy patches? Why do we need the patches?
+description: How to install Openspy patches? How to install Reclamation maps?
 ---
 
-# ④ Apply OpenSpy Patches
+# ④ Install OpenSpy Patches
 
 In this tutorial, we’ll focus on getting your game working with OpenSpy.
 

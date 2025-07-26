@@ -1,3 +1,7 @@
+---
+description: How to create an online account? How to configure video and audio settings?
+---
+
 # ⑤ Create Account
 
 In this tutorial, we’ll walk you through how to create an account and set up the key in-game settings.
@@ -8,19 +12,57 @@ In this tutorial, we’ll walk you through how to create an account and set up t
 Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks to prevent any connection issues.
 {% endhint %}
 
-1. Double-click the <mark style="color:blue;">Battlefield 2142</mark> shortcut on your desktop to launch the game.
-2. At the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It might take a moment for the next screen to appear. \[Why?[^1]]
-3. Click [<mark style="color:blue;">ACCEPT TERMS</mark>](#user-content-fn-2)[^2].
-4. Fill out the registration form with fake information \[Why?[^3]] — but make sure to remember your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. \[Why?[^4]]
-5. Click <mark style="color:blue;">CREATE</mark>. If you received an error, then \[...[^5]]
-6. Click <mark style="color:blue;">CREATE NEW SOLDIER</mark>.
-7. Enter the <mark style="color:blue;">SOLDIER NAME</mark> you want to use in-game and click <mark style="color:blue;">CREATE NEW SOLDER</mark>.
-8. You may notice the game resolution has changed. \[Why?[^6]]
-9. To fix this, go to <mark style="color:blue;">OPTIONS</mark> → <mark style="color:blue;">VIDEO</mark> and adjust the resolution first. Only choose the resolution and refresh rate that your monitor actually supports. \[Why?[^7]]
-10. Check out the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) for tips on optimizing your video settings. I’d recommend setting everything to max, except for <mark style="color:blue;">ANTI-ALIASING</mark>, which should stay [<mark style="color:blue;">Off</mark>](#user-content-fn-8)[^8].
-11. Don’t forget to adjust your <mark style="color:blue;">AUDIO</mark> settings too — the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) has great advice for getting the best sound experience.
+{% stepper %}
+{% step %}
+Double-click the <mark style="color:blue;">Battlefield 2142</mark> shortcut on your desktop to launch the game.
+{% endstep %}
 
+{% step %}
+At the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It might take a moment for the next screen to appear. \[Why?[^1]]
+{% endstep %}
+
+{% step %}
+Click [<mark style="color:blue;">ACCEPT TERMS</mark>](#user-content-fn-2)[^2].
+{% endstep %}
+
+{% step %}
+Fill out the registration form with fake information \[Why?[^3]] — but make sure to remember your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. \[Why?[^4]]
+{% endstep %}
+
+{% step %}
+Click <mark style="color:blue;">CREATE</mark>. If you received an error, then \[...[^5]]
+{% endstep %}
+
+{% step %}
+Click <mark style="color:blue;">CREATE NEW SOLDIER</mark>.
+{% endstep %}
+
+{% step %}
+Enter the <mark style="color:blue;">SOLDIER NAME</mark> you want to use in-game and click <mark style="color:blue;">CREATE NEW SOLDER</mark>.
+{% endstep %}
+
+{% step %}
+You may notice the game resolution has changed. \[Why?[^6]]
+{% endstep %}
+
+{% step %}
+To fix this, go to <mark style="color:blue;">OPTIONS</mark> → <mark style="color:blue;">VIDEO</mark> and adjust the resolution first. Only choose the resolution and refresh rate that your monitor actually supports. \[Why?[^7]]
+{% endstep %}
+
+{% step %}
+Check out the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) for tips on optimizing your video settings. I’d recommend setting everything to max, except for <mark style="color:blue;">ANTI-ALIASING</mark>, which should stay [<mark style="color:blue;">Off</mark>](#user-content-fn-8)[^8].
+{% endstep %}
+
+{% step %}
+Don’t forget to adjust your <mark style="color:blue;">AUDIO</mark> settings too — the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) has great advice for getting the best sound experience.
+{% endstep %}
+
+{% step %}
 _**Congratulations! You have completed all the steps to get Battlefield 2142 up and running! See you on the battlefield!**_
+{% endstep %}
+{% endstepper %}
+
+
 
 ## Follow-ups
 
