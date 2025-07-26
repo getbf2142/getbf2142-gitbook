@@ -1,6 +1,16 @@
+---
+description: >-
+  In this tutorial, we’ll walk you through the steps to update the game to the
+  latest version.
+---
+
 # ② Install v1.51 Patch
 
-In this tutorial, we’ll walk you through the steps to update the game to the latest version.
+If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
+
+{% hint style="success" %}
+We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](../others/contact-us.md) to receive support.
+{% endhint %}
 
 <details>
 
@@ -50,7 +60,7 @@ Yes, you can skip this tutorial if your game is already patched to v1.51. Howeve
 
 {% tabs %}
 {% tab title="Full Installer" %}
-## **Full Installer**
+**Full Standalone Installer**
 
 This installer will update your game to the latest version (v1.51), no matter which version you currently have — whether it’s v1.00, v1.01, or v1.50.&#x20;
 
@@ -68,6 +78,8 @@ Source: [LordSte](https://www.moddb.com/members/lordste) on [ModDB](https://www.
 {% endtab %}
 
 {% tab title="Incremental Installer" %}
+**Incremental Installer**
+
 The installers provided here are mirrors of the originals from EA, made available before the game’s termination. To update your game to the latest version, first install the v1.50 patch, then follow up with the v1.51 patch.
 
 The v1.50 patch upgrades your game from v1.00 or v1.01 to v1.50, and the v1.51 patch takes it from v1.50 to v1.51.

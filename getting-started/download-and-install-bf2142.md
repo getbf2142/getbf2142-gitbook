@@ -1,6 +1,32 @@
-# ① Download & Install BF2142
+---
+description: >-
+  In this tutorial, we’ll guide you through various online resources for
+  downloading the game and show you the proper steps for installation.
+---
 
-In this tutorial, we’ll guide you through various online resources for downloading the game and show you the proper steps for installation. If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
+# ① Download AND Install BF2142
+
+{% stepper %}
+{% step %}
+### Test&#x20;
+
+weffw
+{% endstep %}
+
+{% step %}
+### weff
+
+ewfwf
+{% endstep %}
+
+{% step %}
+### wefwef
+
+ewfwef
+{% endstep %}
+{% endstepper %}
+
+If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
 
 {% hint style="success" %}
 We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](../others/contact-us.md) to receive support.
@@ -53,7 +79,7 @@ If you’re set on finding a native Mac version, we wish you the best of luck wi
 
 {% tabs %}
 {% tab title="Standard Edition v1.01" %}
-## **Battlefield 2142 Standard Edition v1.01**
+**Battlefield 2142 Standard Edition v1.01**
 
 {% hint style="info" %}
 As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
@@ -139,6 +165,8 @@ Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[Last Verifie
 {% endtab %}
 
 {% tab title="Internet Archive" %}
+**Internet Archive**
+
 If you’d like to find the download sources yourself, here’s a good place to start.
 
 {% embed url="https://archive.org/search?query=battlefield+2142" %}
@@ -147,6 +175,8 @@ Source: [Internet Archive](https://archive.org/) \[Last Verified: July 2025]
 {% endtab %}
 
 {% tab title="Amazon Retailer" %}
+**Amazon Retailer**
+
 The only way to obtain the game “legitimately” these days is by buying a second-hand retail DVD. Keep in mind, though, that used copies often come with product keys that are already activated or expired. While this might seem to defeat the purpose of spending money, nostalgia is a great reason to support a classic like this.
 
 If you really love the game and have a bit of extra cash, we encourage you to pick up a physical copy. You might be surprised — many dedicated fans still own their original discs, some dating back to 2005! As we always say, we’re true Battlefield lovers, and that’s exactly why we created this website.
