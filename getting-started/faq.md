@@ -54,7 +54,7 @@ These steps often resolve crash issues, as many problems are related to video se
 
 <details>
 
-<summary>I keep getting kicks or disconnections when playing on Reclamation servers. How to fix this?</summary>
+<summary>I keep getting kicks when playing on Reclamation servers. How to fix this?</summary>
 
 First, make sure you’re joining the server with a vanilla 2142 installation and there aren’t any major modifications in your `mods\bf2142` folder.
 

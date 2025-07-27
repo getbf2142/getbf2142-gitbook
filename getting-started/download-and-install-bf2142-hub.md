@@ -18,7 +18,7 @@ BF2142 Hub is a 64-bit application and won’t run on 32-bit Windows XP. If you�
 
 {% stepper %}
 {% step %}
-Download <mark style="color:blue;">BF2142\_Hub\_Setup.exe</mark> from [Downloads](download-and-install-bf2142-hub.md#downloads).
+Download `BF2142_Hub_Setup.exe` from [Downloads](download-and-install-bf2142-hub.md#downloads).
 {% endstep %}
 
 {% step %}
@@ -34,7 +34,7 @@ Follow the on-screen instructions in the wizard to finish the installation.
 {% endstep %}
 
 {% step %}
-Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using BF2142 Hub — _this step is essential, so don't skip it!_ **\[**[**?**](#user-content-fn-2)[^2]**]**
+Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using <mark style="color:blue;">BF2142 Hub</mark> — _this step is essential, so don't skip it!_ **\[**[**?**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 {% endstepper %}
 

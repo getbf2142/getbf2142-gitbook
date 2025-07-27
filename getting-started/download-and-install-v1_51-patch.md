@@ -49,7 +49,7 @@ Yes, you can skip this tutorial if your game is already patched to v1.51. Howeve
 
 {% stepper %}
 {% step %}
-Download <mark style="color:blue;">BF2142\_Update\_1.51\_Full.exe</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) → <mark style="color:blue;">Standalone Installer</mark>.
+Download `BF2142_Update_1.51_Full.exe` from [Downloads](download-and-install-v1_51-patch.md#downloads) → <mark style="color:blue;">Standalone Installer</mark>.
 {% endstep %}
 
 {% step %}

@@ -6,10 +6,6 @@ description: Where to download the mod? How to install the mod?
 
 In this tutorial, we’ll guide you through the steps to install the Remaster Mod.
 
-Project Remaster is a high-quality enhancement mod for Battlefield 2142, designed to give this 15-year-old game a modern feel. It brings in high-resolution textures, realistic animations, and new weapons, all integrated into the game engine for a refreshed experience.
-
-Project Remaster is developed and maintained by the [Project Remaster Team](https://prmp.boards.net/). For support and the latest updates, you can join their [Discord server](https://discord.com/invite/nVdDkgA).
-
 {% columns %}
 {% column %}
 {% embed url="https://www.youtube.com/watch?v=eziEoqH9cCY" %}
@@ -22,42 +18,56 @@ Project Remaster is developed and maintained by the [Project Remaster Team](http
 
 <details>
 
-<summary>What is Project Remaster? What exactly does it offer?</summary>
+<summary>What is Project Remaster?</summary>
 
-The mod also includes a suite of troubleshooting and diagnostic tools, which are super helpful if you run into any issues. Plus, it comes with a built-in wiki packed with information on getting the game running, fixing video problems, crash solutions, and more. That’s why we highly recommend installing the mod—not just for the upgrades, but also for easy access to these valuable resources.
+Project Remaster is a high-quality enhancement mod for Battlefield 2142, designed to give this 15-year-old game a modern feel. It brings in high-resolution textures, realistic animations, and new weapons, all integrated into the game engine for a refreshed experience.
 
-* Features a lot of improvements on textures, sounds, 3D models and animations.
-* New soldier skins
-* new weapons
-* gameplay balance
-* Supports 4K resolution and 120Hz / 144Hz framerates.
-
-- HD crosshairs for all weapons&#x20;
-- HD minimaps&#x20;
-- Blood patch \[Optional]&#x20;
-- Supports widescreen with real 16:9 HUD.
-- Supports Reshade overlay and SMAA.
-- Improves the drag-and-drop customisation screen.
-- Improves the Coop mode with better bot AI and more maps.
-- Adds the 4th primary rifle slot to each soldier class with a new weapon in it.
-- Comes with a launcher, manual and debugging tools.
-
-You may refer to the Project Remaster [manual](further-readings.md) for more details about the mod.
+Project Remaster is developed and maintained by the [Project Remaster Team](https://prmp.boards.net/). For support and the latest updates, you can join their [Discord server](https://discord.com/invite/nVdDkgA).
 
 </details>
 
 <details>
 
-<summary>What mini-mods come with the Remaster v14 installation?</summary>
+<summary>What exactly does the mod offer?</summary>
 
-1. <mark style="color:blue;">Project\_Remaster\_v14</mark> is the main mod.\
+* 4K resolution and 120Hz / 144Hz framerate support
+
+- True 16:9 HUD with widescreen fix
+- HD textures for soldiers, maps, and weapons
+- Enhanced sounds, 3D models, and animations
+- HD English fonts
+
+* HD crosshairs for all weapons&#x20;
+* HD minimaps
+
+- New weapons (handguns, anti-material rifles, SMGs, anti-vehicles, etc.)
+- Gameplay balance improvements (spawn points, tatical objects, etc.)
+
+* Blood patch included
+
+- Reshade overlay and SMAA support
+- New customisation screen
+- 4th and 5th primary rifle slots for each soldier class
+- 4th, 5th, and 6th squad leader slots for each soldier class
+- Smarter bot AI for Conquest Coop maps
+- Bot support added to more maps and layouts (see the map list [here](../addons-tweaks/extra-maps-w-bot-support.md#list-of-maps-in-project-remaster-w-bot-support))
+
+* Includes a launcher, manual, and debugging tools
+
+</details>
+
+<details>
+
+<summary>What mini-mods come with the v14 installation?</summary>
+
+1. `Project_Remaster_v14` is the main mod.\
    It contains the complete mod (textures, models, maps etc.) and will be used for hosting your multiplayer / singleplayer game.
-2. <mark style="color:blue;">Project\_Remaster\_v14\_offline</mark> is a mini-mod for offline singleplayer.\
+2. `Project_Remaster_v14_offline` is a mini-mod for offline singleplayer.\
    • It works without an internet connection.\
    • The customization screen will not work.\
    • You have pre-defined soldier load-outs and kit load-outs with some fixed unlocks.\
    • Loot dead bots' backpacks to use other load-outs.
-3. <mark style="color:blue;">Project\_Remaster\_v14\_vanilla\_weapons</mark> is a mini-mod with all weapons and gadgets having their vanilla stats (damage, recoil, rate of fire, amount of ammo etc.).\
+3. `Project_Remaster_v14_vanilla_weapons` is a mini-mod with all weapons and gadgets having their vanilla stats (damage, recoil, rate of fire, amount of ammo etc.).\
    It also removes the new 4th primary rifles from the soldiers. Animations, however, stay the same as in the main mod.
 
 </details>
@@ -78,7 +88,7 @@ If you already have an older version of the mod installed, make sure to uninstal
 
 {% stepper %}
 {% step %}
-Download <mark style="color:blue;">project\_remaster\_v14\_setup\_BETA13.exe</mark> from [Downloads](download-and-install-remaster-mod.md#downloads).
+Download `project_remaster_v14_setup_BETA13.exe` from [Downloads](download-and-install-remaster-mod.md#downloads).
 {% endstep %}
 
 {% step %}

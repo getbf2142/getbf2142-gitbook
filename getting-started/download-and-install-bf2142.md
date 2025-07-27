@@ -86,7 +86,7 @@ Follow the setup wizard to complete the installation — there are a few [import
 * Feel free to skip BattleCammo setup by clicking <mark style="color:blue;">Cancel</mark>. **\[**[**?**](#user-content-fn-10)[^10]**]**
 * Select <mark style="color:blue;">No, install GameSpy Comrade later</mark> to skip GameSpy Comrade setup. **\[**[**?**](#user-content-fn-11)[^11]**]**
 * When asked to register an EA account, just click <mark style="color:blue;">REGISTER LATER</mark> to move on. **\[**[**?**](#user-content-fn-12)[^12]**]**
-* None of the multiplayer servers use PunkBuster Anti-Cheat, so you can safely skip installing it.
+* None of the multiplayer servers use PunkBuster anti-cheat, so you can safely skip installing it.
 {% endstep %}
 
 {% step %}
@@ -108,7 +108,7 @@ Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md
 
 - It doesn’t matter which edition you start with — once everything is patched up, they’ll all be the same.
 
-* If you have any concerns about the sources, consider installing an AntiVirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.
+* If you have any concerns about the sources, consider installing an anti-virus beforehand or downloading the base game from a source you trust — it’s important that you feel comfortable with the process.
 
 - Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which no longer allows you to log in), this is one of the few remaining options available.
 

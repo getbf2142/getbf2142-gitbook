@@ -121,7 +121,7 @@ Once you see <mark style="color:blue;">Patch completed, Enjoy!</mark>, click <ma
 {% endstep %}
 
 {% step %}
-After patching, make sure the checkmarks for <mark style="color:blue;">Patch 1.51</mark>, <mark style="color:blue;">BF2142.exe</mark>, <mark style="color:blue;">RendDX9.d</mark>, <mark style="color:blue;">RendDX9ori.dll</mark> are all <mark style="color:green;">green</mark>. If any aren't, repeat from step 6.
+After patching, make sure the checkmarks for `Patch 1.51`, `BF2142.exe`, `RendDX9.d`, `RendDX9ori.dll` are all <mark style="color:green;">green</mark>. If any aren't, repeat from step 6.
 {% endstep %}
 {% endstepper %}
 
