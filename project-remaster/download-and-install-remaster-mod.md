@@ -18,11 +18,14 @@ Project Remaster is developed and maintained by the [Project Remaster Team](http
 
 <details>
 
-<summary>Why Remaster Mod? What exactly does it offer?</summary>
+<summary>What is Project Remaster? What exactly does it offer?</summary>
 
 The mod also includes a suite of troubleshooting and diagnostic tools, which are super helpful if you run into any issues. Plus, it comes with a built-in wiki packed with information on getting the game running, fixing video problems, crash solutions, and more. That’s why we highly recommend installing the mod—not just for the upgrades, but also for easy access to these valuable resources.
 
 * Features a lot of improvements on textures, sounds, 3D models and animations.
+* New soldier skins
+* new weapons
+* gameplay balance
 * Supports 4K resolution and 120Hz / 144Hz framerates.
 
 - HD crosshairs for all weapons&#x20;
@@ -52,6 +55,14 @@ You may refer to the Project Remaster [manual](further-readings.md) for more det
    • Loot dead bots' backpacks to use other load-outs.
 3. <mark style="color:blue;">Project\_Remaster\_v14\_vanilla\_weapons</mark> is a mini-mod with all weapons and gadgets having their vanilla stats (damage, recoil, rate of fire, amount of ammo etc.).\
    It also removes the new 4th primary rifles from the soldiers. Animations, however, stay the same as in the main mod.
+
+</details>
+
+<details>
+
+<summary>Are there any servers that run the mod?</summary>
+
+At the moment, there aren’t any official servers for Remaster, as the mod is mainly intended for offline play. However, rest assured — the mod fully supports multiplayer and can be played with friends over LAN or WAN. The Project Remaster Team does plan to host some multiplayer events after v16 full release. So stay tuned!
 
 </details>
 

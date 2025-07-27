@@ -56,7 +56,7 @@ A public server is a game server that shows up in the online server browser and 
 
 1. Click <mark style="color:blue;">MULTIPLAY</mark>.
 2. Click <mark style="color:blue;">ONLINE</mark>.
-3. In the <mark style="color:blue;">ADVANCED</mark> tab, uncheck all the filter options and click <mark style="color:blue;">UPDATE LIST</mark>.
+3. In the <mark style="color:blue;">ADVANCED</mark> tab, uncheck all the filter options and click <mark style="color:blue;">UPDATE LIST</mark>. **\[**[**?**](#user-content-fn-1)[^1]**]**
 4. You should now see a list of public servers. Double-click one to jon and play.
 
 {% columns %}
@@ -65,7 +65,9 @@ A public server is a game server that shows up in the online server browser and 
 {% endcolumn %}
 
 {% column %}
-The green icon next to the 2142 icon shows if a server is modded or not — green means it’s unmodded, while red means it’s running a mod. To join servers with the green icon, always launch the game without any mods enabled.
+The green icon next to the 2142 icon shows if a server is modded or not — green means it’s unmodded, while red means it’s running a mod. To join servers with the green icon, always launch the game without any mods enabled. **\[**[**?**](#user-content-fn-2)[^2]**]**
+
+To join a Reclamation server, you’ll need to install their [custom maps](apply-openspy-patches.md#reclamation-map-pack). **\[**[**?**](#user-content-fn-3)[^3]**]**
 {% endcolumn %}
 {% endcolumns %}
 
@@ -76,7 +78,13 @@ A private WAN server is a game server that doesn’t show up in the online serve
 1. Click <mark style="color:blue;">MULTIPLAY</mark>.
 2. Click <mark style="color:blue;">ONLINE</mark>.
 3. In the <mark style="color:blue;">ADVANCED</mark> tab, click <mark style="color:blue;">CONNECT TO IP</mark>.
-4. Enter the server's public IP address and adjust the [port number](#user-content-fn-1)[^1] if needed.
+4. Enter the server's public IP address and adjust the [port number](#user-content-fn-4)[^4] if needed.
 5. Click <mark style="color:blue;">OK</mark> to connect.
 
-[^1]: 17567 is the default port.
+[^1]: If you don't, you'll see no multiplayer servers showing up in the list.
+
+[^2]: If you don’t, you’ll see a message saying “this server is running a different mod” and you won’t be able to join.
+
+[^3]: If you don’t, you’ll see a message saying “this map contains customized content” and you won’t be able to join.
+
+[^4]: 17567 is the default port.

@@ -34,19 +34,29 @@ After [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in 2014
 
 <summary>Are there any other Master Servers besides OpenSpy?</summary>
 
-Yes, there are a few, like NovGames, PlayBF2142, and MAGMA. However, OpenSpy — especially with the Reclamation community — offers the most reliable and active service.
+Yes, there are a few, like NovGames, PlayBF2142, and MAGMA. However, OpenSpy — especially with the Reclamation community — offers the most reliable and active service. You can easily switch between OpenSpy and NovGames using BF2142 Hub.
 
 </details>
 
 <details>
 
-<summary>How is the Reclamation community? Is it still active?</summary>
+<summary>What is Project Reclamation? How is it related to OpenSpy?</summary>
+
+Project Reclamation is a community effort that brings Battlefield 2142’s online features back to life. It uses the OpenSpy platform to recreate the master server experience that GameSpy originally provided. Reclamation servers connect directly to the OpenSpy master server, so you can easily find and join games — just like you could back in the day.
+
+</details>
+
+<details>
+
+<summary>How is the Reclamation community doing? Is it still active?</summary>
 
 <figure><img src="../.gitbook/assets/reclamation_orig.png" alt="" width="563"><figcaption></figcaption></figure>
 
-The Reclamation servers are quite active! You’ll usually find 10+ players on weekdays and 30+ on weekends. There are both EU and US servers available, and the community is English-speaking and connected through the [Reclamation Discord](https://discord.com/invite/MEwBW9U).
+The Reclamation community is still going strong! There are both EU and US servers, and the community is English-speaking and active on the [Reclamation Discord](https://discord.com/invite/MEwBW9U).
 
-You can enjoy various game modes, including Conquest, Conquest Coop, and Titan.
+Reclamation EU usually hits its peak population starting around 6PM GMT, while Reclamation US gets busy around 12AM GMT. Weekends tend to be even more active than weekdays during these times. **\[**[**?**](#user-content-fn-1)[^1]**]**
+
+You can enjoy various game modes, including Conquest, Conquest Coop, and Titan. **\[**[**?**](#user-content-fn-2)[^2]**]**
 
 To join:
 
@@ -59,18 +69,18 @@ Jump in and you’ll find a welcoming and active community!
 
 <details>
 
-<summary>Do we have all the unlocks with OpenSpy?</summary>
+<summary>Do we have all the unlocks with OpenSpy / Reclamation?</summary>
 
 Yes, connecting to OpenSpy is a real privilege — it gives you access to all unlocks in Single-Player and Multi-Player LAN modes. This makes it perfect for grinding against bots in a Conquest Coop game.
 
-If you want to unlock everything in BFHQ, just join a Reclamation (ranked) server and play a round. That said, this step isn’t required — you’ll still have access to all unlocks in SP/LAN even if you never play on a ranked server.
+If you want to unlock everything pemanently in BFHQ (i.e., public stats), just join a Reclamation (ranked) server and play a round. That said, this step isn’t required — you’ll still have access to all unlocks in SP/LAN even if you never play on a ranked server. All unlocks are available to everyone as soon as you create a new soldier.
 
 </details>
 
 ## Procedures
 
 {% hint style="warning" %}
-Before patching your game, it’s a good idea to make backup copies of your `BF2142.exe` and `RendDX9.dll` files from your game folder. \[Why?[^1]]
+Before patching your game, it’s a good idea to make backup copies of your `BF2142.exe` and `RendDX9.dll` files from your game folder. \[Why?[^3]]
 {% endhint %}
 
 {% stepper %}
@@ -79,7 +89,7 @@ Right-click <mark style="color:blue;">BF2142 Hub</mark> shortcut on your desktop
 {% endstep %}
 
 {% step %}
-Go to the <mark style="color:blue;">Compatibility</mark> tab, check <mark style="color:blue;">Run this program as an administrator</mark>, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. **\[**[**?**](#user-content-fn-2)[^2]**]**
+Go to the <mark style="color:blue;">Compatibility</mark> tab, check <mark style="color:blue;">Run this program as an administrator</mark>, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. **\[**[**?**](#user-content-fn-4)[^4]**]**
 {% endstep %}
 
 {% step %}
@@ -87,7 +97,7 @@ Double-click the shortcut to launch BF2142 Hub.
 {% endstep %}
 
 {% step %}
-When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-3)[^3]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-5)[^5]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
 {% endstep %}
 
 {% step %}
@@ -183,8 +193,12 @@ To uninstall a map, select it from the <mark style="color:blue;">Installed Maps<
 {% endstep %}
 {% endstepper %}
 
-[^1]: This way, you’ll have a safety net in case anything goes wrong during the patching process.
+[^1]: You’ll usually find 10+ players on weekdays and 30+ on weekends.
 
-[^2]: Running as administrator helps prevent permission issues during patching.
+[^2]: Reclamation servers use auto-managing scripts that adjust maps and game modes based on how many players are online. Titan matches won’t be enabled until there are at least 20 players in the server.
 
-[^3]: i.e., <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>
+[^3]: This way, you’ll have a safety net in case anything goes wrong during the patching process.
+
+[^4]: Running as administrator helps prevent permission issues during patching.
+
+[^5]: i.e., <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>

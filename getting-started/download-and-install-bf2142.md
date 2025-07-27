@@ -72,7 +72,7 @@ When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-co
 Follow the setup wizard to complete the installation — there are a few [important notes](download-and-install-bf2142.md#remarks) along the way, so keep an eye out for those. **\[**[**TL;DR**](#user-content-fn-5)[^5]**]**
 
 * <sub>If you see a popup saying</sub> <sub></sub><sub><mark style="color:blue;">This game has only been tested on WinXP(32bit)<mark style="color:blue;"></sub><sub>, just click</sub> <sub></sub><sub><mark style="color:blue;">Confirm<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-6)[^6]<sub>**]**</sub>
-*   <sub>When prompted for a serial code, simply use one of these</sub> [<sub><mark style="color:blue;">Standard Edition<mark style="color:blue;"></sub>](#user-content-fn-7)[^7] <sub>keys to continue.</sub>
+*   <sub>When prompted for a serial code, simply use one of these</sub> [<sub><mark style="color:blue;">Standard Edition<mark style="color:blue;"></sub>](#user-content-fn-7)[^7] <sub>keys to continue.</sub> [<sub>**\[?\]**</sub>](#user-content-fn-8)[^8]
 
     ```
     SDV5-JZDE-L6B8-P2Q4-1911
@@ -81,19 +81,20 @@ Follow the setup wizard to complete the installation — there are a few [import
     UTFP-4DMN-D2U0-X3T3-1911​
     TRCL-YBIJ-D4H4-Y3O5-1911
     ```
-* <sub>It’s recommended to install the game to the</sub> [<sub>default path</sub>](#user-content-fn-8)[^8]<sub>, but you can choose a different location if you prefer.</sub>
+* <sub>It’s recommended to install the game to the</sub> [<sub>default path</sub>](#user-content-fn-9)[^9]<sub>, but you can choose a different location if you prefer.</sub>
 * <sub>For the best experience, install the</sub> <sub></sub><sub><mark style="color:blue;">English version<mark style="color:blue;"></sub> <sub></sub><sub>to take advantage of the</sub> <sub></sub><sub><mark style="color:blue;">HD English fonts<mark style="color:blue;"></sub> <sub></sub><sub>included with the</sub> [<sub>Remaster mod</sub>](../project-remaster/download-and-install-remaster-mod.md)<sub>.</sub>
-* <sub>Feel free to skip BattleCammo setup by clicking</sub> <sub></sub><sub><mark style="color:blue;">Cancel<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-9)[^9]<sub>**]**</sub>
-* <sub>Select</sub> <sub></sub><sub><mark style="color:blue;">No, install GameSpy Comrade later<mark style="color:blue;"></sub> <sub></sub><sub>to skip GameSpy Comrade setup.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-10)[^10]<sub>**]**</sub>
-* <sub>When asked to register an EA account, just click</sub> <sub></sub><sub><mark style="color:blue;">REGISTER LATER<mark style="color:blue;"></sub> <sub></sub><sub>to move on.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-11)[^11]<sub>**]**</sub>
+* <sub>Feel free to skip BattleCammo setup by clicking</sub> <sub></sub><sub><mark style="color:blue;">Cancel<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-10)[^10]<sub>**]**</sub>
+* <sub>Select</sub> <sub></sub><sub><mark style="color:blue;">No, install GameSpy Comrade later<mark style="color:blue;"></sub> <sub></sub><sub>to skip GameSpy Comrade setup.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-11)[^11]<sub>**]**</sub>
+* <sub>When asked to register an EA account, just click</sub> <sub></sub><sub><mark style="color:blue;">REGISTER LATER<mark style="color:blue;"></sub> <sub></sub><sub>to move on.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-12)[^12]<sub>**]**</sub>
+* <sub>None of the multiplayer servers use PunkBuster AntiCheat, so you can safely skip installing it.</sub>
 {% endstep %}
 
 {% step %}
-Once the installation finishes, close the wizard but _don’t launch the game just yet_. **\[**[**?**](#user-content-fn-12)[^12]**]**
+Once the installation finishes, close the wizard but _don’t launch the game just yet_. **\[**[**?**](#user-content-fn-13)[^13]**]**
 {% endstep %}
 
 {% step %}
-Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md) — _don’t skip this step_! **\[**[**?**](#user-content-fn-13)[^13]**]**
+Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md) — _don’t skip this step_! **\[**[**?**](#user-content-fn-14)[^14]**]**
 {% endstep %}
 {% endstepper %}
 
@@ -111,11 +112,10 @@ The setup provided here is an image of the Standard Edition retail DVD, which in
 
 Please note, this setup contains an early version of the game (v1.01). To ensure your game is up to date, you’ll need to follow the [next tutorial](download-and-install-v1_51-patch.md) right after completing these steps to patch it to the latest version (v1.51).
 
-<sup>More to note:</sup>
-
-* <sup>If you’re new to the game, we recommend sticking with the Standard Edition, since our tutorials are designed specifically for that version.</sup>
-* <sup>If you have any concerns about the sources, consider installing an antivirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.</sup>
-* <sup>Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which often no longer allows you to log in), this is one of the few remaining options available.</sup>
+* <sup>If you’re new to the game, we recommend sticking with the</sup> <sup></sup><sup>_Standard Edition_</sup><sup>, since our tutorials are designed specifically for that version.</sup>
+* <sup>It doesn’t matter which edition you start with — once everything is patched up, they’ll all be the same.</sup>
+* <sup>If you have any concerns about the sources, consider installing an AntiVirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.</sup>
+* <sup>Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which no longer allows you to log in), this is one of the few remaining options available.</sup>
 
 **BF2142\_Setup.rar (Google Drive, 3.24 GB)**
 
@@ -150,15 +150,14 @@ Source: [Old Games Download](https://oldgamesdownload.com/) \[Last Verified: Jul
 As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
 {% endhint %}
 
-The setup in this section was prepared by Novgames for the Russian-speaking community. This installer will automatically[^14] set the game to Russian and update it to the latest version.
+The setup in this section was prepared by Novgames for the Russian-speaking community. This installer will automatically[^15] set the game to Russian and update it to the latest version.
 
 If you download the game from the links below, you can skip the patching steps for v1.51, and you won’t need a serial key — the installer doesn’t require one.
 
-<sup>More to note:</sup>
-
-* <sup>If you’re new to the game, we recommend sticking with the Standard Edition, since our tutorials are designed specifically for that version.</sup>
-* <sup>If you have any concerns about the sources, consider installing an antivirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.</sup>
-* <sup>Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which often no longer allows you to log in), this is one of the few remaining options available.</sup>
+* <sup>If you’re new to the game, we recommend sticking with the</sup> <sup></sup><sup>_Standard Edition_</sup><sup>, since our tutorials are designed specifically for that version.</sup>
+* <sup>It doesn’t matter which edition you start with — once everything is patched up, they’ll all be the same.</sup>
+* <sup>If you have any concerns about the sources, consider installing an AntiVirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.</sup>
+* <sup>Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which no longer allows you to log in), this is one of the few remaining options available.</sup>
 
 **BF2142\_Novgames.zip (Google Drive / Torrent, 2.44 GB)**
 
@@ -196,15 +195,25 @@ Source: [Internet Archive](https://archive.org/) \[Last Verified: July 2025]
 {% endembed %}
 {% endtab %}
 
-{% tab title="Amazon Retailer" %}
-**Amazon Retailer**
+{% tab title="Retail DVD" %}
+**Retail DVD**
 
-The only way to obtain the game “legitimately” these days is by buying a second-hand retail DVD. Keep in mind, though, that used copies often come with product keys that are already activated or expired. While this might seem to defeat the purpose of spending money, nostalgia is a great reason to support a classic like this.
+The only way to obtain the game “legitimately” these days is by buying a _second-hand_ retail DVD. Keep in mind, though, that used copies often come with product keys that are already activated or expired. While this might seem to defeat the purpose of spending money, nostalgia is a great reason to support a classic like this.
 
 If you really love the game and have a bit of extra cash, we encourage you to pick up a physical copy. You might be surprised — many dedicated fans still own their original discs, some dating back to 2005! As we always say, we’re true Battlefield lovers, and that’s exactly why we created this website.
 
+Amazon, eBay, and local used video game stores are usually the best places to look for second-hand games like this.
+
+* <sup>Be sure the listing specifically mentions that the manual is included, since the serial code needed for installation is printed on the back cover of the manual.</sup>
+* <sup>If possible, check before buying that the disc edition matches the manual edition — mixing them up can prevent you from installing the game.</sup>
+* <sup>And don’t forget — you’ll need a DVD-ROM drive to run the disc.</sup>
+
 {% embed url="https://www.amazon.com/Battlefield-2142-Deluxe-PC/dp/B000YJ3TR8" %}
 Source: [Amazon](https://www.amazon.com/) \[Last Verified: July 2025]
+{% endembed %}
+
+{% embed url="https://www.ebay.com/sch/i.html?_nkw=battlefield+2142" %}
+Source: [eBay](https://www.ebay.com/) \[Last Verified: July 2025]
 {% endembed %}
 {% endtab %}
 {% endtabs %}
@@ -223,16 +232,18 @@ Source: [Amazon](https://www.amazon.com/) \[Last Verified: July 2025]
 
 [^7]: Just a quick note: these serial keys only work with the Standard Edition setup. If you’re using a different version, these keys won’t apply.
 
-[^8]: i.e., `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`
+[^8]: Currently, there’s no mechanism on either the master server or multiplayer servers to prevent users with the same serial key from connecting.
 
-[^9]: BattleCammo is a VoIP service for in-game voice chat, but you probably won’t need it.
+[^9]: i.e., `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`
 
-[^10]: GameSpy Comrade was a community gaming app for friends, stats, and messaging, but it no longer works since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
+[^10]: BattleCammo is a VoIP service for in-game voice chat, but you probably won’t need it.
 
-[^11]: EA Master Server is offline due to the [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
+[^11]: GameSpy Comrade was a community gaming app for friends, stats, and messaging, but it no longer works since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
 
-[^12]: Since the game isn’t updated, trying to launch it will prompt you to insert the disc. This happens because the patch removes the disc check — without the update, the game still looks for the original disc before starting.
+[^12]: EA Master Server is offline due to the [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014.
 
-[^13]: If you skip updating to the latest version, the game won’t launch and will keep asking for the disc. Here’s why: the patch removes the disc check, so without it, the game can’t start properly.
+[^13]: Since the game isn’t updated, trying to launch it will prompt you to insert the disc. This happens because the patch removes the disc check — without the update, the game still looks for the original disc before starting.
 
-[^14]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
+[^14]: If you skip updating to the latest version, the game won’t launch and will keep asking for the disc. Here’s why: the patch removes the disc check, so without it, the game can’t start properly.
+
+[^15]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Project Remaster mod](../project-remaster/download-and-install-remaster-mod.md).

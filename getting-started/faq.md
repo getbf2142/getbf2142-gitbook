@@ -4,7 +4,7 @@
 
 <summary>How do I get all unlocks?</summary>
 
-When you use OpenSpy as your login service, you get access to all unlocks. This means you’ll have all unlocks available in Singleplayer and LAN, as long as you’re connected to the internet. To unlock everything in BFHQ, just join a Reclamation server once.
+When you use OpenSpy as your login service, you get access to all unlocks **\[**[**?**](#user-content-fn-1)[^1]**]**. This means you’ll have all unlocks available in Singleplayer and LAN, as long as you’re connected to the internet. To unlock everything permanently in BFHQ (i.e., public stats), just join a Reclamation server once.
 
 </details>
 
@@ -86,3 +86,6 @@ A recent Windows update has broken the Unlocker, and there’s currently no know
 
 </details>
 
+
+
+[^1]: All unlocks are available to everyone as soon as you create a new soldier.

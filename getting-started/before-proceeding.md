@@ -31,7 +31,7 @@ You should follow this step: [② Install v1.51 Patch](download-and-install-v1_5
 
 <details>
 
-<summary>Yes, I already have the Deluxe Edition installed.</summary>
+<summary>Yes, I already have the Deluxe Edition installed.<br><em>(OR I already have the game installed via Origin)</em></summary>
 
 You can skip these steps: [① Download & Install BF2142](download-and-install-bf2142.md), [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
 
@@ -50,7 +50,7 @@ This will help you figure out if you need to complete any extra tutorials beyond
 <summary>I prefer Remaster.</summary>
 
 You should follow these steps in order:\
-[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑤ Create Account](create-account.md) → [Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) (Extra) → [Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md) (Extra)
+[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Create Account](create-account.md) → [Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) (Extra) → [Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md) (Extra)
 
 </details>
 
@@ -59,7 +59,7 @@ You should follow these steps in order:\
 <summary>I prefer Vanilla.</summary>
 
 You should follow these steps:\
-[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Apply OpenSpy Patches](apply-openspy-patches.md) → [⑤ Create Account](create-account.md)
+[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Create Account](create-account.md)
 
 </details>
 
