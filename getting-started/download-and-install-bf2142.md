@@ -71,8 +71,8 @@ When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-co
 {% step %}
 Follow the setup wizard to complete the installation — there are a few [important notes](download-and-install-bf2142.md#remarks) along the way, so keep an eye out for those. **\[**[**TL;DR**](#user-content-fn-5)[^5]**]**
 
-* <sub>If you see a popup saying</sub> <sub></sub><sub><mark style="color:blue;">This game has only been tested on WinXP(32bit)<mark style="color:blue;"></sub><sub>, just click</sub> <sub></sub><sub><mark style="color:blue;">Confirm<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-6)[^6]<sub>**]**</sub>
-*   <sub>When prompted for a serial code, simply use one of these</sub> [<sub><mark style="color:blue;">Standard Edition<mark style="color:blue;"></sub>](#user-content-fn-7)[^7] <sub>keys to continue.</sub> [<sub>**\[?\]**</sub>](#user-content-fn-8)[^8]
+* If you see a popup saying <mark style="color:blue;">This game has only been tested on WinXP(32bit)</mark>, just click <mark style="color:blue;">Confirm</mark>. **\[**[**?**](#user-content-fn-6)[^6]**]**
+*   When prompted for a serial code, simply use one of these [<mark style="color:blue;">Standard Edition</mark>](#user-content-fn-7)[^7] keys to continue. [**\[?\]**](#user-content-fn-8)[^8]
 
     ```
     SDV5-JZDE-L6B8-P2Q4-1911
@@ -81,12 +81,12 @@ Follow the setup wizard to complete the installation — there are a few [import
     UTFP-4DMN-D2U0-X3T3-1911​
     TRCL-YBIJ-D4H4-Y3O5-1911
     ```
-* <sub>It’s recommended to install the game to the</sub> [<sub>default path</sub>](#user-content-fn-9)[^9]<sub>, but you can choose a different location if you prefer.</sub>
-* <sub>For the best experience, install the</sub> <sub></sub><sub><mark style="color:blue;">English version<mark style="color:blue;"></sub> <sub></sub><sub>to take advantage of the</sub> <sub></sub><sub><mark style="color:blue;">HD English fonts<mark style="color:blue;"></sub> <sub></sub><sub>included with the</sub> [<sub>Remaster mod</sub>](../project-remaster/download-and-install-remaster-mod.md)<sub>.</sub>
-* <sub>Feel free to skip BattleCammo setup by clicking</sub> <sub></sub><sub><mark style="color:blue;">Cancel<mark style="color:blue;"></sub><sub>.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-10)[^10]<sub>**]**</sub>
-* <sub>Select</sub> <sub></sub><sub><mark style="color:blue;">No, install GameSpy Comrade later<mark style="color:blue;"></sub> <sub></sub><sub>to skip GameSpy Comrade setup.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-11)[^11]<sub>**]**</sub>
-* <sub>When asked to register an EA account, just click</sub> <sub></sub><sub><mark style="color:blue;">REGISTER LATER<mark style="color:blue;"></sub> <sub></sub><sub>to move on.</sub> <sub></sub><sub>**\[**</sub>[<sub>**?**</sub>](#user-content-fn-12)[^12]<sub>**]**</sub>
-* <sub>None of the multiplayer servers use PunkBuster Anti-Cheat, so you can safely skip installing it.</sub>
+* It’s recommended to install the game to the [default path](#user-content-fn-9)[^9], but you can choose a different location if you prefer.
+* For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with the [Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
+* Feel free to skip BattleCammo setup by clicking <mark style="color:blue;">Cancel</mark>. **\[**[**?**](#user-content-fn-10)[^10]**]**
+* Select <mark style="color:blue;">No, install GameSpy Comrade later</mark> to skip GameSpy Comrade setup. **\[**[**?**](#user-content-fn-11)[^11]**]**
+* When asked to register an EA account, just click <mark style="color:blue;">REGISTER LATER</mark> to move on. **\[**[**?**](#user-content-fn-12)[^12]**]**
+* None of the multiplayer servers use PunkBuster Anti-Cheat, so you can safely skip installing it.
 {% endstep %}
 
 {% step %}
@@ -100,6 +100,20 @@ Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md
 
 ## Downloads
 
+<details>
+
+<summary>Something about the downloads ...</summary>
+
+* If you’re new to the game, we recommend sticking with the _Standard Edition_, since our tutorials are designed specifically for that version.
+
+- It doesn’t matter which edition you start with — once everything is patched up, they’ll all be the same.
+
+* If you have any concerns about the sources, consider installing an AntiVirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.
+
+- Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which no longer allows you to log in), this is one of the few remaining options available.
+
+</details>
+
 {% tabs %}
 {% tab title="Standard Edition v1.01" %}
 **Battlefield 2142 Standard Edition v1.01**
@@ -109,13 +123,6 @@ As the game has been nothing but abandoned by the developers and its publisher, 
 {% endhint %}
 
 The setup provided here is an ISO image of the Standard Edition retail DVD. It contains an early version of the game (v1.01). To ensure your game is up to date, you’ll need to follow the [next tutorial](download-and-install-v1_51-patch.md) right after completing these steps to patch it to the latest version (v1.51).
-
-Some more notes:
-
-* If you’re new to the game, we recommend sticking with the _Standard Edition_, since our tutorials are designed specifically for that version.
-* It doesn’t matter which edition you start with — once everything is patched up, they’ll all be the same.
-* If you have any concerns about the sources, consider installing an AntiVirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.
-* Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which no longer allows you to log in), this is one of the few remaining options available.
 
 **BF2142\_Setup.rar (Google Drive, 3.24 GB)**
 
@@ -153,13 +160,6 @@ As the game has been nothing but abandoned by the developers and its publisher, 
 The setup in this section was prepared by Novgames for the Russian-speaking community. This installer will automatically[^15] set the game to Russian and update it to the latest version.
 
 If you download the game from the links below, you can skip the patching steps for v1.51, and you won’t need a serial key — the installer doesn’t require one.
-
-Some more notes:
-
-* If you’re new to the game, we recommend sticking with the _Standard Edition_, since our tutorials are designed specifically for that version.
-* It doesn’t matter which edition you start with — once everything is patched up, they’ll all be the same.
-* If you have any concerns about the sources, consider installing an AntiVirus beforehand or downloading the base game from a source you trust. It’s important that you feel comfortable with the process.
-* Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which no longer allows you to log in), this is one of the few remaining options available.
 
 **BF2142\_Novgames.zip (Google Drive / Torrent, 2.44 GB)**
 
@@ -210,9 +210,13 @@ Amazon, eBay, and local used video game stores are usually the best places to lo
 * If possible, check before buying that the disc edition matches the manual edition — mixing them up can prevent you from installing the game.
 * And don’t forget — you’ll need a DVD-ROM drive to run the disc.
 
+**Battlefield 2142 Second-Hand Retail DVD on Amazon**
+
 {% embed url="https://www.amazon.com/Battlefield-2142-Deluxe-PC/dp/B000YJ3TR8" %}
 Source: [Amazon](https://www.amazon.com/) \[Last Verified: July 2025]
 {% endembed %}
+
+**Battlefield 2142 Second-Hand Retail DVD on eBay**
 
 {% embed url="https://www.ebay.com/sch/i.html?_nkw=battlefield+2142" %}
 Source: [eBay](https://www.ebay.com/) \[Last Verified: July 2025]

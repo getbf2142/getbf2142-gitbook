@@ -69,7 +69,7 @@ Jump in and you’ll find a welcoming and active community!
 
 <details>
 
-<summary>Do we have all the unlocks with OpenSpy / Reclamation?</summary>
+<summary>Do we get all the unlocks with OpenSpy - Reclamation?</summary>
 
 Yes, connecting to OpenSpy is a real privilege — it gives you access to all unlocks in Single-Player and Multi-Player LAN modes. This makes it perfect for grinding against bots in a Conquest Coop game.
 

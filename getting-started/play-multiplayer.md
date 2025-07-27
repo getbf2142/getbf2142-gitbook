@@ -6,24 +6,51 @@ description: How to play multiplayer? How to join a server?
 
 In this tutorial, we'll walk you through the steps to join a server.
 
-A few things to note:
+<details>
 
-* If you’re joining Reclamation servers or any pure vanilla servers, make sure you’re using a vanilla BF2142 setup — don’t use any addons like Blood Patch or HUD-Fix in `mods\bf2142`.
-* You can only join servers that match the mod you’re running. You can’t join an unmodded server with a mod enabled, or vice versa. To join a modded server, you’ll need to have the exact same mod installed as the server.
-* You need to install the required [custom maps](apply-openspy-patches.md#installing-the-reclamation-map-pack) to play on Reclamation servers.
+<summary>A few things to keep in mind ...</summary>
+
+* If you’re joining Reclamation servers or any _pure_ vanilla servers, make sure you’re using a vanilla BF2142 setup — don’t use any addons like Blood Patch or HUD-Fix that change files in `mods\bf2142`.
+
+- You can only join servers that match the mod and files you have.
+  * You can’t join a vanilla server with a mod enabled, or the other way around.
+  * To join a modded server, you’ll need to have the exact same mod and files installed as the server.
+
+</details>
+
+{% columns %}
+{% column width="41.66666666666667%" %}
+<figure><img src="../.gitbook/assets/reclamation_orig.png" alt=""><figcaption></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+The green icon next to the 2142 icon shows if a server is modded or not — green means it’s vanilla, while red means it’s running a mod. To join servers with the green icon, always launch the game without any mods enabled or files modified. **\[**[**?**](#user-content-fn-1)[^1]**]**
+
+To join a Reclamation server, you’ll need to install their [custom maps](apply-openspy-patches.md#reclamation-map-pack). **\[**[**?**](#user-content-fn-2)[^2]**]**
+{% endcolumn %}
+{% endcolumns %}
 
 ## Joining a LAN Server
 
 A local server is a game server that shows up in your local server browser and can be accessed by anyone on your LAN network.
 
-1. Click <mark style="color:blue;">MULTIPLAY</mark>.
-2. Click <mark style="color:blue;">LOCAL</mark>.
-3. In the <mark style="color:blue;">JOIN</mark> tab, click <mark style="color:blue;">UPDATE LIST</mark> until the LAN server appears.
-4. ​Once it shows up, double-click the server to join.
+{% stepper %}
+{% step %}
+Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">LOCAL</mark>.
+{% endstep %}
+
+{% step %}
+In the <mark style="color:blue;">JOIN</mark> tab, click <mark style="color:blue;">UPDATE LIST</mark> until the LAN server appears.
+{% endstep %}
+
+{% step %}
+​Once it shows up, double-click the server to join.
+{% endstep %}
+{% endstepper %}
 
 <details>
 
-<summary>Solution to "Server Not Found" in Local Server Browser</summary>
+<summary>Solution to "Server Not Found" issue in local server browser</summary>
 
 First, make sure you’re connected to the same LAN network as the server host. If you still can’t find the server in the local server browser, even when it’s running, try this:
 
@@ -54,37 +81,48 @@ Reference: [https://superuser.com/questions/610733/networking-games-cant-see-joi
 
 A public server is a game server that shows up in the online server browser and can be accessed over the Internet.
 
-1. Click <mark style="color:blue;">MULTIPLAY</mark>.
-2. Click <mark style="color:blue;">ONLINE</mark>.
-3. In the <mark style="color:blue;">ADVANCED</mark> tab, uncheck all the filter options and click <mark style="color:blue;">UPDATE LIST</mark>. **\[**[**?**](#user-content-fn-1)[^1]**]**
-4. You should now see a list of public servers. Double-click one to jon and play.
+{% stepper %}
+{% step %}
+Click <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">ONLINE</mark>.
+{% endstep %}
 
-{% columns %}
-{% column width="41.66666666666667%" %}
-<figure><img src="../.gitbook/assets/pic7_orig.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
+{% step %}
+In the <mark style="color:blue;">ADVANCED</mark> tab, uncheck all the filter options and click <mark style="color:blue;">UPDATE LIST</mark>. **\[**[**?**](#user-content-fn-3)[^3]**]**
 
-{% column %}
-The green icon next to the 2142 icon shows if a server is modded or not — green means it’s unmodded, while red means it’s running a mod. To join servers with the green icon, always launch the game without any mods enabled. **\[**[**?**](#user-content-fn-2)[^2]**]**
+<div align="left"><figure><img src="../.gitbook/assets/pic7_orig.png" alt="" width="375"><figcaption></figcaption></figure></div>
+{% endstep %}
 
-To join a Reclamation server, you’ll need to install their [custom maps](apply-openspy-patches.md#reclamation-map-pack). **\[**[**?**](#user-content-fn-3)[^3]**]**
-{% endcolumn %}
-{% endcolumns %}
+{% step %}
+You should now see a list of public servers. Double-click one to jon and play.
+{% endstep %}
+{% endstepper %}
 
 ## Joining a Private WAN Server
 
 A private WAN server is a game server that doesn’t show up in the online server browser, but you can still access it over the internet if you have its public IP address.
 
-1. Click <mark style="color:blue;">MULTIPLAY</mark>.
-2. Click <mark style="color:blue;">ONLINE</mark>.
-3. In the <mark style="color:blue;">ADVANCED</mark> tab, click <mark style="color:blue;">CONNECT TO IP</mark>.
-4. Enter the server's public IP address and adjust the [port number](#user-content-fn-4)[^4] if needed.
-5. Click <mark style="color:blue;">OK</mark> to connect.
+{% stepper %}
+{% step %}
+Click <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">ONLINE</mark>.
+{% endstep %}
 
-[^1]: If you don't, you'll see no multiplayer servers showing up in the list.
+{% step %}
+In the <mark style="color:blue;">ADVANCED</mark> tab, click <mark style="color:blue;">CONNECT TO IP</mark>.
+{% endstep %}
 
-[^2]: If you don’t, you’ll see a message saying “this server is running a different mod” and you won’t be able to join.
+{% step %}
+Enter the server's public IP address and adjust the [port number](#user-content-fn-4)[^4] if needed.
+{% endstep %}
 
-[^3]: If you don’t, you’ll see a message saying “this map contains customized content” and you won’t be able to join.
+{% step %}
+Click <mark style="color:blue;">OK</mark> to connect.
+{% endstep %}
+{% endstepper %}
+
+[^1]: If you don’t, you’ll see a message saying “this server is running a different mod” and you won’t be able to join.
+
+[^2]: If you don’t, you’ll see a message saying “this map contains customized content” and you won’t be able to join.
+
+[^3]: If you don't, you'll see no multiplayer servers showing up in the list.
 
 [^4]: 17567 is the default port.

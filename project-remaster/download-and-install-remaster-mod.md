@@ -96,8 +96,8 @@ If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark sty
 {% step %}
 Follow the on-screen instructions in the wizard to complete the installation.
 
-* <sub>When prompted with</sub> <sub></sub><sub><mark style="color:blue;">Please select the language that the game should run in<mark style="color:blue;"></sub><sub>, it’s best to choose</sub> <sub></sub><sub><mark style="color:blue;">English language (HD Fonts)<mark style="color:blue;"></sub><sub>.</sub>
-* <sub>Double-check the installation path — if the installer doesn’t find your game folder automatically, make sure to set it to the correct location.</sub>
+* When prompted with <mark style="color:blue;">Please select the language that the game should run in</mark>, it’s best to choose <mark style="color:blue;">English language (HD Fonts)</mark>.
+* Double-check the installation path — if the installer doesn’t find your game folder automatically, make sure to set it to the correct location.
 {% endstep %}
 
 {% step %}

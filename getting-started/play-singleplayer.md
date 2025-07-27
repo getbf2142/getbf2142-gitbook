@@ -32,15 +32,7 @@ Once your game is [OpenSpy-ready](apply-openspy-patches.md), the customization s
 
 {% stepper %}
 {% step %}
-Select <mark style="color:blue;">MULTIPLAY</mark>.
-{% endstep %}
-
-{% step %}
-Select <mark style="color:blue;">LOCAL</mark>.
-{% endstep %}
-
-{% step %}
-Select <mark style="color:blue;">CREATE</mark>.
+Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">LOCAL</mark> → <mark style="color:blue;">CREATE</mark>.
 {% endstep %}
 
 {% step %}
