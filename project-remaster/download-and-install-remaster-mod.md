@@ -28,7 +28,7 @@ For support and the latest updates, you can join their [Discord server](https://
 
 <details>
 
-<summary>What exactly does this mod offer?</summary>
+<summary><strong>What exactly does this mod offer?</strong></summary>
 
 * 4K resolution and 120Hz / 144Hz framerate support
 
