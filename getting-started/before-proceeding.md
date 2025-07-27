@@ -8,7 +8,7 @@ To get Battlefield 2142 up and running, simply follow tutorials **①** – **�
 
 ## Game installed?
 
-This will help you figure out if you can skip any tutorials in ① – ② or if you need to complete them both.
+This will help you decide whether you can skip either tutorial in ①–②, or if you need to complete both.
 
 <details>
 

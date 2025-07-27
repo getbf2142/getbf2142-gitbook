@@ -4,7 +4,7 @@ description: Where to download the mod? How to install the mod?
 
 # ① Install Remaster Mod
 
-In this tutorial, we’ll guide you through the steps to download and install the Remaster mod.
+For some players, the Remaster mod has become their new standard — many can’t imagine playing without it. In this tutorial, we’ll guide you through the steps to download and install the mod.
 
 {% columns %}
 {% column %}

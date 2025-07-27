@@ -12,7 +12,7 @@ We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV)
 
 <details>
 
-<summary>Why is it necessary to install this patch?</summary>
+<summary><strong>Why do we need v1.51 patch?</strong></summary>
 
 * [**DRM**](#user-content-fn-1)[^1] **is officially removed (No-CD Patch):** You no longer need the game disc to launch the game. For more info, see the [No-CD Patch](https://tweakguides.dmegaming.com/BF2142_4.html) section in Tweak Guide.
 
@@ -39,7 +39,7 @@ If you still need the disc to launch the game, that means you haven’t updated 
 
 <details>
 
-<summary>Can I skip installing this patch?</summary>
+<summary>Can I skip installing v1.51 patch?</summary>
 
 Yes, you can skip this tutorial if your game is already patched to v1.51. However, if you skip it when your game isn’t patched to v1.51, you won’t be able to play — the game will still require the disc to launch. That’s why we always emphasize how important this step is!
 

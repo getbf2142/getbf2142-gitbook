@@ -13,7 +13,7 @@ For a full-featured, production server, you’d want to use a [dedicated server 
 
 <details>
 
-<summary>A few things to keep in mind ...</summary>
+<summary>Just a couple of things to note ...</summary>
 
 * Port forwarding is only needed if you want your server to be accessible over the internet (WAN), and only the host needs to set it up.
 

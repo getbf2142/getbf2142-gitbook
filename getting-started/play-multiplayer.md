@@ -8,7 +8,7 @@ In this tutorial, we'll walk you through the steps to join a server.
 
 <details>
 
-<summary>A few things to keep in mind ...</summary>
+<summary>Just a couple of things to note ...</summary>
 
 * If you’re joining Reclamation servers or any _pure_ vanilla servers, make sure you’re using a vanilla BF2142 setup — don’t use any addons like Blood Patch or HUD-Fix that change files in `mods\bf2142`.
 

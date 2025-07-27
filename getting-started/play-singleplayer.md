@@ -4,7 +4,7 @@ description: How to play singleplayer? How to start a singleplayer game?
 
 # ⍟ Play Singleplayer
 
-In this tutorial, we’ll walk you through 2 different ways to enjoy singleplayer mode.
+In this tutorial, we’ll walk you through two different ways to enjoy singleplayer mode.
 
 ## Setting up a quick game in "SINGLEPLAY"&#x20;
 
