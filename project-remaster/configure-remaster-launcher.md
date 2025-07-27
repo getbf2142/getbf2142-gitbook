@@ -109,6 +109,7 @@ New to the mod or modding? We’ve got some manuals packed with helpful info, so
 
 * [Remaster Manual](further-readings.md)
 * [Tweak Guide](further-readings.md)
+* [Modding Wiki](https://classic-battlefield-modding.fandom.com/wiki/Classic_Battlefield_Modding_Wikia)
 
 Also, take a look at the addons and tweaks section in the sidebar navigation — you might find something that interests you!
 
