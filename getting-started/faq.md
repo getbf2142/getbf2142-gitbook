@@ -1,12 +1,12 @@
 ---
-description: This is where you find answers to some of the commonly asked questions.
+description: Frequently Asked Questions
 ---
 
 # ⍟ FAQ
 
-If you have questions that aren’t answered here, be sure to check out the [Reclamation FAQ page](https://battlefield2142.co/faq/) for more information.
+This is where you find answers to some of the commonly asked questions. If you have questions that aren’t answered here, be sure to check out the [Reclamation FAQ page](https://battlefield2142.co/faq/) for more information.
 
-## General
+### General
 
 <details>
 
@@ -16,7 +16,7 @@ When you use OpenSpy as your login service, you automatically get access to all 
 
 </details>
 
-## Troubleshoots
+### Troubleshoots
 
 <details>
 
@@ -60,7 +60,7 @@ You can also join the Reclamation's [Discord server](https://discord.com/invite/
 
 </details>
 
-## Addons / Tweaks
+### Addons / Tweaks
 
 <details>
 
