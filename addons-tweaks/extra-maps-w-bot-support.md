@@ -44,7 +44,7 @@ In this guide, I’ll show you where to find these custom maps and share some to
 {% endcolumn %}
 {% endcolumns %}
 
-## What we got from Vanilla BF2142 ...
+### What we got from Vanilla BF2142 ...
 
 You got just 5 maps with bot support for singleplayer and multiplayer.
 
@@ -64,7 +64,7 @@ You got just 5 maps with bot support for singleplayer and multiplayer.
 
 </details>
 
-## What you will get from Project Remaster ...
+### What you will get from Project Remaster ...
 
 You'll get a long list of maps with bot support for both singleplayer and multiplayer.
 
@@ -119,7 +119,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 Interested? Click [here](../project-remaster/download-and-install-remaster-mod.md) to download and install the Remaster Mod.
 
-## What you will get from BF2142 Hub ...
+### What you will get from BF2142 Hub ...
 
 From the many maps available in the Reclamation Map Pack, only a handful support bots.
 
@@ -177,7 +177,7 @@ You should have BF2142 Hub installed. If you don't, click [here](../getting-star
 
 Check out [this guide](../getting-started/apply-openspy-patches.md#installing-individual-maps) to learn how to install individual maps from the Reclamation Map Pack instead of downloading the entire pack.
 
-## What you will get from us ...
+### What you will get from us ...
 
 You’ll get a few maps from the Reclamation Map Pack that we’ve fixed or tweaked for a better experience. These maps are mostly custom maps or maps from another Battlefield series.
 

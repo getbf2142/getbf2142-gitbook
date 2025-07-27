@@ -4,7 +4,7 @@ In-game settings are pretty limited — singleplayer only lets you adjust rounds
 
 In this tutorial, we’ll cover how to make all these settings configurable for both singleplayer and multiplayer (LAN). There are several ways to do this, each with its own trade-offs. Just choose the method that works best for you and follow the steps.
 
-## Method 1
+### Method 1
 
 **Editing ServerSettings.con in Profiles/Default**
 
@@ -14,9 +14,23 @@ Any changes you make with this method will apply to all mods.
 
 Whatever you set in `ServerSettings.con` will override any in-game adjustments. For example, if you set the ticket ratio to 100 in the .con file but use the in-game slider to set it to 300, the game or server will still use the value from the .con file.
 
-1. Go into your `Documents/Battlefield 2142/Profiles/Default` folder.
-2. Open `ServerSettings.con` with a text editor.
-3. Edit your game settings as needed.
+{% stepper %}
+{% step %}
+Go into your `Documents/Battlefield 2142/Profiles/Default` folder.
+{% endstep %}
+
+{% step %}
+Open `ServerSettings.con` with a text editor.
+{% endstep %}
+
+{% step %}
+Edit your game settings as needed.
+{% endstep %}
+{% endstepper %}
+
+1.
+2.
+3.
 4. Save the changes.
 5. Now, here's the most important part...
    1. Right-click on the `ServerSettings.con` file and select <mark style="color:blue;">Properties</mark>.
@@ -24,7 +38,7 @@ Whatever you set in `ServerSettings.con` will override any in-game adjustments. 
 
 You might wonder why we need to set the .con file to read-only instead of just editing it and leaving it as is. The reason is that BF2142 can be pretty buggy when reading server settings — if you don’t make the file read-only, the game will often overwrite your changes every time you start, and your edits won’t stick. \[[Reference](https://classic-battlefield-modding.fandom.com/wiki/Changing_Ticket_Counts)]
 
-## Method 2
+### Method 2
 
 **Editing GameLogicInit.con in mods/\<MOD>**
 
@@ -41,7 +55,7 @@ This is my preferred method: just add the settings you want to override to `Game
 
 If you don’t need certain settings anymore, just add `rem` at the start of the line to comment it out. For multi-line comments, use `beginrem` and `endrem` to enclose the section you want to disable.
 
-## List of Server Settings
+### List of Server Settings
 
 <details>
 

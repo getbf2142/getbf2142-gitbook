@@ -38,7 +38,7 @@ Just a few things to note ...
 Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
 
-### Installation
+### Procedures
 
 {% stepper %}
 {% step %}
@@ -58,7 +58,7 @@ Drag and drop the `python` folder from the `.zip` file into the root directory o
 {% endstep %}
 {% endstepper %}
 
-### Acknowledgement
+### Acknowledgements
 
 Special thanks to:
 

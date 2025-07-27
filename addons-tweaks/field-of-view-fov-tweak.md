@@ -32,6 +32,7 @@ ObjectTemplate.insideFOV 1.1
 * According to illicitSoul on ModDB, a value of `1.1` gives you about 60-65 FOV, while `1.6` is roughly 90-95 FOV. So, a good starting point is by changing `1.1` to `1.5`.
 
 3. Save your changes.
+4. If you’re unable to save your changes, try dragging the `.zip` file to your Desktop, make your edits there, and then drag it back when you’re done.
 
 ## Special thanks to ...
 
