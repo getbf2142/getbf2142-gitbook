@@ -14,7 +14,7 @@ Many BF2142 players want to play with more bots — 16 just isn’t enough for m
 
 <summary>If you have Remaster mod installed ...</summary>
 
-
+In the launcher, head to the <mark style="color:blue;">Settings</mark> tab, adjust the <mark style="color:blue;">Bot-Settings</mark> as needed, and then click <mark style="color:blue;">Apply</mark>. _(You don't have to follow any steps below.)_
 
 </details>
 

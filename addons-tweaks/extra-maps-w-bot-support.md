@@ -1,8 +1,8 @@
 # Extra Maps w/ Bot Support
 
-If you’re a Battlefield fan who loves playing with bots, you’ve probably noticed that the standard map selection can get old fast. A lot of us wish there were more vanilla maps with bot support — or even the chance to play classic BF2 or 1942 maps in BF2142. Maybe you’re looking for maps loaded with vehicles, or ones designed just for epic walker or tank battles.
+If you’re a Battlefield fan who loves playing with bots, you’ve probably noticed that the standard map selection can get old fast. A lot of us wish there were more vanilla maps with bot support — or even the chance to play classic BF2 or 1942 maps in BF2142.
 
-In this guide, I’ll show you where to find these custom maps and share some top recommendations to help you build the ultimate collection.
+Maybe you’re looking for maps loaded with vehicles, or ones designed just for epic walker or tank battles. In this guide, I’ll show you where to find these custom maps and share some top recommendations to help you build the ultimate collection.
 
 <details>
 
