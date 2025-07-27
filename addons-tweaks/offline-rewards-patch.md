@@ -40,8 +40,10 @@ Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this wa
 
 #### Downloads
 
+**offline\_rewards.zip (Google Drive, 42KB)**
+
 {% embed url="https://drive.google.com/file/d/16WwI7T8NAv3oJaNS4BysAfJ2Uev2ugrd/view?usp=sharing" %}
-**offline\_rewards.zip (Google Drive, 42KB) -** Source: [GetBF2142](https://docs.getbf2142.net/)
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
 
 #### Procedures

@@ -14,6 +14,14 @@ Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142
 {% endcolumn %}
 {% endcolumns %}
 
+## Let's download it !
+
+**BF2142\_Widescreen\_Hudfix.zip (Google Drive, 9 KB)**
+
+{% embed url="https://drive.google.com/file/d/1dQUtpF37JYJhgEwCeqZ2Nqxd48dGNn8j/view?usp=drive_link" %}
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
+{% endembed %}
+
 ## Let's install it !
 
 <details>
@@ -37,13 +45,13 @@ If you ever want to uninstall, simply uncheck those two options. Then, head over
 
 <summary>If you don't have Remaster mod installed ...<br><em>(Hudfix for Vanilla BF2142, or mods besides Remaster mod)</em></summary>
 
-## Before we start ...
+#### Before we start ...
 
 * Do you know where your game directory is? It’s the folder where `BF2142.exe` and `mods` are located. By default, this is usually: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
 * You’ll be editing files in `mods\<MOD>`, so it’s a good idea to make a backup of the target files first — just add a suffix like `_bak` or `_o` to the filename of the clone. \[Why?[^1]]
 * If you want this change to affect vanilla BF2142, make your edits in the `mods\bf2142` folder. Otherwise, edit the files in the `mods\<MOD>` folder for your chosen mod.
 
-## Here we go ...
+#### Here we go ...
 
 1. Download `BF2142_Widescreen_Hudfix.zip` from the link above.
 2. Extract the two files inside: `Menu_server_hudfix.zip` and `Shaders_client_hudfix.zip`.

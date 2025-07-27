@@ -25,10 +25,12 @@ A few things to note:
 * ReShade will apply to all mods, including vanilla 2142.
 * ReShade can be easily uninstalled by just deleting the files you added.
 
-## Downloads
+## Let's download it !
+
+**BF2142\_Reshade\_PRv14 (Google Drive, 4.2 MB)**
 
 {% embed url="https://drive.google.com/file/d/1McXt77aT1TUCl72h9LOy3zSMRbR97fEv" %}
-BF2142\_Reshade\_PRv14 (Google Drive, 4.2 MB) - Source: [GetBF2142](https://docs.getbf2142.net/)
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
 
 ## Let's install it !
@@ -62,20 +64,49 @@ To uninstall, just delete the files you added.
 
 ## Let’s try it out in-game !
 
-1. Launch the game.
-2. As soon as you reach the intro or login screen, you’ll notice the visual effect right away.
-3. Press <mark style="color:blue;">Shift + F2</mark> to open ReShade in-game tool. This button lets you toggle the tool on or off.
-4. On the <mark style="color:blue;">Home</mark> tab, check if the preset has loaded — you should see shaders like Levels.fx and Vignette.fx listed.
-5. If the page is empty, the shaders are not loaded yet. You should:
-   1. Go to the <mark style="color:blue;">Settings</mark> tab and enter the correct paths:
-      1. Effect search path: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\reshade-shaders\Shaders` (or wherever your setup is)
-      2. Texture search path: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\reshade-shaders\Textures` (or wherever your setup is)
-   2. Then return to the <mark style="color:blue;">Home</mark> tab and click <mark style="color:blue;">Reload</mark>. The preset should load properly now.
-   3. Also, in the <mark style="color:blue;">Home</mark> tab, check that the preset path in the dropdown menu points to the correct location: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\DefaultPreset.ini` (or wherever your setup is).
-6. By default, you can toggle the Reshade effect with the <mark style="color:blue;">Scroll Lock</mark> key, but you can change this key bind using the in-game tool. I would recommend setting it to <mark style="color:blue;">Shift + F1</mark>.
-7. If you want to adjust the shaders, just go to the <mark style="color:blue;">Settings</mark> tab and enable <mark style="color:blue;">Configuration Mode</mark>. Then, return to the <mark style="color:blue;">Home</mark> tab to tweak the parameters however you like.
-8. You can create a new preset by clicking the <mark style="color:blue;">+</mark> button next to the dropdown menu in the <mark style="color:blue;">Home</mark> tab. There are two presets \[?[^1]] — `DefaultPreset` and `DefaultPreset2` — that you can select from the dropdown.
-9. If you notice any graphical glitches, try turning off the LUT on certain maps.
+{% stepper %}
+{% step %}
+Launch the game.
+{% endstep %}
+
+{% step %}
+As soon as you reach the intro or login screen, you’ll notice the visual effect right away.
+{% endstep %}
+
+{% step %}
+Press <mark style="color:blue;">Shift + F2</mark> to open ReShade in-game tool. This button lets you toggle the tool on or off.
+{% endstep %}
+
+{% step %}
+On the <mark style="color:blue;">Home</mark> tab, check if the preset has loaded — you should see shaders like Levels.fx and Vignette.fx listed.
+{% endstep %}
+
+{% step %}
+If the page is empty, the shaders are not loaded yet. You should:
+
+1. Go to the <mark style="color:blue;">Settings</mark> tab and enter the correct paths:
+   1. Effect search path: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\reshade-shaders\Shaders` (or wherever your setup is)
+   2. Texture search path: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\reshade-shaders\Textures` (or wherever your setup is)
+2. Then return to the <mark style="color:blue;">Home</mark> tab and click <mark style="color:blue;">Reload</mark>. The preset should load properly now.
+3. Also, in the <mark style="color:blue;">Home</mark> tab, check that the preset path in the dropdown menu points to the correct location: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\DefaultPreset.ini` (or wherever your setup is).
+{% endstep %}
+
+{% step %}
+By default, you can toggle the Reshade effect with the <mark style="color:blue;">Scroll Lock</mark> key, but you can change this key bind using the in-game tool. I would recommend setting it to <mark style="color:blue;">Shift + F1</mark>.
+{% endstep %}
+
+{% step %}
+If you want to adjust the shaders, just go to the <mark style="color:blue;">Settings</mark> tab and enable <mark style="color:blue;">Configuration Mode</mark>. Then, return to the <mark style="color:blue;">Home</mark> tab to tweak the parameters however you like.
+{% endstep %}
+
+{% step %}
+You can create a new preset by clicking the <mark style="color:blue;">+</mark> button next to the dropdown menu in the <mark style="color:blue;">Home</mark> tab. There are two presets \[?[^1]] — `DefaultPreset` and `DefaultPreset2` — that you can select from the dropdown.
+{% endstep %}
+
+{% step %}
+If you notice any graphical glitches, try turning off the LUT on certain maps.
+{% endstep %}
+{% endstepper %}
 
 ## Special thanks to ...
 
