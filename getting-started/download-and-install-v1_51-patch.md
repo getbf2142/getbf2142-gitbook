@@ -6,10 +6,6 @@ description: Where to download the patch? How to install the Patch?
 
 In this tutorial, we’ll walk you through the steps to update the game to the latest version.
 
-{% hint style="success" %}
-We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](../others/contact-us.md) to receive support.
-{% endhint %}
-
 <details>
 
 <summary><strong>Why do we need v1.51 patch?</strong></summary>

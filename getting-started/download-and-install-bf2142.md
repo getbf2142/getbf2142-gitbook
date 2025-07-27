@@ -6,10 +6,6 @@ description: Where to download the game? How to install the game?
 
 In this tutorial, we’ll guide you through various online resources for downloading the game and show you the proper steps for installation.
 
-{% hint style="success" %}
-We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](../others/contact-us.md) to receive support.
-{% endhint %}
-
 <details>
 
 <summary>Can my PC handle the game?</summary>
