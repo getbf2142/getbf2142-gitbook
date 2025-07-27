@@ -6,27 +6,28 @@ Maybe you’re looking for maps loaded with vehicles, or ones designed just for 
 
 <details>
 
-<summary>My top picks for the best BF2142 map addons</summary>
+<summary>My top picks for the best map addons with bot support</summary>
 
-**This is just my personal take...**
+**This is just my personal take ...**
 
 * `Belgrade` offers street fighting that isn’t too intense, with plenty of open areas.
+* `Suez Canal` is a sniper’s dream, with a linear layout that really suits long-range play.
 * `Fall of Berlin` delivers classic street battles in Berlin with a great atmosphere.
 * `Camp Gibraltar` is all about close-quarters combat — perfect for shotgun and assault fans.
 * `Bridge at Remagen` is my pick for the best snow map for street fighting.
 * `Breakthrough at Remagen` is ideal for sniping, with some medium-sized open spaces in a snowy setting.
 * `Strike at Karkand` brings that BF2 nostalgic, linear Middle Eastern street fighting vibe.
+* `Tunis Harbor` brings the unique futuristic street fighting back to a desert port.
 * `Desert Storm` feels a lot like BF1’s Sinai Desert — an open map with hills, perfect for tank and walker battles, and a paradise for engineers.
 
 - `Victory Village` is a European town map focused on street fighting.
 - `Street` is another linear Middle Eastern map, great for street battles.
-- `Suez Canal` is a sniper’s dream, with a linear layout that really suits long-range play.
 
-**How to get the maps?**
+**How to get these maps ?**
 
-* You can get Belgrade, Fall of Berlin, and Camp Gibraltar through either the [Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) or [BF2142 Hub](../getting-started/apply-openspy-patches.md).
-* To access Bridge at Remagen, Breakthrough at Remagen, and Strike at Karkand, you’ll need the [Remaster Mod](../project-remaster/download-and-install-remaster-mod.md).
-* For our improved versions of Desert Storm, Victory Village, and Street — with fixes for broken bot support — you can download them [here](extra-maps-w-bot-support.md#what-you-will-get-from-us).
+* You can get the upgraded versions of `Belgrade`, `Suez Canal`, `Fall of Berlin`, and `Camp Gibraltar` through either the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod or [BF2142 Hub](../getting-started/download-and-install-bf2142-hub.md).
+* To access `Bridge at Remagen`, `Breakthrough at Remagen`,`Strike at Karkand`, and `Tunis Harbor`, you’ll need the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod.
+* For our improved versions of `Desert Storm`, `Victory Village`, and `Street` — with fixes for broken bot support — you can download them [here](extra-maps-w-bot-support.md#what-you-will-get-from-us).
 
 </details>
 
