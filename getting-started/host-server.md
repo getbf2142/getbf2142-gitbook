@@ -4,9 +4,7 @@ description: How to host a server? How to configure server settings?
 
 # ⍟ Host Server
 
-In this tutorial, you’ll learn how to host a simple server directly from the game. If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
-
-While this method is quick and easy, there are a few limitations:
+In this tutorial, you’ll learn how to host a simple server directly from the game. While this method is quick and easy, there are a few limitations:
 
 * You’ll have fewer game settings to customize. **\[**[**?**](#user-content-fn-1)[^1]**]**
 * The person hosting the server must also be playing on it.
