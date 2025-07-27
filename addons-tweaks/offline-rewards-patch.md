@@ -1,16 +1,10 @@
----
-description: >-
-  This tutorial will guide you through all the necessary steps to apply the
-  offline rewards patch.
----
-
 # Offline Rewards Patch
 
 This patch emulates the ranked server rewards system — pins, ribbons, badges, and medals — in your single-player or LAN co-op games. Keep in mind, though, it’s just a simulation: the rewards only last for the current round and will reset once the game ends.
 
 Still, it’s a great quality-of-life improvement that makes bot grinding much more fun. Imagine earning a bunch of medals in one game — it’s pretty satisfying!
 
-## What has been changed ?
+### What has been changed ?
 
 Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this way, since many rewards require things like _150 total hours played_ or _300 EU team wi&#x6E;_&#x73; — goals that aren’t possible in a single round. To fix this, we’ve revamped the rewards system and requirements to better fit 15–30 minute co-op games:
 
@@ -30,13 +24,13 @@ Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this wa
 {% endcolumn %}
 {% endcolumns %}
 
-## Just a few things to note ...
+Just a few things to note ...
 
 * A few rewards may not work perfectly due to new weapon names in Project Remaster.
 * To make your games last longer, adjust the ticket ratio when creating a LAN game. \[How?[^1]]
 * This patch applies to all mods, including vanilla 2142.
 
-## Let's download it ...
+### Downloads
 
 **offline\_rewards.zip (Google Drive, 42 KB)**
 
@@ -44,14 +38,29 @@ Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this wa
 Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
 
-## Let's install it ...
+### Installation
 
-1. Download `offline_rewards.zip` from [Downloads](offline-rewards-patch.md#downloads).
-2. In your game directory (usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`), find the folder named `python` and rename it to something like `python_o` or `python_backup` to create a backup.
-3. Drag and drop the `python` folder from the .zip file into the root directory of your game folder.
-4. <mark style="color:blue;">Overwrite</mark> or <mark style="color:blue;">Replace All</mark> if necessary.
+{% stepper %}
+{% step %}
+Download `offline_rewards.zip` from [Downloads](offline-rewards-patch.md#downloads).
+{% endstep %}
 
-## Special thanks to ...
+{% step %}
+In your game directory (usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`), find the folder named `python` and rename it to something like `python_o` or `python_backup` to create a backup.
+{% endstep %}
+
+{% step %}
+Drag and drop the `python` folder from the `.zip` file into the root directory of your game folder.
+{% endstep %}
+
+{% step %}
+<mark style="color:blue;">Overwrite</mark> or <mark style="color:blue;">Replace All</mark> if necessary.
+{% endstep %}
+{% endstepper %}
+
+### Acknowledgement
+
+Special thanks to:
 
 * BF2142 Unlocker for providing the files (if I'm not mistaken)
 
