@@ -6,11 +6,11 @@ description: How to configure the launcher? How to start the game with the launc
 
 This tutorial will walk you through how to configure the launcher and use it to launch the game.
 
+## Procedures
+
 {% hint style="warning" %}
 Before configuring the launcher, make sure you’ve started the game at least once. **\[**[**?**](#user-content-fn-1)[^1]**]**
 {% endhint %}
-
-## Procedures
 
 {% stepper %}
 {% step %}

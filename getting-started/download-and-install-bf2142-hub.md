@@ -6,9 +6,27 @@ description: Where to download BF2142 Hub? How to install BF2142 Hub?
 
 In this tutorial, we'll walk you through the steps to download and install BF2142 Hub.
 
-BF2142 Hub is a convenient tool that lets you easily install OpenSpy patches with just a click. You’ll need these custom patches to get past the login screen, see servers in the server browser, and play online. This is all related to master servers, which we’ll cover in more detail in the [next tutorial](apply-openspy-patches.md).
+<details>
 
-The tool is developed and maintained by the [Reclamation Team](https://battlefield2142.co/). For the latest updates and support, feel free to join their [Discord server](https://discord.com/invite/MEwBW9U).
+<summary>What is BF2142 Hub?</summary>
+
+BF2142 Hub is a convenient tool that lets you easily install OpenSpy patches with just a click. You’ll need these custom patches to get past the login screen, see servers in the server browser, and play online. This is all related to master servers, which we’ll cover in more detail in the [next tutorial](apply-openspy-patches.md). The tool is developed and maintained by the [Reclamation Team](https://battlefield2142.co/).&#x20;
+
+For the latest updates and support, feel free to join their [Discord server](https://discord.com/invite/MEwBW9U).
+
+</details>
+
+<details>
+
+<summary>Can I install OpenSpy patches without having to install BF2142 Hub?</summary>
+
+Great question!&#x20;
+
+Technically, you can install OpenSpy patches without using BF2142 Hub, but it’s not recommended. That’s because OpenSpy servers might change their IP addresses in the future, and if that happens, you won’t be able to connect.
+
+BF2142 Hub always fetches the latest patch, so if anything changes, you can easily stay up to date and keep playing without issues.
+
+</details>
 
 ## Procedures
 

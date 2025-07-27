@@ -4,7 +4,7 @@ description: Where to download the mod? How to install the mod?
 
 # ① Install Remaster Mod
 
-In this tutorial, we’ll guide you through the steps to install the Remaster Mod.
+In this tutorial, we’ll guide you through the steps to download and install the Remaster mod.
 
 {% columns %}
 {% column %}
@@ -20,15 +20,15 @@ In this tutorial, we’ll guide you through the steps to install the Remaster Mo
 
 <summary>What is Project Remaster?</summary>
 
-Project Remaster is a high-quality enhancement mod for Battlefield 2142, designed to give this 15-year-old game a modern feel. It brings in high-resolution textures, realistic animations, and new weapons, all integrated into the game engine for a refreshed experience.
+Project Remaster, or the Remaster mod, is a high-quality enhancement mod for Battlefield 2142, designed to give this 15-year-old game a modern feel. It brings in high-resolution textures, realistic animations, and new weapons, all integrated into the game engine for a refreshed experience. Project Remaster is developed and maintained by the [Project Remaster Team](https://prmp.boards.net/).
 
-Project Remaster is developed and maintained by the [Project Remaster Team](https://prmp.boards.net/). For support and the latest updates, you can join their [Discord server](https://discord.com/invite/nVdDkgA).
+For support and the latest updates, you can join their [Discord server](https://discord.com/invite/nVdDkgA).
 
 </details>
 
 <details>
 
-<summary>What exactly does the mod offer?</summary>
+<summary>What exactly does this mod offer?</summary>
 
 * 4K resolution and 120Hz / 144Hz framerate support
 
@@ -74,7 +74,7 @@ Project Remaster is developed and maintained by the [Project Remaster Team](http
 
 <details>
 
-<summary>Are there any servers that run the mod?</summary>
+<summary>Are there any servers that run this mod?</summary>
 
 At the moment, there aren’t any official servers for Remaster, as the mod is mainly intended for offline play. However, rest assured — the mod fully supports multiplayer and can be played with friends over LAN or WAN. The Project Remaster Team does plan to host some multiplayer events after v16 full release. So stay tuned!
 
@@ -134,7 +134,7 @@ Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: 
 {% endembed %}
 
 **\[BETA] Project\_Remaster\_v16\_2025-07-19.rar (Google Drive, 3.2 GB)**\
-<sup>Ask nicely in the discord server to join BETA testing ...</sup>
+<sup>Ask nicely in the Discord server to join the v16 testing ...</sup>
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
 Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]

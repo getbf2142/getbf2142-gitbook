@@ -16,7 +16,7 @@ OpenSpy is an open-source replacement for GameSpy, designed to provide full comp
 
 <details>
 
-<summary>What is a Master Server?</summary>
+<summary>What is a master server?</summary>
 
 A master server manages your login credentials and soldier data, broadcasts available game servers to your server browser, and receives regular updates from game servers about player progress. OpenSpy is a great example of a Master Server that provides online services for games like Battlefield 2142.
 
@@ -32,7 +32,7 @@ After [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in 2014
 
 <details>
 
-<summary>Are there any other Master Servers besides OpenSpy?</summary>
+<summary>Are there any other master servers besides OpenSpy?</summary>
 
 Yes, there are a few, like NovGames, PlayBF2142, and MAGMA. However, OpenSpy — especially with the Reclamation community — offers the most reliable and active service. You can easily switch between OpenSpy and NovGames using BF2142 Hub.
 
