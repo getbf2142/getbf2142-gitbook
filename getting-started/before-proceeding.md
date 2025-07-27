@@ -31,7 +31,17 @@ You should follow this step: [② Install v1.51 Patch](download-and-install-v1_5
 
 <details>
 
-<summary>Yes, I already have the Deluxe Edition installed.<br><em>(OR I already have the game installed via Origin)</em></summary>
+<summary>Yes, I already have the Deluxe Edition installed.</summary>
+
+You can skip these steps: [① Download & Install BF2142](download-and-install-bf2142.md), [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
+
+</details>
+
+<details>
+
+<summary>Yes, I already have the game installed via Origin.</summary>
+
+That is equivalent to having the Deluxe Edition installed.
 
 You can skip these steps: [① Download & Install BF2142](download-and-install-bf2142.md), [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
 

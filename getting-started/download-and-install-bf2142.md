@@ -118,8 +118,12 @@ Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md
 {% tab title="Standard Edition v1.01" %}
 **Battlefield 2142 Standard Edition v1.01**
 
-{% hint style="info" %}
+{% hint style="warning" %}
 As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
+{% endhint %}
+
+{% hint style="danger" %}
+By proceeding to download the game, you agree that the resources provided on this page are simply a collection of Google search results, and that choosing to download the game using these resources is entirely your own decision.
 {% endhint %}
 
 The setup provided here is an ISO image of the Standard Edition retail DVD. It contains an early version of the game (v1.01). To ensure your game is up to date, you’ll need to follow the [next tutorial](download-and-install-v1_51-patch.md) right after completing these steps to patch it to the latest version (v1.51).
@@ -153,8 +157,12 @@ Source: [Old Games Download](https://oldgamesdownload.com/) \[Last Verified: Jul
 **Battlefield 2142 Deluxe Edition v1.51**\
 &#xNAN;_&#x4E;ovgames Alliance Edition (2016) - Russian Community_
 
-{% hint style="info" %}
+{% hint style="warning" %}
 As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
+{% endhint %}
+
+{% hint style="danger" %}
+By proceeding to download the game, you agree that the resources provided on this page are simply a collection of Google search results, and that choosing to download the game using these resources is entirely your own decision.
 {% endhint %}
 
 The setup in this section was prepared by Novgames for the Russian-speaking community. This installer will automatically[^15] set the game to Russian and update it to the latest version.
@@ -188,9 +196,11 @@ Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[Last Verifie
 {% endtab %}
 
 {% tab title="Internet Archive" %}
-**Internet Archive**
+**Internet Archive - Battlefield 2142**
 
 If you’d like to find the download sources yourself, here’s a good place to start.
+
+**Query Results**
 
 {% embed url="https://archive.org/search?query=battlefield+2142" %}
 Source: [Internet Archive](https://archive.org/) \[Last Verified: July 2025]
@@ -198,7 +208,7 @@ Source: [Internet Archive](https://archive.org/) \[Last Verified: July 2025]
 {% endtab %}
 
 {% tab title="Retail DVD" %}
-**Retail DVD**
+**Battlefield 2142 Retail DVD**
 
 The only way to obtain the game “legitimately” these days is by buying a _second-hand_ retail DVD. Keep in mind, though, that used copies often come with product keys that are already activated or expired. While this might seem to defeat the purpose of spending money, nostalgia is a great reason to support a classic like this.
 
