@@ -1,5 +1,5 @@
 ---
-description: Where to download v1.51 Patch? How to install v1.51 Patch?
+description: Where to download the patch? How to install the Patch?
 ---
 
 # ② Install v1.51 Patch

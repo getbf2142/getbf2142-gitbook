@@ -1,7 +1,5 @@
 ---
-description: >-
-  How to configure Remaster Launcher? How to use Remaster Launcher to launch the
-  game?
+description: How to configure the launcher? How to start the game with the launcher?
 ---
 
 # ② Configure Remaster Launcher

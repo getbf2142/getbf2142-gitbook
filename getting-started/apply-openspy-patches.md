@@ -1,5 +1,5 @@
 ---
-description: How to install Openspy patches? How to install Reclamation maps?
+description: How to install the patches? How to install Reclamation maps?
 ---
 
 # ④ Install OpenSpy Patches

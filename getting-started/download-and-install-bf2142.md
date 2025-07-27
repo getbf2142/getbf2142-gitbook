@@ -1,5 +1,5 @@
 ---
-description: Where to download BF2142? How to install BF2142?
+description: Where to download the game? How to install the game?
 ---
 
 # ① Download & Install BF2142

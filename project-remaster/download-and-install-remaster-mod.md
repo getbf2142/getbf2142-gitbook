@@ -1,5 +1,5 @@
 ---
-description: Where to download Remaster mod? How to install Remaster mod?
+description: Where to download the mod? How to install the mod?
 ---
 
 # ① Install Remaster Mod
