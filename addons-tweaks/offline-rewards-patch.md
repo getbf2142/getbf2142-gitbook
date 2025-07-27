@@ -10,7 +10,7 @@ This patch emulates the ranked server rewards system — pins, ribbons, badges, 
 
 Still, it’s a great quality-of-life improvement that makes bot grinding much more fun. Imagine earning a bunch of medals in one game — it’s pretty satisfying!
 
-## What has been changed?
+## What has been changed ?
 
 Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this way, since many rewards require things like _150 total hours played_ or _300 EU team wi&#x6E;_&#x73; — goals that aren’t possible in a single round. To fix this, we’ve revamped the rewards system and requirements to better fit 15–30 minute co-op games:
 
@@ -30,23 +30,21 @@ Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this wa
 {% endcolumn %}
 {% endcolumns %}
 
-## Something to note ...
+## Just a few things to note ...
 
 * A few rewards may not work perfectly due to new weapon names in Project Remaster.
 * To make your games last longer, adjust the ticket ratio when creating a LAN game. \[How?[^1]]
 * This patch applies to all mods, including vanilla 2142.
 
-## Let's install it !
+## Let's download it ...
 
-#### Downloads
-
-**offline\_rewards.zip (Google Drive, 42KB)**
+**offline\_rewards.zip (Google Drive, 42 KB)**
 
 {% embed url="https://drive.google.com/file/d/16WwI7T8NAv3oJaNS4BysAfJ2Uev2ugrd/view?usp=sharing" %}
 Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
 
-#### Procedures
+## Let's install it ...
 
 1. Download `offline_rewards.zip` from [Downloads](offline-rewards-patch.md#downloads).
 2. In your game directory (usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`), find the folder named `python` and rename it to something like `python_o` or `python_backup` to create a backup.
