@@ -1,3 +1,7 @@
+---
+description: Where to download Remaster mod? How to install Remaster mod?
+---
+
 # ① Install Remaster Mod
 
 In this tutorial, we’ll guide you through the steps to install the Remaster Mod.
@@ -72,31 +76,62 @@ At the moment, there aren’t any official servers for Remaster, as the mod is m
 If you already have an older version of the mod installed, make sure to uninstall it first and delete any leftover files in the mod folder before installing the newer version.
 {% endhint %}
 
-1. Download <mark style="color:blue;">project\_remaster\_v14\_setup\_BETA13.exe</mark> from [Downloads](download-and-install-remaster-mod.md#downloads).
-2. Double-click the file to start the installer — it might take a moment for anything to appear. \[Why?[^1]]
-3. When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-2)[^2]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
-4. If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then \[...[^3]]
-5. Follow the on-screen instructions in the wizard to complete the installation.
-   1. When prompted with <mark style="color:blue;">Please select the language that the game should run in</mark>, it’s best to choose <mark style="color:blue;">English language (HD Fonts)</mark>.
-   2. Double-check the installation path — if the installer doesn’t find your game folder automatically, make sure to set it to the correct location.
-6. Next, [configure Remaster Launcher](configure-remaster-launcher.md).
+{% stepper %}
+{% step %}
+Download <mark style="color:blue;">project\_remaster\_v14\_setup\_BETA13.exe</mark> from [Downloads](download-and-install-remaster-mod.md#downloads).
+{% endstep %}
+
+{% step %}
+Double-click the file to start the installer — it might take a moment for anything to appear. **\[**[**?**](#user-content-fn-1)[^1]**]**
+{% endstep %}
+
+{% step %}
+When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-2)[^2]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+{% endstep %}
+
+{% step %}
+If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-3)[^3]**]**
+{% endstep %}
+
+{% step %}
+Follow the on-screen instructions in the wizard to complete the installation.
+
+* <sub>When prompted with</sub> <sub></sub><sub><mark style="color:blue;">Please select the language that the game should run in<mark style="color:blue;"></sub><sub>, it’s best to choose</sub> <sub></sub><sub><mark style="color:blue;">English language (HD Fonts)<mark style="color:blue;"></sub><sub>.</sub>
+* <sub>Double-check the installation path — if the installer doesn’t find your game folder automatically, make sure to set it to the correct location.</sub>
+{% endstep %}
+
+{% step %}
+Next, [configure Remaster Launcher](configure-remaster-launcher.md).
+{% endstep %}
+{% endstepper %}
 
 ## Downloads
 
 {% hint style="info" %}
-Download the version you’d like to use — we recommend going with v14 BETA13 or v16. For v16 BETA, ask in [Remaster Discord](https://discord.com/invite/nVdDkgA) nicely.
+Download the version you’d like to use — we recommend going with v14 BETA13 or v16.
 {% endhint %}
 
+**\[STABLE] project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**13**</mark>**.exe (Google Drive, 3.6 GB)**
+
 {% embed url="https://drive.google.com/file/d/1CqDNfcjALCEs1KEkJut2k2VTeGGUwx4Q/view?usp=share_link" %}
-**project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**13**</mark>**.exe (Google Drive, 3.6 GB) -** Source: [Project Remaster Discord](https://discord.gg/nVdDkgA)
+Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
 {% endembed %}
 
+**\[LATEST] project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**14**</mark>**.exe (Google Drive, 3.6 GB)**
+
 {% embed url="https://drive.google.com/file/d/11Lo-b3Hv9jMpoSYz0frVC4cgNiwpFS4Y" %}
-**project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**14**</mark>**.exe (Google Drive, 3.6 GB) -** Source: [Project Remaster Discord](https://discord.gg/nVdDkgA)
+Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
+{% endembed %}
+
+**\[BETA] Project\_Remaster\_v16\_2025-07-19.rar (Google Drive, 3.2 GB)**\
+<sup>Ask nicely in the discord server to join BETA testing ...</sup>
+
+{% embed url="https://discord.com/invite/nVdDkgA" %}
+Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
 {% endembed %}
 
 [^1]: The installer takes time to decompress files to prepare for the installation.
 
-[^2]: i.e., <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>
+[^2]: i.e., Do you want to allow this app from an unknown publisher to make changes to your device?
 
 [^3]: If you don’t see the <mark style="color:blue;">More Info</mark> option, right-click the installer and select <mark style="color:blue;">Properties</mark>. Check the <mark style="color:blue;">Unlock</mark> box, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. After that, try running the installer again starting from step 2.

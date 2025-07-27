@@ -83,6 +83,10 @@ If you want to unlock everything pemanently in BFHQ (i.e., public stats), just j
 Before patching your game, it’s a good idea to make backup copies of your `BF2142.exe` and `RendDX9.dll` files from your game folder. \[Why?[^3]]
 {% endhint %}
 
+{% hint style="danger" %}
+BF2142 Hub is a 64-bit application and won’t run on 32-bit Windows XP. If you’re using Windows XP, check out [this guide](https://battlefield2142.co/faq#notwin32) for alternative steps you can take.
+{% endhint %}
+
 {% stepper %}
 {% step %}
 Right-click <mark style="color:blue;">BF2142 Hub</mark> shortcut on your desktop and select <mark style="color:blue;">Properties</mark>.&#x20;
@@ -131,7 +135,7 @@ The Reclamation Community runs 2 multiplayer servers, both featuring their own m
 
 <summary>Is it mandatory to download the map pack?</summary>
 
-No, the steps below are optional and only needed if you want to play on Reclamation’s multiplayer servers.
+No, the pack only needed if you want to play on Reclamation servers.
 
 </details>
 
@@ -161,7 +165,7 @@ In the <mark style="color:blue;">Download</mark> tab, double-click on <mark styl
 {% step %}
 This will open your browser to the download link of the pack.
 
-Download `ReclamationMapPack.zip` (ModDB, 5.41 GB).
+Download `ReclamationMapPack.zip` (ModDB, 5.41 GB) or from [here](https://www.moddb.com/games/battlefield-2142/downloads/bf2142-reclamation-map-pack-march-21st-2025).
 {% endstep %}
 
 {% step %}
@@ -201,4 +205,4 @@ To uninstall a map, select it from the <mark style="color:blue;">Installed Maps<
 
 [^4]: Running as administrator helps prevent permission issues during patching.
 
-[^5]: i.e., <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>
+[^5]: i.e., Do you want to allow this app from an unknown publisher to make changes to your device?

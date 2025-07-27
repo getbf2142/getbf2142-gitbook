@@ -63,6 +63,20 @@ You should follow these steps:\
 
 </details>
 
+<details>
+
+<summary>I'm using Windows XP 32-bit.</summary>
+
+BF2142 Hub is a 64-bit application and won’t run on 32-bit operating systems. If you’re using Windows XP, it’s best to stick with Vanilla.
+
+You can skip these steps:\
+[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md), [④ Install OpenSpy Patches](apply-openspy-patches.md)&#x20;
+
+You should follow these steps:\
+[Install OpenSpy Patches Manually](https://battlefield2142.co/faq#notwin32) (for 32-bit OS) → [Install Reclamation Map Pack](apply-openspy-patches.md#reclamation-map-pack) → [⑤ Create Account](create-account.md)
+
+</details>
+
 ## You may wonder ...
 
 <details>

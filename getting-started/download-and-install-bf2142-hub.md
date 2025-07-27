@@ -12,6 +12,10 @@ The tool is developed and maintained by the [Reclamation Team](https://battlefie
 
 ## Procedures
 
+{% hint style="danger" %}
+BF2142 Hub is a 64-bit application and won’t run on 32-bit Windows XP. If you’re using Windows XP, check out [this guide](https://battlefield2142.co/faq#notwin32) for alternative steps you can take.
+{% endhint %}
+
 {% stepper %}
 {% step %}
 Download <mark style="color:blue;">BF2142\_Hub\_Setup.exe</mark> from [Downloads](download-and-install-bf2142-hub.md#downloads).
@@ -42,6 +46,6 @@ Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using BF2142 
 Source: [BF2142 Reclamation](https://battlefield2142.co/) \[Last Verified: July 2025]
 {% endembed %}
 
-[^1]: i.e., <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>
+[^1]: i.e., Do you want to allow this app from an unknown publisher to make changes to your device?
 
 [^2]: If you skip this step, you won’t be able to log in, since EA’s online services for this game have been shut down.

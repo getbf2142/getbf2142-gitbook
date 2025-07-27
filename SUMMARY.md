@@ -13,7 +13,7 @@
 * [⍟ Play Singleplayer](getting-started/play-singleplayer.md)
 * [⍟ Play Multiplayer](getting-started/play-multiplayer.md)
 * [⍟ Host Server](getting-started/host-server.md)
-* [FAQ](getting-started/faq.md)
+* [⍟ FAQ](getting-started/faq.md)
 
 ## Project Remaster
 

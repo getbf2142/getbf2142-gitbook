@@ -123,7 +123,7 @@ Source: [RhodN](https://www.moddb.com/members/grafix1) on [ModDB](https://www.mo
 
 [^2]: The installer takes time to decompress files to prepare for the installation.
 
-[^3]: i.e., <mark style="color:blue;">Do you want to allow this app from an unknown publisher to make changes to your device?</mark>
+[^3]: i.e., Do you want to allow this app from an unknown publisher to make changes to your device?
 
 [^4]: If you don’t see the <mark style="color:blue;">More Info</mark> option, right-click the installer and select <mark style="color:blue;">Properties</mark>. Check the <mark style="color:blue;">Unlock</mark> box, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. After that, try running the installer again starting from step 2.
 

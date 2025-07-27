@@ -1,4 +1,14 @@
-# FAQ
+---
+description: This is where you find answers to some of the commonly asked questions.
+---
+
+# ⍟ FAQ
+
+If you have questions that aren’t answered here, be sure to check out the [Reclamation FAQ page](https://battlefield2142.co/faq/) for more information.
+
+{% hint style="success" %}
+We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) or [contact us](../others/contact-us.md) to receive support.
+{% endhint %}
 
 <details>
 

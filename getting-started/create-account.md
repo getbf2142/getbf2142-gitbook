@@ -81,6 +81,8 @@ New to the game? We’ve got some manuals packed with helpful info, so it’s de
 * [Prima eGuide](https://archive.org/details/Battlefield_2142_Prima_Official_eGuide)
 * [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html)
 
+Also, take a look at the addons and tweaks section in the sidebar navigation — you might find something that interests you!
+
 [^1]: It may take a little time for the server to process your requests, since most master servers are based in Europe or America. As long as you get a response within 10 seconds, that’s perfectly normal.
 
 [^2]: If you keep getting stuck on <mark style="color:blue;">CONTACTING EA MASTER SERVER</mark>, try resetting the hub using the button in the <mark style="color:blue;">Help</mark> tab, then reinstall the OpenSpy patches.
