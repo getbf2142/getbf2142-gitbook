@@ -8,17 +8,17 @@ In this tutorial, we’ll walk you through the steps to update the game to the l
 
 <details>
 
-<summary><strong>Why do we need v1.51 patch?</strong></summary>
+<summary>Why do we need this patch?</summary>
 
-* [**DRM**](#user-content-fn-1)[^1] **is officially removed (No-CD Patch):** You no longer need the game disc to launch the game. For more info, see the [No-CD Patch](https://tweakguides.dmegaming.com/BF2142_4.html) section in Tweak Guide.
+* DRM[^1] is officially removed — you no longer need the game disc to launch the game. For more info, see the [No-CD Patch](https://tweakguides.dmegaming.com/BF2142_4.html) section in Tweak Guide.
 
-- **Widescreen support:** Enjoy a more immersive field of view and easier multitasking.
+- Enjoy a more immersive field of view and easier multitasking with widescreen support
 
-* **Northern Strike expansion included for free:** A final goodbye to the game as DICE moved on to Battlefield 3 and beyond.
+* Northern Strike expansion is now included for free. This marks a final farewell to the game, as DICE has moved on to Battlefield 3 and beyond.
 
-- **Access to all final features:** This patch unlocks the game’s last features, bug fixes, and extra content.
+- This patch unlocks the game’s final features, bug fixes, and extra content.
 
-* **Compatibility:** Most current master servers (like OpenSpy), game servers (such as Reclamation), and popular mods (like Project Remaster) require v1.51.
+* Most current master servers (like OpenSpy), game servers (such as Reclamation), and popular mods (like Project Remaster) require v1.51.
 
 </details>
 
@@ -35,7 +35,7 @@ If you still need the disc to launch the game, that means you haven’t updated 
 
 <details>
 
-<summary>Can I skip installing v1.51 patch?</summary>
+<summary>Can I skip installing this patch?</summary>
 
 Yes, you can skip this tutorial if your game is already patched to v1.51. However, if you skip it when your game isn’t patched to v1.51, you won’t be able to play — the game will still require the disc to launch. That’s why we always emphasize how important this step is!
 
@@ -115,7 +115,7 @@ Source: [RhodN](https://www.moddb.com/members/grafix1) on [ModDB](https://www.mo
 {% endtab %}
 {% endtabs %}
 
-[^1]: **DRM is an anti-piracy mechanism that requires players to launch their games with their game discs to verify their premium identity and play online.**
+[^1]: DRM is an anti-piracy mechanism that requires players to launch their games with their game discs to verify their premium identity and play online.
 
 [^2]: The installer takes time to decompress files to prepare for the installation.
 

@@ -24,7 +24,7 @@ A master server manages your login credentials and soldier data, broadcasts avai
 
 <details>
 
-<summary><strong>Why do we need OpenSpy patches?</strong></summary>
+<summary>Why do we need OpenSpy patches?</summary>
 
 After [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in 2014, the original online services for BF2142 stopped working. OpenSpy patches redirect the game to use the OpenSpy master server instead, letting you log in and play online again.
 
