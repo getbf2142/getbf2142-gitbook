@@ -4,7 +4,7 @@ description: How to create an online account? How to configure video and audio s
 
 # ⑤ Create Account
 
-In this tutorial, we’ll walk you through how to create an account and set up several in-game settings.
+In this tutorial, we’ll walk you through how to create an account and set up several in-game settings. If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
 
 ## Procedures
 
