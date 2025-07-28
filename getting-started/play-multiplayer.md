@@ -30,7 +30,7 @@ To join a Reclamation server, you’ll need to install their [custom maps](apply
 {% endcolumn %}
 {% endcolumns %}
 
-## Joining a LAN Server
+### Joining a LAN Server
 
 A local server is a game server that shows up in your local server browser and can be accessed by anyone on your LAN network.
 
@@ -77,7 +77,7 @@ Reference: [https://superuser.com/questions/610733/networking-games-cant-see-joi
 
 </details>
 
-## Joining a Public WAN Server
+### Joining a Public WAN Server
 
 A public server is a game server that shows up in the online server browser and can be accessed over the Internet.
 
@@ -97,7 +97,7 @@ You should now see a list of public servers. Double-click one to jon and play.
 {% endstep %}
 {% endstepper %}
 
-## Joining a Private WAN Server
+### Joining a Private WAN Server
 
 A private WAN server is a game server that doesn’t show up in the online server browser, but you can still access it over the internet if you have its public IP address.
 

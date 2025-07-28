@@ -25,7 +25,7 @@ For a full-featured, production server, you’d want to use a [dedicated server 
 
 <details>
 
-<summary>Port forwarding is not working for me !?</summary>
+<summary>Port forwarding isn't working for me !?</summary>
 
 If you set up port forwarding after your server is already running, you’ll need to restart the server for the changes to take effect.
 
@@ -35,7 +35,7 @@ Alternatively, you can host a LAN server over a VLAN[^2] so your friends can sti
 
 </details>
 
-## Hosting a LAN Server
+### Hosting a LAN Server
 
 A local server is a game server that shows up in your local server browser and can be accessed by anyone on your LAN network. This option is perfect for hosting a game night with family at home, or for playing with friends over the internet using a VLAN[^2].
 
@@ -55,7 +55,7 @@ While the server is launching (on the loading or briefing screen), you’ll see 
 {% endstep %}
 {% endstepper %}
 
-## Hosting a Private WAN Server
+### Hosting a Private WAN Server
 
 A private WAN server is a game server that doesn’t show up in the online server browser, but friends can still join if they know your public IP address. This is a great option for hosting a game night with friends, without needing any virtual LAN tools.
 
@@ -94,7 +94,7 @@ LAN players (like family at home) can join using your local IP address, while fr
 {% endstep %}
 {% endstepper %}
 
-## Hosting a Public WAN Server
+### Hosting a Public WAN Server
 
 A public server is a game server that appears in the online server browser and can be accessed by anyone on the Internet. Since your server will be visible to everyone, random players can join your game.
 

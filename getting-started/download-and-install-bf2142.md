@@ -8,7 +8,7 @@ In this tutorial, we’ll guide you through various online resources for downloa
 
 <details>
 
-<summary>Can my PC handle the game?</summary>
+<summary>Can my PC handle the game ?</summary>
 
 Most modern laptops or desktops are up to the task.&#x20;
 
@@ -29,7 +29,7 @@ Here are the minimum requirements::
 
 <details>
 
-<summary>Is there a Mac version of the game?</summary>
+<summary>Are there any Mac versions of the game ?</summary>
 
 Yes, there is technically a Mac version of the game, but we don’t offer any downloads for it here. If you’re eager to play BF2142 on a Mac, your best options are to run it in a Windows virtual machine or use Boot Camp to run Windows on your Mac.
 
@@ -37,7 +37,7 @@ If you’re set on finding a native Mac version, we wish you the best of luck wi
 
 </details>
 
-## Procedures
+### Procedures
 
 {% stepper %}
 {% step %}
@@ -94,11 +94,11 @@ Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md
 {% endstep %}
 {% endstepper %}
 
-## Downloads
+### Downloads
 
 <details>
 
-<summary>Something about the downloads ...</summary>
+<summary>Just a couple of things to note ...</summary>
 
 * If you’re new to the game, we recommend sticking with the _Standard Edition_, since our tutorials are designed specifically for that version.
 

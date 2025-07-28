@@ -8,7 +8,7 @@ In this tutorial, we’ll focus on getting your game working with OpenSpy. If yo
 
 <details>
 
-<summary>What is OpenSpy?</summary>
+<summary>What is OpenSpy ?</summary>
 
 OpenSpy is an open-source replacement for GameSpy, designed to provide full compatibility with GameSpy-supported games. The Reclamation community is the main BF2142 group using the OpenSpy master server.
 
@@ -16,7 +16,7 @@ OpenSpy is an open-source replacement for GameSpy, designed to provide full comp
 
 <details>
 
-<summary>What is a master server?</summary>
+<summary>What is a master server ?</summary>
 
 A master server manages your login credentials and soldier data, broadcasts available game servers to your server browser, and receives regular updates from game servers about player progress. OpenSpy is a great example of a Master Server that provides online services for games like Battlefield 2142.
 
@@ -24,7 +24,7 @@ A master server manages your login credentials and soldier data, broadcasts avai
 
 <details>
 
-<summary>Why do we need OpenSpy patches?</summary>
+<summary>Why do we need OpenSpy patches ?</summary>
 
 After [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in 2014, the original online services for BF2142 stopped working. OpenSpy patches redirect the game to use the OpenSpy master server instead, letting you log in and play online again.
 
@@ -32,7 +32,7 @@ After [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in 2014
 
 <details>
 
-<summary>Are there any other master servers besides OpenSpy?</summary>
+<summary>Are there any other master servers besides OpenSpy ?</summary>
 
 Yes, there are a few, like NovGames, PlayBF2142, and MAGMA. However, OpenSpy — especially with the Reclamation community — offers the most reliable and active service. You can easily switch between OpenSpy and NovGames using BF2142 Hub.
 
@@ -40,7 +40,7 @@ Yes, there are a few, like NovGames, PlayBF2142, and MAGMA. However, OpenSpy —
 
 <details>
 
-<summary>What is Project Reclamation? How is it related to OpenSpy?</summary>
+<summary>What is Project Reclamation? How is it related to OpenSpy ?</summary>
 
 Project Reclamation is a community effort that brings Battlefield 2142’s online features back to life. It uses the OpenSpy platform to recreate the master server experience that GameSpy originally provided. Reclamation servers connect directly to the OpenSpy master server, so you can easily find and join games — just like you could back in the day.
 
@@ -48,7 +48,7 @@ Project Reclamation is a community effort that brings Battlefield 2142’s onlin
 
 <details>
 
-<summary>How is the Reclamation community doing? Is it still active?</summary>
+<summary>How is the Reclamation community doing ? Is it still active ?</summary>
 
 <figure><img src="../.gitbook/assets/reclamation_orig.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -69,7 +69,7 @@ Jump in and you’ll find a welcoming and active community!
 
 <details>
 
-<summary>Do we get all the unlocks with OpenSpy - Reclamation?</summary>
+<summary>Do we get all the unlocks with OpenSpy - Reclamation ?</summary>
 
 Yes, connecting to OpenSpy is a real privilege — it gives you access to all unlocks in Single-Player and Multi-Player LAN modes. This makes it perfect for grinding against bots in a Conquest Coop game.
 
@@ -77,7 +77,7 @@ If you want to unlock everything pemanently in BFHQ (i.e., public stats), just j
 
 </details>
 
-## Procedures
+### Procedures
 
 {% hint style="warning" %}
 Before patching your game, it’s a good idea to make backup copies of your `BF2142.exe` and `RendDX9.dll` files from your game folder. \[Why?[^3]]
@@ -123,17 +123,19 @@ Once you see <mark style="color:blue;">Patch completed, Enjoy!</mark>, click <ma
 {% step %}
 After patching, make sure the checkmarks for `Patch 1.51`, `BF2142.exe`, `RendDX9.d`, `RendDX9ori.dll` are all <mark style="color:green;">green</mark>. If any aren't, repeat from step 6.
 {% endstep %}
+
+{% step %}
+If you run into issues like crashes, the game not starting, or graphics glitches, the troubleshooting and diagnosis tools on the <mark style="color:blue;">Help</mark> tab are very useful.
+{% endstep %}
 {% endstepper %}
 
-If you run into issues like crashes, the game not starting, or graphics glitches, the troubleshooting and diagnosis tools on the <mark style="color:blue;">Help</mark> tab are very useful.
-
-## Reclamation Map Pack
+### Reclamation Map Pack
 
 The Reclamation Community runs 2 multiplayer servers, both featuring their own modified versions of maps. To join their public servers, you’ll need to install their map pack or the specific map currently in rotation. Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
 
 <details>
 
-<summary>Is it mandatory to download the map pack?</summary>
+<summary>Is it mandatory to download this pack ?</summary>
 
 No, the pack only needed if you want to play on Reclamation servers.
 
@@ -141,7 +143,7 @@ No, the pack only needed if you want to play on Reclamation servers.
 
 <details>
 
-<summary>Can I download the maps individually?</summary>
+<summary>Can I download the maps individually ?</summary>
 
 Yes, you can download the maps individually without downloading the entire pack.
 
@@ -149,7 +151,7 @@ Yes, you can download the maps individually without downloading the entire pack.
 
 <details>
 
-<summary>Where are the maps installed?</summary>
+<summary>Where are the maps installed ?</summary>
 
 The maps are automatically installed to the `\mods\bf2142\Levels` folder.
 

@@ -8,7 +8,7 @@ In this tutorial, we’ll walk you through the steps to update the game to the l
 
 <details>
 
-<summary>Why do we need this patch?</summary>
+<summary>Why do we need this patch ?</summary>
 
 * DRM[^1] is officially removed — you no longer need the game disc to launch the game. For more info, see the [No-CD Patch](https://tweakguides.dmegaming.com/BF2142_4.html) section in Tweak Guide.
 
@@ -24,7 +24,7 @@ In this tutorial, we’ll walk you through the steps to update the game to the l
 
 <details>
 
-<summary>How to check my game's version?</summary>
+<summary>How to check my game's version ?</summary>
 
 If you’re ever unsure about your game’s version, just check the version string in this file:\
 `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods\bf2142\Mod.desc`
@@ -35,13 +35,13 @@ If you still need the disc to launch the game, that means you haven’t updated 
 
 <details>
 
-<summary>Can I skip installing this patch?</summary>
+<summary>Can I skip installing this patch ?</summary>
 
 Yes, you can skip this tutorial if your game is already patched to v1.51. However, if you skip it when your game isn’t patched to v1.51, you won’t be able to play — the game will still require the disc to launch. That’s why we always emphasize how important this step is!
 
 </details>
 
-## Procedures
+### Procedures
 
 {% stepper %}
 {% step %}
@@ -69,7 +69,7 @@ Next, make sure to [install BF2142 Hub](download-and-install-bf2142-hub.md) and 
 {% endstep %}
 {% endstepper %}
 
-## Downloads
+### Downloads
 
 {% tabs %}
 {% tab title="Standalone Installer" %}
@@ -90,8 +90,8 @@ Source: [LordSte](https://www.moddb.com/members/lordste) on [ModDB](https://www.
 {% endembed %}
 {% endtab %}
 
-{% tab title="Incremental Installer" %}
-**Incremental Installer**
+{% tab title="Incremental Installers" %}
+**Incremental Installers**
 
 The installers provided here are mirrors of the originals from EA, made available before the game’s termination. To update your game to the latest version, first install the v1.50 patch, then follow up with the v1.51 patch.
 

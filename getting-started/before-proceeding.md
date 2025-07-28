@@ -6,7 +6,7 @@ description: Which steps do you need / not need to do?
 
 To get Battlefield 2142 up and running, simply follow tutorials **①** – **⑤** in order. Depending on your setup, you might be able to skip some steps or need to add a few extras — this guide will help you figure out which steps are essential and which ones you can safely skip!
 
-## Game installed?
+### Game installed?
 
 This will help you decide whether you can skip either tutorial in ①–②, or if you need to complete both.
 
@@ -47,7 +47,7 @@ You can skip these steps: [① Download & Install BF2142](download-and-install-b
 
 </details>
 
-## Vanilla or Remaster?
+### Vanilla or Remaster?
 
 This will help you figure out if you need to complete any extra tutorials beyond **③** – **⑤**.
 
@@ -87,7 +87,7 @@ You should follow these steps:\
 
 </details>
 
-## You may wonder ...
+### You may wonder ...
 
 <details>
 

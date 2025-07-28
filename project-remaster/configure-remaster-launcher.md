@@ -6,7 +6,7 @@ description: How to configure the launcher? How to start the game with the launc
 
 This tutorial will walk you through how to configure the launcher and use it to launch the game. If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!y
 
-## Procedures
+### Procedures
 
 {% hint style="warning" %}
 Before configuring the launcher, make sure you’ve started the game at least once. **\[**[**?**](#user-content-fn-1)[^1]**]**
@@ -83,11 +83,11 @@ _**Congratulations! You have completed all the steps to get Remaster up and runn
 {% endstep %}
 {% endstepper %}
 
-## Remarks
+### Remarks
 
 <details>
 
-<summary>Something that you should know ...</summary>
+<summary>Just a few things to note ...</summary>
 
 * If you want to play an unmodded game or join an unmodded server, simply uncheck all options under <mark style="color:blue;">Play</mark> → <mark style="color:blue;">Launch-Settings</mark> and <mark style="color:blue;">Settings</mark> → <mark style="color:blue;">General</mark> before launching the game. \[Why?[^7]]
 
@@ -101,7 +101,7 @@ _**Congratulations! You have completed all the steps to get Remaster up and runn
 
 </details>
 
-## Follow-ups
+### Follow-ups
 
 New to the mod or modding? We’ve got some manuals packed with helpful info, so it’s definitely worth setting aside a little time to check them out!
 
