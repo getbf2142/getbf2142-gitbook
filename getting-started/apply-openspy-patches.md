@@ -101,7 +101,7 @@ Double-click the shortcut to launch BF2142 Hub.
 {% endstep %}
 
 {% step %}
-When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-5)[^5]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-5)[^5]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the app to make changes on your device.
 {% endstep %}
 
 {% step %}

@@ -1,12 +1,12 @@
-# Unlimited Sprint Tweak
+# Unlimited Sprint
 
 If you’re getting used to the new Battlefield’s play style, you might find BF2142’s limited sprint a bit frustrating. Unlimited sprint is really just about convenience — some players see no reason not to have it. So, let’s mod BF2142 to give ourselves unlimited sprint too!
 
 ### Preparations
 
 * Do you know where your game directory is? It’s the folder where `BF2142.exe` and `mods` are located. By default, this is usually: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-* You’ll be editing files in `mods\<MOD>\Objects\Soldiers_server.zip`, so it’s a good idea to make a backup of the file first — just add a suffix like `_bak` or `_o` to the filename of the clone. \[?[^1]]
-* If you want this change to affect vanilla BF2142, make your edits in the `mods\bf2142` folder. Otherwise, edit the files in the `mods\<MOD>` folder for your chosen mod.
+* You’ll be editing files in `\mods\<MOD>\Objects\Soldiers_server.zip`, so it’s a good idea to make a backup of the file first — just add a suffix like `_bak` or `_o` to the filename of the clone. \[?[^1]]
+* If you want this change to affect vanilla BF2142, make your edits in the `\mods\bf2142` folder. Otherwise, edit the files in the `\mods\<MOD>` folder for your chosen mod.
 
 ### Procedures
 

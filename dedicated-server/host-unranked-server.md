@@ -1,52 +1,122 @@
----
-description: This tutorial will guide you through the steps to host a server.
----
-
 # ③ Host Unranked Server
 
-{% hint style="warning" %}
-* Port forwarding is only required for WAN servers. It's optional for LAN servers.
-* Players do not need to do port forwarding. Only servers need to do that.
-* BF2142ServerLauncher does not support mod. That's why you have to run it via a shortcut.
-* Modded and unmodded servers read server settings files from different locations.
-* For more server configurations, please refer to [https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html](https://pingperfect.com/index.php/knowledgebase/585/Battlefield-2142--Server-Configuration.html) or \mods\bf2142\Settings\ServerSettings.csv.
-{% endhint %}
+This tutorial will guide you through the steps to host a dedicated unranked server.
 
-## Hosting a Modded Server on OpenSpy
+<details>
 
-In this example, we demonstrate how to host a server for the Remaster mod.
+<summary>Just a couple of things to note ...</summary>
 
-1. Use file explorer to navigate to the path "**C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server**"_._
-2. Copy the folder <mark style="color:blue;">Project\_Remaster\_v14</mark> in <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods</mark> and paste it to <mark style="color:blue;">C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods</mark>_._
-3. Right-click on "**BF2142\_w32ded.exe**" and click "**send it to desktop as a shortcut**".
-4. Right-click the shortcut on your desktop and click "**Properties**".
-5. In the target field, add **+modPath mods/Project\_Remaster\_v14** after "**C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\BF2142\_w32ded.exe**". It should look like this:\
-   ​"C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\BF2142\_w32ded.exe" +modPath mods/Project\_Remaster\_v14
-6. Click "**Apply**" and "**Confirm**".
-7. Forward the following ports (i.e. port forwarding) to your local IP address in your wireless router control panel:\
-   29900 - 29900 UDP or Both\
-   29900 - 29900 UDP or Both\
-   17567 - 17567 Both
-8. Open "**C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods\Project\_Remaster\_v14\Settings\ServerSettings.con**".\
-   Make sure "**sv.internet**" is 1 and "**sv.allowNATNegotiation**"​ is 0.\
-   &#xNAN;_&#x44;rag and drop the file to the desktop so that you can edit and save it._ \
-   &#xNAN;_&#x4B;eep sv.intenet to 0 if you don't want your server to appear on the server browser._
-9. Open ​​"**C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods\Project\_Remaster\_v14\Settings\mapList.con**".\
-   Add the line "**mapList.append Suez\_Canal gpm\_coop 16**" to add a map to the server.\
-   &#xNAN;_&#x44;rag and drop the file to the desktop so that you can edit and save it._&#x20;
-10. Double-click the shortcut on your desktop to run the server.
+* Port forwarding is only needed if you want your server to be accessible over the internet (WAN), and only the host needs to set it up.
 
-Note: "**C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods\Project\_Remaster\_v14\Settings\ServerSettings.con**" is where you configure the server.
+- `BF2142ServerLauncher` does not support mod. That's why you have to run it via a shortcut.
+- Modded and unmodded servers read server settings files from different locations.
 
-## Hosting an Unmodded Server on OpenSpy
+</details>
 
-1. Use file explorer to navigate to the path "**C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server**"_._&#x200B;
-2. Look for "**BF2142ServerLauncher.exe**" in the folder. Double-click it to run the program.
-3. Click the add icon to create a new config setting. Then you will be able to edit Server Settings and Map List. Make sure the "**Internet**" option is turned on and the "**AllowNATNegotiation**" is turned off.\
-   &#xNAN;_&#x4B;eep the Internet option off if you don't want your server to appear on the server browser._&#x200B;
-4. Forward the following ports (i.e. port forwarding) to your local IP address in your wireless router control panel:\
-   29900 - 29900 UDP or Both\
-   ​17567 - 17567 Both
-5. Click "**Start**" to run the server.
+### Hosting a Modded Server on OpenSpy
 
-Note: <mark style="color:blue;">C:\Users\xxxxx\Documents\Battlefield 2142\ServerConfigs</mark> is where you configure the server apart from using the server launcher.
+In this example, we demonstrate how to host a dedicated server for the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod.&#x20;
+
+{% stepper %}
+{% step %}
+Use File Explorer to go to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server`.
+{% endstep %}
+
+{% step %}
+Copy the folder `Project_Remaster_v14` from `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods` and paste it into `C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods`.
+{% endstep %}
+
+{% step %}
+Right-click `BF2142_w32ded.exe` and select <mark style="color:blue;">Send to > Desktop (create shortcut)</mark>.
+{% endstep %}
+
+{% step %}
+On your desktop, right-click the shortcut and choose <mark style="color:blue;">Properties</mark>.
+{% endstep %}
+
+{% step %}
+In the <mark style="color:blue;">Target</mark> field, add `+modPath mods/Project_Remaster_v14` after the path, so it looks like this:
+
+```json
+"C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\BF2142_w32ded.exe" +modPath mods/Project_Remaster_v14
+```
+{% endstep %}
+
+{% step %}
+Click <mark style="color:blue;">Apply</mark> and then <mark style="color:blue;">OK</mark> to confirm.
+{% endstep %}
+
+{% step %}
+In your router’s control panel, forward these ports to your local IP address:
+
+* `29900` UDP or Both
+* `17567` Both
+{% endstep %}
+
+{% step %}
+Open `C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods\Project_Remaster_v14\Settings\ServerSettings.con` with a text editor.
+
+Note that this is where you tweak your server settings. Refer to the list of server settings [here](../addons-tweaks/server-settings.md#list-of-server-settings).
+{% endstep %}
+
+{% step %}
+Make sure `sv.internet` is set to 1 and `sv.allowNATNegotiation` is set to 0.\
+(Tip: Drag the file to your desktop to edit and save it, then move it back.)
+
+If you don’t want your server to appear in the server browser, set `sv.internet` to 0.
+{% endstep %}
+
+{% step %}
+Open `C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods\Project_Remaster_v14\Settings\mapList.con` with a text editor.
+{% endstep %}
+
+{% step %}
+Add this line to include a map: `mapList.append Suez_Canal gpm_coop 16`.\
+(Again, drag the file to your desktop to edit and save it.)
+{% endstep %}
+
+{% step %}
+Double-click the shortcut on your desktop to start the server.
+{% endstep %}
+{% endstepper %}
+
+### Hosting an Unmodded Server on OpenSpy
+
+{% stepper %}
+{% step %}
+Use File Explorer to go to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server`.
+{% endstep %}
+
+{% step %}
+Find `BF2142ServerLauncher.exe` in the folder and double-click it to open.
+{% endstep %}
+
+{% step %}
+Click the <mark style="color:blue;">Add</mark> icon to create a new config setting.
+
+You can now edit the Server Settings and Map List.
+{% endstep %}
+
+{% step %}
+Make sure the <mark style="color:blue;">Internet</mark> option is turned on and <mark style="color:blue;">AllowNATNegotiation</mark> is turned off.
+
+If you don’t want your server to show up in the server browser, leave the <mark style="color:blue;">Internet</mark> option off.
+{% endstep %}
+
+{% step %}
+Open `C:\Users\<YOU>\Documents\Battlefield 2142\ServerConfigs.con` with a text editor.
+
+This is where you configure the server apart from using the server launcher. Refer to the list of server settings [here](../addons-tweaks/server-settings.md#list-of-server-settings).
+{% endstep %}
+
+{% step %}
+In your router’s control panel, forward these ports to your local IP address:
+
+* `29900` UDP or Both
+* `17567` Both
+{% endstep %}
+
+{% step %}
+Click <mark style="color:blue;">Start</mark> to launch the server.
+{% endstep %}
+{% endstepper %}

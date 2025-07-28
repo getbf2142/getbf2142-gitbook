@@ -44,8 +44,8 @@
 
 ## Dedicated Server
 
-* [① Download & Install Server Client](dedicated-server/download-and-install-server-client.md)
-* [② Download & Install Server Patch](dedicated-server/download-and-install-server-patch.md)
+* [① Install Server Client](dedicated-server/install-server-client.md)
+* [② Install Server Patch](dedicated-server/install-server-patch.md)
 * [③ Host Unranked Server](dedicated-server/host-unranked-server.md)
 * [⍟ Host Master & Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
@@ -64,7 +64,7 @@
 
 ## Others
 
-* [Discord Group](https://discord.gg/DaMVNknVnV)
 * [Github Repository](https://github.com/getbf2142/getbf2142-gitbook)
+* [Discord Group](https://discord.gg/DaMVNknVnV)
 * [Contact Us](others/contact-us.md)
 * [Disclaimer](others/disclaimer.md)

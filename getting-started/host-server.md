@@ -9,7 +9,7 @@ In this tutorial, you’ll learn how to host a simple server directly from the g
 * You’ll have fewer game settings to customize. **\[**[**?**](#user-content-fn-1)[^1]**]**
 * The person hosting the server must also be playing on it.
 
-For a full-featured, production server, you’d want to use a [dedicated server client](../dedicated-server/download-and-install-server-client.md). However, this quick setup is usually enough for most situations.
+For a full-featured, production server, you’d want to use a [dedicated server client](../dedicated-server/install-server-client.md). However, this quick setup is usually enough for most situations.
 
 <details>
 

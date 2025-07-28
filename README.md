@@ -1,12 +1,12 @@
 ---
-description: Guide you hand-by-hand to get and play BF2142 today!
+description: We understand your struggle !
 ---
 
 # Homepage
 
 If you are still yearning to experience the thrill of Battlefield 2142 once more, or you are lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We will make sure to get you back in action in no time!
 
-#### We understand your struggle ...
+#### We exist to help !
 
 Ever since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014, playing online or with friends has become a real challenge. For everyone who still loves this game, we understand what you’re going through — and that’s exactly why we created this website.
 
@@ -55,4 +55,5 @@ Click [here](getting-started/before-proceeding.md) to get started!
 
 #### Disclaimer
 
-This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), nor Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
+* This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), or Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
+* This website is neither affiliated with nor endorsed by OpenSpy, Project Reclamation, or Project Remaster.

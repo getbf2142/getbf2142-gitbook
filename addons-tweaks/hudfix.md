@@ -25,8 +25,8 @@ Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 ### Preparations
 
 * Do you know where your game directory is? It’s the folder where `BF2142.exe` and `mods` are located. By default, this is usually: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-* You’ll be editing files in `mods\<MOD>`, so it’s a good idea to make a backup of the target files first — just add a suffix like `_bak` or `_o` to the filename of the clone. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* If you want this change to affect vanilla BF2142, make your edits in the `mods\bf2142` folder. Otherwise, edit the files in the `mods\<MOD>` folder for your chosen mod.
+* You’ll be editing files in `\mods\<MOD>`, so it’s a good idea to make a backup of the target files first — just add a suffix like `_bak` or `_o` to the filename of the clone. **\[**[**?**](#user-content-fn-1)[^1]**]**
+* If you want this change to affect vanilla BF2142, make your edits in the `\mods\bf2142` folder. Otherwise, edit the files in the `\mods\<MOD>` folder for your chosen mod.
 
 ### Procedures
 
@@ -56,7 +56,7 @@ Extract the two files inside: `Menu_server_hudfix.zip` and `Shaders_client_hudfi
 {% endstep %}
 
 {% step %}
-Drag and drop both files into your `mods\<MOD>` folder.
+Drag and drop both files into your `\mods\<MOD>` folder.
 {% endstep %}
 
 {% step %}

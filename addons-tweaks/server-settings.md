@@ -1,4 +1,4 @@
-# Server Settings Tweak
+# Server Settings
 
 In-game settings are pretty limited — singleplayer only lets you adjust rounds per map and bot skill. LAN mode offers more, like ticket ratio, friendly fire, and team ratio. But what if you want those options in singleplayer too, or want to change things like man down time and the number of players needed to start?
 
@@ -6,7 +6,7 @@ In this tutorial, we’ll cover how to make all these settings configurable for 
 
 ### Method 1
 
-**Editing ServerSettings.con in Profiles/Default**
+**Editing ServerSettings.con in \Profiles\Default**
 
 Whatever you set in `ServerSettings.con` will override any in-game adjustments.&#x20;
 
@@ -16,7 +16,7 @@ Note that any changes you make with this method will apply to all mods.
 
 {% stepper %}
 {% step %}
-Go into your `Documents/Battlefield 2142/Profiles/Default` folder.
+Go into your `C:\User\<YOU>\Documents\Battlefield 2142\Profiles\Default` folder.
 {% endstep %}
 
 {% step %}
@@ -47,7 +47,7 @@ The reason is that BF2142 can be pretty buggy when reading server settings — i
 
 ### Method 2
 
-**Editing GameLogicInit.con in mods/\<MOD>**
+**Editing GameLogicInit.con in \mods\\\<MOD>**
 
 This is my preferred method: just add the settings you want to override to `GameLogicInit.con` — usually the ones you can’t change in-game. For anything you can adjust in-game, just leave it out of this file.&#x20;
 
@@ -57,7 +57,7 @@ Just be aware that changes made with this method are specific to each mod only.
 
 {% stepper %}
 {% step %}
-Go into your `mods/<MOD>` folder.
+Go into your `...\mods\<MOD>` folder. **\[**[**?**](#user-content-fn-1)[^1]**]**
 {% endstep %}
 
 {% step %}
@@ -114,3 +114,5 @@ The list above isn’t complete — some settings aren’t shown because they’
 Special thanks to:
 
 * [ANTniquiler](https://www.moddb.com/members/antniquiler) for sharing server settings details @ [Installing dedicated BF2142 server on Linux](https://www.moddb.com/members/antniquiler/blogs/installing-a-battlefield-2142-dedicated-server-on-linux-part-2)
+
+[^1]: `...` is usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`, though this may vary depending on your setup.

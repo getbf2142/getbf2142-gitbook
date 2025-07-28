@@ -304,7 +304,7 @@ Since the map features a walled city, bots aren’t always smart enough to find 
 </details>
 
 {% hint style="info" %}
-To install the map, extract the map folder to `.../Battlefield 2142/mods/<MOD>/Levels`.
+To install the map, extract the file to `...\Battlefield 2142\mods\<MOD>\Levels`. **\[**[**?**](#user-content-fn-9)[^9]**]**
 {% endhint %}
 
 {% columns %}
@@ -340,3 +340,5 @@ To install the map, extract the map folder to `.../Battlefield 2142/mods/<MOD>/L
 [^7]: Backstab is a remake of the BF2MC Backstab map, keeping the original layout but rebuilt with BF2142 objects.
 
 [^8]: Test Range, originally called The Hell, is a map from the Reclamation Map Pack that’s been included just for testing purposes.
+
+[^9]: `...` is usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`, though this may vary depending on your setup.

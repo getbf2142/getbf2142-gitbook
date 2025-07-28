@@ -1,4 +1,4 @@
-# Field of View (FOV) Tweak
+# Field of View (FOV)
 
 Unlike modern Battlefield games, BF2142 doesn’t let you adjust your FOV in-game. Many players find the default field of view too low, so this guide will show you how to change it to whatever you prefer!
 
@@ -15,8 +15,8 @@ Unlike modern Battlefield games, BF2142 doesn’t let you adjust your FOV in-gam
 ### Preparations
 
 * Do you know where your game directory is? It’s the folder where `BF2142.exe` and `mods` are located. By default, this is usually: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-* You’ll be editing files in `mods\<MOD>\Objects\Soldiers_server.zip`, so it’s a good idea to make a backup of the file first — just add a suffix like `_bak` or `_o` to the filename of the clone. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* If you want this change to affect vanilla BF2142, make your edits in the `mods\bf2142` folder. Otherwise, edit the files in the `mods\<MOD>` folder for your chosen mod.
+* You’ll be editing files in `\mods\<MOD>\Objects\Soldiers_server.zip`, so it’s a good idea to make a backup of the file first — just add a suffix like `_bak` or `_o` to the filename of the clone. **\[**[**?**](#user-content-fn-1)[^1]**]**
+* If you want this change to affect vanilla BF2142, make your edits in the `\mods\bf2142` folder. Otherwise, edit the files in the `\mods\<MOD>` folder for your chosen mod.
 
 ### Procedures
 

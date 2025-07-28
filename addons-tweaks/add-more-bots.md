@@ -1,12 +1,12 @@
-# More Bots Tweak
+# Add More Bots
 
 Many BF2142 players want to play with more bots — 16 just isn’t enough for most! With today’s PCs, you can easily run over 64 bots without lag, making for a much more immersive battlefield experience. If you enjoy grinding bots for fun, you’re not alone!  Here’s a guide on how to increase the number of bots in your game.
 
 ### Preparations
 
 * Do you know where your game directory is? It’s the folder where `BF2142.exe` and `mods` are located. By default, this is usually: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-* You’ll be editing files in `mods\<MOD>\AI\AIDefault.ai`, so it’s a good idea to make a backup of the file first — just add a suffix like `_bak` or `_o` to the filename of the clone. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* If you want this change to affect vanilla BF2142, make your edits in the `mods\bf2142` folder. Otherwise, edit the files in the `mods\<MOD>` folder for your chosen mod.
+* You’ll be editing files in `\mods\<MOD>\AI\AIDefault.ai`, so it’s a good idea to make a backup of the file first — just add a suffix like `_bak` or `_o` to the filename of the clone. **\[**[**?**](#user-content-fn-1)[^1]**]**
+* If you want this change to affect vanilla BF2142, make your edits in the `\mods\bf2142` folder. Otherwise, edit the files in the `\mods\<MOD>` folder for your chosen mod.
 
 ### Procedures
 

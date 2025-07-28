@@ -26,7 +26,7 @@ Double-click the <mark style="color:blue;">Remaster Launcher</mark> shortcut to 
 {% endstep %}
 
 {% step %}
-When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-2)[^2]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-2)[^2]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the app to make changes on your device.
 {% endstep %}
 
 {% step %}
@@ -34,7 +34,7 @@ Go to the <mark style="color:blue;">Play</mark> page.
 {% endstep %}
 
 {% step %}
-Under the <mark style="color:blue;">Launch-Settings</mark> section, disable the [<mark style="color:blue;">4GB Ram Patch</mark>](#user-content-fn-3)[^3] option. \[[**?**](#user-content-fn-4)[^4]**]**
+Under the <mark style="color:blue;">Launch-Settings</mark> section, disable the [<mark style="color:blue;">4GB Ram Patch</mark>](#user-content-fn-3)[^3] option. **\[**[**?**](#user-content-fn-4)[^4]**]**
 {% endstep %}
 
 {% step %}
@@ -89,7 +89,7 @@ _**Congratulations! You have completed all the steps to get Remaster up and runn
 
 <summary>Just a few things to note ...</summary>
 
-* If you want to play an unmodded game or join an unmodded server, simply uncheck all options under <mark style="color:blue;">Play</mark> → <mark style="color:blue;">Launch-Settings</mark> and <mark style="color:blue;">Settings</mark> → <mark style="color:blue;">General</mark> before launching the game. \[Why?[^7]]
+* If you want to play an unmodded game or join an unmodded server, simply uncheck all options under <mark style="color:blue;">Play</mark> → <mark style="color:blue;">Launch-Settings</mark> and <mark style="color:blue;">Settings</mark> → <mark style="color:blue;">General</mark> before launching the game. **\[**[**?**](#user-content-fn-7)[^7]**]**
 
 - Vanilla weapons is a mini-mod included with Project Remaster. Enable this option if you want to play with weapons and gadgets that have their original (vanilla) stats.
 
