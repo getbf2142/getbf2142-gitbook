@@ -96,11 +96,11 @@ If you’re unable to save your changes, try dragging the file to your Desktop, 
 {% endstep %}
 
 {% step %}
-If you use a shortcut to launch the game, right-click it, go to <mark style="color:blue;">Properties</mark>, and check the <mark style="color:blue;">Target</mark> field for these flags **\[**[**?**](#user-content-fn-5)[^5]**]**:
+If you launch the game using a shortcut, make sure that `+widescreen 1` is included in the <mark style="color:blue;">Target</mark> field. See [here](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures) for details.
 
-```json
-"C:\Program Files (x86)\Electronic Arts\Battlefield 2142\BF2142.exe" +menu 1 +fullscreen 0 +widescreen 1 +szx 1920 +szy 1200  
-```
+If you’re using BF2142 Hub, just check the <mark style="color:blue;">TURN ON WIDESCREEN</mark> option.
+
+For Remaster Launcher users, be sure to enable the <mark style="color:blue;">Widescreen fix</mark> in the <mark style="color:blue;">Settings</mark> tab.
 {% endstep %}
 
 {% step %}
@@ -129,27 +129,3 @@ Special thanks to:
 [^3]: This ensures this line comes before the original `fileManager.mountArchive Shaders_client.zip Shaders` line, so the HUD fix loads first and takes precedence.
 
 [^4]: This ensures this line comes before the original `fileManager.mountArchive Menu_server.zip Menu`  line, so the HUD fix loads first and takes precedence.
-
-[^5]: (0 means disable, 1 means enable)
-
-
-
-    `+menu 1` helps prevent crashes at the menu startup.
-
-
-
-    `+widescreen 1` enables widescreen support for wider aspect ratio resolutions.
-
-
-
-    `+fullscreen 1` launches the game in fullscreen mode; set it to 0 for windowed mode.
-
-    \
-    `+szx 1920 +szy 1200` forces the game to use your chosen resolution.
-
-    \
-    Make sure the shortcut points to the correct directory where `BF2142.exe` is located.
-
-
-
-    Check [here](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures) and [there](https://vandalfsen.me/tweakguides/BF2142_7.html) for more details on shortcut.

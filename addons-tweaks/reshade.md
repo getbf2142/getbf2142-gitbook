@@ -58,7 +58,9 @@ Download `BF2142_Reshade_PRv14.rar` from [Downloads](reshade.md#downloads).
 {% endstep %}
 
 {% step %}
-Extract all the files to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`. Overwrite any files.
+Extract all the files to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.&#x20;
+
+Overwrite any files.
 {% endstep %}
 
 {% step %}

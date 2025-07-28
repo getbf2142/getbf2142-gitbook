@@ -33,6 +33,7 @@
 * [Server Settings](addons-tweaks/server-settings.md)
 * [BF3-Styled Chat](addons-tweaks/bf3-styled-chat.md)
 * [Star Wars Soldier](addons-tweaks/star-wars-soldier.md)
+* [Custom Shortcuts](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 

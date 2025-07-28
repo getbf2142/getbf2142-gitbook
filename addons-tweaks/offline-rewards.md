@@ -46,7 +46,11 @@ Download `offline_rewards.zip` from [Downloads](offline-rewards.md#downloads).
 {% endstep %}
 
 {% step %}
-In your game directory (usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`), find the folder named `python` and rename it to something like `python_o` or `python_backup` to create a backup.
+Go to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
+{% endstep %}
+
+{% step %}
+In your game directory, find the folder named `python` and rename it to something like `python_o` or `python_backup` to create a backup.
 {% endstep %}
 
 {% step %}

@@ -14,11 +14,13 @@ Whenever you see a Windows Firewall prompt, be sure to allow the game to communi
 
 {% stepper %}
 {% step %}
-Double-click the <mark style="color:blue;">Battlefield 2142</mark> shortcut on your desktop to launch the game.
+Launch the game through <mark style="color:blue;">BF2142 Hub</mark>.&#x20;
+
+Before hitting <mark style="color:blue;">Play</mark>, you might want to adjust the video and game settings to your liking.
 {% endstep %}
 
 {% step %}
-At the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It might take a moment for the next screen to appear. **\[**[**?**](#user-content-fn-1)[^1]**] \[**[**troubleshoot**](#user-content-fn-2)[^2]**]**
+At the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It might take a moment for the next screen to appear. **\[**[**💡**](#user-content-fn-1)[^1]**] \[**[**⚙️**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 
 {% step %}
@@ -109,4 +111,8 @@ Also, take a look at the addons and tweaks section in the sidebar navigation —
 
 [^9]: You can have it set to <mark style="color:blue;">4x</mark> if you don't encounter any issues with it.
 
-[^10]: For some users, leaving Anti-aliasing enabled can cause strange graphical glitches, like being able to see through buildings. This usually happens because the old DirectX9 engine tries to handle anti-aliasing on modern graphics cards. To fix this, simply turn off anti-aliasing in the game settings, and if you want anti-aliasing, use your NVIDIA or AMD control panel to apply it for your specific graphics card.
+[^10]: For some users, leaving Anti-aliasing enabled can cause strange graphical glitches, like being able to see through buildings. This usually happens because the old DirectX9 engine tries to handle anti-aliasing on modern graphics cards.&#x20;
+
+
+
+    To fix this, simply turn off anti-aliasing in the game settings, and if you want anti-aliasing, use your NVIDIA or AMD control panel to apply it for your specific graphics card.
