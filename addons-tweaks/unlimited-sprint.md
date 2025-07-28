@@ -39,6 +39,10 @@ Save your changes.
 
 If you’re unable to save your changes, try dragging the `.zip` file to your Desktop, make your edits there, and then drag it back when you’re done.
 {% endstep %}
+
+{% step %}
+Don’t forget to make the same changes to `Soldiers_bp1_server.zip` if you plan to play on Northern Strike maps.
+{% endstep %}
 {% endstepper %}
 
 ### Remarks
