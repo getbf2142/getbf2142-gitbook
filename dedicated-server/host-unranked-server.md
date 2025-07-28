@@ -13,7 +13,7 @@ This tutorial will guide you through the steps to host a dedicated unranked serv
 
 </details>
 
-### Hosting a Modded Server on OpenSpy
+### Hosting a Modded Server
 
 In this example, we demonstrate how to host a dedicated server for the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod.&#x20;
 
@@ -83,7 +83,7 @@ Double-click the shortcut on your desktop to start the server.
 {% endstep %}
 {% endstepper %}
 
-### Hosting an Unmodded Server on OpenSpy
+### Hosting a Vanilla Server
 
 {% stepper %}
 {% step %}

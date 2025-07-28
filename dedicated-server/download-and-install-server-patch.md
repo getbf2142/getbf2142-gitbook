@@ -38,6 +38,10 @@ Click <mark style="color:blue;">Patch!</mark> and wait for the Step 2 tick to tu
 {% step %}
 Drag `BF2142_w32ded.exe` back from your desktop folder to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server` (or equivalent).
 {% endstep %}
+
+{% step %}
+Next, you’ll use what you’ve just installed to set up and [host a dedicated server](host-unranked-server.md).
+{% endstep %}
 {% endstepper %}
 
 ## Downloads
