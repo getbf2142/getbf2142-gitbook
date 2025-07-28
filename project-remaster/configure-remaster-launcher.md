@@ -1,15 +1,15 @@
 ---
 description: How to configure the launcher? How to start the game with the launcher?
 layout:
-  width: wide
+  width: default
   title:
     visible: true
   description:
     visible: true
   tableOfContents:
-    visible: false
-  outline:
     visible: true
+  outline:
+    visible: false
   pagination:
     visible: true
   metadata:
