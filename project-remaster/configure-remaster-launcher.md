@@ -1,12 +1,26 @@
 ---
 description: How to configure the launcher? How to start the game with the launcher?
+layout:
+  width: wide
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: false
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
 # ② Configure Remaster Launcher
 
 This tutorial will walk you through how to configure the launcher and use it to launch the game. If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!y
 
-### Procedures
+<h3 align="center">P R O C E D U R E S</h3>
 
 {% hint style="warning" %}
 Before configuring the launcher, make sure you’ve started the game at least once. **\[**[**?**](#user-content-fn-1)[^1]**]**
@@ -83,7 +97,7 @@ _**Congratulations! You have completed all the steps to get Remaster up and runn
 {% endstep %}
 {% endstepper %}
 
-### Remarks
+<h3 align="center">R E M A R K S</h3>
 
 <details>
 
@@ -101,7 +115,7 @@ _**Congratulations! You have completed all the steps to get Remaster up and runn
 
 </details>
 
-### Follow-ups
+<h3 align="center">F O L L O W - U P S</h3>
 
 New to the mod or modding? We’ve got some manuals packed with helpful info, so it’s definitely worth setting aside a little time to check them out!
 

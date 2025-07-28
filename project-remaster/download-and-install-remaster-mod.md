@@ -80,7 +80,7 @@ At the moment, there aren’t any official servers for Remaster, as the mod is m
 
 </details>
 
-### Procedures
+## Procedures
 
 {% hint style="danger" %}
 If you already have an older version of the mod installed, make sure to uninstall it first and delete any leftover files in the mod folder before installing the newer version.
@@ -115,7 +115,7 @@ Next, [configure Remaster Launcher](configure-remaster-launcher.md).
 {% endstep %}
 {% endstepper %}
 
-### Downloads
+## Downloads
 
 {% hint style="info" %}
 Download the version you’d like to use — we recommend going with v14 BETA13 or v16.
