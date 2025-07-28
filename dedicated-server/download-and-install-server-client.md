@@ -6,7 +6,7 @@ For a full-featured, production server, you’d want to use a dedicated server c
 
 {% stepper %}
 {% step %}
-Download `Battlefield_2142_Server_Unranked.exe` from [Downloads](install-server-client.md#downloads).​​
+Download `Battlefield_2142_Server_Unranked.exe` from [Downloads](download-and-install-server-client.md#downloads).​​
 {% endstep %}
 
 {% step %}
@@ -22,7 +22,7 @@ Follow the on-screen instructions in the wizard to complete the installation.
 {% endstep %}
 
 {% step %}
-Next, make sure to [install the server patch](install-server-patch.md) — _don’t skip this step_!
+Next, make sure to [install the server patch](download-and-install-server-patch.md) — _don’t skip this step_!
 {% endstep %}
 {% endstepper %}
 

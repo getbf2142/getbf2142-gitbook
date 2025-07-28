@@ -6,7 +6,7 @@ In this tutorial, we’ll be installing OpenSpy patches to the server client, wh
 
 {% stepper %}
 {% step %}
-Download `BF2142_Server_Patch.zip` from [Downloads](install-server-patch.md#downloads).
+Download `BF2142_Server_Patch.zip` from [Downloads](download-and-install-server-patch.md#downloads).
 {% endstep %}
 
 {% step %}

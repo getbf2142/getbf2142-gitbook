@@ -44,8 +44,8 @@
 
 ## Dedicated Server
 
-* [① Install Server Client](dedicated-server/install-server-client.md)
-* [② Install Server Patch](dedicated-server/install-server-patch.md)
+* [① Install Server Client](dedicated-server/download-and-install-server-client.md)
+* [② Install Server Patch](dedicated-server/download-and-install-server-patch.md)
 * [③ Host Unranked Server](dedicated-server/host-unranked-server.md)
 * [⍟ Host Master & Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 

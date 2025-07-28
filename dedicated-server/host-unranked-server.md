@@ -56,7 +56,8 @@ In your router’s control panel, forward these ports to your local IP address:
 {% step %}
 Open `C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods\Project_Remaster_v14\Settings\ServerSettings.con` with a text editor.
 
-Note that this is where you tweak your server settings. Refer to the list of server settings [here](../addons-tweaks/server-settings.md#list-of-server-settings).
+Note that this is where you tweak your server settings.\
+Refer to the list of server settings [here](../addons-tweaks/server-settings.md#list-of-server-settings).
 {% endstep %}
 
 {% step %}
@@ -73,6 +74,8 @@ Open `C:\Program Files (x86)\Electronic Arts\Battlefield 2142 Server\mods\Projec
 {% step %}
 Add this line to include a map: `mapList.append Suez_Canal gpm_coop 16`.\
 (Again, drag the file to your desktop to edit and save it.)
+
+Refer to [here](https://www.moddb.com/members/antniquiler/blogs/installing-a-battlefield-2142-dedicated-server-on-linux-part-2) to know how to configure the map rotation.
 {% endstep %}
 
 {% step %}
@@ -93,8 +96,10 @@ Find `BF2142ServerLauncher.exe` in the folder and double-click it to open.
 
 {% step %}
 Click the <mark style="color:blue;">Add</mark> icon to create a new config setting.
+{% endstep %}
 
-You can now edit the Server Settings and Map List.
+{% step %}
+You can now edit the <mark style="color:blue;">Server Settings</mark> and <mark style="color:blue;">Map List</mark>.
 {% endstep %}
 
 {% step %}
@@ -106,7 +111,8 @@ If you don’t want your server to show up in the server browser, leave the <mar
 {% step %}
 Open `C:\Users\<YOU>\Documents\Battlefield 2142\ServerConfigs.con` with a text editor.
 
-This is where you configure the server apart from using the server launcher. Refer to the list of server settings [here](../addons-tweaks/server-settings.md#list-of-server-settings).
+This is where you configure the server apart from using the server launcher.\
+Refer to the list of server settings [here](../addons-tweaks/server-settings.md#list-of-server-settings).
 {% endstep %}
 
 {% step %}
