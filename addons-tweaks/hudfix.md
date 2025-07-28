@@ -1,4 +1,4 @@
-# Widescreen Hudfix
+# Widescreen HUD
 
 When BF2142 first launched, it only supported 4:3 displays. Even though the v1.51 patch from EA added native widescreen support (which mostly just stretches the image horizontally), the game’s HUD still looks off on 16:9 resolutions.&#x20;
 
@@ -48,7 +48,7 @@ If you ever want to uninstall, simply uncheck those two options. Then, head over
 
 {% stepper %}
 {% step %}
-Download `BF2142_Widescreen_Hudfix.zip` from [Downloads](widescreen-hudfix.md#downloads).
+Download `BF2142_Widescreen_Hudfix.zip` from [Downloads](hudfix.md#downloads).
 {% endstep %}
 
 {% step %}

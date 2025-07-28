@@ -23,16 +23,16 @@
 
 ## Addons / Tweaks
 
-* [Offline Rewards Patch](addons-tweaks/offline-rewards-patch.md)
-* [ReShade & Shaders](addons-tweaks/reshade-and-shaders.md)
-* [Widescreen Hudfix](addons-tweaks/widescreen-hudfix.md)
-* [More Bots Tweak](addons-tweaks/more-bots-tweak.md)
-* [Unlimited Sprint Tweak](addons-tweaks/unlimited-sprint-tweak.md)
-* [Field of View (FOV) Tweak](addons-tweaks/field-of-view-fov-tweak.md)
-* [Extra Maps w/ Bot Support](addons-tweaks/extra-maps-w-bot-support.md)
-* [Server Settings Tweak](addons-tweaks/server-settings-tweak.md)
-* [BF3-Styled Chat Patch](addons-tweaks/bf3-styled-chat-patch.md)
-* [Star Wars Soldier Pack](addons-tweaks/star-wars-soldier-pack.md)
+* [Offline Rewards](addons-tweaks/offline-rewards.md)
+* [ReShade & Shaders](addons-tweaks/reshade.md)
+* [Widescreen HUD](addons-tweaks/hudfix.md)
+* [Add More Bots](addons-tweaks/add-more-bots.md)
+* [Unlimited Sprint](addons-tweaks/unlimited-sprint.md)
+* [Field of View (FOV)](addons-tweaks/fov.md)
+* [Maps with Bots](addons-tweaks/maps-with-bots.md)
+* [Server Settings](addons-tweaks/server-settings.md)
+* [BF3-Styled Chat](addons-tweaks/bf3-styled-chat.md)
+* [Star Wars Soldier](addons-tweaks/star-wars-soldier.md)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 

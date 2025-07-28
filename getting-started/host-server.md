@@ -47,7 +47,7 @@ Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">
 {% step %}
 In the <mark style="color:blue;">CREATE</mark> tab, configure your server settings and click <mark style="color:blue;">START SERVER</mark>.
 
-Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for details on extra cutomization settings.
+Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
 
 {% step %}
@@ -86,7 +86,7 @@ Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">
 {% step %}
 In the <mark style="color:blue;">CREATE</mark> tab, configure your server settings and click <mark style="color:blue;">START SERVER</mark>.
 
-Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for details on extra cutomization settings.
+Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
 
 {% step %}
@@ -145,7 +145,7 @@ Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">
 {% step %}
 In the <mark style="color:blue;">CREATE</mark> tab, configure your server settings and click <mark style="color:blue;">START SERVER</mark>.
 
-Check out the [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for details on extra cutomization settings.
+Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
 
 {% step %}

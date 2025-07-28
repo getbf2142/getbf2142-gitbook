@@ -30,7 +30,7 @@ BF2142 Hub always fetches the latest patch, so if anything changes, you can easi
 
 </details>
 
-### Procedures
+## Procedures
 
 {% hint style="danger" %}
 BF2142 Hub is a 64-bit application and won’t run on 32-bit Windows XP. If you’re using Windows XP, check out [this guide](https://battlefield2142.co/faq#notwin32) for alternative steps you can take.
@@ -58,7 +58,7 @@ Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using <mark s
 {% endstep %}
 {% endstepper %}
 
-### Downloads
+## Downloads
 
 **BF2142\_Hub\_Setup.exe (ModDB, 1.2 MB)**
 

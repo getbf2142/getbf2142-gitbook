@@ -77,7 +77,7 @@ If you want to unlock everything pemanently in BFHQ (i.e., public stats), just j
 
 </details>
 
-### Procedures
+## Procedures
 
 {% hint style="warning" %}
 Before patching your game, it’s a good idea to make backup copies of your `BF2142.exe` and `RendDX9.dll` files from your game folder. \[Why?[^3]]
@@ -129,7 +129,7 @@ If you run into issues like crashes, the game not starting, or graphics glitches
 {% endstep %}
 {% endstepper %}
 
-### Reclamation Map Pack
+## Reclamation Map Pack
 
 The Reclamation Community runs 2 multiplayer servers, both featuring their own modified versions of maps. To join their public servers, you’ll need to install their map pack or the specific map currently in rotation. Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
 

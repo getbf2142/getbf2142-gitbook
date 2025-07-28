@@ -41,7 +41,7 @@ Yes, you can skip this tutorial if your game is already patched to v1.51. Howeve
 
 </details>
 
-### Procedures
+## Procedures
 
 {% stepper %}
 {% step %}
@@ -69,7 +69,7 @@ Next, make sure to [install BF2142 Hub](download-and-install-bf2142-hub.md) and 
 {% endstep %}
 {% endstepper %}
 
-### Downloads
+## Downloads
 
 {% tabs %}
 {% tab title="Standalone Installer" %}

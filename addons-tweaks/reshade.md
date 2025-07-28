@@ -6,7 +6,7 @@ The original post about **Reshade for BF2142** by the [Project Remaster Team](ht
 
 {% embed url="https://www.moddb.com/downloads/bf2142-reshade" %}
 
-However, that version is outdated. The team now uses a newer Reshade client and has updated shader presets. The latest Reshade package for BF2142 is included with the [Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) v14 installation. In this guide, we’ll also cover how to install ReShade if you don’t have the mod.
+However, that version is outdated. The team now uses a newer Reshade client and has updated shader presets. The latest Reshade package for BF2142 is included with the [Project Remaster](../project-remaster/download-and-install-remaster-mod.md) v14 installation. In this guide, we’ll also cover how to install ReShade if you don’t have the mod.
 
 {% columns %}
 {% column %}
@@ -45,7 +45,7 @@ Activating Reshade is super easy with the mod's launcher, simply:
 2. Head to the <mark style="color:blue;">Settings</mark> tab.
 3. Check the <mark style="color:blue;">Reshade</mark> option.
 4. That’s it — you’re all set!
-5. Jump straight to the [Usage](reshade-and-shaders.md#usage) section to see how to use ReShade in-game.\
+5. Jump straight to the [Usage](reshade.md#usage) section to see how to use ReShade in-game.\
    &#xNAN;_(You don't have to follow any steps below.)_
 
 To uninstall, just uncheck the <mark style="color:blue;">Reshade</mark> option. It’s that simple!
@@ -54,7 +54,7 @@ To uninstall, just uncheck the <mark style="color:blue;">Reshade</mark> option. 
 
 {% stepper %}
 {% step %}
-Download `BF2142_Reshade_PRv14.rar` from [Downloads](reshade-and-shaders.md#downloads).
+Download `BF2142_Reshade_PRv14.rar` from [Downloads](reshade.md#downloads).
 {% endstep %}
 
 {% step %}

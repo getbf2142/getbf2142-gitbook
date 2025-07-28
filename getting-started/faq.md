@@ -68,7 +68,7 @@ You can also join the Reclamation's [Discord server](https://discord.com/invite/
 
 You can’t change the FOV (field of view) in-game, since BF2142 is an older title and doesn’t offer as many video settings as modern games.&#x20;
 
-However, you can still achieve this by editing the game files. For step-by-step instructions, check out our [Field of View (FOV) Tweak](../addons-tweaks/field-of-view-fov-tweak.md) guide.
+However, you can still achieve this by editing the game files. For step-by-step instructions, check out our [Field of View (FOV)](../addons-tweaks/fov.md) guide.
 
 </details>
 
@@ -76,7 +76,7 @@ However, you can still achieve this by editing the game files. For step-by-step 
 
 <summary>How to have more bots in Singleplayer or Multiplayer LAN?</summary>
 
-Refer to our [More Bots Tweak](../addons-tweaks/more-bots-tweak.md) guide for more details.
+Refer to our [Add More Bots](../addons-tweaks/add-more-bots.md) guide for more details.
 
 </details>
 
@@ -84,7 +84,7 @@ Refer to our [More Bots Tweak](../addons-tweaks/more-bots-tweak.md) guide for mo
 
 <summary>How to adjust ticket counts, team ratio, respawn time, and friendly fire in Singleplayer?</summary>
 
-Refer to our [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for more details.
+Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for more details.
 
 </details>
 
@@ -92,7 +92,7 @@ Refer to our [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) 
 
 <summary>I want to adjust game / server settings other than those shown in the UI. How can I do so?</summary>
 
-Refer to our [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) guide for more details.
+Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for more details.
 
 </details>
 
@@ -100,7 +100,7 @@ Refer to our [Server Settings Tweak](../addons-tweaks/server-settings-tweak.md) 
 
 <summary>I'm getting bored with vanilla maps. Where can I get more maps with bot support?</summary>
 
-Refer to our [Extra Maps w/ Bot Support](../addons-tweaks/extra-maps-w-bot-support.md) guide for more details.
+Refer to our [Maps with Bots](../addons-tweaks/maps-with-bots.md) guide for more details.
 
 </details>
 

@@ -1,4 +1,4 @@
-# Extra Maps w/ Bot Support
+# Maps with Bots
 
 If you’re a Battlefield fan who loves playing with bots, you’ve probably noticed that the standard map selection can get old fast. A lot of us wish there were more vanilla maps with bot support — or even the chance to play classic BF2 or 1942 maps in BF2142.
 
@@ -27,7 +27,7 @@ Maybe you’re looking for maps loaded with vehicles, or ones designed just for 
 
 * You can get the upgraded versions of `Belgrade`, `Suez Canal`, `Fall of Berlin`, and `Camp Gibraltar` through either the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod or [BF2142 Hub](../getting-started/download-and-install-bf2142-hub.md).
 * To access `Bridge at Remagen`, `Breakthrough at Remagen`,`Strike at Karkand`, and `Tunis Harbor`, you’ll need the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod.
-* For our improved versions of `Desert Storm`, `Victory Village`, and `Street` — with fixes for broken bot support — you can download them [here](extra-maps-w-bot-support.md#what-you-will-get-from-us).
+* For our improved versions of `Desert Storm`, `Victory Village`, and `Street` — with fixes for broken bot support — you can download them [here](maps-with-bots.md#what-you-will-get-from-us).
 
 </details>
 
@@ -118,7 +118,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 </details>
 
-Interested? Click [here](../project-remaster/download-and-install-remaster-mod.md) to download and install the Remaster Mod.
+Interested? Click [here](../project-remaster/download-and-install-remaster-mod.md) to download and install the Remaster mod.
 
 ### What you will get from BF2142 Hub ...
 

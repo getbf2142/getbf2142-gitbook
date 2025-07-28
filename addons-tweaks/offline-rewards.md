@@ -1,4 +1,4 @@
-# Offline Rewards Patch
+# Offline Rewards
 
 This patch emulates the ranked server rewards system — pins, ribbons, badges, and medals — in your single-player or LAN co-op games. Keep in mind, though, it’s just a simulation: the rewards only last for the current round and will reset once the game ends.
 
@@ -42,7 +42,7 @@ Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 
 {% stepper %}
 {% step %}
-Download `offline_rewards.zip` from [Downloads](offline-rewards-patch.md#downloads).
+Download `offline_rewards.zip` from [Downloads](offline-rewards.md#downloads).
 {% endstep %}
 
 {% step %}
@@ -62,6 +62,6 @@ Drag and drop the `python` folder from the `.zip` file into the root directory o
 
 Special thanks to:
 
-* BF2142 Unlocker for providing the files (if I'm not mistaken)
+* BF2142 Unlocker for providing the python files (if I'm not mistaken)
 
 [^1]: The ticket ratio is a multiplier (e.g., 300 means x3, 350 means x3.5). A value between 200 and 400 is recommended, which will scale your tickets to around 500–1000.

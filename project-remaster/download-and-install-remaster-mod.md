@@ -50,7 +50,7 @@ For support and the latest updates, you can join their [Discord server](https://
 - 4th and 5th primary rifle slots for each soldier class
 - 4th, 5th, and 6th squad leader slots for each soldier class
 - Smarter bot AI for Conquest Coop maps
-- Bot support added to more maps and layouts (see the map list [here](../addons-tweaks/extra-maps-w-bot-support.md#list-of-maps-in-project-remaster-w-bot-support))
+- Bot support added to more maps and layouts (see the map list [here](../addons-tweaks/maps-with-bots.md#list-of-maps-in-project-remaster-w-bot-support))
 
 * Includes a launcher, manual, and debugging tools
 

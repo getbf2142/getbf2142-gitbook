@@ -6,7 +6,7 @@ description: How to create an online account? How to configure video and audio s
 
 In this tutorial, we’ll walk you through how to create an account and set up several in-game settings. If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
 
-### Procedures
+## Procedures
 
 {% hint style="warning" %}
 Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks to prevent any connection issues.
@@ -62,7 +62,7 @@ _**Congratulations! You have completed all the steps to get Battlefield 2142 up 
 {% endstep %}
 {% endstepper %}
 
-### Follow-ups
+## Follow-ups
 
 Don’t forget to check out these tutorials to learn how to join a game or start your own server!
 

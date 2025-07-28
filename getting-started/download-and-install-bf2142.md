@@ -37,7 +37,7 @@ If you’re set on finding a native Mac version, we wish you the best of luck wi
 
 </details>
 
-### Procedures
+## Procedures
 
 {% stepper %}
 {% step %}
@@ -94,7 +94,7 @@ Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md
 {% endstep %}
 {% endstepper %}
 
-### Downloads
+## Downloads
 
 <details>
 
