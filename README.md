@@ -51,7 +51,7 @@ GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 
 </details>
 
-Click [here](getting-started/before-proceeding.md) to get started!
+Click [here](getting-started/before-proceeding.md) to get started! Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support.
 
 #### Disclaimer
 

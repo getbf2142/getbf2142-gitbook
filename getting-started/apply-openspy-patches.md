@@ -4,7 +4,7 @@ description: How to install the patches? How to install Reclamation maps?
 
 # ④ Install OpenSpy Patches
 
-In this tutorial, we’ll focus on getting your game working with OpenSpy. If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
+In this tutorial, we’ll focus on getting your game working with OpenSpy. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 
 <details>
 

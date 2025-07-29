@@ -7,7 +7,7 @@ description: Which steps do you need / not need to do?
 To get Battlefield 2142 up and running, simply follow tutorials **①** – **⑤** in order. Depending on your setup, you might be able to skip some steps or need to add a few extras — this guide will help you figure out which steps are essential and which ones you can safely skip!
 
 {% hint style="success" %}
-We are here to help — Join our [Discord server](https://discord.gg/DaMVNknVnV) to receive support.
+We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support.
 {% endhint %}
 
 ### Game installed?

@@ -4,7 +4,7 @@ description: Where to download BF2142 Hub? How to install BF2142 Hub?
 
 # ③ Install ​BF2142 Hub
 
-In this tutorial, we'll walk you through the steps to download and install BF2142 Hub. If you have any questions or run into any issues, don’t hesitate to join our [Discord server](https://discord.com/invite/VnxTDPBebZ) — we’re always happy to help!
+In this tutorial, we'll walk you through the steps to download and install BF2142 Hub. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 
 <details>
 
