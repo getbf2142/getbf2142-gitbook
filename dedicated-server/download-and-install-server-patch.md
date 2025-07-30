@@ -52,4 +52,10 @@ Next, you’ll use what you’ve just installed to set up and [host a dedicated 
 Source: ModDB \[Last Verified: July 2025]
 {% endembed %}
 
+**\[MIRROR] BF2142\_Server\_Patch.zip (Google Drive, 20 KB)**
+
+{% embed url="https://drive.google.com/file/d/1YCNd2G1NcWEctS74aIpaMfHOTP1NxLow" %}
+Source: GetBF2142 \[Last Verified: July 2025]
+{% endembed %}
+
 [^1]: i.e., Do you want to allow this app to make changes to your device?
