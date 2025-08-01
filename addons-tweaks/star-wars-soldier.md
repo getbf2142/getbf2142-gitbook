@@ -1,3 +1,0 @@
-# Star Wars Soldier Pack
-
-Work in progress. Coming soon...

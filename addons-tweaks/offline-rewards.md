@@ -66,6 +66,6 @@ Drag and drop the `python` folder from the `.zip` file into the root directory o
 
 Special thanks to:
 
-* BF2142 Unlocker for providing the python files (if I'm not mistaken)
+* [maiorBoltach](https://github.com/maiorBoltach) for providing the python files (if I'm not mistaken) @ [bf2142stats\_emu](https://github.com/maiorBoltach/bf2142stats_emu)
 
 [^1]: The ticket ratio is a multiplier (e.g., 300 means x3, 350 means x3.5). A value between 200 and 400 is recommended, which will scale your tickets to around 500–1000.
