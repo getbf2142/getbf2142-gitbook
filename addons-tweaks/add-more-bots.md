@@ -57,6 +57,12 @@ You can also adjust the bot skill — set `aiSettings.setBotSkill` to any value 
 {% endstep %}
 
 {% step %}
+Set `aiSettings.setMaxNAutoControllers` to a value equal to or higher than what you use for `aiSettings.setMaxNBots`.&#x20;
+
+For example, if you set `aiSettings.setMaxNBots 32`, it’s best to set `aiSettings.setMaxNAutoControllers 50`. Giving it a higher number provides a buffer for AI-controlled weapons like sentry guns and drones.
+{% endstep %}
+
+{% step %}
 Once you’re done, just save your changes!
 
 If you’re unable to save your changes, try dragging the `.ai` file to your Desktop, make your edits there, and then drag it back when you’re done.

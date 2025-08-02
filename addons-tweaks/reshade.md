@@ -27,9 +27,9 @@ Just a few things to note:
 
 ### Downloads
 
-**BF2142\_Reshade\_PRv14 (Google Drive, 4.2 MB)**
+**BF2142\_Reshade\_PRv14.zip (Google Drive, 4.2 MB)**
 
-{% embed url="https://drive.google.com/file/d/1McXt77aT1TUCl72h9LOy3zSMRbR97fEv" %}
+{% embed url="https://drive.google.com/file/d/1W1SdhJ14TMcm9y3ttx9QSs4RKySJ0LyL" %}
 Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
 
@@ -54,7 +54,7 @@ To uninstall, just uncheck the <mark style="color:blue;">Reshade</mark> option. 
 
 {% stepper %}
 {% step %}
-Download `BF2142_Reshade_PRv14.rar` from [Downloads](reshade.md#downloads).
+Download `BF2142_Reshade_PRv14.zip` from [Downloads](reshade.md#downloads).
 {% endstep %}
 
 {% step %}
