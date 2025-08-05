@@ -10,7 +10,7 @@ This is where you find answers to some of the commonly asked questions. If you h
 
 <details>
 
-<summary>How do I get all the unlocks?</summary>
+<summary>How do I get all the unlocks ?</summary>
 
 When you use OpenSpy as your login service, you automatically get access to all unlocks **\[**[**?**](#user-content-fn-1)[^1]**]**. This means you’ll have all unlocks available in Singleplayer and LAN, as long as you’re connected to the internet.
 
@@ -20,7 +20,7 @@ When you use OpenSpy as your login service, you automatically get access to all 
 
 <details>
 
-<summary>Why is BF2142 Unlocker not working properly?</summary>
+<summary>Why is BF2142 Unlocker not working properly ?</summary>
 
 At the moment, it’s not possible to play the game using BF2142Unlocker.
 
@@ -30,7 +30,7 @@ A recent Windows update has broken the Unlocker, and there’s currently no know
 
 <details>
 
-<summary>My game keeps crashing to Desktop. It doesn't even load to menu. How to fix this?</summary>
+<summary>My game keeps crashing to Desktop. It doesn't even load to menu. How to fix this ?</summary>
 
 First, try deleting the Battlefield 2142 folder in your My Documents. This will clean up your profiles — including any faulty video or audio settings — and clear your shader cache.
 
@@ -50,7 +50,7 @@ These steps often resolve crash issues, as many problems are related to video se
 
 <details>
 
-<summary>I keep getting kicks when playing on Reclamation servers. How to fix this?</summary>
+<summary>I keep getting kicks when playing on Reclamation servers. How to fix this ?</summary>
 
 First, make sure you’re joining the server with a vanilla 2142 installation and there aren’t any major modifications in your `mods\bf2142` folder.
 
@@ -64,7 +64,7 @@ You can also join the Reclamation's [Discord server](https://discord.com/invite/
 
 <details>
 
-<summary>How to change Field of View (FOV) in-game?</summary>
+<summary>How to change Field of View (FOV) in-game ?</summary>
 
 You can’t change the FOV (field of view) in-game, since BF2142 is an older title and doesn’t offer as many video settings as modern games.&#x20;
 
@@ -74,7 +74,7 @@ However, you can still achieve this by editing the game files. For step-by-step 
 
 <details>
 
-<summary>How to have more bots in Singleplayer or Multiplayer LAN?</summary>
+<summary>How to have more bots in Singleplayer or Multiplayer LAN ?</summary>
 
 Refer to our [Add More Bots](../addons-tweaks/add-more-bots.md) guide for more details.
 
@@ -82,7 +82,7 @@ Refer to our [Add More Bots](../addons-tweaks/add-more-bots.md) guide for more d
 
 <details>
 
-<summary>How to adjust ticket counts, team ratio, respawn time, and friendly fire in Singleplayer?</summary>
+<summary>How to adjust ticket counts, team ratio, respawn time, and friendly fire in Singleplayer ?</summary>
 
 Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for more details.
 
@@ -90,7 +90,7 @@ Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for mo
 
 <details>
 
-<summary>I want to adjust game / server settings other than those shown in the UI. How can I do so?</summary>
+<summary>I want to adjust game / server settings other than those shown in the UI. How can I do so ?</summary>
 
 Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for more details.
 
@@ -98,7 +98,7 @@ Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for mo
 
 <details>
 
-<summary>I'm getting bored with vanilla maps. Where can I get more maps with bot support?</summary>
+<summary>I'm getting bored with vanilla maps. Where can I get more maps with bot support ?</summary>
 
 Refer to our [Maps with Bots](../addons-tweaks/maps-with-bots.md) guide for more details.
 
