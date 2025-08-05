@@ -18,10 +18,6 @@ Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142
 
 {% tabs %}
 {% tab title="Downloads" %}
-
-{% endtab %}
-
-{% tab title="Changelog" %}
 **BF2142\_Widescreen\_Hudfix\_v2.zip (Google Drive, 15 KB)**
 
 {% embed url="https://drive.google.com/file/d/1ODc9Gk6GMD7PcI9kmT_jWszhNwseAfPR" %}
@@ -30,7 +26,16 @@ Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 
 **BF2142\_Widescreen\_Hudfix\_v1.zip (Google Drive, 9 KB)**
 
+{% embed url="https://drive.google.com/file/d/1mr9ijag238J-j275uS1Ff_T0ew29jYhT" %}
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
+{% endembed %}
+{% endtab %}
 
+{% tab title="Changelogs" %}
+**v2**
+
+* Widescreen support has been added to the Commander screen.
+* Components that were previously inaccessible due to the shrunken border are now fixed.
 {% endtab %}
 {% endtabs %}
 

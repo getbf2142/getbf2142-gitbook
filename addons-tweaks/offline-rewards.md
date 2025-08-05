@@ -42,12 +42,16 @@ Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 **BF2142\_Offline\_Rewards\_v1.zip (Google Drive, 42 KB)**
 
 {% embed url="https://drive.google.com/file/d/16WwI7T8NAv3oJaNS4BysAfJ2Uev2ugrd" %}
+Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
+{% endembed %}
 {% endtab %}
 
-{% tab title="v2 Changelog" %}
-* Added support to all Remaster mod weapons in `constants.py`
-* Made it easier to enable or disable the log functions in `__init__.py`
-* Cleaned up some codes in `rank.py` and `unlocks.py`
+{% tab title="Changelogs" %}
+**v2**
+
+* Added support for all Remaster mod weapons in `constants.py`.
+* Made it easier to enable or disable log functions in `__init__.py`.
+* Cleaned up code in `rank.py` and `unlocks.py`.
 {% endtab %}
 {% endtabs %}
 
