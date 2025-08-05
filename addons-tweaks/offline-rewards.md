@@ -19,7 +19,7 @@ Just a few things to note ...
 * To enable logging, go to `python\bf2\__init__.py` and adjust the values for `g_debug`, `g_debug_log`, and `g_falog`.
 * This patch applies to all mods, including vanilla 2142.
 
-### Rewards Requirements
+### How to obtain the rewards ?
 
 {% tabs %}
 {% tab title="How to ?" %}
