@@ -183,6 +183,8 @@ Check out [this guide](../getting-started/apply-openspy-patches.md#installing-in
 
 You’ll get a few maps from the Reclamation Map Pack that we’ve fixed or tweaked for a better experience. These maps are mostly custom maps or maps from another Battlefield series.
 
+Just a heads up: this version isn’t compatible with Reclamation servers.
+
 <details>
 
 <summary>Street - 16 | BF2</summary>
