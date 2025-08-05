@@ -13,21 +13,27 @@ Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this wa
 * Simplified many reward requirements, following the hierarchy: Pins → Ribbons → Badges → Medals.
 * Most rewards can now be earned in a 15 minute game.
 
-{% columns %}
-{% column %}
-<figure><img src="../.gitbook/assets/unknown23.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../.gitbook/assets/unknown345t5r.png" alt=""><figcaption></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
-
 Just a few things to note ...
 
 * To make your games last longer, adjust the ticket ratio when creating a LAN game. \[How?[^1]]
 * To enable logging, go to `python\bf2\__init__.py` and adjust the values for `g_debug`, `g_debug_log`, and `g_falog`.
 * This patch applies to all mods, including vanilla 2142.
+
+### Rewards Requirements
+
+{% tabs %}
+{% tab title="How to ?" %}
+Check the relevant tabs for more details.
+{% endtab %}
+
+{% tab title="v2" %}
+{% embed url="https://drive.google.com/file/d/1Z5y7vFvdRZHqzQprv4zCwsvl_vzeiL5d" %}
+{% endtab %}
+
+{% tab title="v1" %}
+{% embed url="https://drive.google.com/file/d/1NWUVSEbD-IXb-gXaO_t6aKgiQiSZhRmo" %}
+{% endtab %}
+{% endtabs %}
 
 ### Downloads
 
