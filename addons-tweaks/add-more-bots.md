@@ -57,9 +57,9 @@ You can also adjust the bot skill — set `aiSettings.setBotSkill` to any value 
 {% endstep %}
 
 {% step %}
-Set `aiSettings.setMaxNAutoControllers` to a value equal to or higher than what you use for `aiSettings.setMaxNBots`.&#x20;
+If you want to allow more AI-controlled weapons like UAVs, sentry guns, and drones on the map, set `aiSettings.setMaxNAutoControllers` to a higher value.&#x20;
 
-For example, if you set `aiSettings.setMaxNBots 32`, it’s best to set `aiSettings.setMaxNAutoControllers 50`. Giving it a higher number provides a buffer for AI-controlled weapons like sentry guns and drones.
+The default is 64, which is usually enough, but you can safely increase it to over 100 if needed.
 {% endstep %}
 
 {% step %}
