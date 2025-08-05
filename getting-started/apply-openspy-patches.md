@@ -71,9 +71,7 @@ Jump in and you’ll find a welcoming and active community!
 
 <summary>Do we get all the unlocks with OpenSpy - Reclamation ?</summary>
 
-Yes, connecting to OpenSpy is a real privilege — it gives you access to all unlocks in Single-Player and Multi-Player LAN modes. This makes it perfect for grinding against bots in a Conquest Coop game.
-
-If you want to unlock everything pemanently in BFHQ (i.e., public stats), just join a Reclamation (ranked) server and play a round. That said, this step isn’t required — you’ll still have access to all unlocks in SP/LAN even if you never play on a ranked server. All unlocks are available to everyone as soon as you create a new soldier.
+Yes, connecting to OpenSpy is a real privilege — all unlocks are available to everyone as soon as you create a new soldier. As long as you're connected to the internet, you'll have access to all unlocks in Single-Player and LAN modes. This makes it perfect for grinding against bots in a Conquest Coop game.
 
 </details>
 

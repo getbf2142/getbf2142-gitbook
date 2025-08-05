@@ -12,7 +12,7 @@ This is where you find answers to some of the commonly asked questions. If you h
 
 <summary>How do I get all the unlocks?</summary>
 
-When you use OpenSpy as your login service, you automatically get access to all unlocks **\[**[**?**](#user-content-fn-1)[^1]**]**. This means you’ll have all unlocks available in Singleplayer and LAN, as long as you’re connected to the internet. To unlock everything permanently in BFHQ (i.e., public stats), just join a Reclamation server once.
+When you use OpenSpy as your login service, you automatically get access to all unlocks **\[**[**?**](#user-content-fn-1)[^1]**]**. This means you’ll have all unlocks available in Singleplayer and LAN, as long as you’re connected to the internet.
 
 </details>
 

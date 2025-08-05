@@ -8,11 +8,10 @@ Still, it’s a great quality-of-life improvement that makes bot grinding much m
 
 Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this way, since many rewards require things like _150 total hours played_ or _300 EU team wi&#x6E;_&#x73; — goals that aren’t possible in a single round. To fix this, we’ve revamped the rewards system and requirements to better fit 15–30 minute co-op games:
 
-* Removed rewards related to Titan mode.
+* Removed all rewards related to Titan mode.
 * Eliminated requirements that are impossible to achieve.
-* Simplified many reward requirements.
-* Maintained the hierarchy: Pins → Ribbons → Badges → Medals.
-* Most rewards can now be earned in a 15–30 minute game.
+* Simplified many reward requirements, following the hierarchy: Pins → Ribbons → Badges → Medals.
+* Most rewards can now be earned in a 15 minute game.
 
 {% columns %}
 {% column %}
