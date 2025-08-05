@@ -16,11 +16,23 @@ Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142
 
 ### Downloads
 
-**BF2142\_Widescreen\_Hudfix.zip (Google Drive, 9 KB)**
+{% tabs %}
+{% tab title="Downloads" %}
 
-{% embed url="https://drive.google.com/file/d/1dQUtpF37JYJhgEwCeqZ2Nqxd48dGNn8j/view?usp=drive_link" %}
+{% endtab %}
+
+{% tab title="Changelog" %}
+**BF2142\_Widescreen\_Hudfix\_v2.zip (Google Drive, 15 KB)**
+
+{% embed url="https://drive.google.com/file/d/1ODc9Gk6GMD7PcI9kmT_jWszhNwseAfPR" %}
 Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
+
+**BF2142\_Widescreen\_Hudfix\_v1.zip (Google Drive, 9 KB)**
+
+
+{% endtab %}
+{% endtabs %}
 
 ### Preparations
 

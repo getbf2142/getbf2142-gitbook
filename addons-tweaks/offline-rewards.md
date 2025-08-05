@@ -25,17 +25,31 @@ Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this wa
 
 Just a few things to note ...
 
-* A few rewards may not work perfectly due to new weapon names in Project Remaster.
 * To make your games last longer, adjust the ticket ratio when creating a LAN game. \[How?[^1]]
+* To enable logging, go to `python\bf2\__init__.py` and adjust the values for `g_debug`, `g_debug_log`, and `g_falog`.
 * This patch applies to all mods, including vanilla 2142.
 
 ### Downloads
 
-**offline\_rewards.zip (Google Drive, 42 KB)**
+{% tabs %}
+{% tab title="Downloads" %}
+**BF2142\_Offline\_Rewards\_v2.zip (Google Drive, 37 KB)**
 
-{% embed url="https://drive.google.com/file/d/16WwI7T8NAv3oJaNS4BysAfJ2Uev2ugrd/view?usp=sharing" %}
+{% embed url="https://drive.google.com/file/d/1QelzAksf84NheB0HWL6fyvcCFxRIybjX" %}
 Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endembed %}
+
+**BF2142\_Offline\_Rewards\_v1.zip (Google Drive, 42 KB)**
+
+{% embed url="https://drive.google.com/file/d/16WwI7T8NAv3oJaNS4BysAfJ2Uev2ugrd" %}
+{% endtab %}
+
+{% tab title="v2 Changelog" %}
+* Added support to all Remaster mod weapons in `constants.py`
+* Made it easier to enable or disable the log functions in `__init__.py`
+* Cleaned up some codes in `rank.py` and `unlocks.py`
+{% endtab %}
+{% endtabs %}
 
 ### Procedures
 
