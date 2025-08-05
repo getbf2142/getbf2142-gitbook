@@ -55,9 +55,10 @@ Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% tab title="Changelogs" %}
 **v2**
 
-* Added support for all Remaster mod weapons in `constants.py`.
-* Made it easier to enable or disable log functions in `__init__.py`.
-* Cleaned up code in `rank.py` and `unlocks.py`.
+* Added support for all Remaster mod weapons in `constants.py`
+* Fixed several rewards that weren’t working by updating their requirements in `medal_data.py`
+* Made it easier to enable or disable log functions in `__init__.py`
+* Cleaned up code in `rank.py` and `unlocks.py`
 {% endtab %}
 {% endtabs %}
 

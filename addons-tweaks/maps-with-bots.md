@@ -6,7 +6,7 @@ Maybe you’re looking for maps loaded with vehicles, or ones designed just for 
 
 <details>
 
-<summary>My top picks for the best map addons with bot support</summary>
+<summary>Top picks for the best Conquest Coop maps</summary>
 
 **This is just my personal take ...**
 
@@ -14,20 +14,21 @@ Maybe you’re looking for maps loaded with vehicles, or ones designed just for 
 * `Suez Canal` is a sniper’s dream, with a linear layout that really suits long-range play.
 * `Fall of Berlin` delivers classic street battles in Berlin with a great atmosphere.
 * `Camp Gibraltar` is all about close-quarters combat — perfect for shotgun and assault fans.
-* `Bridge at Remagen` is my pick for the best snow map for street fighting.
-* `Breakthrough at Remagen` is ideal for sniping, with some medium-sized open spaces in a snowy setting.
-* `Strike at Karkand` brings that BF2 nostalgic, linear Middle Eastern street fighting vibe.
-* `Tunis Harbor` brings the unique futuristic street fighting back to a desert port.
+
+- `Breakthrough at Remagen` is my pick for the best snow map for sentry guns and sniping.
+- `Strike at Karkand` brings that BF2 nostalgic, linear Middle Eastern street fighting vibe.
+
 * `Desert Storm` feels a lot like BF1’s Sinai Desert — an open map with hills, perfect for tank and walker battles, and a paradise for engineers.
+* `Kursk` is a forest map, perfect for tank and walker battles, and a paradise for engineers.
 
 - `Victory Village` is a European town map focused on street fighting.
-- `Street` is another linear Middle Eastern map, great for street battles.
+- `Street` is another linear Middle Eastern map, great for intense street battles.
 
 **How to get these maps ?**
 
-* You can get the upgraded versions of `Belgrade`, `Suez Canal`, `Fall of Berlin`, and `Camp Gibraltar` through either the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod or [BF2142 Hub](../getting-started/download-and-install-bf2142-hub.md).
-* To access `Bridge at Remagen`, `Breakthrough at Remagen`,`Strike at Karkand`, and `Tunis Harbor`, you’ll need the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod.
-* For our improved versions of `Desert Storm`, `Victory Village`, and `Street` — with fixes for broken bot support — you can download them [here](maps-with-bots.md#what-you-will-get-from-us).
+* You can get the upgraded versions of `Belgrade`, `Suez Canal`, `Fall of Berlin`, and `Camp Gibraltar` through either the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod (preferred) or [BF2142 Hub](../getting-started/download-and-install-bf2142-hub.md).
+* To access `Breakthrough at Remagen` and `Strike at Karkand`, you’ll need the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod. For `Kursk`, you'll need [BF2142 Hub](../getting-started/download-and-install-bf2142-hub.md).
+* For our improved versions of `Desert Storm`, `Victory Village`, and `Street`, you can download them [here](maps-with-bots.md#what-you-will-get-from-us).
 
 </details>
 
@@ -51,7 +52,7 @@ You got just 5 maps with bot support for singleplayer and multiplayer.
 
 <details>
 
-<summary>List of Maps in Vanilla BF2142 w/ Bot Support</summary>
+<summary>List of Conquest Coop maps in Vanilla BF2142</summary>
 
 * Belgrade - 16
 
@@ -75,9 +76,9 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 <details>
 
-<summary>List of Maps in Project Remaster w/ Bot Support</summary>
+<summary>List of Conquest Coop maps in Project Remaster</summary>
 
-#### Core Maps:
+#### Core Maps
 
 * Belgrade - 16/32/64
 * Cerbere Landing - 16/32/64
@@ -103,7 +104,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 * \[BF2] Operation Blue Pearl - 16/32/64 \[...[^3]]
 * \[BF2] Strike at Karkand - 16/32/48/64 \[...[^4]]
 
-#### Northern Strike Maps:
+#### Northern Strike Maps
 
 * Bridge at Remagen - 16/32/64
 * Leipzig - 16/32/64
@@ -111,7 +112,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 * Port Bavaria Night - 16/32/64 \[...[^5]]
 * Breakthrough at Remagen - 16/32/64 \[...[^6]]
 
-#### Custom Maps:
+#### Custom Maps
 
 * \[BF2] Backstab - 16/32/64 \[...[^7]]
 * Test Range - 16 \[...[^8]]
@@ -128,9 +129,11 @@ If you’re looking to play new maps with bots in singleplayer or multiplayer, h
 
 <details>
 
-<summary>List of Maps in Reclamation Map Pack w/ Bot Support</summary>
+<summary>List of Conquest Coop maps in Reclamation Map Pack</summary>
 
-Core Maps (with \_coop suffix):
+Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
+
+#### Core Maps (with \_coop suffix)
 
 * Belgrade
 * Camp Gibraltar
@@ -147,7 +150,7 @@ Core Maps (with \_coop suffix):
 - Minsk
 - Hamburg Harbour - 16/32
 
-Custom Maps:
+#### Custom Maps
 
 * Desert Storm - 16
 
@@ -160,7 +163,7 @@ Custom Maps:
 * \[BF2] Street - 16
 * 2142 Shipment - 16
 
-Broken Maps (broken bot support):
+#### Broken Maps (broken bot support)
 
 * \[BF2] tgw operation amos - 16
 
@@ -169,8 +172,6 @@ Broken Maps (broken bot support):
 * \[BF Heroes] Victory Village - 16
 
 - \[BF2] Wall of Jericho (Great Wall) - 32/64
-
-Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
 
 </details>
 
@@ -304,7 +305,7 @@ Since the map features a walled city, bots aren’t always smart enough to find 
 </details>
 
 {% hint style="info" %}
-To install the map, extract the file to `...\Battlefield 2142\mods\<MOD>\Levels`. **\[**[**?**](#user-content-fn-9)[^9]**]**
+To install the map, extract the files to `...\Battlefield 2142\mods\<MOD>\Levels`. **\[**[**?**](#user-content-fn-9)[^9]**]**
 {% endhint %}
 
 {% columns %}
