@@ -44,7 +44,7 @@ Put `aiSettings.overrideMenuSettings 1` before the line with `aiSettings.maxBots
 {% step %}
 Your file should look something like this around lines 9–12:
 
-```json
+```batch
 aiSettings.overrideMenuSettings 1
 aiSettings.maxBotsIncludeHumans 0
 aiSettings.setMaxNBots 32

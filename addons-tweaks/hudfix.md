@@ -83,7 +83,7 @@ Open `ClientArchives.con` with a text editor.
 {% step %}
 At the head of the file, add this line **\[**[**?**](#user-content-fn-3)[^3]**]**:
 
-```
+```batch
 fileManager.mountArchive Shaders_client_hudfix.zip Shaders
 ```
 {% endstep %}
@@ -101,7 +101,7 @@ Open `ServerArchives.con` with a text editor.
 {% step %}
 At the head of the file, add this line **\[**[**?**](#user-content-fn-4)[^4]**]**:
 
-```
+```batch
 fileManager.mountArchive Menu_server_hudfix.zip Menu
 ```
 {% endstep %}

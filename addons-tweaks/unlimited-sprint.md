@@ -16,7 +16,7 @@ Inside `Soldiers_server.zip`, open the `EU` or `PAC` folder and edit the `.tweak
 
 For example, to modify the EU heavy armor soldier, open `us\US_HEAVY_SOLDIER.tweak` with a text editor and make your changes like this:
 
-```json
+```batch
 ObjectTemplate.SprintRecoverTime 1
 ObjectTemplate.SprintDissipationTime 100
 ObjectTemplate.SprintLimit 0.1

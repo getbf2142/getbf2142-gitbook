@@ -83,15 +83,21 @@ If you don’t need certain settings anymore, just add `rem` at the start of the
 
 <details>
 
-<summary>TL;DR</summary>
+<summary>Frequently Used Settings</summary>
 
 Here are some very frequently used settings that require your attention.
 
-<pre class="language-json"><code class="lang-json">sv.internet 1 // display your server on the server browser
-sv.welcomeMessage "Welcome!" // welcome message on loading screen
-<strong>sv.numPlayersNeededToStart 1 // fixed the “1 more player to start” issue in LAN games
-</strong>sv.spawnTime 10 // the time you have to wait before respawning
-sv.manDownTime 10 // the amount of time you can be revived by a medic
+<pre class="language-batch"><code class="lang-batch">rem ↓ display your server on the server browser
+sv.internet 1
+rem ↓ set welcome message on loading screen
+sv.welcomeMessage "Welcome!"
+rem ↓ remove "The game will start when 1 more player join" in LAN games
+<strong>sv.numPlayersNeededToStart 1
+</strong><strong>rem ↓ the amount of time in seconds you have to wait before respawning
+</strong><strong>sv.spawnTime 10
+</strong>rem ↓ the amount of time in seconds you can be revived by a medic
+sv.manDownTime 10
+rem ↓ set the ticket scaling to 100% - unchanged, set it higher to scale up
 sv.ticketRatio 100
 sv.teamRatioPercent 100
 sv.autoBalanceTeam 0
@@ -100,7 +106,8 @@ sv.useGlobalRank 1
 sv.useGlobalUnlocks 1
 sv.minUnlockLevel 5
 sv.botSkill 0.2
-sv.friendlyFireWithMines 0 // disable friendly fire on mines
+rem ↓ disable friendly fire on mines
+sv.friendlyFireWithMines 0
 </code></pre>
 
 </details>

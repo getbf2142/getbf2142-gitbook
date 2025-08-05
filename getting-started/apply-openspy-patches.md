@@ -48,7 +48,7 @@ Project Reclamation is a community effort that brings Battlefield 2142’s onlin
 
 <details>
 
-<summary>How is the Reclamation community doing ? Is it still active ?</summary>
+<summary>How is the community in Reclamation doing ? Is it still active ?</summary>
 
 <figure><img src="../.gitbook/assets/reclamation_orig.png" alt="" width="563"><figcaption></figcaption></figure>
 

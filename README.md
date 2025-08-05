@@ -24,7 +24,7 @@ You can have a fully functional Battlefield 2142 up and running **in less than 1
 
 <details>
 
-<summary>What is BF2142 all about?</summary>
+<summary>What is BF2142 all about ?</summary>
 
 Battlefield 2142 is the sequel to the critically acclaimed Battlefield 2, set in a distant future where a new ice age has gripped the world. In this harsh environment, two superpowers — the European Union (EU) and the Pan-Asian Coalition (PAC) — battle for survival and control.
 
@@ -32,7 +32,7 @@ Battlefield 2142 is the sequel to the critically acclaimed Battlefield 2, set in
 
 <details>
 
-<summary>Why would anyone still play BF2142?</summary>
+<summary>Why would anyone still play BF2142 ?</summary>
 
 Battlefield 2142 is still a fantastic choice for both solo and group fun. You can play with bots in singleplayer or multiplayer, making it great for relaxing bot-grinding sessions or quick LAN parties with friends and family. The game runs smoothly even on budget laptops, and its multiplayer Titan mode remains a unique and unmatched experience to this day.
 
@@ -40,7 +40,7 @@ Battlefield 2142 is still a fantastic choice for both solo and group fun. You ca
 
 <details>
 
-<summary>What's so special about GetBF2142?</summary>
+<summary>What's so special about GetBF2142 ?</summary>
 
 GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 
@@ -51,7 +51,7 @@ GetBF2142 is a treasure trove of modern Battlefield 2142 modding knowledge:
 
 </details>
 
-Click [here](getting-started/before-proceeding.md) to get started! Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support.
+_**Click**_ [_**here**_](getting-started/before-proceeding.md) _**to get started! Join our**_ [_**Discord**_](https://discord.gg/DaMVNknVnV) _**server to receive support.**_
 
 #### Disclaimer
 

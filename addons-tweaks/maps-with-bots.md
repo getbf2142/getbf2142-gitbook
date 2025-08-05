@@ -179,7 +179,7 @@ You should have BF2142 Hub installed. If you don't, click [here](../getting-star
 
 Check out [this guide](../getting-started/apply-openspy-patches.md#installing-individual-maps) to learn how to install individual maps from the Reclamation Map Pack instead of downloading the entire pack.
 
-### What you will get from us ...
+### What you will get from GetBF2142 ...
 
 You’ll get a few maps from the Reclamation Map Pack that we’ve fixed or tweaked for a better experience. These maps are mostly custom maps or maps from another Battlefield series.
 
@@ -191,7 +191,7 @@ Just a heads up: this version isn’t compatible with Reclamation servers.
 
 Street is a BF2 community map by spfreak that’s now been ported to BF2142 with solid bot support, making it a blast to play. Set in a Middle Eastern town, the map features a linear layout of control points and plenty of urban cover for intense street battles.
 
-#### **What's changed?**
+#### **What's changed ?**
 
 * The ghost car (a broken object that could get players stuck) has been removed.
 * Control points and spawn points have been renamed for clarity.
@@ -209,7 +209,7 @@ Street is a BF2 community map by spfreak that’s now been ported to BF2142 with
 
 Set in a wide-open desert, Desert Storm gives off strong BF1 Sinai Desert vibes right from the start. Every control point is packed with vehicles, making it perfect for large-scale tank and walker battles. With solid bot support, this custom map is a lot of fun to play on.
 
-#### What's changed?
+#### What's changed ?
 
 * The sky brightness and color saturation have been fixed, giving the map a more Belgrade-like atmosphere that’s much easier on the eyes.
 * Vehicle spawns have been adjusted — now you’ll see more walkers, tanks, and AGs, so most of your bots can hop into a vehicle and join the action.
@@ -249,7 +249,7 @@ Originally, [Victory Village 2142](https://www.moddb.com/games/battlefield-2142/
 
 Sharqi Peninsula is a classic Middle Eastern map from Battlefield 2, known for its iconic construction site control point. Now, it’s been ported to BF2142 with fixes to make bot support playable.
 
-#### What’s changed?
+#### What’s changed ?
 
 * The crash when loading into singleplayer or co-op has been fixed by swapping out BF2 vehicles for BF2142 alternatives.
 * The sky lighting has been adjusted, so the map no longer looks overly dark.
@@ -270,7 +270,7 @@ Keep in mind, bot support is still a bit buggy — bots can struggle with stairs
 
 Operation Amos is a popular Chinese map from Battlefield 2, now ported to BF2142 with improvements for playable bot support.
 
-#### What's changed?
+#### What's changed ?
 
 * The crash when loading into singleplayer or co-op has been fixed by swapping out BF2 vehicles for BF2142 alternatives.
 * The broken bridges between the middle control points have been repaired, so bots no longer get stuck in the water and can return to land.
@@ -291,7 +291,7 @@ Keep in mind, bot support is still a bit buggy — bots can struggle with vehicl
 
 Wall of Jericho, known as Great Wall in BF2, is a classic Battlefield map set in China.
 
-#### What's changed?
+#### What's changed ?
 
 * The crash when loading into singleplayer or co-op has been fixed by swapping out BF2 vehicles for BF2142 alternatives.
 * Bot support has been added by bringing over AI and pathfinding files from the original BF2 version.

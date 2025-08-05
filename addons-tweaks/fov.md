@@ -26,7 +26,7 @@ Inside `Soldiers_server.zip`, open the `Common` folder and edit the `SoldierCame
 
 Here are the lines we want to tweak, along with their default values:
 
-```json
+```batch
 ObjectTemplate.worldFOV 1.1
 ObjectTemplate.insideFOV 1.1
 ```

@@ -29,7 +29,7 @@ Here are the minimum requirements::
 
 <details>
 
-<summary>Are there any Mac versions of the game ?</summary>
+<summary>Is there a Mac version of the game ?</summary>
 
 Yes, there is technically a Mac version of the game, but we don’t offer any downloads for it here. If you’re eager to play BF2142 on a Mac, your best options are to run it in a Windows virtual machine or use Boot Camp to run Windows on your Mac.
 
