@@ -10,6 +10,10 @@ If you are still yearning to experience the thrill of Battlefield 2142 once more
 
 Ever since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014, playing online or with friends has become a real challenge. For everyone who still loves this game, we understand what you’re going through — and that’s exactly why we created this website.
 
+<details>
+
+<summary>Read more ...</summary>
+
 GetBF2142 is a passion project created by die-hard fans of the franchise. We want to provide all the resources and information you need in one place, so you can dive right back into this 15-year-old classic and start having fun again in no time!
 
 No ads, no revenue — our intention is pure. We’ve invested our own money to buy the domain and spent countless hours keeping the content up to date. All we want is to make things easier for everyone, so more people can come back and enjoy this masterpiece.
@@ -17,6 +21,8 @@ No ads, no revenue — our intention is pure. We’ve invested our own money to 
 We do not condone piracy or copyright infringement — we have great respect for EA and DICE for creating this masterpiece. However, since the game has been abandoned and there are no better alternatives, we’ve had to find our own ways to keep it alive for those who still want to play.
 
 If you have any concerns or questions about our project, please don’t hesitate to reach out. We’re always open to discussing and addressing your concerns together.
+
+</details>
 
 #### No time to waste !
 
