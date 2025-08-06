@@ -15,7 +15,7 @@ For a full-featured, production server, you’d want to use a [dedicated server 
 
 <summary>Just a couple of things to note ...</summary>
 
-* You only need to set up port forwarding if you want your server to be accessible over the internet (WAN), and it’s something only the host needs to do.
+* You only need to set up port forwarding if you want your server to be accessible over the internet (WAN), and it’s something only the host needs to do. **\[**[**?**](#user-content-fn-2)[^2]**]**
 * Disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on. See details below.
 
 - Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks — this helps prevent any connection issues.
@@ -31,7 +31,7 @@ If you set up port forwarding after your server is already running, you’ll nee
 
 If you’ve configured port forwarding correctly but others still can’t connect, check if your ISP uses CGNAT (Carrier-Grade NAT). If so, port forwarding won’t work. In that case, contact your ISP to see if you can opt out.
 
-Alternatively, you can host a LAN server over a VLAN[^2] so your friends can still join and play together!
+Alternatively, you can host a LAN server over a VLAN[^3] so your friends can still join and play together!
 
 </details>
 
@@ -45,7 +45,7 @@ If your PC has more than one network adapter, like when you use programs such as
 
 #### How to fix this ?
 
-Disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on **\[**[**?**](#user-content-fn-3)[^3]**]**.
+Disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on **\[**[**?**](#user-content-fn-4)[^4]**]**.
 
 1. Go to <mark style="color:blue;">Network and Sharing Center</mark> in your <mark style="color:blue;">Control Panel</mark>.
 
@@ -59,7 +59,7 @@ Disable any network adapters you’re not using, and keep only the one(s) you ne
 
 ### Hosting a LAN Server
 
-A local server is a game server that shows up in your local server browser and can be accessed by anyone on your LAN network. This option is perfect for hosting a game night with family at home, or for playing with friends over the internet using a VLAN[^2].
+A local server is a game server that shows up in your local server browser and can be accessed by anyone on your LAN network. This option is perfect for hosting a game night with family at home, or for playing with friends over the internet using a VLAN[^3].
 
 {% stepper %}
 {% step %}
@@ -181,9 +181,11 @@ If port forwarding isn’t set up properly, your server will still show up in th
 
 [^1]: What I mean is that while you’re limited in how many settings you can tweak through the in-game GUI, you still have access to most server settings — you’ll just need to adjust them by editing the game’s files directly.
 
-[^2]: i.e., virtual LAN, e.g., [Hamachi](https://vpn.net/), [PartyLAN](https://github.com/gyf304/partylan)
+[^2]: If you’re hosting your server over a VLAN, there’s no need for port forwarding — it works just like a regular LAN setup.
 
-[^3]: If you’re running your server over a VLAN or VPN, make sure to keep both your main internet connection (WiFi or Ethernet — whichever you use) and your VLAN or VPN adapters enabled.
+[^3]: i.e., virtual LAN, e.g., [Hamachi](https://vpn.net/), [PartyLAN](https://github.com/gyf304/partylan)
+
+[^4]: If you’re running your server over a VLAN or VPN, make sure to keep both your main internet connection (WiFi or Ethernet — whichever you use) and your VLAN or VPN adapters enabled.
 
 
 

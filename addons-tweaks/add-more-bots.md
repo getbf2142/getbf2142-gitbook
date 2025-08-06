@@ -1,12 +1,12 @@
 # Add More Bots
 
-Many BF2142 players want to play with more bots — 16 just isn’t enough for most! With today’s PCs, you can easily run over 64 bots without lag, making for a much more immersive battlefield experience. If you enjoy grinding bots for fun, you’re not alone!  Here’s a guide on how to increase the number of bots in your game.
+A lot of BF2142 players want more bots—16 just isn’t enough! Modern PCs can easily handle 64+ bots for a much more immersive experience. If you love bot grinding, you’re in good company. Here’s how to increase the number of bots in your game.
 
 ### Preparations
 
-* Do you know where your game directory is? It’s the folder where `BF2142.exe` and `mods` are located. By default, this is usually: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-* You’ll be editing files in `\mods\<MOD>\AI\AIDefault.ai`, so it’s a good idea to make a backup of the file first — just add a suffix like `_bak` or `_o` to the filename of the clone. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* If you want this change to affect vanilla BF2142, make your edits in the `\mods\bf2142` folder. Otherwise, edit the files in the `\mods\<MOD>` folder for your chosen mod.
+* Do you know where your game directory is? It’s the folder with `BF2142.exe` and your `mods` — by default, usually at `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
+* You’ll be editing the `\mods\AI\AIDefault.ai` file, so it’s smart to make a backup first — just copy the file and add something like `_bak` or `_o` to the filename. **\[**[**?**](#user-content-fn-1)[^1]**]**
+* If you want the changes for vanilla BF2142, edit the file in `\mods\bf2142`. For a specific mod, edit the file in that mod’s folder instead.
 
 ### Procedures
 
@@ -81,7 +81,7 @@ Special thanks to:
 
 * [asdasdadsdasdasdasda](https://www.moddb.com/members/na2740631) for sharing details on how to change bot counts @ [How To Change The Singleplayer Bot Count](https://www.moddb.com/mods/battlefield-2-world-at-war/tutorials/how-to-change-singleplayer-bot-count)
 
-[^1]: That’s because it’s easy to restore the files. You wouldn’t want to go through the hassle of reinstalling the whole game just because something got messed up and you didn’t have a backup.
+[^1]: That way, if something goes wrong, you can easily restore the files without having to reinstall the whole game. Having a backup saves you a lot of hassle!
 
 [^2]: Adding too many bots can cause performance drops or crashes on low-end PCs. Don’t go overboard — a good starting point is around 48 bots.
 
