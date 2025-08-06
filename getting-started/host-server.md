@@ -18,7 +18,8 @@ For a full-featured, production server, you’d want to use a [dedicated server 
 * You only need to set up port forwarding if you want your server to be accessible over the internet (WAN), and it’s something only the host needs to do. **\[**[**?**](#user-content-fn-2)[^2]**]**
 * Disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on. See details below.
 
-- Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks — this helps prevent any connection issues.
+- Whenever you see a Windows Firewall prompt, be sure to allow the game (or app if you use BF2142Unlocker) to communicate through both private and public networks — this helps prevent any connection issues.
+- For WAN servers, LAN players (like family at home) can join using your local IP address, while friends from other locations can join using your public IP address — as long as port forwarding is set up correctly.
 - If you start the game with a mod enabled, any server you host will also be modded.
 
 </details>
@@ -27,9 +28,9 @@ For a full-featured, production server, you’d want to use a [dedicated server 
 
 <summary>Port forwarding isn't working for me !?</summary>
 
-If you set up port forwarding after your server is already running, you’ll need to restart the server for the changes to take effect.
+If you set up port forwarding after your server is already running, you’ll need to restart the server for it to take effect.
 
-If you’ve configured port forwarding correctly but others still can’t connect, check if your ISP uses CGNAT (Carrier-Grade NAT). If so, port forwarding won’t work. In that case, contact your ISP to see if you can opt out.
+If you’ve set up port forwarding correctly but others still can’t connect, your ISP might be using CGNAT (Carrier-Grade NAT), which blocks port forwarding. In that case, contact your ISP to see if you can opt out.
 
 Alternatively, you can host a LAN server over a VLAN[^3] so your friends can still join and play together!
 
@@ -89,8 +90,13 @@ Close the game if it’s running.
 {% step %}
 In your home router’s control panel, forward these ports to your server’s local IP address:
 
-* `29900` (UDP or Both)
-* `17567` (Both)
+* `29900` (UDP or Both) - Login Service
+* `17567` (Both) - Game Service
+
+If you’re using BF2142Unlocker, make sure to also enable these two extra ports:
+
+* `8085` (TCP or Both) – Unlock Service
+* `18300` (TCP or Both) – Login Service
 {% endstep %}
 
 {% step %}
@@ -110,10 +116,6 @@ In the <mark style="color:blue;">CREATE</mark> tab, configure your server settin
 
 Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
-
-{% step %}
-LAN players (like family at home) can join using your local IP address, while friends from other locations (WAN players) can join using your public IP address — as long as port forwarding is set up correctly.
-{% endstep %}
 {% endstepper %}
 
 ### Hosting a Public WAN Server
@@ -128,8 +130,13 @@ Close the game if it’s running.
 {% step %}
 In your home router’s control panel, forward these ports to your server’s local IP address:
 
-* `29900` (UDP or Both)
-* `17567` (Both)
+* `29900` (UDP or Both) - Login Service
+* `17567` (Both) - Game Service
+
+If you’re using BF2142Unlocker, make sure to also enable these two extra ports:
+
+* `8085` (TCP or Both) – Unlock Service
+* `18300` (TCP or Both) – Login Service
 {% endstep %}
 
 {% step %}
@@ -173,7 +180,7 @@ Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for d
 {% step %}
 Your server should now appear in the online server browser. To check if everything is set up correctly, press <mark style="color:blue;">Esc</mark> in-game and go to the server browser — your server should be listed there.
 
-If port forwarding isn’t set up properly, your server will still show up in the list, but others won’t be able to join.
+<sup>If port forwarding isn’t set up properly, your server will still show up in the list, but others won’t be able to join.</sup>
 {% endstep %}
 {% endstepper %}
 
