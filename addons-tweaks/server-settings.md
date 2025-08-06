@@ -83,7 +83,7 @@ If you don’t need certain settings anymore, just add `rem` at the start of the
 
 <details>
 
-<summary>Frequently Used Settings</summary>
+<summary>Commonly Used Settings</summary>
 
 Here are some very frequently used settings that require your attention.
 

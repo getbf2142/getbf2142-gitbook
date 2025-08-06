@@ -98,14 +98,14 @@ You should follow these steps:\
 <summary>Why don’t the guides cover BF2142 Unlocker ?</summary>
 
 {% hint style="danger" %}
-At the moment, it’s not possible to play the game using BF2142Unlocker. \[Why?[^4]]
+At the moment, it’s not possible to play the game using BF2142Unlocker. **\[**[**?**](#user-content-fn-4)[^4]**]**
 {% endhint %}
 
-#### **What's BF2142 Unlocker ? What makes it so useful ?**
+#### **What is BF2142 Unlocker ?**
 
 This tool takes care of everything for you — no need to install patches manually. It handles joining servers, switching master servers, hosting LAN games, and finding servers. Just launch BF2142Unlocker and use its easy-to-use interface to jump right into the game.
 
-#### **Why didn’t our tutorials cover BF2142 Unlocker ?**
+#### **Why didn’t our tutorials cover it ?**
 
 In GetBF2142.net, we have a soft spot for nostalgia and love showing newcomers how to install the game the classic way. While this method takes a few extra steps compared to the quick setup, it gives you a fully functional game that launches with the original interface. From there, you can enjoy exploring, creating, or joining games just like in the old days.
 
@@ -129,4 +129,4 @@ Getting a legacy game up and running does take a bit of patience, and there are 
 
 [^3]: With Remaster Launcher, it’s easy to switch between modded and unmodded whenever you like.
 
-[^4]: A recent Windows update has broken the Unlocker, and there’s currently no known fix. While it may still work for a few people, most users — especially those on Windows 10 or 11 — will find that it doesn’t work anymore.
+[^4]: **A recent Windows update has broken the Unlocker, and there’s currently no known fix. While it may still work for a few people, most users — especially those on Windows 10 or 11 — will find that it doesn’t work anymore.**

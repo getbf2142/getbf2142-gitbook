@@ -15,11 +15,11 @@ For a full-featured, production server, you’d want to use a [dedicated server 
 
 <summary>Just a couple of things to note ...</summary>
 
-* Port forwarding is only needed if you want your server to be accessible over the internet (WAN), and only the host needs to set it up.
+* You only need to set up port forwarding if you want your server to be accessible over the internet (WAN), and it’s something only the host needs to do.
+* Disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on. See details below.
 
-- If you launch the game with a mod, your server will be considered modded.
-
-* Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks to avoid any connection issues.
+- Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks — this helps prevent any connection issues.
+- If you start the game with a mod enabled, any server you host will also be modded.
 
 </details>
 
@@ -32,6 +32,28 @@ If you set up port forwarding after your server is already running, you’ll nee
 If you’ve configured port forwarding correctly but others still can’t connect, check if your ISP uses CGNAT (Carrier-Grade NAT). If so, port forwarding won’t work. In that case, contact your ISP to see if you can opt out.
 
 Alternatively, you can host a LAN server over a VLAN[^2] so your friends can still join and play together!
+
+</details>
+
+<details>
+
+<summary>Do this first ! Disable any unused network adapters !</summary>
+
+#### **What's the deal ?**
+
+If your PC has more than one network adapter, like when you use programs such as Hamachi, VirtualBox, VMWare, or ExpressVPN, the game can sometimes choose the wrong adapter when trying to host a server.
+
+#### How to fix this ?
+
+Disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on **\[**[**?**](#user-content-fn-3)[^3]**]**.
+
+1. Go to <mark style="color:blue;">Network and Sharing Center</mark> in your <mark style="color:blue;">Control Panel</mark>.
+
+2) Click <mark style="color:blue;">Change adapter settings</mark>.
+3) Right-click any adapter you want to disable and select <mark style="color:blue;">Disable</mark>.
+4) If you can’t disable an adapter, use <mark style="color:blue;">PowerShell</mark> as an Administrator:\
+   `Disable-NetAdapter -Name "Adapter Name"`\
+   <sup>(Re-enable later with</sup> <sup></sup><sup>`Enable-NetAdapter -Name "Adapter Name"`</sup><sup>)</sup>
 
 </details>
 
@@ -160,3 +182,9 @@ If port forwarding isn’t set up properly, your server will still show up in th
 [^1]: What I mean is that while you’re limited in how many settings you can tweak through the in-game GUI, you still have access to most server settings — you’ll just need to adjust them by editing the game’s files directly.
 
 [^2]: i.e., virtual LAN, e.g., [Hamachi](https://vpn.net/), [PartyLAN](https://github.com/gyf304/partylan)
+
+[^3]: If you’re running your server over a VLAN or VPN, make sure to keep both your main internet connection (WiFi or Ethernet — whichever you use) and your VLAN or VPN adapters enabled.
+
+
+
+    These virtual adapters usually have higher priority, so your server will often host on them by default. If you’re not sure which one is being used, open Command Prompt and run `ipconfig` — the adapters that show up first generally have higher priority.

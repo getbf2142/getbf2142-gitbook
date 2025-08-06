@@ -1,20 +1,19 @@
 # Offline Rewards
 
-This patch emulates the ranked server rewards system — pins, ribbons, badges, and medals — in your single-player or LAN co-op games. Keep in mind, though, it’s just a simulation: the rewards only last for the current round and will reset once the game ends.
-
-Still, it’s a great quality-of-life improvement that makes bot grinding much more fun. Imagine earning a bunch of medals in one game — it’s pretty satisfying!
+This patch emulates the ranked server rewards system — pins, ribbons, badges, and medals — in your singleplayer or LAN co-op games. It’s a great quality-of-life improvement that makes bot grinding much more fun. Imagine earning a bunch of medals in one game — it’s pretty satisfying!
 
 ### What has been changed ?
 
-Normally, in vanilla BF2142, you wouldn’t really earn medals or badges this way, since many rewards require things like _150 total hours played_ or _300 EU team wi&#x6E;_&#x73; — goals that aren’t possible in a single round. To fix this, we’ve revamped the rewards system and requirements to better fit 15–30 minute co-op games:
+In vanilla, earning medals or badges was tough since many required things like 150 hours played or 300 EU team wins — goals you can’t reach in a single round. To fix this, we’ve reworked the rewards system and requirements to better suit a quick co-op games:
 
 * Removed all rewards related to Titan mode.
 * Eliminated requirements that are impossible to achieve.
 * Simplified many reward requirements, following the hierarchy: Pins → Ribbons → Badges → Medals.
-* Most rewards can now be earned in a 15 minute game.
+* Most rewards can now be earned within 15 minutes of playing.
 
 Just a few things to note ...
 
+* Rewards only last for the current round and reset when the game ends.
 * To make your games last longer, adjust the ticket ratio when creating a LAN game. \[How?[^1]]
 * To enable logging, go to `python\bf2\__init__.py` and adjust the values for `g_debug`, `g_debug_log`, and `g_falog`.
 * This patch applies to all mods, including vanilla 2142.

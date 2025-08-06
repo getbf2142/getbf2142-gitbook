@@ -30,6 +30,20 @@ This option lets you adjust game settings such as ticket ratio, team ratio, roun
 
 Once your game is [OpenSpy-ready](apply-openspy-patches.md), the customization screen will work properly, and all unlocks will be available in-game.
 
+<details>
+
+<summary>How to fix "The game will start when 1 more player(s) join" ?</summary>
+
+You need this setting:
+
+```batch
+sv.numPlayersNeededToStart 1
+```
+
+Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for instructions on how to do this.
+
+</details>
+
 {% stepper %}
 {% step %}
 Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">LOCAL</mark> → <mark style="color:blue;">CREATE</mark>.
@@ -41,17 +55,3 @@ Configure your game settings and click <mark style="color:blue;">START SERVER</m
 Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
 {% endstepper %}
-
-<details>
-
-<summary>Solution to “1 more player to start game” issue when playing solo</summary>
-
-You need this setting:
-
-```
-sv.numPlayersNeededToStart 1
-```
-
-Check out the [Server Settings Tweak](../addons-tweaks/server-settings.md) guide for instructions on how to do this.
-
-</details>
