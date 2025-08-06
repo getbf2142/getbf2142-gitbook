@@ -4,23 +4,21 @@ description: We understand your struggle !
 
 # Homepage
 
-If you are still yearning to experience the thrill of Battlefield 2142 once more, or you are lost on where to find a copy of this classic game, look no further! Join us today in reliving the glory days of Battlefield 2142! We will make sure to get you back in action in no time!
+If you’re eager to relive the excitement of Battlefield 2142 or aren’t sure where to find a copy, you’re in the right place! Join us and experience the glory days of BF2142 all over again — we’ll help you get back in the action in no time!
 
 #### We exist to help !
 
-Ever since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in June 2014, playing online or with friends has become a real challenge. For everyone who still loves this game, we understand what you’re going through — and that’s exactly why we created this website.
+Since [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in 2014, playing Battlefield 2142 has been tough — whether online or solo. That’s why we created GetBF2142: a fan-driven project with all the resources you need to get back into the game quickly.
+
+There are no ads or revenue here — just a genuine effort from fans who want to keep this classic alive. We handle downloads quietly and aren’t connected to any other projects, so if anything goes wrong, only we’re affected. Our goal is simple: make it easy for everyone to enjoy BF2142 again.
 
 <details>
 
 <summary>Read more ...</summary>
 
-GetBF2142 is a passion project created by die-hard fans of the franchise. We want to provide all the resources and information you need in one place, so you can dive right back into this 15-year-old classic and start having fun again in no time!
+We don’t support piracy or copyright infringement and have great respect for EA and DICE. Since the game’s been abandoned and there are no alternatives, we’ve simply found ways to keep it alive for fans.
 
-No ads, no revenue — our intention is pure. We’ve invested our own money to buy the domain and spent countless hours keeping the content up to date. All we want is to make things easier for everyone, so more people can come back and enjoy this masterpiece.
-
-We do not condone piracy or copyright infringement — we have great respect for EA and DICE for creating this masterpiece. However, since the game has been abandoned and there are no better alternatives, we’ve had to find our own ways to keep it alive for those who still want to play.
-
-If you have any concerns or questions about our project, please don’t hesitate to reach out. We’re always open to discussing and addressing your concerns together.
+If you have any questions or concerns, please reach out — we’re always happy to help.
 
 </details>
 
@@ -40,7 +38,7 @@ Battlefield 2142 is the sequel to the critically acclaimed Battlefield 2, set in
 
 <summary>Why would anyone still play BF2142 ?</summary>
 
-Battlefield 2142 is still a fantastic choice for both solo and group fun. You can play with bots in singleplayer or multiplayer, making it great for relaxing bot-grinding sessions or quick LAN parties with friends and family. The game runs smoothly even on budget laptops, and its multiplayer Titan mode remains a unique and unmatched experience to this day.
+Battlefield 2142 is still a great pick for solo or group play. You can enjoy bot matches in singleplayer or multiplayer, perfect for relaxing sessions or quick LAN parties. It runs well even on budget laptops, and its Titan mode is still a one-of-a-kind multiplayer experience.
 
 </details>
 
