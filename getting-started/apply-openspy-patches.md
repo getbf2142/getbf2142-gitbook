@@ -69,7 +69,7 @@ Jump in and you’ll find a welcoming and active community!
 
 <details>
 
-<summary>Do we get all the unlocks with OpenSpy - Reclamation ?</summary>
+<summary>Do we get all the unlocks with OpenSpy ?</summary>
 
 Yes, connecting to OpenSpy is a real privilege — all unlocks are available to everyone as soon as you create a new soldier. As long as you're connected to the internet, you'll have access to all unlocks in Single-Player and LAN modes. This makes it perfect for grinding against bots in a Conquest Coop game.
 

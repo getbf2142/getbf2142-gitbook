@@ -124,20 +124,20 @@ Download the version you’d like to use — we recommend going with v14 BETA13 
 **\[STABLE] project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**13**</mark>**.exe (Google Drive, 3.6 GB)**
 
 {% embed url="https://drive.google.com/file/d/1CqDNfcjALCEs1KEkJut2k2VTeGGUwx4Q/view?usp=share_link" %}
-Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
+Source: [BF2142 Remastered](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
 {% endembed %}
 
 **\[LATEST] project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**14**</mark>**.exe (Google Drive, 3.6 GB)**
 
 {% embed url="https://drive.google.com/file/d/11Lo-b3Hv9jMpoSYz0frVC4cgNiwpFS4Y" %}
-Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
+Source: [BF2142 Remastered](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
 {% endembed %}
 
 **\[BETA] Project\_Remaster\_v16\_2025-07-27.rar (Google Drive, 3.2 GB)**\
 <sub>Ask nicely in</sub> [<sub>Discord</sub>](https://discord.gg/nVdDkgA) <sub>to join the v16 testing ...</sub>
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
-Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
+Source: [P](https://discord.gg/nVdDkgA)[BF2142 Remastered](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
 {% endembed %}
 
 [^1]: The installer takes time to decompress files to prepare for the installation.

@@ -16,6 +16,14 @@ When you use OpenSpy as your login service, you automatically get access to all 
 
 </details>
 
+<details>
+
+<summary>I forgot my password. How to reset it ?</summary>
+
+OpenSpy now lets you reset your password and manage your account at [https://account.openspy.net/login](https://account.openspy.net/login) (use Partner Code 20 - EA).
+
+</details>
+
 ### Troubleshoots
 
 <details>

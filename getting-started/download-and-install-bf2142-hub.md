@@ -20,13 +20,11 @@ The tool is developed and maintained by the [Reclamation Team](https://battlefie
 
 <details>
 
-<summary>Can I install OpenSpy patches without having to install BF2142 Hub ?</summary>
+<summary>Can I install OpenSpy patches without BF2142 Hub ?</summary>
 
-Great question!&#x20;
+Great question! Technically, you can install OpenSpy patches without using BF2142 Hub, but it’s not recommended. OpenSpy servers might change their IP addresses, and if that happens, you could lose connection.
 
-Technically, you can install OpenSpy patches without using BF2142 Hub, but it’s not recommended. That’s because OpenSpy servers might change their IP addresses in the future, and if that happens, you won’t be able to connect.
-
-BF2142 Hub always fetches the latest patch, so if anything changes, you can easily stay up to date and keep playing without issues.
+BF2142 Hub always grabs the latest patch, so you’ll stay up to date and keep playing smoothly, even if things change.
 
 </details>
 

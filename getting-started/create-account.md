@@ -28,7 +28,7 @@ Click <mark style="color:blue;">ACCEPT TERMS</mark>. **\[**[**?**](#user-content
 {% endstep %}
 
 {% step %}
-Fill out the registration form with fake information **\[**[**?**](#user-content-fn-4)[^4]**]** — but make sure to remember your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. **\[**[**?**](#user-content-fn-5)[^5]**]**
+Fill out the registration form **\[**[**?**](#user-content-fn-4)[^4]**]** — but make sure to remember your <mark style="color:blue;">EMAIL ADDRESS</mark>, <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. If you forgot your password **\[**[**...**](#user-content-fn-5)[^5]**]**
 {% endstep %}
 
 {% step %}
@@ -95,9 +95,13 @@ Also, take a look at the addons and tweaks section in the sidebar navigation —
 
 [^3]: One important thing to note from the <mark style="color:blue;">TERMS AND CONDITIONS</mark> is that your password is stored remotely in plain text, so just be aware of this when creating your account.
 
-[^4]: Most of the information you enter isn’t actually relevant, so it’s fine to use false details. Since master servers store your account data in plain text, it’s best to use a simple password (like `123456`) and a fake email address (for example, `hi@gmail.com`).
+[^4]: Most of the information you enter isn’t actually relevant, so it’s fine to use false details. Since master servers store your account data in plain text, it’s best to use a simple password (like `123456`).
 
-[^5]: The only details you really need to remember are your <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. Be sure to write them down, since OpenSpy doesn’t support account name or password recovery.
+[^5]: OpenSpy now lets you reset your password and manage your account at [https://account.openspy.net/login](https://account.openspy.net/login) (use Partner Code 20 - EA).
+
+
+
+    When registering, make sure to use a valid email address so you can access these features.
 
 [^6]: Try different entries for <mark style="color:blue;">ACCOUNT NAME</mark> or <mark style="color:blue;">EMAIL ADDRESS</mark> as they may have been previously used by other accounts.
 
