@@ -40,13 +40,9 @@ Alternatively, you can host a LAN server over a VLAN[^3] so your friends can sti
 
 <summary>Do this first ! Disable any unused network adapters !</summary>
 
-#### **What's the deal ?**
-
 If your PC has more than one network adapter, like when you use programs such as Hamachi, VirtualBox, VMWare, or ExpressVPN, the game can sometimes choose the wrong adapter when trying to host a server.
 
-#### How to fix this ?
-
-Disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on **\[**[**?**](#user-content-fn-4)[^4]**]**.
+To fix this, disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on **\[**[**?**](#user-content-fn-4)[^4]**]**.
 
 1. Go to <mark style="color:blue;">Network and Sharing Center</mark> in your <mark style="color:blue;">Control Panel</mark>.
 
@@ -178,9 +174,11 @@ Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for d
 {% endstep %}
 
 {% step %}
-Your server should now appear in the online server browser. To check if everything is set up correctly, press <mark style="color:blue;">Esc</mark> in-game and go to the server browser — your server should be listed there.
+Your server should now appear in the online server browser.
 
-<sup>If port forwarding isn’t set up properly, your server will still show up in the list, but others won’t be able to join.</sup>
+To check if everything is set up correctly, press <mark style="color:blue;">Esc</mark> in-game and go to the server browser — your server should be listed there.
+
+If port forwarding isn’t set up properly, your server will still show up in the list, but others won’t be able to join.
 {% endstep %}
 {% endstepper %}
 

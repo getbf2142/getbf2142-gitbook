@@ -4,42 +4,14 @@ Once you’re familiar with the game, you might want to see all server lists, jo
 
 <details>
 
-<summary>Just a couple of things to note ...</summary>
+<summary>Something interesting ...</summary>
 
-* You only need to set up port forwarding if you want your server to be accessible over the internet, and it’s something only the host needs to do. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* Disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on. See details below.
+* With the unlocker, you’re setting up a master server, but you’ll still need to host the actual game server from within the game itself.
+* `v0.9.7` lets you host without any network adapters, while `v0.9.4` requires one — even if it’s not connected to the internet.
 
-- Whenever you see a Windows Firewall prompt, be sure to allow the app to communicate through both private and public networks — this helps prevent any connection issues.
+- Technically, with `v0.9.7`, you can host both your master server and game server even if you’re not connected to any network or don’t have any network adapters.
 
-</details>
-
-<details>
-
-<summary>Port forwarding isn't working for me !?</summary>
-
-If you set up port forwarding after your server is already running, you’ll need to restart the server for it to take effect.
-
-If you’ve set up port forwarding correctly but others still can’t connect, your ISP might be using CGNAT (Carrier-Grade NAT), which blocks port forwarding. In that case, contact your ISP to see if you can opt out.
-
-Alternatively, you can host a LAN server over a VLAN[^2] so your friends can still join and play together!
-
-</details>
-
-<details>
-
-<summary>Do this first ! Disable any unused network adapters !</summary>
-
-If your PC has more than one network adapter, like when you use programs such as Hamachi, VirtualBox, VMWare, or ExpressVPN, the app can sometimes choose the wrong adapter when trying to host a server.
-
-To fix this, disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on **\[**[**?**](#user-content-fn-3)[^3]**]**.
-
-1. Go to <mark style="color:blue;">Network and Sharing Center</mark> in your <mark style="color:blue;">Control Panel</mark>.
-
-2) Click <mark style="color:blue;">Change adapter settings</mark>.
-3) Right-click any adapter you want to disable and select <mark style="color:blue;">Disable</mark>.
-4) If you can’t disable an adapter, use <mark style="color:blue;">PowerShell</mark> as an Administrator:\
-   `Disable-NetAdapter -Name "Adapter Name"`\
-   <sup>(Re-enable later with</sup> <sup></sup><sup>`Enable-NetAdapter -Name "Adapter Name"`</sup><sup>)</sup>
+* In `v0.9.7`, <mark style="color:blue;">Host</mark> uses `0.0.0.0` and <mark style="color:blue;">Singleplayer</mark> uses `127.0.0.1`.
 
 </details>
 
@@ -99,7 +71,7 @@ This lets the game use up to 4GB of RAM, which helps prevent crashes.
 {% step %}
 **Use Windowed Mode**
 
-Check the Window Mode option and set your screen resolution.
+Check the <mark style="color:blue;">Window Mode</mark> option and set your screen resolution.
 
 Only switch to fullscreen once you know everything works — windowed mode makes troubleshooting easier.
 {% endstep %}
@@ -107,9 +79,9 @@ Only switch to fullscreen once you know everything works — windowed mode makes
 {% step %}
 **Configure Settings**
 
-Choose the mod you want to play and set your player name.&#x20;
+Choose the <mark style="color:blue;">Mod</mark> you want to play and set your <mark style="color:blue;">Player name</mark>.&#x20;
 
-Double-check the Video, Audio, and HUD settings — adjust them as needed.
+Double-check the <mark style="color:blue;">Video</mark>, <mark style="color:blue;">Audio</mark>, and <mark style="color:blue;">HUD</mark> settings — adjust them as needed.
 {% endstep %}
 
 {% step %}
@@ -127,68 +99,110 @@ After clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;
 
 * See the game crashes after a black screen
 * Don’t see any new messages in the unlocker terminal before the game intro appears
-* Get stuck or see popups at the login screen **\[**[**?**](#user-content-fn-4)[^4]**]**
+* Get stuck or see popups at the login screen **\[**[**?**](#user-content-fn-1)[^1]**]**
 * See “connection to server lost” at the main menu,
-* Or the game crashes immediately after launching a map (not half way through) **\[**[**?**](#user-content-fn-5)[^5]**]**
+* Or the game crashes immediately after launching a map (not half way through) **\[**[**?**](#user-content-fn-2)[^2]**]**
 
 … it’s very likely something is blocking `127.0.0.1`.&#x20;
 
-**How to fix \[**[**?**](#user-content-fn-6)[^6]**]:**
+**How to fix \[**[**?**](#user-content-fn-3)[^3]**]:**
 
-1. Go to `C:\Windows\System32\drivers\etc` and open the `hosts` file with a text editor.
-2. Comment out any `127.0.0.1` entries (add `#` at the start of the line). **\[**[**?**](#user-content-fn-7)[^7]**]**
-3. Save the file. **\[**[**?**](#user-content-fn-8)[^8]**]**
+{% stepper %}
+{% step %}
+Go to `C:\Windows\System32\drivers\etc` and open the `hosts` file with a text editor.
+{% endstep %}
+
+{% step %}
+Comment out any `127.0.0.1` entries (add `#` at the start of the line).
+
+Comment them out while playing BF2142, and you can always re-enable them later.
+{% endstep %}
+
+{% step %}
+Save the file.
+
+If you can’t save, move it to your desktop, edit, then move it back — or open your editor as admin.
+{% endstep %}
+{% endstepper %}
 
 **If doesn't get fixed :**
 
-1. Follow step 1 - 2 in "Hosting a Server for Friends".,
-2. Click “Host" in the Unlocker.,
-3. Close the game window as soon as it appears.,
-4. Enter your local IPv4 address (find it with `ipconfig` in `cmd`) in the IP-Address box.,
-5. Click <mark style="color:blue;">Connect</mark>.
+{% stepper %}
+{% step %}
+Follow [these steps](../getting-started/host-server.md#do-this-first-disable-any-unused-network-adapters) to disable any network adapters you’re not using.
+{% endstep %}
+
+{% step %}
+Click <mark style="color:blue;">Host</mark> in the unlocker.
+{% endstep %}
+
+{% step %}
+Close the game window as soon as it appears.
+{% endstep %}
+
+{% step %}
+Enter your local IPv4 address (find it with `ipconfig` in `cmd`) in the <mark style="color:blue;">IP-Address</mark> box.
+{% endstep %}
+
+{% step %}
+Click <mark style="color:blue;">Connect</mark>.
+{% endstep %}
+{% endstepper %}
 
 ### Windowed Mode Distortion
 
 If the game window looks distorted in windowed mode, it’s probably due to Windows display scaling.
 
-1. Go to your game folder.
-2. Right-click each `.exe` (`BF2142.exe`, `BF2142Patched.exe`, `BF2142Unlocker.exe`) > Properties > Compatibility > Change high DPI settings.
-3. Check “Override high DPI scaling behavior” and set it to “Application.”
-4. Click Apply and OK.
+{% stepper %}
+{% step %}
+Go to your game folder.
+{% endstep %}
 
-### Hosting a Server for Friends
+{% step %}
+Right-click each `.exe` (`BF2142.exe`, `BF2142Patched.exe`, `BF2142Unlocker.exe`) → <mark style="color:blue;">Properties</mark> → <mark style="color:blue;">Compatibility</mark> → <mark style="color:blue;">Change high DPI settings</mark>.
+{% endstep %}
 
-When you use "Host" in the unlocker, you’re hosting a server — but for your friends to join, you’ll need to do a bit of setup first.
+{% step %}
+Check <mark style="color:blue;">Override high DPI scaling behavior</mark> and set it to <mark style="color:blue;">Application</mark>.
+{% endstep %}
 
-1.
-2. **Port Forwarding:**\
-   Forward these ports to your local IPv4 address (find it with `ipconfig` in `cmd`):
-   * `8085` (TCP or Both)
-   * `29900` (UDP or Both)
-   * `17567` (Both)
-   * `18300` (TCP or Both)
-3. Share your global IPv4 address (find it at [https://www.whatismyip.com/](https://www.whatismyip.com/)) with your friends. They’ll enter it in the unlocker and connect.
+{% step %}
+Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
+{% endstep %}
+{% endstepper %}
 
-[^1]: If you’re hosting your server over a VLAN, there’s no need for port forwarding — it works just like a regular LAN setup.
+### Hosting an Externally Accessible Server
 
-[^2]: i.e., virtual LAN, e.g., [Hamachi](https://vpn.net/), [PartyLAN](https://github.com/gyf304/partylan)
+When you use <mark style="color:blue;">Host</mark> in the unlocker, you’re setting up a master server — but you still need to host the actual game server in-game.
 
-[^3]: If you’re running your server over a VLAN or VPN, make sure to keep both your main internet connection (WiFi or Ethernet — whichever you use) and your VLAN or VPN adapters enabled.
+{% stepper %}
+{% step %}
+Follow the [Host Server](../getting-started/host-server.md) steps to start your game server.
 
+Make sure you read all the expandable notes — don’t skip any!
+{% endstep %}
 
+{% step %}
+Share your server’s IPv4 address (local or global, depending on your setup) with anyone joining.
+{% endstep %}
 
-    These virtual adapters usually have higher priority, so your server will often host on them by default. If you’re not sure which one is being used, open Command Prompt and run `ipconfig` — the adapters that show up first generally have higher priority.
+{% step %}
+Have players enter your server’s IPv4 address in the unlocker’s <mark style="color:blue;">IP-Address</mark> box and click <mark style="color:blue;">Connect</mark>. This connects them to your master server.
+{% endstep %}
 
-[^4]: You shouldn’t even see the login screen — if it appears, something went wrong with the setup.
+{% step %}
+Follow the [Play Multiplayer](../getting-started/play-multiplayer.md) steps to join the game server.&#x20;
 
-[^5]: If it still persists after deleting the cache, something went wrong with loading the unlocks.
+To skip searching the server list, enable <mark style="color:blue;">Auto join server</mark> before clicking <mark style="color:blue;">Connect</mark>. This will connect your players directly to your game server.
+{% endstep %}
+{% endstepper %}
 
-[^6]: Weirdly enough, Windows hosts file is meant to map hostnames to IP addresses — not the other way around — so it shouldn’t normally affect how `127.0.0.1` works.&#x20;
+[^1]: You shouldn’t even see the login screen — if it appears, something went wrong with the setup.
+
+[^2]: If it still persists after deleting the cache, something went wrong with loading the unlocks.
+
+[^3]: Weirdly enough, Windows hosts file is meant to map hostnames to IP addresses — not the other way around — so it shouldn’t normally affect how `127.0.0.1` works.&#x20;
 
 
 
     I’m starting to think maybe the app parses the hosts file itself and acts differently, or maybe it’s just a bug.&#x20;
-
-[^7]: Comment them out while playing BF2142, and you can always re-enable them later.
-
-[^8]: If you can’t save, move it to your desktop, edit, then move it back — or open your editor as admin.
