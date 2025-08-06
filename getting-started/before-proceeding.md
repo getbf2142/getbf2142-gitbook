@@ -87,7 +87,7 @@ You can skip these steps:\
 [③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md), [④ Install OpenSpy Patches](apply-openspy-patches.md)&#x20;
 
 You should follow these steps:\
-[Install OpenSpy Patches Manually](https://battlefield2142.co/faq#notwin32) (for 32-bit OS) → [Install Reclamation Map Pack](apply-openspy-patches.md#reclamation-map-pack) → [⑤ Create Account](create-account.md)
+[Install OpenSpy Patches for XP](https://www.moddb.com/mods/bf2142-reclamation-xp-install-package/downloads/bf2142-reclamation-xp-install-package) \[[Ref](https://battlefield2142.co/faq#notwin32)] → [Install Reclamation Map Pack](apply-openspy-patches.md#reclamation-map-pack) → [⑤ Create Account](create-account.md)
 
 </details>
 
@@ -95,19 +95,13 @@ You should follow these steps:\
 
 <details>
 
-<summary>Why don’t the guides cover BF2142 Unlocker ?</summary>
+<summary>Why don’t the guides cover BF2142Unlocker ?</summary>
 
 {% hint style="danger" %}
-At the moment, it’s not possible to play the game using BF2142Unlocker. **\[**[**?**](#user-content-fn-4)[^4]**]**
+At the moment, it’s not possible to play online using BF2142Unlocker. **\[**[**?**](#user-content-fn-4)[^4]**]**
 {% endhint %}
 
-#### **What is BF2142 Unlocker ?**
-
-This tool takes care of everything for you — no need to install patches manually. It handles joining servers, switching master servers, hosting LAN games, and finding servers. Just launch BF2142Unlocker and use its easy-to-use interface to jump right into the game.
-
-#### **Why didn’t our tutorials cover it ?**
-
-In GetBF2142.net, we have a soft spot for nostalgia and love showing newcomers how to install the game the classic way. While this method takes a few extra steps compared to the quick setup, it gives you a fully functional game that launches with the original interface. From there, you can enjoy exploring, creating, or joining games just like in the old days.
+We’re big fans of nostalgia and enjoy helping newcomers install the game the classic way. It takes a few extra steps compared to the quick setup, but you’ll get the full original interface and experience. From there, you can explore, create, or join games just like back in the day.
 
 </details>
 
@@ -119,7 +113,7 @@ In GetBF2142.net, we have a soft spot for nostalgia and love showing newcomers h
 In a recent update to this site, we’ve worked to streamline the process and make everything simpler for you.
 {% endhint %}
 
-Getting a legacy game up and running does take a bit of patience, and there are plenty of spots where things can go wrong. That’s why we guide you _step-by-step_, making sure everything’s done right as you go. We’ll explain why each step matters and share solutions to common problems along the way — all to give you the best shot at getting the game working smoothly.
+Getting a legacy game running can take some patience, and there are plenty of places where things might go wrong. That’s why we walk you through each step, explaining what matters and offering solutions to common issues — so you have the best chance of getting everything working smoothly.
 
 </details>
 
@@ -129,4 +123,4 @@ Getting a legacy game up and running does take a bit of patience, and there are 
 
 [^3]: With Remaster Launcher, it’s easy to switch between modded and unmodded whenever you like.
 
-[^4]: **A recent Windows update has broken the Unlocker, and there’s currently no known fix. While it may still work for a few people, most users — especially those on Windows 10 or 11 — will find that it doesn’t work anymore.**
+[^4]: A recent Windows update has broken the Unlocker, and there’s currently no known fix. While it may still work for a few people, most users — especially those on Windows 10 or 11 — will find that it doesn’t work anymore.
