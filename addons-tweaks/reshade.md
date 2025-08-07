@@ -20,10 +20,11 @@ However, that version is outdated. The team now uses a newer Reshade client and 
 
 Just a few things to note:
 
-* ReShade can lower your FPS, so you might see a performance hit.
 * ReShade only works on Windows 7 or newer.
-* ReShade will apply to all mods, including vanilla 2142.
+* ReShade applies to all mods, including vanilla 2142.
 * ReShade can be easily uninstalled by just deleting the files you added.
+* ReShade can lower your FPS, so you might notice a performance drop.
+* ReShade has been tested in multiplayer — you won’t get kicked for using it.
 
 ### Downloads
 

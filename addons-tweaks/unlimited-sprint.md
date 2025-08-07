@@ -47,8 +47,9 @@ Don’t forget to make the same changes to `Soldiers_bp1_server.zip` if you plan
 
 ### Remarks
 
-* If you want to play with friends over LAN, everyone needs to have the same modification.
-* If you plan to join a server without this mod, just switch back to your original `Soldiers_server.zip` file.
+* Revert your changes before joining Reclamation or any multiplayer servers, unless the server explicitly allows or uses this mod.
+* If you host a server with this tweak, players who join will also need to make this change.
+* To uninstall the fix, simply undo the changes you made.
 
 ### Acknowledgements
 

@@ -6,17 +6,19 @@ This patch emulates the ranked server rewards system — pins, ribbons, badges, 
 
 In vanilla, earning medals or badges was tough since many required things like 150 hours played or 300 EU team wins — goals you can’t reach in a single round. To fix this, we’ve reworked the rewards system and requirements to better suit a quick co-op games:
 
-* Removed all rewards related to Titan mode.
-* Eliminated requirements that are impossible to achieve.
-* Simplified many reward requirements, following the hierarchy: Pins → Ribbons → Badges → Medals.
-* Most rewards can now be earned within 15 minutes of playing.
+* All Titan mode rewards have been removed.
+* Requirements that were impossible to achieve are now gone.
+* Many reward requirements have been simplified, following this order: Pins → Ribbons → Badges → Medals.
+* Most rewards can now be earned within about 15 minutes of play.
 
 Just a few things to note ...
 
-* Rewards only last for the current round and reset when the game ends.
-* To make your games last longer, adjust the ticket ratio when creating a LAN game. \[How?[^1]]
-* To enable logging, go to `python\bf2\__init__.py` and adjust the values for `g_debug`, `g_debug_log`, and `g_falog`.
 * This patch applies to all mods, including vanilla 2142.
+* This patch only affects singleplayer and has no impact on multiplayer.
+* This patch has been tested in multiplayer — you won’t get kicked for having it installed.
+* Rewards in this patch only last for the current round and reset when the game ends.
+* To make your games last longer, adjust the ticket ratio when setting up a game.
+* To enable logging, edit `python\bf2\__init__.py` and adjust the values for `g_debug`, `g_debug_log`, and `g_falog`.
 
 ### How to obtain the rewards ?
 
@@ -79,10 +81,6 @@ In your game directory, find the folder named `python` and rename it to somethin
 {% step %}
 Drag and drop the `python` folder from the `.zip` file into the root directory of your game folder.
 {% endstep %}
-
-{% step %}
-<mark style="color:blue;">Overwrite</mark> or <mark style="color:blue;">Replace All</mark> if necessary.
-{% endstep %}
 {% endstepper %}
 
 ### Acknowledgements
@@ -90,5 +88,3 @@ Drag and drop the `python` folder from the `.zip` file into the root directory o
 Special thanks to:
 
 * [maiorBoltach](https://github.com/maiorBoltach) for providing the python files (if I'm not mistaken) @ [bf2142stats\_emu](https://github.com/maiorBoltach/bf2142stats_emu)
-
-[^1]: The ticket ratio is a multiplier (e.g., 300 means x3, 350 means x3.5). A value between 200 and 400 is recommended, which will scale your tickets to around 500–1000.

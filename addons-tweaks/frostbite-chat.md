@@ -52,6 +52,12 @@ Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
 {% endtab %}
 {% endtabs %}
 
+### Remarks
+
+* Revert your changes before joining Reclamation or any multiplayer servers, unless the server explicitly allows or uses this mod.
+* If you host a server with this tweak, players who join will also need to make this change.
+* To uninstall the fix, simply undo the changes you made.
+
 ### Acknowledgements
 
 Special thanks to:

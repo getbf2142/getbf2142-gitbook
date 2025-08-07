@@ -71,9 +71,9 @@ If you’re unable to save your changes, try dragging the `.ai` file to your Des
 
 ### Remarks
 
-* When you launch the game and select a map, it might still display 16 bots, but if you’ve edited the file correctly, you’ll actually have the number of bots you set.
-* Remember, everything is case sensitive — spelling mistakes or incorrect capitalization can cause the game to crash!
-* If you host a server with this tweak, your server will have more bots, and players who join won’t need to make any changes on their end.
+* When you launch the game and select a map, it might still show 16 bots — but if you’ve edited the file correctly, you’ll get the number you set.
+* Everything is case sensitive — spelling mistakes or wrong capitalization can crash the game!
+* If you host a server with this tweak, your server will have more bots, and players who join won’t need to change anything.
 
 ### Acknowledgements
 

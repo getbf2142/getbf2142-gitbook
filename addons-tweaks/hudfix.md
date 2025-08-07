@@ -77,6 +77,8 @@ Drag and drop both files into your `\mods\<MOD>` folder.
 {% endstep %}
 
 {% step %}
+Copy `ClientArchives.con` and rename it to `ClientArchives_o.con` as a backup.
+
 Open `ClientArchives.con` with a text editor.
 {% endstep %}
 
@@ -95,6 +97,8 @@ If you’re unable to save your changes, try dragging the file to your Desktop, 
 {% endstep %}
 
 {% step %}
+Copy `ServerArchives.con` and rename it to `ServerArchives_o.con` as a backup.
+
 Open `ServerArchives.con` with a text editor.
 {% endstep %}
 
@@ -127,8 +131,9 @@ And that’s it — you’re all set!
 
 ### Remarks
 
-* It’s unclear if you’ll run into issues with this fix enabled on Reclamation public servers. If you get kicked, just revert your changes before playing multiplayer.
-* To uninstall the fix, just reverse the changes you made. Always remember to back up your files before editing, so you can easily restore them if needed.
+* Revert your changes before joining Reclamation or any multiplayer servers, unless the server explicitly allows or uses this mod.
+* If you host a server with this tweak, players who join will also need to make this change.
+* To uninstall the fix, simply undo the changes you made.
 
 ### Acknowledgements
 
