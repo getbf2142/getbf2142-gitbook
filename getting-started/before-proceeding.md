@@ -57,12 +57,12 @@ You can skip these steps: [① Download & Install BF2142](download-and-install-b
 
 This choice will help you figure out if you need to tackle any extra tutorials beyond ③, ④, and ⑤. Here's a quick guide to help you pick:
 
-* **Mostly playing public multiplayer on Reclamation servers?**\
-  You'll want to stick with **Vanilla**. It's the classic experience for those servers. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* **More into single-player or LAN parties with your buddies?**\
-  Then **Remaster** is the way to go! It offers some cool enhancements for those modes. **\[**[**?**](#user-content-fn-2)[^2]**]**
-* **Still not sure which one to pick?**\
-  No worries! **Remaster is a safe bet** and a great choice if you're on the fence. **\[**[**?**](#user-content-fn-3)[^3]**]**
+* Mostly playing public multiplayer on Reclamation servers?\
+  You'll want to stick with _Vanilla_. It's the classic experience for those servers. **\[**[**?**](#user-content-fn-1)[^1]**]**
+* More into single-player or LAN parties with your buddies?\
+  Then _Remaster_ is the way to go! It offers some cool enhancements for those modes. **\[**[**?**](#user-content-fn-2)[^2]**]**
+* Still not sure which one to pick?\
+  No worries! _Remaster_ is a safe bet and a great choice if you're on the fence. **\[**[**?**](#user-content-fn-3)[^3]**]**
 
 Choose what fits your playstyle best, and we'll guide you through the rest!
 
@@ -126,10 +126,10 @@ And hey, we've actually just updated the site to make the whole process even sim
 
 </details>
 
-[^1]: Most multiplayer players are on Reclamation servers, which are unmodded. So, if you want to join those servers, you’ll need to launch the game without any mods.
+[^1]: Heads up for multiplayer fans! Most players are hanging out on Reclamation servers, and those are completely unmodded. So, if you're planning to join in on the action there, you'll need to make sure you launch your game without any mods enabled. Keep it vanilla for those battles!
 
-[^2]: Remaster mod adds high-quality textures, realistic animations, and new weapons to the game.
+[^2]: The Remaster mod brings a whole new level of awesome to the game! It packs in high-quality textures, super realistic animations, and even some brand-new weapons to enhance your Battlefield 2142 experience. Get ready for a fresh look and feel!
 
-[^3]: With Remaster Launcher, it’s easy to switch between modded and unmodded whenever you like.
+[^3]: Good news! With the Remaster Launcher, you can effortlessly switch between playing with mods and playing the unmodded version of the game whenever you feel like it. It makes trying out different experiences super easy!
 
 [^4]: A recent Windows update has broken the Unlocker, and there’s currently no known fix. While it may still work for a few people, most users — especially those on Windows 10 or 11 — will find that it doesn’t work anymore.

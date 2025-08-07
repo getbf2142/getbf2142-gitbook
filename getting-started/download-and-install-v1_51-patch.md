@@ -4,7 +4,7 @@ description: Where to download the patch? How to install the Patch?
 
 # ② Install v1.51 Patch
 
-In this tutorial, we’ll walk you through the steps to update the game to the latest version. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
+In this tutorial, we're going to guide you through all the steps to get your game updated to the very latest version. If you hit any snags or have any questions along the way, don't hesitate to jump into our [Discord](https://discord.gg/DaMVNknVnV) server — we're always super happy to help you out!
 
 <details>
 
