@@ -1,18 +1,20 @@
 ---
-description: Which steps do you need / not need to do?
+description: Ready to Play? Here's How!
 ---
 
 # ⍟ Before Proceeding
 
-To get Battlefield 2142 up and running, simply follow tutorials **①** – **⑤** in order. Depending on your setup, you might be able to skip some steps or need to add a few extras — this guide will help you figure out which steps are essential and which ones you can safely skip!
+To get Battlefield 2142 up and running, just follow tutorials ① through ⑤ in order. It's super straightforward!
+
+Depending on your current setup, you might be able to skip a few steps or you might need to add a couple of extra ones. Don't worry, this guide will walk you through everything, helping you figure out exactly which steps are essential for you and which ones you can safely skip. Let's get you into the game!
 
 {% hint style="success" %}
 We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support.
 {% endhint %}
 
-### Game installed?
+### Game installed ?
 
-This will help you decide whether you can skip either tutorial in **①** – **②**, or if you need to complete both.
+Alright, let's figure out your next steps! This will help you decide if you can skip either tutorial in ① or ②, or if you need to complete both. We'll get you sorted!
 
 <details>
 
@@ -51,13 +53,18 @@ You can skip these steps: [① Download & Install BF2142](download-and-install-b
 
 </details>
 
-### Vanilla or Remaster?
+### Vanilla or Remaster ? Let's Decide !
 
-This will help you figure out if you need to complete any extra tutorials beyond **③** – **⑤**.
+This choice will help you figure out if you need to tackle any extra tutorials beyond ③, ④, and ⑤. Here's a quick guide to help you pick:
 
-* If you'll mostly be playing public multiplayer on Reclamation servers, stick with _Vanilla_. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* If you're more interested in singleplayer or LAN with friends, go for _Remaster_. **\[**[**?**](#user-content-fn-2)[^2]**]**
-* Not sure? _Remaster_ is a safe bet! **\[**[**?**](#user-content-fn-3)[^3]**]**
+* **Mostly playing public multiplayer on Reclamation servers?**\
+  You'll want to stick with **Vanilla**. It's the classic experience for those servers. **\[**[**?**](#user-content-fn-1)[^1]**]**
+* **More into single-player or LAN parties with your buddies?**\
+  Then **Remaster** is the way to go! It offers some cool enhancements for those modes. **\[**[**?**](#user-content-fn-2)[^2]**]**
+* **Still not sure which one to pick?**\
+  No worries! **Remaster is a safe bet** and a great choice if you're on the fence. **\[**[**?**](#user-content-fn-3)[^3]**]**
+
+Choose what fits your playstyle best, and we'll guide you through the rest!
 
 <details>
 
@@ -95,25 +102,27 @@ You should follow these steps:\
 
 <details>
 
-<summary>Why don’t the guides cover BF2142Unlocker ?</summary>
+<summary>Why Our Guides Don't Cover BF2142Unlocker</summary>
 
 {% hint style="danger" %}
 At the moment, it’s not possible to play online using BF2142Unlocker. **\[**[**?**](#user-content-fn-4)[^4]**]**
 {% endhint %}
 
-We’re big fans of nostalgia and enjoy helping newcomers install the game the classic way. It takes a few extra steps compared to the quick setup, but you’ll get the full original interface and experience. From there, you can explore, create, or join games just like back in the day.
+You might be wondering why our guides don't feature BF2142Unlocker, and it's a great question! We're actually huge fans of nostalgia and really enjoy helping new players install the game the classic way.
+
+Sure, it might take a few extra steps compared to a super quick setup, but by doing it this way, you get to experience the full, original interface and gameplay. From there, you can dive in, create, or join games just like you would have back in the day. It's all about reliving that authentic BF2142 experience!
 
 </details>
 
 <details>
 
-<summary>Why are there so many steps ?</summary>
+<summary>Why So Many Steps</summary>
 
-{% hint style="success" %}
-In a recent update to this site, we’ve worked to streamline the process and make everything simpler for you.
-{% endhint %}
+We get it — getting an older game up and running can sometimes feel like a bit of a puzzle, and there are definitely a few spots where things can go sideways. That's exactly why we take the time to walk you through each and every step!
 
-Getting a legacy game running can take some patience, and there are plenty of places where things might go wrong. That’s why we walk you through each step, explaining what matters and offering solutions to common issues — so you have the best chance of getting everything working smoothly.
+We want to make sure you understand what's important and provide solutions for any common issues you might run into. Our goal is to give you the best possible chance of getting everything working smoothly, right from the start.
+
+And hey, we've actually just updated the site to make the whole process even simpler and more streamlined for you. So, while there might be a few steps, we've done our best to make it as easy as possible!
 
 </details>
 
