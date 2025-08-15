@@ -10,7 +10,7 @@ In this tutorial, we'll walk you through the steps to join a server. If you have
 
 <summary>Just a couple of things to note ...</summary>
 
-* If you’re joining Reclamation servers or any _pure_ vanilla servers, make sure you’re using a vanilla BF2142 setup — don’t use any addons like Blood Patch or HUD-Fix that change files in `mods\bf2142`.
+* If you’re joining Reclamation servers or any _pure_ vanilla servers, make sure you’re using a vanilla BF2142 setup — don’t use any addons or tweaks that change files in `\mods\bf2142`.
 
 - You can only join servers that match the mod and files you have.
   * You can’t join a vanilla server with a mod enabled, or the other way around.

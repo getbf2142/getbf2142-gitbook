@@ -105,7 +105,7 @@ You should follow these steps:\
 <summary>Why Our Guides Don't Cover BF2142Unlocker</summary>
 
 {% hint style="danger" %}
-At the moment, it’s not possible to play online using BF2142Unlocker. **\[**[**?**](#user-content-fn-4)[^4]**]**
+Currently, you can’t play online with BF2142Unlocker, but master server emulation still works.
 {% endhint %}
 
 You might be wondering why our guides don't feature BF2142Unlocker, and it's a great question! We're actually huge fans of nostalgia and really enjoy helping new players install the game the classic way.
@@ -116,7 +116,7 @@ Sure, it might take a few extra steps compared to a super quick setup, but by do
 
 <details>
 
-<summary>Why So Many Steps</summary>
+<summary>Why so many steps ...</summary>
 
 We get it — getting an older game up and running can sometimes feel like a bit of a puzzle, and there are definitely a few spots where things can go sideways. That's exactly why we take the time to walk you through each and every step!
 
@@ -131,5 +131,3 @@ And hey, we've actually just updated the site to make the whole process even sim
 [^2]: The Remaster mod brings a whole new level of awesome to the game! It packs in high-quality textures, super realistic animations, and even some brand-new weapons to enhance your Battlefield 2142 experience. Get ready for a fresh look and feel!
 
 [^3]: Good news! With the Remaster Launcher, you can effortlessly switch between playing with mods and playing the unmodded version of the game whenever you feel like it. It makes trying out different experiences super easy!
-
-[^4]: A recent Windows update has broken the Unlocker, and there’s currently no known fix. While it may still work for a few people, most users — especially those on Windows 10 or 11 — will find that it doesn’t work anymore.

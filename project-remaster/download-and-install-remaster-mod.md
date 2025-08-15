@@ -82,10 +82,6 @@ At the moment, there aren’t any official servers for Remaster, as the mod is m
 
 ## Procedures
 
-{% hint style="danger" %}
-If you already have an older version of the mod installed, make sure to uninstall it first and delete any leftover files in the mod folder before installing the newer version.
-{% endhint %}
-
 {% stepper %}
 {% step %}
 Download `project_remaster_v14_setup_BETA13.exe` from [Downloads](download-and-install-remaster-mod.md#downloads).

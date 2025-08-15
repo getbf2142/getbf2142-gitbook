@@ -163,6 +163,8 @@ The setup in this section was prepared by Novgames for the Russian-speaking comm
 
 If you download the game from the links below, you can skip the patching steps for v1.51, and you won’t need a serial key — the installer doesn’t require one.
 
+At the end of installation, you’ll see the <mark style="color:blue;">ACTIVATOR</mark> window. Be sure to click the <mark style="color:blue;">Activate</mark> button — if you skip this step, you may have issues accessing the game or game servers later.
+
 **Setup (2.44 GB)**
 
 {% embed url="https://novgames.ru/download_en/" %}
