@@ -69,4 +69,5 @@
 * [Github Repository](https://github.com/getbf2142/getbf2142-gitbook)
 * [Discord Group](https://discord.gg/DaMVNknVnV)
 * [Contact Us](others/contact-us.md)
+* [Feedback](others/feedback.md)
 * [Disclaimer](others/disclaimer.md)
