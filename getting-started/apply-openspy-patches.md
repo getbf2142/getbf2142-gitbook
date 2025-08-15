@@ -99,7 +99,7 @@ Double-click the shortcut to launch BF2142 Hub.
 {% endstep %}
 
 {% step %}
-When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-5)[^5]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the app to make changes on your device.
+When prompted by <mark style="color:blue;">User Account Control</mark>, click <mark style="color:blue;">Yes</mark> to allow the app to make changes on your device.
 {% endstep %}
 
 {% step %}
@@ -127,7 +127,7 @@ If you run into issues like crashes, the game not starting, or graphics glitches
 {% endstep %}
 
 {% step %}
-If you’re using Windows display scaling, you might run into scaling issues when launching the game in windowed mode **\[**[**?**](#user-content-fn-6)[^6]**]**. You can fix this by running the game in compatibility mode:
+If you’re using Windows display scaling, you might run into scaling issues when launching the game in windowed mode **\[**[**?**](#user-content-fn-5)[^5]**]**. You can fix this by running the game in compatibility mode:
 
 1. Go to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
 2. Right-click `BF2142.exe` and select <mark style="color:blue;">Properties</mark>.
@@ -135,7 +135,7 @@ If you’re using Windows display scaling, you might run into scaling issues whe
 4. Under <mark style="color:blue;">High DPI scaling override</mark>, check <mark style="color:blue;">Override high DPI scaling behavior</mark> and set <mark style="color:blue;">Scaling performed by:</mark> to <mark style="color:blue;">Application</mark>.
 5. Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
 
-Just a heads up: you’ll need to repeat these steps every time you click the install button in BF2142 Hub. **\[**[**?**](#user-content-fn-7)[^7]**]**
+Just a heads up: you’ll need to repeat these steps every time you click the install button in BF2142 Hub. **\[**[**?**](#user-content-fn-6)[^6]**]**
 {% endstep %}
 {% endstepper %}
 
@@ -217,8 +217,6 @@ To uninstall a map, select it from the <mark style="color:blue;">Installed Maps<
 
 [^4]: Running as administrator helps prevent permission issues during patching.
 
-[^5]: i.e., Do you want to allow this app from an unknown publisher to make changes to your device?
+[^5]: Sometimes, Windows scaling settings can clash with a game’s display settings, which may cause incorrect scaling or visual glitches.
 
-[^6]: Sometimes, Windows scaling settings can clash with a game’s display settings, which may cause incorrect scaling or visual glitches.
-
-[^7]: Whenever you install a new patch from BF2142 Hub, it updates your `BF2142.exe`, which means your compatibility settings will be reset.
+[^6]: Whenever you install a new patch from BF2142 Hub, it updates your `BF2142.exe`, which means your compatibility settings will be reset.

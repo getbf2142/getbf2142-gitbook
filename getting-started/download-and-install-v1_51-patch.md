@@ -4,7 +4,7 @@ description: Where to download the patch? How to install the Patch?
 
 # ② Install v1.51 Patch
 
-In this tutorial, we're going to guide you through all the steps to get your game updated to the very latest version. If you hit any snags or have any questions along the way, don't hesitate to jump into our [Discord](https://discord.gg/DaMVNknVnV) server — we're always super happy to help you out!
+In this tutorial, we're going to guide you through all the steps to get your game updated to the very latest version. If you hit any snags or have any questions along the way, don't hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we're always happy to help you out!
 
 <details>
 
@@ -45,7 +45,7 @@ Yes, you can skip this tutorial if your game is already patched to v1.51. Howeve
 
 {% stepper %}
 {% step %}
-Download `BF2142_Update_1.51_Full.exe` from [Downloads](download-and-install-v1_51-patch.md#downloads) → <mark style="color:blue;">Standalone Installer</mark>.
+Download <mark style="color:blue;">Patch v1.51 Full Installer</mark> [here](https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-v151-full) or from [Downloads](download-and-install-v1_51-patch.md#downloads) → [Standalone Installer](download-and-install-v1_51-patch.md#standalone-installer).
 {% endstep %}
 
 {% step %}
@@ -53,11 +53,11 @@ Double-click the file to start the installer - it may take a moment for anything
 {% endstep %}
 
 {% step %}
-When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-3)[^3]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+When prompted by <mark style="color:blue;">User Account Control</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
 {% endstep %}
 
 {% step %}
-If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-4)[^4]**]**
+If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-3)[^3]**]**
 {% endstep %}
 
 {% step %}
@@ -65,7 +65,7 @@ Follow the on-screen instructions in the wizard to finish the installation.​
 {% endstep %}
 
 {% step %}
-Next, make sure to [install BF2142 Hub](download-and-install-bf2142-hub.md) and [apply OpenSpy Patches](apply-openspy-patches.md) — _these steps are crucial, so don't skip them_! **\[**[**?**](#user-content-fn-5)[^5]**]**
+Next, make sure to [install BF2142 Hub](download-and-install-bf2142-hub.md) and [apply OpenSpy Patches](apply-openspy-patches.md) — _these steps are crucial, so don't skip them_! **\[**[**?**](#user-content-fn-4)[^4]**]**
 {% endstep %}
 {% endstepper %}
 
@@ -83,10 +83,10 @@ Unlike the official updater, which only works incrementally, this installer skip
 You might see virus warnings when launching this installer. If you’re concerned about file safety, you can use the incremental installer mirrored from EA instead.
 {% endhint %}
 
-**BF2142\_Update\_1.51\_Full.exe (ModDB, 2.3 GB)**
+**Patch v1.51 Full Installer (2.3 GB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-v151-full" %}
-Source: [LordSte](https://www.moddb.com/members/lordste) on [ModDB](https://www.moddb.com/) \[Last Verified: July 2025]
+Source: [LordSte](https://www.moddb.com/members/lordste) on [ModDB](https://www.moddb.com/)
 {% endembed %}
 {% endtab %}
 
@@ -101,16 +101,16 @@ The v1.50 patch upgrades your game from v1.00 or v1.01 to v1.50, and the v1.51 p
 Make sure to install v1.50 patch first, and then follow it with v1.51 patch to update your game in the correct order.
 {% endhint %}
 
-**\[MIRROR] BF2142\_Update\_**<mark style="color:red;">**1.50**</mark>**.exe (ModDB, 523 MB)**
+**Patch&#x20;**<mark style="color:red;">**v1.50**</mark>**&#x20;Installer (523 MB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-150" %}
-Source: [RhodN](https://www.moddb.com/members/grafix1) on [ModDB](https://www.moddb.com/) \[Last Verified: July 2025]
+Source: [RhodN](https://www.moddb.com/members/grafix1) on [ModDB](https://www.moddb.com/)
 {% endembed %}
 
-**\[MIRROR] BF2142\_Patch\_**<mark style="color:red;">**1.51**</mark>**.exe (ModDB, 1.95 GB)**
+**Patch&#x20;**<mark style="color:red;">**v1.51**</mark>**&#x20;Installer (1.95 GB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-v151-patch-final" %}
-&#x20;Source: [ytres](https://www.moddb.com/members/sdgsdgsdgsdg) on [ModDB](https://www.moddb.com/) \[Last Verified: July 2025]
+&#x20;Source: [ytres](https://www.moddb.com/members/sdgsdgsdgsdg) on [ModDB](https://www.moddb.com/)
 {% endembed %}
 {% endtab %}
 {% endtabs %}
@@ -119,8 +119,6 @@ Source: [RhodN](https://www.moddb.com/members/grafix1) on [ModDB](https://www.mo
 
 [^2]: The installer takes time to decompress files to prepare for the installation.
 
-[^3]: i.e., Do you want to allow this app from an unknown publisher to make changes to your device?
+[^3]: If you don’t see the <mark style="color:blue;">More Info</mark> option, right-click the installer and select <mark style="color:blue;">Properties</mark>. Check the <mark style="color:blue;">Unlock</mark> box, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. After that, try running the installer again starting from step 2.
 
-[^4]: If you don’t see the <mark style="color:blue;">More Info</mark> option, right-click the installer and select <mark style="color:blue;">Properties</mark>. Check the <mark style="color:blue;">Unlock</mark> box, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. After that, try running the installer again starting from step 2.
-
-[^5]: If you skip these steps, you won’t be able to log in, since EA’s online services for this game have been shut down.
+[^4]: If you skip these steps, you won’t be able to log in, since EA’s online services for this game have been shut down.

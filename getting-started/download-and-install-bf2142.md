@@ -4,7 +4,7 @@ description: Where to download the game? How to install the game?
 
 # ① Download & Install BF2142
 
-In this tutorial, we'll walk you through all the best online spots to download the game and show you exactly how to install it properly. If you hit any snags or have questions, don't hesitate to hop into our [Discord](https://discord.gg/DaMVNknVnV) server — we're always stoked to help you out!
+In this tutorial, we'll walk you through all the best online spots to download the game and show you exactly how to install it properly. If you hit any snags or have questions, don't hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we're always happy to help you out!
 
 <details>
 
@@ -45,7 +45,7 @@ We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server
 
 {% stepper %}
 {% step %}
-Download `BF2142_Setup.rar` from [Downloads](download-and-install-bf2142.md#downloads) → <mark style="color:blue;">Standard Edition v1.01</mark>.
+Download the game [here](https://www.mediafire.com/file/g6xhktutdtnpgs3/BF2142_Setup.rar/file) or from [Downloads](download-and-install-bf2142.md#downloads) → [Standard Edition v1.01](download-and-install-bf2142.md#standard-edition-v1.01).
 {% endstep %}
 
 {% step %}
@@ -53,11 +53,11 @@ Create a new folder on your desktop.
 {% endstep %}
 
 {% step %}
-Open `BF2142_Setup.rar` with your [file archiver](#user-content-fn-2)[^2].
+Open the `.rar` or `.zip` file with your [file archiver](#user-content-fn-2)[^2].
 {% endstep %}
 
 {% step %}
-Drag and drop everything from the `.rar` file into your new folder.
+Drag and drop everything from the `.rar` or `.zip` file into your new folder.
 {% endstep %}
 
 {% step %}
@@ -128,7 +128,7 @@ By proceeding to download the game, you agree that the resources provided on thi
 
 The setup provided here is an ISO image of the Standard Edition retail DVD. It contains an early version of the game (v1.01). To ensure your game is up to date, you’ll need to follow the [next tutorial](download-and-install-v1_51-patch.md) right after completing these steps to patch it to the latest version (v1.51).
 
-**BF2142 Standard Edition Setup (3.24 GB)**
+**Setup (3.24 GB)**
 
 {% embed url="https://mediafire.com/file/g6xhktutdtnpgs3/BF2142_Setup.rar/file" %}
 &#x20;Source: [GetBF2142](https://docs.getbf2142.net/)
@@ -163,22 +163,22 @@ The setup in this section was prepared by Novgames for the Russian-speaking comm
 
 If you download the game from the links below, you can skip the patching steps for v1.51, and you won’t need a serial key — the installer doesn’t require one.
 
-**BF2142 NovGames Deluxe Edition Setup (2.44 GB)**
+**Setup (2.44 GB)**
 
 {% embed url="https://novgames.ru/download_en/" %}
 Source: [NovGames](https://novgames.ru/)
 {% endembed %}
 
 {% embed url="https://www.mediafire.com/file/1k7kdaxblradlo1/BF2142_Novgames.zip/file" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[MIRROR]
+Mirrored from [NovGames](https://novgames.ru/)
 {% endembed %}
 
 {% embed url="https://drive.google.com/file/d/1DBy_cPleUuHD2SgGPrqjjjTtArod1OUO/view" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[MIRROR]
+Mirrored from [NovGames](https://novgames.ru/)
 {% endembed %}
 
 {% embed url="https://drive.google.com/file/d/1aL8mFnq3Dv_BXzto0RvmSzf39kUeb1nW/view?usp=sharing" %}
-Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[MIRROR 4.9 GB] Unzip Password: bettercallsaul
+Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[4.9 GB] Unzip Password: bettercallsaul
 {% endembed %}
 {% endtab %}
 
