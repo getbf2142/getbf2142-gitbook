@@ -128,34 +128,28 @@ By proceeding to download the game, you agree that the resources provided on thi
 
 The setup provided here is an ISO image of the Standard Edition retail DVD. It contains an early version of the game (v1.01). To ensure your game is up to date, you’ll need to follow the [next tutorial](download-and-install-v1_51-patch.md) right after completing these steps to patch it to the latest version (v1.51).
 
-**BF2142\_Setup.rar (Google Drive, 3.24 GB)**
-
-{% embed url="https://drive.google.com/file/d/1gDA9OtbxGK2aYDBltoDZ-id0Ta6LtjHQ/view" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
-{% endembed %}
-
-**\[MIRROR] BF2142\_Setup.rar (MediaFire, 3.24 GB)**
+**BF2142 Standard Edition Setup (3.24 GB)**
 
 {% embed url="https://mediafire.com/file/g6xhktutdtnpgs3/BF2142_Setup.rar/file" %}
-&#x20;Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
+&#x20;Source: [GetBF2142](https://docs.getbf2142.net/)
 {% endembed %}
 
-**\[MIRROR] Battlefield 2142 Setup.rar (MediaFire, 3.24 GB)**
+{% embed url="https://drive.google.com/file/d/1gDA9OtbxGK2aYDBltoDZ-id0Ta6LtjHQ/view" %}
+Source: [GetBF2142](https://docs.getbf2142.net/)
+{% endembed %}
 
 {% embed url="https://www.mediafire.com/file/1eugw0jb8tr93e3/Battlefield_2142_Setup.rar/file" %}
-&#x20;Source: [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142) \[Last Verified: July 2025]
+&#x20;Source: [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
 {% endembed %}
 
-**Battlefield\_2142\_Win\_Setup\_EN.zip (MediaFire / MEGA, 5.71 GB)**&#x20;
-
 {% embed url="https://oldgamesdownload.com/battlefield-2142-gdx1/" %}
-Source: [Old Games Download](https://oldgamesdownload.com/) \[Last Verified: July 2025]
+Source: [Old Games Download](https://oldgamesdownload.com/)
 {% endembed %}
 {% endtab %}
 
 {% tab title="Deluxe Edition v1.51" %}
 **Battlefield 2142 Deluxe Edition v1.51**\
-&#xNAN;_&#x4E;ovgames Alliance Edition (2016) - Russian Community_
+&#xNAN;_&#x4E;ovGames Alliance Edition (2016) - Russian Community_
 
 {% hint style="warning" %}
 As the game has been nothing but abandoned by the developers and its publisher, this setup is uploaded purely for the purpose of preserving video game history.
@@ -169,29 +163,22 @@ The setup in this section was prepared by Novgames for the Russian-speaking comm
 
 If you download the game from the links below, you can skip the patching steps for v1.51, and you won’t need a serial key — the installer doesn’t require one.
 
-**BF2142\_Novgames.zip (Google Drive / Torrent, 2.44 GB)**
+**BF2142 NovGames Deluxe Edition Setup (2.44 GB)**
 
 {% embed url="https://novgames.ru/download_en/" %}
-Source: [NovGames](https://novgames.ru/) \[Last Verified: July 2025]
+Source: [NovGames](https://novgames.ru/)
 {% endembed %}
-
-**\[MIRROR] BF2142\_Novgames.zip (MediaFire, 2.44 GB)**
 
 {% embed url="https://www.mediafire.com/file/1k7kdaxblradlo1/BF2142_Novgames.zip/file" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
+Source: [GetBF2142](https://docs.getbf2142.net/) \[MIRROR]
 {% endembed %}
-
-**\[MIRROR] BF2142\_Novgames.zip (Google Drive, 2.44 GB)**
 
 {% embed url="https://drive.google.com/file/d/1DBy_cPleUuHD2SgGPrqjjjTtArod1OUO/view" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
+Source: [GetBF2142](https://docs.getbf2142.net/) \[MIRROR]
 {% endembed %}
 
-**2142nov.rar (Google Drive, 4.9 GB)**\
-<sup>Unzip Password: bettercallsaul</sup>
-
 {% embed url="https://drive.google.com/file/d/1aL8mFnq3Dv_BXzto0RvmSzf39kUeb1nW/view?usp=sharing" %}
-Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[Last Verified: July 2025]
+Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[MIRROR 4.9 GB] Unzip Password: bettercallsaul
 {% endembed %}
 {% endtab %}
 
@@ -200,11 +187,7 @@ Source: [MatcatClan](https://www.youtube.com/watch?v=DDnFptN99kY) \[Last Verifie
 
 If you’d like to find the download sources yourself, here’s a good place to start.
 
-**Query Results**
-
 {% embed url="https://archive.org/search?query=battlefield+2142" %}
-Source: [Internet Archive](https://archive.org/) \[Last Verified: July 2025]
-{% endembed %}
 {% endtab %}
 
 {% tab title="Retail DVD" %}
@@ -220,17 +203,9 @@ Amazon, eBay, and local used video game stores are usually the best places to lo
 * If possible, check before buying that the disc edition matches the manual edition — mixing them up can prevent you from installing the game.
 * And don’t forget — you’ll need a DVD-ROM drive to run the disc.
 
-**Battlefield 2142 Second-Hand Retail DVD on Amazon**
-
 {% embed url="https://www.amazon.com/Battlefield-2142-Deluxe-PC/dp/B000YJ3TR8" %}
-Source: [Amazon](https://www.amazon.com/) \[Last Verified: July 2025]
-{% endembed %}
-
-**Battlefield 2142 Second-Hand Retail DVD on eBay**
 
 {% embed url="https://www.ebay.com/sch/i.html?_nkw=battlefield+2142" %}
-Source: [eBay](https://www.ebay.com/) \[Last Verified: July 2025]
-{% endembed %}
 {% endtab %}
 {% endtabs %}
 

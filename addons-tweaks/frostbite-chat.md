@@ -2,6 +2,8 @@
 
 A lot of Battlefield fans love the BF3/BF4-style chat — it really adds a modern feel to the game and makes chatting more enjoyable. Now, we’re bringing that same great chat experience to BF2142, so everyone can enjoy the sleek, updated chat right here in 2142!
 
+<figure><img src="../.gitbook/assets/frostbite_chat.png" alt="" width="375"><figcaption></figcaption></figure>
+
 ### Preparations
 
 * Do you know where your game directory is? It’s the folder with `BF2142.exe` and your `mods` — by default, usually at `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.

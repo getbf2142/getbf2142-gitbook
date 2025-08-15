@@ -22,36 +22,18 @@ At the moment, it’s not possible to play online using BF2142Unlocker **\[**[**
 ### Downloads
 
 {% tabs %}
-{% tab title="v0.9.7 RC7" %}
-**BF2142Unlocker v0.9.7 RC7 - Windows&#x20;**<mark style="color:red;">**64-bit**</mark>**&#x20;(MediaFire, 16.78 MB)**
+{% tab title="64-bit" %}
+**BF2142Unlocker v0.9.7 RC7 - Windows 64-bit (16.78 MB)**
 
 {% embed url="https://www.mediafire.com/file/xy2bdlgibsd364b/BF2142Unlocker_v0.9.7_rc7_win_64bit.zip/file" %}
-Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
-{% endembed %}
-
-**\[MIRROR] BF2142Unlocker v0.9.7 RC7 - Windows&#x20;**<mark style="color:red;">**64-bit**</mark>**&#x20;(MediaFire, 16.78 MB)**
 
 {% embed url="https://www.mediafire.com/file/cbjc6pg1z9e0d2o/BF2142Unlocker_v0.9.7_rc7_win_64bit.zip/file" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
-{% endembed %}
-
-**BF2142Unlocker v0.9.7 RC7 - Windows&#x20;**<mark style="color:red;">**32-bit**</mark>**&#x20;(MediaFire, 17.22 MB)**
-
-{% embed url="https://www.mediafire.com/file/8gs8autnir44irf/BF2142Unlocker_v0.9.7_rc7_win_32bit.zip/file" %}
-Source: [Project Remaster Discord](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
-{% endembed %}
 {% endtab %}
 
-{% tab title="v0.9.4" %}
-**BF2142Unlocker v0.9.4 - Windows / Linux (GitHub, 14.54 MB)**
+{% tab title="32-bit" %}
+**BF2142Unlocker v0.9.7 RC7 - Windows 32-bit (17.22 MB)**
 
-{% embed url="https://github.com/Dankr4d/BF2142Unlocker/releases/tag/v0.9.4" %}
-
-**\[MIRROR] BF2142Unlocker v0.9.4 - Windows (MediaFire, 14.54 MB)**
-
-{% embed url="https://www.mediafire.com/file/11yyyh7jxk8qqr8/BF2142Unlocker_v0.9.4_win.zip/file" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
-{% endembed %}
+{% embed url="https://www.mediafire.com/file/8gs8autnir44irf/BF2142Unlocker_v0.9.7_rc7_win_32bit.zip/file" %}
 {% endtab %}
 {% endtabs %}
 
