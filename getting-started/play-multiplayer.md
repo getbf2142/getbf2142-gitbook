@@ -58,7 +58,7 @@ Disable any network adapters you’re not using, and keep only the one(s) you ne
 3) Right-click any adapter you want to disable and select <mark style="color:blue;">Disable</mark>.
 4) If you can’t disable an adapter, use <mark style="color:blue;">PowerShell</mark> as an Administrator:\
    `Disable-NetAdapter -Name "Adapter Name"`\
-   <sup>(Re-enable later with</sup> <sup></sup><sup>`Enable-NetAdapter -Name "Adapter Name"`</sup><sup>)</sup>
+   (Re-enable later with `Enable-NetAdapter -Name "Adapter Name"`)
 
 Do this first on the server computer, then on any computers trying to connect. This should help your LAN server show up in the local server browser!
 

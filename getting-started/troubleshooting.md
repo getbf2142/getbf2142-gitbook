@@ -6,56 +6,69 @@ description: Got Issues? Find Answers Here!
 
 This is your go-to spot for solutions to some of the most common problems you might run into. If you're facing something that isn't covered here, definitely head over to the [Reclamation FAQ page](https://battlefield2142.co/faq/) — you'll find even more helpful info there!
 
-### Graphics
+### (G) Graphics
 
 <details>
 
-<summary>When I run the game in windowed mode, the scaling is off and everything looks distorted.</summary>
+<summary>G01: Running the game in windowed mode causes scaling issues or distortion</summary>
 
 Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md)
 
-If you’re using Windows display scaling, you might run into scaling issues when launching the game in windowed mode **\[**[**?**](#user-content-fn-1)[^1]**]**. You can fix this by running the game in compatibility mode:
+Sometimes, Windows scaling settings can interfere with a game’s display, causing weird scaling or visual glitches. You can fix this by running the game in compatibility mode:
 
 1. Go to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
 2. Right-click `BF2142.exe` and select <mark style="color:blue;">Properties</mark>.
 3. In the <mark style="color:blue;">Compatibility</mark> tab, click <mark style="color:blue;">Change high DPI settings</mark>.
-4. Under <mark style="color:blue;">High DPI scaling override</mark>, check <mark style="color:blue;">Override high DPI scaling behavior</mark> and set <mark style="color:blue;">Scaling performed by:</mark> to <mark style="color:blue;">Application</mark>.
-5. Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
+4. Under <mark style="color:blue;">High DPI scaling override</mark>, check <mark style="color:blue;">Override high DPI scaling behavior</mark>.
+5. Set <mark style="color:blue;">Scaling performed by:</mark> to <mark style="color:blue;">Application</mark>.
+6. Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
 
-Just a heads up: you’ll need to repeat these steps every time you click the install button in BF2142 Hub. **\[**[**?**](#user-content-fn-2)[^2]**]**
+Just a heads up: you’ll need to repeat these steps every time you click the install button in BF2142 Hub. **\[**[**?**](#user-content-fn-1)[^1]**]**
 
 </details>
 
 <details>
 
-<summary>When I run BF2142 Hub, the scaling is messed up and everything looks distorted.</summary>
+<summary>G02: BF2142 Hub scaling looks messed up or distorted</summary>
 
-If you’re running BF2142 Hub and everything looks distorted, it’s likely due to Windows display scaling. You can fix this by running the app in compatibility mode:
+Sometimes, Windows scaling settings can interfere with an app's display, causing weird scaling or visual glitches. You can fix this by running the app in compatibility mode:
 
 1. Right-click BF2142 Hub's shortcut and select <mark style="color:blue;">Properties</mark>.
 2. In the <mark style="color:blue;">Compatibility</mark> tab, click <mark style="color:blue;">Change high DPI settings</mark>.
-3. Under <mark style="color:blue;">High DPI scaling override</mark>, check <mark style="color:blue;">Override high DPI scaling behavior</mark> and set <mark style="color:blue;">Scaling performed by:</mark> to <mark style="color:blue;">Application</mark>.
-4. Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
+3. Under <mark style="color:blue;">High DPI scaling override</mark>, check <mark style="color:blue;">Override high DPI scaling behavior</mark>.
+4. Set <mark style="color:blue;">Scaling performed by:</mark> to <mark style="color:blue;">Application</mark>.
+5. Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
 
 </details>
 
 <details>
 
-<summary>I can see strange graphical glitches or see through buildings.</summary>
+<summary>G03: Experiencing weird graphics glitches like blackouts, ghost objects, etc.</summary>
 
 It’s usually because the old DirectX9 engine is trying to use anti-aliasing with a modern graphics card.
 
-To fix this, turn the anti-aliasing slider OFF in the in-game OPTIONS → VIDEO menu. Then, if you want anti-aliasing, use your NVIDIA or AMD control panel to set it up for your graphics card instead.
+**Symptoms:**
+
+* See-through buildings
+* Ghost objects (e.g., invisible terrain or soldier units)
+* Blackouts of certain objects
+
+**Solutions:**
+
+* Turn off Anti-Aliasing in-game.
+  * If you want anti-aliasing, use your NVIDIA or AMD control panel to set it up for your graphics card instead.
+* Delete the `Battlefield 2142` folder in `C:\Users\...\Documents`. This will clean up your profiles — including any faulty video or audio settings — and clear your shader cache.
+  * You can also use the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Delete Profile</mark> function in <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>, which has a similar effect.
 
 </details>
 
 <details>
 
-<summary>When I look around, I notice mouse skipping / stuttering / jumping aimpoint.</summary>
+<summary>G04: Experiencing mouse skipping, stuttering, or a jumping aimpoint</summary>
 
 Related Article(s): [Stuttering, mouse skipping & FPS cap](https://www.lost-soldiers.org/v2.php?site=forum_topic\&topic=81\&type=ASC\&page=2#bigNO)
 
-This issue may be related to the game’s animation system or engine itself.
+This issue may be related to the game’s animation system or engine itself, and has nothing to do with mouse polling rate.
 
 **Symptoms:**
 
@@ -68,28 +81,34 @@ Unfortunately, there’s currently no known fix for this issue.
 
 </details>
 
-### Crashes
+### (C) Crashes
 
 <details>
 
-<summary>When I run the game, it crashes to Desktop after a black screen.</summary>
+<summary>C01: Game crashes to desktop after a flashing black screen</summary>
 
-Battlefield 2142 can have issues on modern PCs, with the most common cause being incompatible video modes or incorrect video settings.
+BF2142 can have issues on modern PCs, with the most common cause being incompatible video modes or incorrect video settings.
+
+**Symptoms:**
+
+* The game crashes after a flashing black screen.
+* The game crashes way before the game intro or game menu shows.
 
 **Solutions:**
 
-* Try deleting the `Battlefield 2142` folder in `My Documents`. This will clean up your profiles — including any faulty video or audio settings — and clear your shader cache.
+* Delete the `Battlefield 2142` folder in `C:\Users\...\Documents`. This will clean up your profiles — including any faulty video or audio settings — and clear your shader cache.
   * You can also use the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Delete Profile</mark> function in <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>, which has a similar effect.
-* Try launching the game in windowed mode, and be sure to use a resolution and refresh rate that your monitor supports.&#x20;
+* Launch the game in windowed mode, and be sure to use a resolution and refresh rate that your monitor supports.&#x20;
   * For example, if your monitor doesn’t support 120Hz and you select it, the game may crash. You can easily adjust these settings using <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>.
+  * Navigate to `C:\Users\...\Documents\Battlefield 2142\Profiles\Default\Video.con` and update the resolution and frequency to `800x600@60Hz` on the line that says: `VideoSettings.setResolution`. Once done, repeat this process in the `0001` profile folder as well.
   * If you’re launching the game with the vanilla BF2142 shortcut, check the [Shortcut Guide](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures) for instructions on setting launch parameters for windowed mode and a fixed resolution.
-* Try running the [vidcon fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) and see if it helps. \[[Ref](https://battlefield2142.co/faq/#blackscreen)]
+* Run the [vidcon fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) and see if it helps. \[[Ref](https://battlefield2142.co/faq/#blackscreen)]
 
 </details>
 
 <details>
 
-<summary>When I try to to adjust audio settings, the game crashes.</summary>
+<summary>C02: Game crashes when adjusting audio settings</summary>
 
 Game crashes like this can be caused by virtual audio drivers. If you have VirtualCable or Voicemeeter installed, you’ll likely run into issues.
 
@@ -108,7 +127,7 @@ Game crashes like this can be caused by virtual audio drivers. If you have Virtu
 
 <details>
 
-<summary>When I run the game, "Runtime Error" or "dice_py.dll / MSVCR**.dll is missing" pops up.</summary>
+<summary>C03: "Runtime Error" or "dice_py.dll / MSVCR**.dll is missing" error when starting the game</summary>
 
 If you see a Runtime Error or messages about `dice_py.dll` or `MSVCR**.dll` missing when launching the game, it usually means you’re missing the Microsoft Visual C++ Runtime Library.
 
@@ -127,7 +146,7 @@ If you see a Runtime Error or messages about `dice_py.dll` or `MSVCR**.dll` miss
 
 <details>
 
-<summary>When joining a game or loading a map, "memory.dll sanity check ... error" pops up.</summary>
+<summary>C04: "memory.dll sanity check" error when joining a game or loading a map </summary>
 
 Related Article(s): [https://forum.realitymod.com/viewtopic.php?t=80268](https://forum.realitymod.com/viewtopic.php?t=80268)
 
@@ -148,7 +167,7 @@ Solutions:
 
 <details>
 
-<summary>When I click Host or Singleplayer in BF2142Unlocker, the game crashes.</summary>
+<summary>C05: Game crashes when clicking Host or Singleplayer in BF2142Unlocker</summary>
 
 Related Article(s): [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
 
@@ -160,11 +179,11 @@ Currently, you can’t play online with BF2142Unlocker, but master server emulat
 
 </details>
 
-### Servers
+### (S) Servers
 
 <details>
 
-<summary>When I try to login or create an account, "no internet connection" or "EA Master Server is down" pops up.</summary>
+<summary>S01: "No internet connection" or "EA Master Server is down" when logging in or creating an account</summary>
 
 Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md)
 
@@ -186,7 +205,7 @@ Symptoms:
 
 <details>
 
-<summary>I see no servers in the server browser even though I have OpenSpy patches.</summary>
+<summary>S02: No servers showing in the server browser, even with OpenSpy patches installed</summary>
 
 Related Article(s): [Play Multiplayer](play-multiplayer.md)
 
@@ -196,7 +215,7 @@ To see servers in the list, make sure to uncheck all the server filter options. 
 
 <details>
 
-<summary>I keep getting kicks when playing on a Reclamation / NovGames server.</summary>
+<summary>S03: Getting kicked when playing on Reclamation or NovGames servers</summary>
 
 First, make sure you’re joining the server using vanilla 2142 (that is, `\mods\bf2142`) and that there aren’t any major modifications in your `\mods\bf2142` folder.
 
@@ -208,7 +227,7 @@ To play on NovGames servers, make sure you run the <mark style="color:blue;">ACT
 
 <details>
 
-<summary>When joining a Reclamation server, "this map contains customised content" pops up.</summary>
+<summary>S04: "This map contains customised content" error when joining a Reclamation server</summary>
 
 Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md), [Reclamation Map Pack](apply-openspy-patches.md#reclamation-map-pack)
 
@@ -228,7 +247,7 @@ You might have an outdated map or be missing the required map.
 
 <details>
 
-<summary>When joining a server, "this server only allows players with unmodified content to join" pops up.</summary>
+<summary>S05: "This server only allows players with unmodified content to join" error when joining a server</summary>
 
 Related Article(s): [Play Multiplayer](play-multiplayer.md)
 
@@ -249,6 +268,4 @@ You may have modified files in your current mod or tried to join the server with
 
 </details>
 
-[^1]: Sometimes, Windows scaling settings can clash with a game’s display settings, which may cause incorrect scaling or visual glitches.
-
-[^2]: Whenever you install a new patch from BF2142 Hub, it updates your `BF2142.exe`, which means your compatibility settings will be reset.
+[^1]: Whenever you install a new patch from BF2142 Hub, it updates your `BF2142.exe`, which means your compatibility settings will be reset.

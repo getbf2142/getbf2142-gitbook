@@ -10,11 +10,11 @@ In this tutorial, we'll walk you through all the best online spots to download t
 
 <summary>Can your PC handle BF2142 ?</summary>
 
-Good news! Most modern laptops or desktops should be perfectly capable of running the game.
+Good news! Most modern laptops or desktops should have no trouble running the game.
 
-If your PC can comfortably run Windows 7 (or anything newer!) and handles programs like Office 2013 or later without a hitch, then you should be good to go with this game too. If you find your PC struggling, it might be a sign that it's time for an upgrade! 😄
+If your PC can smoothly handle Windows 7 (or anything newer!) and runs programs like Office 2013 or later without breaking a sweat, you’re all set. If your PC struggles, though, it might be a sign that it’s time for an upgrade! 😄
 
-Here are the absolute minimum requirements just in case you want to double-check:
+Here are the absolute minimum requirements, just in case you want to double-check:
 
 * OS: Windows XP, with Administrator Access
 * CPU: 1.7 GHz Intel Pentium 4 / AMD Athlon XP
@@ -29,11 +29,16 @@ Here are the absolute minimum requirements just in case you want to double-check
 
 <summary>Is there a Mac version of BF2142 ?</summary>
 
-Good question! Technically, yes, there _is_ a Mac version of the game out there. However, we don't offer any downloads for it here on our site.
+Technically, yes, there is a Mac version of the game. However, we don’t provide any downloads for it here on our site.
 
-If you're keen on playing BF2142 on your Mac, your best bet is to either run it using a Windows virtual machine or set up Boot Camp to run Windows directly on your Mac. These methods generally offer the smoothest experience.
+If you’re eager to play BF2142 on your Mac, your best options are:
 
-If you're really determined to find a native Mac version, we wish you the best of luck with your search — you'll likely need to do some serious digging on Google to track it down!
+* Running it through a Windows virtual machine, or
+* Setting up Boot Camp to run Windows directly on your Mac.
+
+These methods usually provide the smoothest experience.
+
+If you’re determined to find a native Mac version, we wish you the best of luck! You’ll likely need to do some serious digging on Google to track it down.
 
 </details>
 

@@ -37,7 +37,7 @@ If you still need the disc to launch the game, that means you haven’t updated 
 
 <summary>Can I skip installing this patch ?</summary>
 
-Yes, you can skip this tutorial if your game is already patched to v1.51. However, if you skip it when your game isn’t patched to v1.51, you won’t be able to play — the game will still require the disc to launch. That’s why we always emphasize how important this step is!
+You can skip this tutorial if your game is already updated to version 1.51. But, if it's not and you skip this, you won't be able to play because the game will still need the disc to start. That’s why we always stress how important this step is!
 
 </details>
 

@@ -4,7 +4,7 @@ description: Where to download the mod? How to install the mod?
 
 # ① Install Remaster Mod
 
-For some players, the Remaster mod has become their new standard — many can’t imagine playing without it. In this tutorial, we’ll guide you through the steps to download and install the mod.
+For many players, the Remaster mod is a game-changer — they can't imagine playing without it! In this tutorial, we'll show you exactly how to download and install it.
 
 {% columns %}
 {% column %}
@@ -20,9 +20,9 @@ For some players, the Remaster mod has become their new standard — many can’
 
 <summary>What is Project Remaster ?</summary>
 
-Project Remaster, or the Remaster mod, is a high-quality enhancement mod for Battlefield 2142, designed to give this 15-year-old game a modern feel. It brings in high-resolution textures, realistic animations, and new weapons, all integrated into the game engine for a refreshed experience. Project Remaster is developed and maintained by the [Project Remaster Team](https://prmp.boards.net/).
+Project Remaster, or the Remaster mod, is an awesome enhancement for Battlefield 2142 that breathes new life into this 15-year-old classic! It packs in high-resolution textures, ultra-realistic animations, and even new weapons — all seamlessly integrated into the game engine for a completely refreshed experience. The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing work, developing and maintaining it.
 
-For support and the latest updates, you can join their [Discord server](https://discord.com/invite/nVdDkgA).
+If you need support or want the latest updates, be sure to join their [Discord server](https://discord.com/invite/nVdDkgA)!
 
 </details>
 
@@ -76,7 +76,9 @@ For support and the latest updates, you can join their [Discord server](https://
 
 <summary>Are there any servers that run this mod ?</summary>
 
-At the moment, there aren’t any official servers for Remaster, as the mod is mainly intended for offline play. However, rest assured — the mod fully supports multiplayer and can be played with friends over LAN or WAN. The Project Remaster Team does plan to host some multiplayer events after v16 full release. So stay tuned!
+Right now, there aren't any official servers for Remaster since it's mostly designed for offline play. But don't worry — the mod fully supports multiplayer, so you can definitely play with your friends over LAN or WAN!&#x20;
+
+The Project Remaster Team is actually planning to host some multiplayer events after the v16 full release, so keep an eye out for those!
 
 </details>
 
@@ -84,7 +86,7 @@ At the moment, there aren’t any official servers for Remaster, as the mod is m
 
 {% stepper %}
 {% step %}
-Download `project_remaster_v14_setup_BETA13.exe` from [Downloads](download-and-install-remaster-mod.md#downloads).
+Download the mod from [Downloads](download-and-install-remaster-mod.md#downloads).
 {% endstep %}
 
 {% step %}
@@ -92,11 +94,11 @@ Double-click the file to start the installer — it might take a moment for anyt
 {% endstep %}
 
 {% step %}
-When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-2)[^2]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+When prompted by <mark style="color:blue;">User Account Control</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
 {% endstep %}
 
 {% step %}
-If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-3)[^3]**]**
+If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 
 {% step %}
@@ -117,27 +119,31 @@ Next, [configure Remaster Launcher](configure-remaster-launcher.md).
 Download the version you’d like to use — we recommend going with v14 BETA13 or v16.
 {% endhint %}
 
-**\[STABLE] project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**13**</mark>**.exe (Google Drive, 3.6 GB)**
+{% tabs %}
+{% tab title="Release" %}
+**Project Remaster v14 BETA13 Setup (3.6 GB)**
 
 {% embed url="https://drive.google.com/file/d/1CqDNfcjALCEs1KEkJut2k2VTeGGUwx4Q/view?usp=share_link" %}
-Source: [BF2142 Remastered](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
+Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
 
-**\[LATEST] project\_remaster\_v14\_setup\_BETA**<mark style="color:red;">**14**</mark>**.exe (Google Drive, 3.6 GB)**
+**Project Remaster v14 BETA14 Setup (3.6 GB)**
 
 {% embed url="https://drive.google.com/file/d/11Lo-b3Hv9jMpoSYz0frVC4cgNiwpFS4Y" %}
-Source: [BF2142 Remastered](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
+Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
+{% endtab %}
 
-**\[BETA] Project\_Remaster\_v16\_2025-07-27.rar (Google Drive, 3.2 GB)**\
+{% tab title="Open Beta" %}
+**Project Remaster v16 2025-08-08 (2.57 GB)**\
 <sub>Ask nicely in</sub> [<sub>Discord</sub>](https://discord.gg/nVdDkgA) <sub>to join the v16 testing ...</sub>
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
-Source: [P](https://discord.gg/nVdDkgA)[BF2142 Remastered](https://discord.gg/nVdDkgA) \[Last Verified: July 2025]
+Source: [P](https://discord.gg/nVdDkgA)[BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
+{% endtab %}
+{% endtabs %}
 
 [^1]: The installer takes time to decompress files to prepare for the installation.
 
-[^2]: i.e., Do you want to allow this app from an unknown publisher to make changes to your device?
-
-[^3]: If you don’t see the <mark style="color:blue;">More Info</mark> option, right-click the installer and select <mark style="color:blue;">Properties</mark>. Check the <mark style="color:blue;">Unlock</mark> box, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. After that, try running the installer again starting from step 2.
+[^2]: If you don’t see the <mark style="color:blue;">More Info</mark> option, right-click the installer and select <mark style="color:blue;">Properties</mark>. Check the <mark style="color:blue;">Unlock</mark> box, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. After that, try running the installer again starting from step 2.
