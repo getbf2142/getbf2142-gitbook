@@ -189,8 +189,11 @@ Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md)
 
 Symptoms:
 
-* we
-* we
+* "You are not connected to the Internet. Click OK to select a soldier to play offline, or try to reconnect."
+* "Could not connect to EA Online. Retry, or click OK to go into Offline mode. If you proceed, try logging in again later."
+* "Could not connect to EA Online."
+* "EA Master Server is down."
+* "EA Master Server is down. Please use BF2142Unlocker."
 
 **Soutions:**
 
