@@ -5,8 +5,8 @@ A lot of BF2142 players want more bots—16 just isn’t enough! Modern PCs can 
 ### Preparations
 
 * Do you know where your game directory is? It’s the folder with `BF2142.exe` and your `mods` — by default, usually at `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-* You’ll be editing the `\mods\AI\AIDefault.ai` file, so it’s smart to make a backup first — just copy the file and add something like `_bak` or `_o` to the filename. **\[**[**?**](#user-content-fn-1)[^1]**]**
 * If you want the changes for vanilla BF2142, edit the file in `\mods\bf2142`. For a specific mod, edit the file in that mod’s folder instead.
+* You’ll be editing the `\mods\...\AI\AIDefault.ai` file, so it’s smart to make a backup first — just copy the file and add something like `_o` to the filename. **\[**[**?**](#user-content-fn-1)[^1]**]**
 
 ### Procedures
 
@@ -71,9 +71,58 @@ If you’re unable to save your changes, try dragging the `.ai` file to your Des
 
 ### Remarks
 
-* When you launch the game and select a map, it might still show 16 bots — but if you’ve edited the file correctly, you’ll get the number you set.
+* When you launch the game and select a map, it might still show 16 bots — but if you’ve edited the file correctly, you’ll get the numbers right.
 * Everything is case sensitive — spelling mistakes or wrong capitalization can crash the game!
 * If you host a server with this tweak, your server will have more bots, and players who join won’t need to change anything.
+* If it doesn’t work after editing, try copying the default content below into your `AIDefault.ai` file, then start all over again from step 1.
+
+<details>
+
+<summary>Default Content of <code>AIDefault.ai</code></summary>
+
+```batch
+echo *****************************************************************************************
+echo AIDefault.ai ****************************************************************************
+echo *****************************************************************************************
+
+aiSettings.setNSides 2
+aiSettings.setAutoSpawnBots 1
+aiSettings.setMaxNAutoControllers 256
+
+
+aiSettings.maxBotsIncludeHumans 1
+aiSettings.setMaxNBots 16
+aiSettings.setBotSkill 0.4
+
+rem To spawn more than 15 bots in SP, use the following lines instead of the three lines above.
+rem Note that this is totaly unsupported, it will affect your system's performance 
+rem and may even crash your game. That being said, you will most likely be able to run a lot
+rem more bots than 15 on your system. 
+
+rem Example for 32 bot game with expert bots
+
+beginrem
+aiSettings.overrideMenuSettings 1
+aiSettings.maxBotsIncludeHumans 0
+aiSettings.setMaxNBots 32
+aiSettings.setBotSkill 1.0
+endrem
+
+run BotNames.ai
+
+aiSettings.setInformationGridDimension 32
+
+aiSettings.setDiscoverCloakedEnemiesDistance 3.0
+
+
+run AIPathFinding.ai
+run AutoControllers.ai
+
+rem EOF
+
+```
+
+</details>
 
 ### Acknowledgements
 
@@ -81,7 +130,11 @@ Special thanks to:
 
 * [asdasdadsdasdasdasda](https://www.moddb.com/members/na2740631) for sharing details on how to change bot counts @ [How To Change The Singleplayer Bot Count](https://www.moddb.com/mods/battlefield-2-world-at-war/tutorials/how-to-change-singleplayer-bot-count)
 
-[^1]: That way, if something goes wrong, you can easily restore the files without having to reinstall the whole game. Having a backup saves you a lot of hassle!
+[^1]: `_o` denotes the original.
+
+
+
+    If something goes wrong, you can easily restore the files without having to reinstall the whole game. Having a backup saves you a lot of hassle!
 
 [^2]: Adding too many bots can cause performance drops or crashes on low-end PCs. Don’t go overboard — a good starting point is around 48 bots.
 

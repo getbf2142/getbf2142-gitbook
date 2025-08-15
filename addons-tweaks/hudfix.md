@@ -14,36 +14,10 @@ Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142
 {% endcolumn %}
 {% endcolumns %}
 
-### Downloads
-
-{% tabs %}
-{% tab title="Downloads" %}
-**BF2142\_Widescreen\_Hudfix\_v2.zip (Google Drive, 15 KB)**
-
-{% embed url="https://drive.google.com/file/d/1ODc9Gk6GMD7PcI9kmT_jWszhNwseAfPR" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
-{% endembed %}
-
-**BF2142\_Widescreen\_Hudfix\_v1.zip (Google Drive, 9 KB)**
-
-{% embed url="https://drive.google.com/file/d/1mr9ijag238J-j275uS1Ff_T0ew29jYhT" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
-{% endembed %}
-{% endtab %}
-
-{% tab title="Changelogs" %}
-**v2**
-
-* Widescreen support has been added to the Commander screen.
-* Components that were previously inaccessible due to the shrunken border are now fixed.
-{% endtab %}
-{% endtabs %}
-
 ### Preparations
 
-* Do you know where your game directory is? It’s the folder where `BF2142.exe` and `mods` are located. By default, this is usually: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-* You’ll be editing files in `\mods\<MOD>`, so it’s a good idea to make a backup of the target files first — just add a suffix like `_bak` or `_o` to the filename of the clone. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* If you want this change to affect vanilla BF2142, make your edits in the `\mods\bf2142` folder. Otherwise, edit the files in the `\mods\<MOD>` folder for your chosen mod.
+* Do you know where your game directory is? It’s the folder with `BF2142.exe` and your `mods` — by default, usually at `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
+* If you want the changes for vanilla BF2142, edit the file in `\mods\bf2142`. For a specific mod, edit the file in that mod’s folder instead.
 
 ### Procedures
 
@@ -55,7 +29,7 @@ To activate Widescreen Hudfix for your Remaster gameplay:
 
 1. Open your <mark style="color:blue;">Remaster Launcher</mark>.
 2. Go to the <mark style="color:blue;">Settings</mark> tab.
-3. Check both the <mark style="color:blue;">Widescreen Fix</mark> and <mark style="color:blue;">HUD-fix</mark> options. **\[**[**?**](#user-content-fn-2)[^2]**]**
+3. Check both the <mark style="color:blue;">Widescreen Fix</mark> and <mark style="color:blue;">HUD-fix</mark> options. **\[**[**?**](#user-content-fn-1)[^1]**]**
 4. That’s all you need to do — you’re good to go! \
    &#xNAN;_(You don't have to follow any steps below.)_
 
@@ -65,7 +39,7 @@ If you ever want to uninstall, simply uncheck those two options. Then, head over
 
 {% stepper %}
 {% step %}
-Download `BF2142_Widescreen_Hudfix.zip` from [Downloads](hudfix.md#downloads).
+Download the patch from [Downloads](hudfix.md#downloads).
 {% endstep %}
 
 {% step %}
@@ -83,7 +57,7 @@ Open `ClientArchives.con` with a text editor.
 {% endstep %}
 
 {% step %}
-At the head of the file, add this line **\[**[**?**](#user-content-fn-3)[^3]**]**:
+At the head of the file, add this line **\[**[**?**](#user-content-fn-2)[^2]**]**:
 
 ```batch
 fileManager.mountArchive Shaders_client_hudfix.zip Shaders
@@ -103,7 +77,7 @@ Open `ServerArchives.con` with a text editor.
 {% endstep %}
 
 {% step %}
-At the head of the file, add this line **\[**[**?**](#user-content-fn-4)[^4]**]**:
+At the head of the file, add this line **\[**[**?**](#user-content-fn-3)[^3]**]**:
 
 ```batch
 fileManager.mountArchive Menu_server_hudfix.zip Menu
@@ -129,6 +103,29 @@ And that’s it — you’re all set!
 {% endstep %}
 {% endstepper %}
 
+### Downloads
+
+{% tabs %}
+{% tab title="Downloads" %}
+**BF2142 Widescreen Hudfix v2 (15 KB)**
+
+{% embed url="https://www.mediafire.com/file/ia2cflxe1nowqdq/BF2142_Widescreen_Hudfix_v2.zip/file" %}
+
+{% embed url="https://drive.google.com/file/d/1ODc9Gk6GMD7PcI9kmT_jWszhNwseAfPR" %}
+
+**BF2142 Widescreen Hudfix v1 (9 KB)**
+
+{% embed url="https://drive.google.com/file/d/1mr9ijag238J-j275uS1Ff_T0ew29jYhT" %}
+{% endtab %}
+
+{% tab title="Changelogs" %}
+**v2**
+
+* Widescreen support has been added to the Commander screen.
+* Components that were previously inaccessible due to the shrunken border are now fixed.
+{% endtab %}
+{% endtabs %}
+
 ### Remarks
 
 * Revert your changes before joining Reclamation or any multiplayer servers, unless the server explicitly allows or uses this mod.
@@ -144,10 +141,8 @@ Special thanks to:
 
 
 
-[^1]: That’s because it’s easy to restore the files. You wouldn’t want to go through the hassle of reinstalling the whole game just because something got messed up and you didn’t have a backup.
+[^1]: **The&#x20;**<mark style="color:blue;">**Widescreen Fix**</mark>**&#x20;adds the widescreen flag to your launch parameters, while the&#x20;**<mark style="color:blue;">**HUD-fix**</mark>**&#x20;makes sure your HUD displays correctly in a 16:9 ratio.**
 
-[^2]: **The&#x20;**<mark style="color:blue;">**Widescreen Fix**</mark>**&#x20;adds the widescreen flag to your launch parameters, while the&#x20;**<mark style="color:blue;">**HUD-fix**</mark>**&#x20;makes sure your HUD displays correctly in a 16:9 ratio.**
+[^2]: This ensures this line comes before the original `fileManager.mountArchive Shaders_client.zip Shaders` line, so the HUD fix loads first and takes precedence.
 
-[^3]: This ensures this line comes before the original `fileManager.mountArchive Shaders_client.zip Shaders` line, so the HUD fix loads first and takes precedence.
-
-[^4]: This ensures this line comes before the original `fileManager.mountArchive Menu_server.zip Menu`  line, so the HUD fix loads first and takes precedence.
+[^3]: This ensures this line comes before the original `fileManager.mountArchive Menu_server.zip Menu`  line, so the HUD fix loads first and takes precedence.

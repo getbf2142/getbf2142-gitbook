@@ -4,15 +4,15 @@ A lot of Battlefield fans love the BF3/BF4-style chat — it really adds a moder
 
 ### Preparations
 
-* Do you know where your game directory is? It’s the folder where `BF2142.exe` and `mods` are located. By default, this is usually: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-* If you want this change to affect vanilla BF2142, make your edits in the `\mods\bf2142` folder. Otherwise, edit the files in the `\mods\<MOD>` folder for your chosen mod.
-* Before installing this addon, make sure you’ve already installed the [Widescreen Hudfix](hudfix.md) for your chosen mod. If you’re using the Remaster mod and want to add this addon, just remember to enable the <mark style="color:blue;">HUD-fix</mark> option through the <mark style="color:blue;">Remaster Launcher</mark> first.
+* Do you know where your game directory is? It’s the folder with `BF2142.exe` and your `mods` — by default, usually at `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
+* If you want the changes for vanilla BF2142, edit the file in `\mods\bf2142`. For a specific mod, edit the file in that mod’s folder instead.
+* Before installing this addon, make sure you’ve already installed the [Widescreen Hudfix](hudfix.md) for your chosen mod. If you’re using the Remaster mod, enable the <mark style="color:blue;">HUD-fix</mark> option in the <mark style="color:blue;">Remaster Launcher</mark> before adding this addon.
 
 ### Procedures
 
 {% stepper %}
 {% step %}
-Download `BF2142_Frostbite_Chat_v2.zip` from [Downloads](frostbite-chat.md#downloads).
+Download the patch from [Downloads](frostbite-chat.md#downloads).
 {% endstep %}
 
 {% step %}
@@ -20,7 +20,7 @@ Follow the steps in the `README.txt` file to install the addons.
 {% endstep %}
 
 {% step %}
-If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
+If you have any questions or run into any issues, feel free to join our [Discord](https://discord.gg/DaMVNknVnV) server.
 {% endstep %}
 {% endstepper %}
 
@@ -28,13 +28,13 @@ If you have any questions or run into any issues, don’t hesitate to join our [
 
 {% tabs %}
 {% tab title="Downloads" %}
-**BF2142\_Frostbite\_Chat\_v2.zip (6.5 MB)**
+**BF2142 Frostbite Chat Addon v2 (6.5 MB)**
 
 {% embed url="https://www.mediafire.com/file/c1gedm33j83lqs3/BF2142_Frostbite_Chat_v2.zip/file" %}
 
 {% embed url="https://drive.google.com/file/d/1UhRvXx8D4NokgA8RGfbSo61RdArZHILa" %}
 
-**BF2142\_Frostbite\_Chat\_v2\_noBg.zip (6.5 MB)**
+**BF2142 Frostbite Chat Addon v2 - No Chat Background (6.5 MB)**
 
 {% embed url="https://www.mediafire.com/file/xfe49pwfqe2g6vh/BF2142_Frostbite_Chat_v2_noBg.zip/file" %}
 

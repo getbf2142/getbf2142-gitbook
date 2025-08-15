@@ -14,9 +14,9 @@ Unlike modern Battlefield games, BF2142 doesn’t let you adjust your FOV in-gam
 
 ### Preparations
 
-* Do you know where your game directory is? It’s the folder where `BF2142.exe` and `mods` are located. By default, this is usually: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-* You’ll be editing files in `\mods\<MOD>\Objects\Soldiers_server.zip`, so it’s a good idea to make a backup of the file first — just add a suffix like `_bak` or `_o` to the filename of the clone. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* If you want this change to affect vanilla BF2142, make your edits in the `\mods\bf2142` folder. Otherwise, edit the files in the `\mods\<MOD>` folder for your chosen mod.
+* Do you know where your game directory is? It’s the folder with `BF2142.exe` and your `mods` — by default, usually at `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
+* If you want the changes for vanilla BF2142, edit the file in `\mods\bf2142`. For a specific mod, edit the file in that mod’s folder instead.
+* You’ll be editing the `\mods\...\Objects\Soldiers_server.zip` file, so it’s smart to make a backup first — just copy the file and add something like `_o` to the filename. **\[**[**?**](#user-content-fn-1)[^1]**]**
 
 ### Procedures
 
@@ -59,4 +59,8 @@ Special thanks to:
 
 * [illicitSoul](https://www.moddb.com/members/ainas) for sharing details on how to modify FOV @ [BF2/BF2142 FOV Modding Tutorial](https://www.moddb.com/tutorials/bf2bf2142-field-of-view-modding-tutorial)
 
-[^1]: That’s because it’s easy to restore the files. You wouldn’t want to go through the hassle of reinstalling the whole game just because something got messed up and you didn’t have a backup.
+[^1]: `_o` denotes the original.
+
+
+
+    If something goes wrong, you can easily restore the files without having to reinstall the whole game. Having a backup saves you a lot of hassle!
