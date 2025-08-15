@@ -18,22 +18,6 @@ However, that version is outdated. The team now uses a newer Reshade client and 
 {% endcolumn %}
 {% endcolumns %}
 
-Just a few things to note:
-
-* ReShade only works on Windows 7 or newer.
-* ReShade applies to all mods, including vanilla 2142.
-* ReShade can be easily uninstalled by just deleting the files you added.
-* ReShade can lower your FPS, so you might notice a performance drop.
-* ReShade has been tested in multiplayer — you won’t get kicked for using it.
-
-### Downloads
-
-**BF2142\_Reshade\_PRv14.zip (Google Drive, 4.2 MB)**
-
-{% embed url="https://drive.google.com/file/d/1W1SdhJ14TMcm9y3ttx9QSs4RKySJ0LyL" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
-{% endembed %}
-
 ### Installation
 
 <details>
@@ -55,7 +39,7 @@ To uninstall, just uncheck the <mark style="color:blue;">Reshade</mark> option. 
 
 {% stepper %}
 {% step %}
-Download `BF2142_Reshade_PRv14.zip` from [Downloads](reshade.md#downloads).
+Download the patch from [Downloads](reshade.md#downloads).
 {% endstep %}
 
 {% step %}
@@ -68,6 +52,22 @@ Overwrite any files.
 If you installed the game somewhere other than `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`, you’ll need to manually update all the paths in `d3d9.ini` using a text editor to match your setup.
 {% endstep %}
 {% endstepper %}
+
+### Downloads
+
+{% tabs %}
+{% tab title="Downloads" %}
+**BF2142 ReShade & Shaders Patch v14 (4.2 MB)**
+
+{% embed url="https://www.mediafire.com/file/omrlv57o1vh0k98/BF2142_Reshade_PRv14.zip/file" %}
+
+{% embed url="https://drive.google.com/file/d/1W1SdhJ14TMcm9y3ttx9QSs4RKySJ0LyL" %}
+{% endtab %}
+
+{% tab title="Changelogs" %}
+
+{% endtab %}
+{% endtabs %}
 
 ### Usage
 
@@ -114,6 +114,13 @@ You can create a new preset by clicking the <mark style="color:blue;">+</mark> b
 If you notice any graphical glitches, try turning off the LUT on certain maps.
 {% endstep %}
 {% endstepper %}
+
+### Remarks
+
+* ReShade only works on Windows 7 or newer.
+* ReShade applies to all mods, including vanilla 2142.
+* ReShade can be easily uninstalled by just deleting the files you added.
+* ReShade has been tested in multiplayer — you won’t get kicked for using it.
 
 ### Acknowledgements
 

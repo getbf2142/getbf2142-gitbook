@@ -32,8 +32,8 @@
 * [Maps with Bots](addons-tweaks/maps-with-bots.md)
 * [Server Settings](addons-tweaks/server-settings.md)
 * [Frostbite Chat](addons-tweaks/frostbite-chat.md)
-* [Custom Shortcuts](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures)
 * [BF2142Unlocker](addons-tweaks/bf2142unlocker.md)
+* [Custom Shortcuts](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures)
 
 ## Manuals / Guides <a href="#manuals" id="manuals"></a>
 
