@@ -6,19 +6,7 @@ description: Got Issues? Find Answers Here!
 
 This is your go-to spot for solutions to some of the most common problems you might run into. If you're facing something that isn't covered here, definitely head over to the [Reclamation FAQ page](https://battlefield2142.co/faq/) — you'll find even more helpful info there!
 
-<details>
-
-<summary>When I click Host or Singleplayer in BF2142Unlocker, the game crashes.</summary>
-
-Related Article(s): [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
-
-{% hint style="warning" %}
-Currently, you can’t play online with BF2142Unlocker, but master server emulation still works.&#x20;
-{% endhint %}
-
-`127.0.0.1` is usually the culprit behind most issues after clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;">Singleplayer</mark>. For details on how to troubleshoot, check [here](../addons-tweaks/bf2142unlocker.md#troubleshooting).
-
-</details>
+### Graphics
 
 <details>
 
@@ -53,6 +41,54 @@ If you’re running BF2142 Hub and everything looks distorted, it’s likely due
 
 <details>
 
+<summary>I can see strange graphical glitches or see through buildings.</summary>
+
+It’s usually because the old DirectX9 engine is trying to use anti-aliasing with a modern graphics card.
+
+To fix this, turn the anti-aliasing slider OFF in the in-game OPTIONS → VIDEO menu. Then, if you want anti-aliasing, use your NVIDIA or AMD control panel to set it up for your graphics card instead.
+
+</details>
+
+<details>
+
+<summary>When I look around, I notice mouse skipping / stuttering / jumping aimpoint.</summary>
+
+Related Article(s): [Stuttering, mouse skipping & FPS cap](https://www.lost-soldiers.org/v2.php?site=forum_topic\&topic=81\&type=ASC\&page=2#bigNO)
+
+This issue may be related to the game’s animation system or engine itself.
+
+**Symptoms:**
+
+* Stand still (don’t move forward or backward; moving sideways is fine—the issue will still appear).
+* Move your mouse only horizontally; the problem doesn’t occur vertically.
+* The stutter happens when you move the mouse fast or over a long distance. Small aim adjustments are usually fine, but consistent sideways movement, even at slow speeds, can cause skipped frames.
+
+**Solutions:**\
+Unfortunately, there’s currently no known fix for this issue.
+
+</details>
+
+### Crashes
+
+<details>
+
+<summary>When I run the game, it crashes to Desktop after a black screen.</summary>
+
+Battlefield 2142 can have issues on modern PCs, with the most common cause being incompatible video modes or incorrect video settings.
+
+**Solutions:**
+
+* Try deleting the `Battlefield 2142` folder in `My Documents`. This will clean up your profiles — including any faulty video or audio settings — and clear your shader cache.
+  * You can also use the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Delete Profile</mark> function in <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>, which has a similar effect.
+* Try launching the game in windowed mode, and be sure to use a resolution and refresh rate that your monitor supports.&#x20;
+  * For example, if your monitor doesn’t support 120Hz and you select it, the game may crash. You can easily adjust these settings using <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>.
+  * If you’re launching the game with the vanilla BF2142 shortcut, check the [Shortcut Guide](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures) for instructions on setting launch parameters for windowed mode and a fixed resolution.
+* Try running the [vidcon fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) and see if it helps. \[[Ref](https://battlefield2142.co/faq/#blackscreen)]
+
+</details>
+
+<details>
+
 <summary>When I try to to adjust audio settings, the game crashes.</summary>
 
 Game crashes like this can be caused by virtual audio drivers. If you have VirtualCable or Voicemeeter installed, you’ll likely run into issues.
@@ -72,7 +108,7 @@ Game crashes like this can be caused by virtual audio drivers. If you have Virtu
 
 <details>
 
-<summary>When I start the game, "Runtime Error" or "dice_py.dll / MSVCR**.dll is missing".</summary>
+<summary>When I run the game, "Runtime Error" or "dice_py.dll / MSVCR**.dll is missing" pops up.</summary>
 
 If you see a Runtime Error or messages about `dice_py.dll` or `MSVCR**.dll` missing when launching the game, it usually means you’re missing the Microsoft Visual C++ Runtime Library.
 
@@ -112,6 +148,22 @@ Solutions:
 
 <details>
 
+<summary>When I click Host or Singleplayer in BF2142Unlocker, the game crashes.</summary>
+
+Related Article(s): [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
+
+{% hint style="warning" %}
+Currently, you can’t play online with BF2142Unlocker, but master server emulation still works.&#x20;
+{% endhint %}
+
+`127.0.0.1` is usually the culprit behind most issues after clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;">Singleplayer</mark>. For details on how to troubleshoot, check [here](../addons-tweaks/bf2142unlocker.md#troubleshooting).
+
+</details>
+
+### Servers
+
+<details>
+
 <summary>When I try to login or create an account, "no internet connection" or "EA Master Server is down" pops up.</summary>
 
 Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md)
@@ -134,57 +186,11 @@ Symptoms:
 
 <details>
 
-<summary>When I start the game, it crashes to Desktop after a black screen.</summary>
-
-Battlefield 2142 can have issues on modern PCs, with the most common cause being incompatible video modes or incorrect video settings.
-
-**Solutions:**
-
-* Try deleting the `Battlefield 2142` folder in `My Documents`. This will clean up your profiles — including any faulty video or audio settings — and clear your shader cache.
-  * You can also use the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Delete Profile</mark> function in <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>, which has a similar effect.
-* Try launching the game in windowed mode, and be sure to use a resolution and refresh rate that your monitor supports.&#x20;
-  * For example, if your monitor doesn’t support 120Hz and you select it, the game may crash. You can easily adjust these settings using <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>.
-  * If you’re launching the game with the vanilla BF2142 shortcut, check the [Shortcut Guide](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures) for instructions on setting launch parameters for windowed mode and a fixed resolution.
-* Try running the [vidcon fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) and see if it helps. \[[Ref](https://battlefield2142.co/faq/#blackscreen)]
-
-</details>
-
-<details>
-
-<summary>I can see strange graphical glitches or see through buildings.</summary>
-
-It’s usually because the old DirectX9 engine is trying to use anti-aliasing with a modern graphics card.
-
-To fix this, turn the anti-aliasing slider OFF in the in-game OPTIONS → VIDEO menu. Then, if you want anti-aliasing, use your NVIDIA or AMD control panel to set it up for your graphics card instead.
-
-</details>
-
-<details>
-
 <summary>I see no servers in the server browser even though I have OpenSpy patches.</summary>
 
 Related Article(s): [Play Multiplayer](play-multiplayer.md)
 
 To see servers in the list, make sure to uncheck all the server filter options. For step-by-step instructions, see [here](play-multiplayer.md#joining-a-public-wan-server).
-
-</details>
-
-<details>
-
-<summary>When I look around, I notice mouse skipping / stuttering / jumping aimpoint.</summary>
-
-Related Article(s): [Stuttering, mouse skipping & FPS cap](https://www.lost-soldiers.org/v2.php?site=forum_topic\&topic=81\&type=ASC\&page=2#bigNO)
-
-This issue may be related to the game’s animation system or engine itself.
-
-**Symptoms:**
-
-* Stand still (don’t move forward or backward; moving sideways is fine—the issue will still appear).
-* Move your mouse only horizontally; the problem doesn’t occur vertically.
-* The stutter happens when you move the mouse fast or over a long distance. Small aim adjustments are usually fine, but consistent sideways movement, even at slow speeds, can cause skipped frames.
-
-**Solutions:**\
-Unfortunately, there’s currently no known fix for this issue.
 
 </details>
 

@@ -86,12 +86,12 @@ After clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;
 * See the game crashes after a black screen
 * Don’t see any new messages in the unlocker terminal before the game intro appears
 * Get stuck or see popups at the login screen **\[**[**?**](#user-content-fn-1)[^1]**]**
-* See “connection to server lost” at the main menu,
+* See "connection to server lost" at the main menu,
 * Or the game crashes immediately after launching a map (not half way through) **\[**[**?**](#user-content-fn-2)[^2]**]**
 
 … it’s very likely something is blocking `127.0.0.1`.&#x20;
 
-**How to fix \[**[**?**](#user-content-fn-3)[^3]**]:**
+**Quick Solution \[**[**?**](#user-content-fn-3)[^3]**]:**
 
 {% stepper %}
 {% step %}
@@ -111,7 +111,7 @@ If you can’t save, move it to your desktop, edit, then move it back — or ope
 {% endstep %}
 {% endstepper %}
 
-**If doesn't get fixed :**
+**Fallback Solution :**
 
 {% stepper %}
 {% step %}
@@ -134,6 +134,8 @@ Enter your local IPv4 address (find it with `ipconfig` in `cmd`) in the <mark st
 Click <mark style="color:blue;">Connect</mark>.
 {% endstep %}
 {% endstepper %}
+
+The quick solution uses `127.0.0.1` (no network needed); the fallback connects through your server’s network interface if `127.0.0.1` doesn’t work.
 
 ### Windowed Mode Distortion
 
