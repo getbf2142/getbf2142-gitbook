@@ -28,17 +28,17 @@ If you have any questions or run into any issues, don’t hesitate to join our [
 
 {% tabs %}
 {% tab title="Downloads" %}
-**BF2142\_Frostbite\_Chat\_v2.zip (Google Drive, 6.5 MB)**
+**BF2142\_Frostbite\_Chat\_v2.zip (6.5 MB)**
+
+{% embed url="https://www.mediafire.com/file/c1gedm33j83lqs3/BF2142_Frostbite_Chat_v2.zip/file" %}
 
 {% embed url="https://drive.google.com/file/d/1UhRvXx8D4NokgA8RGfbSo61RdArZHILa" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
-{% endembed %}
 
-**BF2142\_Frostbite\_Chat\_v2.zip (Google Drive, 2.4 MB)**
+**BF2142\_Frostbite\_Chat\_v2\_noBg.zip (6.5 MB)**
 
-{% embed url="https://drive.google.com/file/d/1QUFUP9uGDzd7PsuJxxhJlfjWSHsX4X_s" %}
-Source: [GetBF2142](https://docs.getbf2142.net/) \[Last Verified: July 2025]
-{% endembed %}
+{% embed url="https://www.mediafire.com/file/xfe49pwfqe2g6vh/BF2142_Frostbite_Chat_v2_noBg.zip/file" %}
+
+{% embed url="https://drive.google.com/file/d/11EZxAiPjxZFICzqdKOZTF9uJzpHcpzbF" %}
 {% endtab %}
 
 {% tab title="Changelogs" %}
