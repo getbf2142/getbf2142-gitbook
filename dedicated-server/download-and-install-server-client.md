@@ -14,7 +14,7 @@ Double-click the `.exe` file to launch the InstallShield wizard.
 {% endstep %}
 
 {% step %}
-When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-1)[^1]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+When prompted by <mark style="color:blue;">User Account Control</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
 {% endstep %}
 
 {% step %}
@@ -28,16 +28,12 @@ Next, make sure to [install the server patch](download-and-install-server-patch.
 
 ## Downloads
 
-**Battlefield\_2142\_Server\_Unranked (BF-GAMES, 140 MB)**
+**Server Client (140 MB)**
 
 {% embed url="https://www.bf-games.net/downloads/mirror/4659" %}
-Source: BF-GAMES \[Last Verified: July 2025]
+Source: BF-GAMES
 {% endembed %}
-
-**\[MIRROR] Battlefield\_2142\_Server\_Unranked.exe (Google Drive, 140 MB)**
 
 {% embed url="https://drive.google.com/file/d/1RtsJs7_mO6BLtMhSmEdBsUutc_QAQY97/view?usp=sharing" %}
-Source: GetBF2142 \[Last Verified: July 2025]
+Source: GetBF2142
 {% endembed %}
-
-[^1]: i.e., Do you want to allow this app from an unknown publisher to make changes to your device?
