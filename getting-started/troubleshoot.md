@@ -2,7 +2,7 @@
 description: Got Issues? Find Answers Here!
 ---
 
-# ⍟ Troubleshooting
+# ⍟ Troubleshoot
 
 This is your go-to spot for solutions to some of the most common problems you might run into. If you're facing something that isn't covered here, definitely head over to the [Reclamation FAQ page](https://battlefield2142.co/faq/) — you'll find even more helpful info there!
 
@@ -148,14 +148,14 @@ If you see a Runtime Error or messages about `dice_py.dll` or `MSVCR**.dll` miss
 
 <summary>C04: "memory.dll sanity check" error when joining a game or loading a map </summary>
 
-Related Article(s): [https://forum.realitymod.com/viewtopic.php?t=80268](https://forum.realitymod.com/viewtopic.php?t=80268)
+Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod.com/viewtopic.php?t=80268)
 
-Symtoms:
+**Symptoms:**
 
 * "memory.dll: sanity check: block size xxxxxxx (xxxxxx mb) doesn't seem sane"
 * "memory.dll: all alloc attempts failed for size xxxxxxxxx"
 
-Solutions:
+**Solutions:**
 
 * Set pagefile to be managed by the OS.
 * In Task Manager, set the game’s affinity to a single core.
@@ -171,11 +171,7 @@ Solutions:
 
 Related Article(s): [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
 
-{% hint style="warning" %}
-Currently, you can’t play online with BF2142Unlocker, but master server emulation still works.&#x20;
-{% endhint %}
-
-`127.0.0.1` is usually the culprit behind most issues after clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;">Singleplayer</mark>. For details on how to troubleshoot, check [here](../addons-tweaks/bf2142unlocker.md#troubleshooting).
+`127.0.0.1` is usually the culprit behind most issues after clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;">Singleplayer</mark>. For details on how to troubleshoot, check [here](../addons-tweaks/bf2142unlocker.md).
 
 </details>
 

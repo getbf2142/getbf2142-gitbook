@@ -102,15 +102,13 @@ You should follow these steps:\
 
 <summary>Why don't our guides cover BF2142Unlocker ?</summary>
 
-{% hint style="danger" %}
-Currently, you can’t play online with BF2142Unlocker, but master server emulation still works.
-{% endhint %}
-
 We're actually huge fans of nostalgia and really enjoy helping new players install the game the classic way.
 
 Sure, it might take a few extra steps compared to a super quick setup, but by doing it this way, you get to experience the full, original interface and gameplay.&#x20;
 
 From there, you can dive in, create, or join games just like you would have back in the day. It's all about reliving that authentic BF2142 experience!
+
+If you're super eager to use BF2142Unlocker, you can check out the tutorial right [here](../addons-tweaks/bf2142unlocker.md)!
 
 </details>
 

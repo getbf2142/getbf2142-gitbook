@@ -2,10 +2,6 @@
 
 Once you’re familiar with the game, you might want to see all server lists, join games quickly, or host your own master server with full unlocks and stats offline. BF2142Unlocker does all this for you — no manual patching needed. Just launch it and use the straightforward interface to join, switch servers, or host games with ease.
 
-{% hint style="warning" %}
-Currently, you can’t play online with BF2142Unlocker, but master server emulation still works.
-{% endhint %}
-
 <details>
 
 <summary>Something interesting ...</summary>
@@ -26,14 +22,16 @@ Currently, you can’t play online with BF2142Unlocker, but master server emulat
 **BF2142Unlocker v0.9.7 RC7 - Windows 64-bit (16.78 MB)**
 
 {% embed url="https://www.mediafire.com/file/xy2bdlgibsd364b/BF2142Unlocker_v0.9.7_rc7_win_64bit.zip/file" %}
-
-{% embed url="https://www.mediafire.com/file/cbjc6pg1z9e0d2o/BF2142Unlocker_v0.9.7_rc7_win_64bit.zip/file" %}
+Source: Dankrad from [BF2142 Remastered](https://discord.gg/nVdDkgA)
+{% endembed %}
 {% endtab %}
 
 {% tab title="32-bit" %}
 **BF2142Unlocker v0.9.7 RC7 - Windows 32-bit (17.22 MB)**
 
 {% embed url="https://www.mediafire.com/file/8gs8autnir44irf/BF2142Unlocker_v0.9.7_rc7_win_32bit.zip/file" %}
+Source: Dankrad from [BF2142 Remastered](https://discord.gg/nVdDkgA)
+{% endembed %}
 {% endtab %}
 {% endtabs %}
 
@@ -77,9 +75,9 @@ Click <mark style="color:blue;">Host</mark>.
 {% endstep %}
 {% endstepper %}
 
-### Troubleshooting
+### Play Quick Fix
 
-After clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;">Singleplayer</mark> ...
+After clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;">Singleplayer</mark> under the <mark style="color:blue;">Play</mark> tab ...
 
 **If you :**
 
@@ -91,7 +89,11 @@ After clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;
 
 … it’s very likely something is blocking `127.0.0.1`.&#x20;
 
-**Quick Solution \[**[**?**](#user-content-fn-3)[^3]**]:**
+{% hint style="info" %}
+Dankrad, the creator of the unlocker app, investigated the issue and discovered that the game reads the `hosts` file on startup. It appears the game checks for certain (patched) IP addresses in the `hosts` file and crashes if any are found. This might be one of the major causes behind the black screen crashes we’ve been encountering.
+{% endhint %}
+
+**Quick Solution :**
 
 {% stepper %}
 {% step %}
@@ -136,6 +138,38 @@ Click <mark style="color:blue;">Connect</mark>.
 {% endstepper %}
 
 The quick solution uses `127.0.0.1` (no network needed); the fallback connects through your server’s network interface if `127.0.0.1` doesn’t work.
+
+### Multiplayer Quick Fix
+
+You can now play online on any OpenSpy server with the quick fix below:
+
+{% stepper %}
+{% step %}
+Navigate to `...\BF2142Unlocker_v0.9.7_rc7_win_64bit\bin\config`
+{% endstep %}
+
+{% step %}
+Open `server.ini` with a text editor.
+{% endstep %}
+
+{% step %}
+Under the `[OpenSpy]` section, replace:
+
+```batch
+stella_prod="http://stella.prod.openspy.net/"
+```
+
+with:
+
+```batch
+stella_prod="http://bf2142-pc.openspy.net/"
+```
+{% endstep %}
+
+{% step %}
+Save the file.
+{% endstep %}
+{% endstepper %}
 
 ### Windowed Mode Distortion
 
@@ -188,9 +222,3 @@ To skip searching the server list, enable <mark style="color:blue;">Auto join se
 [^1]: You shouldn’t even see the login screen — if it appears, something went wrong with the setup.
 
 [^2]: If it still persists after deleting the cache, something went wrong with loading the unlocks.
-
-[^3]: Weirdly enough, Windows hosts file is meant to map hostnames to IP addresses — not the other way around — so it shouldn’t normally affect how `127.0.0.1` works.&#x20;
-
-
-
-    I’m starting to think maybe the app parses the hosts file itself and acts differently, or maybe it’s just a bug.&#x20;

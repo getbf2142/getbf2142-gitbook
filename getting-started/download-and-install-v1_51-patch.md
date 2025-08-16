@@ -83,6 +83,10 @@ Unlike the official updater, which only works incrementally, this installer skip
 You might see virus warnings when launching this installer. If you’re concerned about file safety, you can use the incremental installer mirrored from EA instead.
 {% endhint %}
 
+{% hint style="warning" %}
+Some browsers might block this installer from downloading or opening. Watch [this video](https://www.youtube.com/watch?v=0nyKWOAbqD4) to learn how to bypass it.
+{% endhint %}
+
 **Patch v1.51 Full Installer (2.3 GB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-v151-full" %}
