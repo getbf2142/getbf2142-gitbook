@@ -1,8 +1,8 @@
 ---
-description: How to play singleplayer? How to start a singleplayer game?
+description: 'Go solo: Two ways to enjoy singleplayer mode ...'
 ---
 
-# ⍟ Play Singleplayer
+# ⍟ Play singleplayer
 
 In this tutorial, we’ll walk you through two different ways to enjoy singleplayer mode. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 

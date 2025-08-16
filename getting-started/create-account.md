@@ -1,8 +1,8 @@
 ---
-description: How to create an online account? How to configure video and audio settings?
+description: 'Ready, set, play: Creating your account and setting up in-game options ...'
 ---
 
-# ⑤ Create Account
+# ⑥ Create an account
 
 In this tutorial, we’ll walk you through how to create an account and set up several in-game settings. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 

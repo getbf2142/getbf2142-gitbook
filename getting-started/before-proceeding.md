@@ -1,5 +1,5 @@
 ---
-description: Ready to play? Here's how!
+description: Ready to play ? Here's how !
 ---
 
 # ⍟ Before getting started

@@ -1,5 +1,5 @@
 ---
-description: Got Issues? Find Answers Here!
+description: Got issues ? Find answers here !
 ---
 
 # ⍟ Troubleshoot

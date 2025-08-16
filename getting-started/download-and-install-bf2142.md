@@ -1,5 +1,5 @@
 ---
-description: Where to download the game? How to install the game?
+description: 'Get started: Where to download and how to install the game ...'
 ---
 
 # ① Install BF2142

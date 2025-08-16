@@ -1,15 +1,15 @@
 ---
-description: How to host a server? How to configure server settings?
+description: 'Be the host: How to set up your own game server ...'
 ---
 
-# ⍟ Host Server
+# ⍟ Host a server
 
 In this tutorial, you’ll learn how to host a simple server directly from the game. While this method is quick and easy, there are a few limitations:
 
 * You’ll have fewer game settings to customize. **\[**[**?**](#user-content-fn-1)[^1]**]**
 * The person hosting the server must also be playing on it.
 
-For a full-featured, production server, you’d want to use a [dedicated server client](../dedicated-server/download-and-install-server-client.md). However, this quick setup is usually enough for most situations.
+For a full-featured, production server, you’d want to use a [dedicated server](../dedicated-server/install-server.md). However, this quick setup is usually enough for most situations.
 
 <details>
 

@@ -1,8 +1,8 @@
 ---
-description: Where to download BF2142 Hub? How to install BF2142 Hub?
+description: 'Get connected: How to download and install BF2142 Hub ...'
 ---
 
-# ③ Install the BF2142 Hub
+# ③ Install BF2142 Hub
 
 In this tutorial, we'll walk you through the steps to download and install BF2142 Hub. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 
@@ -54,7 +54,7 @@ Follow the on-screen instructions in the wizard to finish the installation.
 {% endstep %}
 
 {% step %}
-Next, be sure to [apply the OpenSpy patch](apply-openspy-patches.md) using <mark style="color:blue;">BF2142 Hub</mark> — _this step is essential, so don't skip it!_ **\[**[**?**](#user-content-fn-1)[^1]**]**
+Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using <mark style="color:blue;">BF2142 Hub</mark> — _this step is essential, so don't skip it!_ **\[**[**?**](#user-content-fn-1)[^1]**]**
 {% endstep %}
 {% endstepper %}
 

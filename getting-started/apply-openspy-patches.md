@@ -1,10 +1,10 @@
 ---
-description: How to install the patch? Why do we need this patch?
+description: 'Get online with OpenSpy: Patching your game for action !'
 ---
 
-# ④ Apply the OpenSpy patch
+# ④ Apply OpenSpy patches
 
-In this tutorial, we’ll focus on getting your game working with OpenSpy. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
+In this tutorial, we’ll show you how to get your game ready for OpenSpy, including installing the necessary patch and understanding why it's crucial for your online experience. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 
 <details>
 

@@ -1,5 +1,5 @@
 ---
-description: Where to download the patch? How to install the Patch?
+description: 'Stay ahead: How to update your game to the latest version ...'
 ---
 
 # ② Install the v1.51 patch
@@ -65,7 +65,7 @@ Follow the on-screen instructions in the wizard to finish the installation.​
 {% endstep %}
 
 {% step %}
-Next, be sure to [install the BF2142 Hub](download-and-install-bf2142-hub.md) and [apply the OpenSpy Patch](apply-openspy-patches.md) — _these steps are crucial, so don't skip them_! **\[**[**?**](#user-content-fn-4)[^4]**]**
+Next, be sure to [install BF2142 Hub](download-and-install-bf2142-hub.md) and [apply OpenSpy patches](apply-openspy-patches.md) — _these steps are crucial, so don't skip them_! **\[**[**?**](#user-content-fn-4)[^4]**]**
 {% endstep %}
 {% endstepper %}
 

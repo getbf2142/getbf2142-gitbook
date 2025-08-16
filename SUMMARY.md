@@ -7,8 +7,8 @@
 * [⍟ Before getting started](getting-started/before-proceeding.md)
 * [① Install BF2142](getting-started/download-and-install-bf2142.md)
 * [② Install the v1.51 patch](getting-started/download-and-install-v1_51-patch.md)
-* [③ Install the BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
-* [④ Apply the OpenSpy patch](getting-started/apply-openspy-patches.md)
+* [③ Install BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
+* [④ Apply OpenSpy patches](getting-started/apply-openspy-patches.md)
 * [⑤ Install the map pack](getting-started/install-map-pack.md)
 * [⑥ Create an account](getting-started/create-account.md)
 * [⍟ Play singleplayer](getting-started/play-singleplayer.md)
@@ -39,7 +39,7 @@
 
 ## Dedicated Server
 
-* [① Install the server client](dedicated-server/download-and-install-server-client.md)
+* [① Install the server](dedicated-server/install-server.md)
 * [② Install the server patch](dedicated-server/download-and-install-server-patch.md)
 * [③ Host a dedicated server](dedicated-server/host-dedicated-server.md)
 

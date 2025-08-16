@@ -1,12 +1,12 @@
-# ① Installing the server client
+# ① Install the server
 
-For a full-featured, production server, you’d want to use a dedicated server client. This tutorial will guide you through the steps to download and install the server client.
+For a full-featured, production server, you’d want it to be dedicated. This tutorial will guide you through the steps to download and install the server.
 
 ## Procedures
 
 {% stepper %}
 {% step %}
-Download the server client from [Downloads](download-and-install-server-client.md#downloads).​​
+Download the server setup from [Downloads](install-server.md#downloads).​​
 {% endstep %}
 
 {% step %}
@@ -30,7 +30,7 @@ Next, make sure to [install the server patch](download-and-install-server-patch.
 
 {% tabs %}
 {% tab title="Downloads" %}
-**Server Client (140 MB)**
+**Server Setup (140 MB)**
 
 {% embed url="https://www.bf-games.net/downloads/mirror/4659" %}
 
