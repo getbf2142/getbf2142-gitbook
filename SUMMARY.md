@@ -51,19 +51,6 @@
 * [③ Host Unranked Server](dedicated-server/host-unranked-server.md)
 * [⍟ Host Master & Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
-## Community Projects
-
-* [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
-* [BF2142 First Strike](https://www.moddb.com/mods/first-strike)
-* [BF2142 Remastered](https://www.moddb.com/mods/bf2142-project-remaster)
-* [BF2142 Reclamation](https://battlefield2142.co/)
-
-## Quick Links
-
-* [Battlefield Vietnam](https://oldgamesdownload.com/battlefield-vietnam-2tt/)
-* [Battlefield 1942](https://oldgamesdownload.com/battlefield-1942-hg4/)
-* [Battlefield 2](https://playbf2.tilda.ws/en)
-
 ## Others
 
 * [Github Repository](https://github.com/getbf2142/getbf2142-gitbook)
