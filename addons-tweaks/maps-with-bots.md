@@ -177,7 +177,7 @@ Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about
 
 You should have BF2142 Hub installed. If you don't, click [here](../getting-started/download-and-install-bf2142-hub.md) to download and install it.
 
-Check out [this guide](../getting-started/apply-openspy-patches.md#installing-individual-maps) to learn how to install individual maps from the Reclamation Map Pack instead of downloading the entire pack.
+Check out [this guide](../getting-started/install-map-pack.md#installing-individual-maps) to learn how to install individual maps from the [Reclamation Map Pack](../getting-started/install-map-pack.md) instead of downloading the entire pack.
 
 ### What you will get from GetBF2142 ...
 

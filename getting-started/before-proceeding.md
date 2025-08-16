@@ -1,13 +1,13 @@
 ---
-description: Ready to Play? Here's How!
+description: Ready to play? Here's how!
 ---
 
-# ⍟ Before Proceeding
+# ⍟ Before getting started
 
-Follow tutorials ① through ⑤ in order — it’s super straightforward! Depending on your setup, you might be able to skip some steps or need to add a few extras. Don’t worry, this guide has you covered! It’ll help you figure out which steps are essential and which ones you can safely skip. Let’s get you into the game!
+Follow tutorials ① through ⑥ in order — it’s super straightforward! Depending on your setup, you might be able to skip some steps or need to add a few extras. Don’t worry, this guide has you covered! It’ll help you figure out which steps are essential and which ones you can safely skip. Let’s get you into the game!
 
 {% hint style="success" %}
-We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support.
+We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support. If you enjoy our work, please give us a 5-star rating or share a few kind words [here](../others/feedback.md)!
 {% endhint %}
 
 ### Game installed ?
@@ -19,7 +19,7 @@ Alright, let's figure out your next steps! This will help you decide if you can 
 <summary>No, I don't have the game installed.</summary>
 
 You should follow these steps:\
-[① Download & Install BF2142](download-and-install-bf2142.md) → [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
+[① Install BF2142](download-and-install-bf2142.md) → [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
 
 </details>
 
@@ -27,7 +27,7 @@ You should follow these steps:\
 
 <summary>Yes, I already have the Standard Edition installed.</summary>
 
-You can skip this step: [① Download & Install BF2142](download-and-install-bf2142.md)
+You can skip this step: [① Install BF2142](download-and-install-bf2142.md)
 
 You should follow this step: [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
 
@@ -37,7 +37,7 @@ You should follow this step: [② Install v1.51 Patch](download-and-install-v1_5
 
 <summary>Yes, I already have the Deluxe Edition installed.</summary>
 
-You can skip these steps: [① Download & Install BF2142](download-and-install-bf2142.md), [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
+You can skip these steps: [① Install BF2142](download-and-install-bf2142.md), [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
 
 </details>
 
@@ -47,13 +47,13 @@ You can skip these steps: [① Download & Install BF2142](download-and-install-b
 
 That is equivalent to having the Deluxe Edition installed.
 
-You can skip these steps: [① Download & Install BF2142](download-and-install-bf2142.md), [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
+You can skip these steps: [① Install BF2142](download-and-install-bf2142.md), [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
 
 </details>
 
 ### Vanilla or Remaster ? Let's Decide !
 
-This choice will help you figure out if you need to tackle any extra tutorials beyond ③, ④, and ⑤. Here's a quick guide to help you pick:
+This choice will help you figure out if you need to tackle any extra tutorials beyond ③ - ⑥. Here's a quick guide to help you pick:
 
 * Mostly playing public multiplayer on Reclamation servers?\
   Stick with _Vanilla_. It's the classic experience for those servers. **\[**[**?**](#user-content-fn-1)[^1]**]**
@@ -69,7 +69,10 @@ Choose what fits your playstyle best, and we'll guide you through the rest!
 <summary>I prefer Remaster.</summary>
 
 You should follow these steps in order:\
-[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Create Account](create-account.md) → [Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) (Extra) → [Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md) (Extra)
+[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Install Map Pack](install-map-pack.md) (Optional) → [⑥ Create Account](create-account.md) → [Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) → [Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md)
+
+You may skip this step if you don't play on Reclamation servers:\
+[⑤ Install Map Pack](install-map-pack.md)
 
 </details>
 
@@ -78,7 +81,7 @@ You should follow these steps in order:\
 <summary>I prefer Vanilla.</summary>
 
 You should follow these steps:\
-[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Create Account](create-account.md)
+[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Install Map Pack](install-map-pack.md) → [⑥ Create Account](create-account.md)
 
 </details>
 
@@ -92,7 +95,7 @@ You can skip these steps:\
 [③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md), [④ Install OpenSpy Patches](apply-openspy-patches.md)&#x20;
 
 You should follow these steps:\
-[Install OpenSpy Patches for XP](https://www.moddb.com/mods/bf2142-reclamation-xp-install-package/downloads/bf2142-reclamation-xp-install-package) \[[Ref](https://battlefield2142.co/faq#notwin32)] → [Install Reclamation Map Pack](apply-openspy-patches.md#reclamation-map-pack) → [⑤ Create Account](create-account.md)
+[Install OpenSpy Patches for XP](https://www.moddb.com/mods/bf2142-reclamation-xp-install-package/downloads/bf2142-reclamation-xp-install-package) \[[Ref](https://battlefield2142.co/faq#notwin32)] → [⑤ Install Map Pack](install-map-pack.md) → [⑥ Create Account](create-account.md)
 
 </details>
 

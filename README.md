@@ -1,5 +1,5 @@
 ---
-description: Your Go-To for BF2142 Resources
+description: Your go-to for BF2142 resources!
 ---
 
 # Homepage
@@ -80,6 +80,8 @@ And the real highlight? _Titan mode_! This unique multiplayer experience offers 
 </details>
 
 _**Click**_ [_**here**_](getting-started/before-proceeding.md) _**to get started! Join our**_ [_**Discord**_](https://discord.gg/DaMVNknVnV) _**server to receive support.**_
+
+If you enjoy our work, please give us a 5-star rating or share a few kind words [here](others/feedback.md)!
 
 #### Disclaimer
 

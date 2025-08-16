@@ -228,7 +228,7 @@ To play on NovGames servers, make sure you run the <mark style="color:blue;">ACT
 
 <summary>S04: "This map contains customised content" error when joining a Reclamation server</summary>
 
-Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md), [Reclamation Map Pack](apply-openspy-patches.md#reclamation-map-pack)
+Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md), [Reclamation Map Pack](install-map-pack.md)
 
 You might have an outdated map or be missing the required map.
 
