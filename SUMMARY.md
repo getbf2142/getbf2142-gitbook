@@ -36,25 +36,16 @@
 * [BF2142Unlocker](addons-tweaks/bf2142unlocker.md)
 * [Custom Shortcuts](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures)
 
-## Manuals / Guides <a href="#manuals" id="manuals"></a>
-
-* [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS)
-* [Prima eGuide](https://archive.org/details/Battlefield_2142_Prima_Official_eGuide)
-* [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html)
-* [Modding Wiki](https://classic-battlefield-modding.fandom.com/wiki/Classic_Battlefield_Modding_Wikia)
-* [Online Services Setup](https://prmp.boards.net/board/9/guides)
-
 ## Dedicated Server
 
 * [① Install Server Client](dedicated-server/download-and-install-server-client.md)
 * [② Install Server Patch](dedicated-server/download-and-install-server-patch.md)
 * [③ Host Unranked Server](dedicated-server/host-unranked-server.md)
-* [⍟ Host Master & Ranked Server](https://prmp.boards.net/thread/10/setup-ranked-lan-server)
 
 ## Others
 
-* [Github Repository](https://github.com/getbf2142/getbf2142-gitbook)
-* [Discord Group](https://discord.gg/DaMVNknVnV)
-* [Contact Us](others/contact-us.md)
+* [Github](https://github.com/getbf2142/getbf2142-gitbook)
+* [Discord](https://discord.gg/DaMVNknVnV)
+* [Contact](others/contact-us.md)
 * [Feedback](others/feedback.md)
 * [Disclaimer](others/disclaimer.md)

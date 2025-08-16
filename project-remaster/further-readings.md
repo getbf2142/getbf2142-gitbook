@@ -1,5 +1,6 @@
 ---
 description: Supplementary materials that are worth taking notes of.
+hidden: true
 ---
 
 # ⍟ Further Readings
