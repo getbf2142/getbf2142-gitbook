@@ -2,7 +2,15 @@
 
 A lot of Battlefield fans love the BF3/BF4-style chat — it really adds a modern feel to the game and makes chatting more enjoyable. Now, we’re bringing that same great chat experience to BF2142, so everyone can enjoy the sleek, updated chat right here in 2142!
 
-<figure><img src="../.gitbook/assets/frostbite_chat.png" alt="" width="375"><figcaption></figcaption></figure>
+{% columns %}
+{% column %}
+<figure><img src="../.gitbook/assets/frostbite_chat_1.png" alt=""><figcaption><p>Player View</p></figcaption></figure>
+{% endcolumn %}
+
+{% column %}
+<figure><img src="../.gitbook/assets/frostbite_chat_2.png" alt=""><figcaption><p>Commander View</p></figcaption></figure>
+{% endcolumn %}
+{% endcolumns %}
 
 ### Preparations
 
