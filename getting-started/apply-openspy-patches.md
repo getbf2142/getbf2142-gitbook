@@ -1,8 +1,8 @@
 ---
-description: How to install the patches? Why do we need these patches?
+description: How to install the patch? Why do we need this patch?
 ---
 
-# ④ Installing the OpenSpy patches
+# ④ Apply the OpenSpy patch
 
 In this tutorial, we’ll focus on getting your game working with OpenSpy. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 
@@ -24,7 +24,7 @@ A master server manages your login credentials and soldier data, broadcasts avai
 
 <details>
 
-<summary>Why do we need OpenSpy patches ?</summary>
+<summary>Why do we need this OpenSpy patch ?</summary>
 
 After [GameSpy shutdown](https://en.wikipedia.org/wiki/GameSpy#Shutdown) in 2014, the original online services for BF2142 stopped working. OpenSpy patches redirect the game to use the OpenSpy master server instead, letting you log in and play online again.
 
@@ -139,7 +139,7 @@ Just a heads up: you’ll need to repeat these steps every time you click the in
 {% endstep %}
 
 {% step %}
-Next, make sure to install the [Reclamation Map Pack](install-map-pack.md) if you plan to play on Reclamation servers. If not, you can skip this step and proceed to [create an account](create-account.md).
+Next, make sure to [install the Reclamation Map Pack](install-map-pack.md) if you plan to play on Reclamation servers. If not, you can skip this step and proceed to [create an account](create-account.md).
 {% endstep %}
 {% endstepper %}
 

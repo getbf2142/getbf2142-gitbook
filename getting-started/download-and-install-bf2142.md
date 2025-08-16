@@ -2,7 +2,7 @@
 description: Where to download the game? How to install the game?
 ---
 
-# ① Installing BF2142
+# ① Install BF2142
 
 In this tutorial, we'll walk you through all the best online spots to download the game and show you exactly how to install it properly. If you hit any snags or have questions, don't hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we're always happy to help you out!
 
@@ -99,7 +99,7 @@ Once the installation finishes, close the wizard but _don’t launch the game ju
 {% endstep %}
 
 {% step %}
-Next, be sure to [patch the game to v1.51](download-and-install-v1_51-patch.md) — _don’t skip this step_! **\[**[**?**](#user-content-fn-13)[^13]**]**
+Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md) — _don’t skip this step_! **\[**[**?**](#user-content-fn-13)[^13]**]**
 {% endstep %}
 {% endstepper %}
 
