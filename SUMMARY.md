@@ -4,22 +4,22 @@
 
 ## Getting Started
 
-* [⍟ Before proceeding](getting-started/before-proceeding.md)
-* [① Download & Install BF2142](getting-started/download-and-install-bf2142.md)
-* [② Install v1.51 patch](getting-started/download-and-install-v1_51-patch.md)
-* [③ Install BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
-* [④ Install OpenSpy patches](getting-started/apply-openspy-patches.md)
-* [⑤ Create an account](getting-started/create-account.md)
-* [⍟ Play singleplayer](getting-started/play-singleplayer.md)
-* [⍟ Play multiplayer](getting-started/play-multiplayer.md)
-* [⍟ Host a server](getting-started/host-server.md)
+* [⍟ Before getting started](getting-started/before-proceeding.md)
+* [① Installing BF2142](getting-started/download-and-install-bf2142.md)
+* [② Installing the v1.51 patch](getting-started/download-and-install-v1_51-patch.md)
+* [③ Installing the BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
+* [④ Installing the OpenSpy patches](getting-started/apply-openspy-patches.md)
+* [⑤ Creating an account](getting-started/create-account.md)
+* [⍟ Playing singleplayer](getting-started/play-singleplayer.md)
+* [⍟ Playing multiplayer](getting-started/play-multiplayer.md)
+* [⍟ Hosting a server](getting-started/host-server.md)
 * [⍟ Troubleshoot](getting-started/troubleshoot.md)
 * [⍟ FAQ](getting-started/faq.md)
 
 ## Project Remaster
 
-* [① Install the Remaster mod](project-remaster/download-and-install-remaster-mod.md)
-* [② Configure the launcher](project-remaster/configure-remaster-launcher.md)
+* [① Installing the mod](project-remaster/download-and-install-remaster-mod.md)
+* [② Setting up the launcher](project-remaster/configure-remaster-launcher.md)
 * [⍟ Further Readings](project-remaster/further-readings.md)
 
 ## Addons / Tweaks
@@ -38,9 +38,9 @@
 
 ## Dedicated Server
 
-* [① Install the server client](dedicated-server/download-and-install-server-client.md)
-* [② Install the server patch](dedicated-server/download-and-install-server-patch.md)
-* [③ Host a dedicated server](dedicated-server/host-dedicated-server.md)
+* [① Installing the server client](dedicated-server/download-and-install-server-client.md)
+* [② Installing the server patch](dedicated-server/download-and-install-server-patch.md)
+* [③ Hosting a dedicated server](dedicated-server/host-dedicated-server.md)
 
 ## Others
 
