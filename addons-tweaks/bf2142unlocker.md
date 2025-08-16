@@ -219,6 +219,13 @@ To skip searching the server list, enable <mark style="color:blue;">Auto join se
 {% endstep %}
 {% endstepper %}
 
+### Acknowledgements
+
+Special thanks to
+
+* Dankrad for creating BF2142Unlocker and sharing details on multiplayer quick fixes @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
+* Dennie for discovering quick fixes for the host / singleplayer crash @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
+
 [^1]: You shouldn’t even see the login screen — if it appears, something went wrong with the setup.
 
 [^2]: If it still persists after deleting the cache, something went wrong with loading the unlocks.

@@ -81,4 +81,5 @@ Drag and drop the `python` folder from the `.zip` file into the root directory o
 
 Special thanks to:
 
-* [maiorBoltach](https://github.com/maiorBoltach) for providing the python files (if I'm not mistaken) @ [bf2142stats\_emu](https://github.com/maiorBoltach/bf2142stats_emu)
+* [maiorBoltach](https://github.com/maiorBoltach) for writing the python files to support rewards emulation @ [bf2142stats\_emu](https://github.com/maiorBoltach/bf2142stats_emu)
+* Dennie for optimising the rewards requirements and adding support for Remaster mod weapons @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)

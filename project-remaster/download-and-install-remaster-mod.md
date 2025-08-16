@@ -139,8 +139,6 @@ Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 <sub>Ask nicely in</sub> [<sub>Discord</sub>](https://discord.gg/nVdDkgA) <sub>to join the v16 testing ...</sub>
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
-Source: [P](https://discord.gg/nVdDkgA)[BF2142 Remastered](https://discord.gg/nVdDkgA)
-{% endembed %}
 {% endtab %}
 {% endtabs %}
 

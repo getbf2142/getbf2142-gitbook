@@ -65,7 +65,7 @@ If you installed the game somewhere other than `C:\Program Files (x86)\Electroni
 {% endtab %}
 
 {% tab title="Changelogs" %}
-
+N/A
 {% endtab %}
 {% endtabs %}
 
@@ -126,7 +126,7 @@ If you notice any graphical glitches, try turning off the LUT on certain maps.
 
 Special thanks to:
 
-* [Project Remaster Team](https://discord.com/invite/nVdDkgA) for adapting this excellent shader for BF2142
+* Project Remaster Team for adapting this excellent shader for BF2142 @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
 * [illicitSoul](https://www.moddb.com/members/ainas) for sharing instructions on ReShade setup @ [BF2142 Reshade](https://www.moddb.com/downloads/bf2142-reshade)
 * [phale](https://www.moddb.com/members/phale) for sharing details on ReShade setup @ [Heat of Battle Reshade](https://www.moddb.com/mods/heat-of-battle2/downloads/heat-of-battle-reshade-20)
 

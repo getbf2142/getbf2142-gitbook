@@ -64,5 +64,6 @@ If you have any questions or run into any issues, feel free to join our [Discord
 
 Special thanks to:
 
-* Heat of Battle Team for further enhancing the HUDs made by Leeberty @ [Heat of Battle](https://www.moddb.com/mods/heat-of-battle2)
 * [Leeberty](https://www.moddb.com/members/leeberty) for making BF3 Chat and Nametags possible in BF2 @ [Frostbite MenuShader](https://www.moddb.com/mods/frostbite-menushader), [Frostbite Nametags](https://www.moddb.com/mods/frostbite-nametags-for-battlefield2)
+* Heat of Battle Team for further enhancing the HUDs made by Leeberty @ [Heat of Battle](https://www.moddb.com/mods/heat-of-battle2)
+* Dennie for porting this enhancement for BF2142 @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)

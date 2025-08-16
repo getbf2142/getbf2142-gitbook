@@ -70,7 +70,7 @@ Source: [BF2142 Reclamation](https://battlefield2142.co/)
 {% endtab %}
 
 {% tab title="Changelogs" %}
-
+N/A
 {% endtab %}
 {% endtabs %}
 

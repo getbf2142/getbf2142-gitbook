@@ -136,8 +136,8 @@ And that’s it — you’re all set!
 
 Special thanks to:
 
-* [Project Remaster Team](https://discord.com/invite/nVdDkgA) for making this fix available
-* ompadu for sharing details on how to install the fix on vanilla BF2142 @ [Remaster Discord](https://discord.com/invite/nVdDkgA)
+* Project Remaster Team for making this fix available @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
+* ompadu for sharing details on how to install the fix on vanilla BF2142 @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
 
 
 
