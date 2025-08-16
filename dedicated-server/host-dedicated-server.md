@@ -1,6 +1,6 @@
-# ③ Host Unranked Server
+# ③ Hosting a dedicated server
 
-This tutorial will guide you through the steps to host a dedicated unranked server.
+This tutorial will guide you through the steps to host a dedicated _unranked_ server.
 
 <details>
 

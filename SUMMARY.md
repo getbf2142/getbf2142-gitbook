@@ -18,8 +18,8 @@
 
 ## Project Remaster
 
-* [① Install Remaster Mod](project-remaster/download-and-install-remaster-mod.md)
-* [② Configure Remaster Launcher](project-remaster/configure-remaster-launcher.md)
+* [① Installing the Remaster mod](project-remaster/download-and-install-remaster-mod.md)
+* [② Configuring the Remaster Launcher](project-remaster/configure-remaster-launcher.md)
 * [⍟ Further Readings](project-remaster/further-readings.md)
 
 ## Addons / Tweaks
@@ -38,14 +38,14 @@
 
 ## Dedicated Server
 
-* [① Install Server Client](dedicated-server/download-and-install-server-client.md)
-* [② Install Server Patch](dedicated-server/download-and-install-server-patch.md)
-* [③ Host Unranked Server](dedicated-server/host-unranked-server.md)
+* [① Installing the server client](dedicated-server/download-and-install-server-client.md)
+* [② Installing the server patch](dedicated-server/download-and-install-server-patch.md)
+* [③ Hosting a dedicated server](dedicated-server/host-dedicated-server.md)
 
 ## Others
 
 * [Github](https://github.com/getbf2142/getbf2142-gitbook)
 * [Discord](https://discord.gg/DaMVNknVnV)
-* [Contact](others/contact-us.md)
+* [Contact us](others/contact-us.md)
 * [Feedback](others/feedback.md)
 * [Disclaimer](others/disclaimer.md)

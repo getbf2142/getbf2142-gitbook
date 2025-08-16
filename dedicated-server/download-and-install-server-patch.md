@@ -1,4 +1,4 @@
-# ② Install Server Patch
+# ② Installing the server patch
 
 In this tutorial, we’ll be installing OpenSpy patches to the server client, which lets you host your server on the OpenSpy network — just like we did with the game client. If you’re curious about why this step is necessary, you can find more information [here](../getting-started/apply-openspy-patches.md).
 
@@ -6,7 +6,7 @@ In this tutorial, we’ll be installing OpenSpy patches to the server client, wh
 
 {% stepper %}
 {% step %}
-Download `BF2142_Server_Patch.zip` from [Downloads](download-and-install-server-patch.md#downloads).
+Download the server patch from [Downloads](download-and-install-server-patch.md#downloads).
 {% endstep %}
 
 {% step %}
@@ -22,7 +22,7 @@ In the unzipped folder, find `BF2142_Server_Patch.exe`, right-click it, and sele
 {% endstep %}
 
 {% step %}
-When prompted by [<mark style="color:blue;">User Account Contro</mark>](#user-content-fn-1)[^1]<mark style="color:blue;">l</mark>, click <mark style="color:blue;">Yes</mark> to allow the app to make changes on your device.
+When prompted by <mark style="color:blue;">User Account Control</mark>, click <mark style="color:blue;">Yes</mark> to allow the app to make changes on your device.
 {% endstep %}
 
 {% step %}
@@ -40,20 +40,22 @@ Drag `BF2142_w32ded.exe` back from your desktop folder to `C:\Program Files (x86
 {% endstep %}
 
 {% step %}
-Next, you’ll use what you’ve just installed to set up and [host a dedicated server](host-unranked-server.md).
+Next, you’ll use what you’ve just installed to set up and [host a dedicated server](host-dedicated-server.md).
 {% endstep %}
 {% endstepper %}
 
 ## Downloads
 
+{% tabs %}
+{% tab title="Downloads" %}
 **Server Patch (20 KB)**
 
 {% embed url="https://www.moddb.com/downloads/bf2142-server-patch-1" %}
-Source: ModDB
-{% endembed %}
 
 {% embed url="https://drive.google.com/file/d/1YCNd2G1NcWEctS74aIpaMfHOTP1NxLow" %}
-Source: GetBF2142
-{% endembed %}
+{% endtab %}
 
-[^1]: i.e., Do you want to allow this app to make changes to your device?
+{% tab title="Changelogs" %}
+N/A
+{% endtab %}
+{% endtabs %}

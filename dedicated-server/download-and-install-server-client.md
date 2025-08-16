@@ -1,4 +1,4 @@
-# ① Install Server Client
+# ① Installing the server client
 
 For a full-featured, production server, you’d want to use a dedicated server client. This tutorial will guide you through the steps to download and install the server client.
 
@@ -6,7 +6,7 @@ For a full-featured, production server, you’d want to use a dedicated server c
 
 {% stepper %}
 {% step %}
-Download `Battlefield_2142_Server_Unranked.exe` from [Downloads](download-and-install-server-client.md#downloads).​​
+Download the server client from [Downloads](download-and-install-server-client.md#downloads).​​
 {% endstep %}
 
 {% step %}
@@ -28,12 +28,16 @@ Next, make sure to [install the server patch](download-and-install-server-patch.
 
 ## Downloads
 
+{% tabs %}
+{% tab title="Downloads" %}
 **Server Client (140 MB)**
 
 {% embed url="https://www.bf-games.net/downloads/mirror/4659" %}
-Source: BF-GAMES
-{% endembed %}
 
 {% embed url="https://drive.google.com/file/d/1RtsJs7_mO6BLtMhSmEdBsUutc_QAQY97/view?usp=sharing" %}
-Source: GetBF2142
-{% endembed %}
+{% endtab %}
+
+{% tab title="Changelogs" %}
+N/A
+{% endtab %}
+{% endtabs %}
