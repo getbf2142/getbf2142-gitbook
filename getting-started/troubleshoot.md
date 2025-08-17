@@ -29,20 +29,6 @@ Just a heads up: you’ll need to repeat these steps every time you click the in
 
 <details>
 
-<summary>G02: BF2142 Hub scaling looks messed up or distorted</summary>
-
-Sometimes, Windows scaling settings can interfere with an app's display, causing weird scaling or visual glitches. You can fix this by running the app in compatibility mode:
-
-1. Right-click BF2142 Hub's shortcut and select <mark style="color:blue;">Properties</mark>.
-2. In the <mark style="color:blue;">Compatibility</mark> tab, click <mark style="color:blue;">Change high DPI settings</mark>.
-3. Under <mark style="color:blue;">High DPI scaling override</mark>, check <mark style="color:blue;">Override high DPI scaling behavior</mark>.
-4. Set <mark style="color:blue;">Scaling performed by:</mark> to <mark style="color:blue;">Application</mark>.
-5. Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
-
-</details>
-
-<details>
-
 <summary>G03: Experiencing weird graphics glitches like blackouts, ghost objects, etc.</summary>
 
 It’s usually because the old DirectX9 engine is trying to use anti-aliasing with a modern graphics card.
@@ -146,7 +132,7 @@ If you see a Runtime Error or messages about `dice_py.dll` or `MSVCR**.dll` miss
 
 <details>
 
-<summary>C04: "memory.dll sanity check" error when joining a game or loading a map </summary>
+<summary>C04: "memory.dll sanity check" error when joining a game or loading a map</summary>
 
 Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod.com/viewtopic.php?t=80268)
 
@@ -175,15 +161,17 @@ Related Article(s): [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
 
 </details>
 
-### (S) Servers
+### (S) Servers&#x20;
 
 <details>
 
-<summary>S01: "No internet connection" or "EA Master Server is down" when logging in or creating an account</summary>
+<summary>S01: "Could not connect to EA Online" or "EA Master Server is down" when logging in or creating an account</summary>
 
 Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md)
 
-Symptoms:
+There are many potential causes that could lead to this issue.
+
+**Symptoms:**
 
 * "You are not connected to the Internet. Click OK to select a soldier to play offline, or try to reconnect."
 * "Could not connect to EA Online. Retry, or click OK to go into Offline mode. If you proceed, try logging in again later."
@@ -193,12 +181,19 @@ Symptoms:
 
 **Soutions:**
 
-* Reinstall the OpenSpy patches and make sure there are four green ticks.
-* Restart BF2142 Hub (close it completely, then start it again).
+* Ensure you have a steady internet connection.
+* Reinstall the OpenSpy patches and confirm there are four green ticks.
+* Restart BF2142 Hub (close it completely, then reopen it).
 * Reinstall BF2142 Hub if the issue persists.
 * Always run BF2142 Hub as an administrator.
 
 - Make sure BF2142 is allowed through both private and public networks in Windows Firewall.
+- Check that no antivirus or firewall is blocking BF2142 from communicating externally.
+
+* Ask in the Reclamation Discord to see if others are experiencing the same issue. If so, the OpenSpy master server (login service) might be down or undergoing maintenance.
+* Use ipconfig /flushdns in Command Prompt to flush your DNS entries.
+* Switch to DNS services like `1.1.1.1` or `1.0.0.1` (Cloudflare).
+* Use a VPN service, such as ExpressVPN or ProtonVPN, to bypass ISP restrictions.
 
 </details>
 
@@ -264,6 +259,52 @@ You may have modified files in your current mod or tried to join the server with
   * You can’t join a vanilla server with a mod enabled, or the other way around.
   * To join a modded server, you’ll need to have the exact same mod and files installed as the server.
 - Revert your changes before joining Reclamation or any multiplayer servers, unless the server explicitly allows or uses this mod.
+
+</details>
+
+<details>
+
+<summary>S06: "Account creation error" when creating an account.</summary>
+
+Related Article(s): [Creating an account](create-account.md)
+
+Symptoms:
+
+* A system error occured. Try again later. If problem persists, contact customer support.
+
+</details>
+
+### (H) BF2142 Hub
+
+<details>
+
+<summary>H01: Getting mdIBF warnings or pop-ups when starting BF2142 Hub</summary>
+
+This usually happens when your ISP blocks certain IP addresses, which prevent BF2142 Hub from communicating with external services.
+
+**Symptoms:**
+
+* "mdIBF.ReadConfig: Unexpected character encountered while parsing value: <. Path ", line 0, position 0."
+* "mdIBF.Banners: Object reference not set to an instance of an object."
+* "the type initialisation function for b2142\_hub MDIBFclient has causes an exeption."
+
+**Solutions:**
+
+* Use a VPN service, such as ExpressVPN or ProtonVPN, to bypass ISP restrictions.
+
+</details>
+
+<details>
+
+<summary>H02: BF2142 Hub scaling looks messed up or distorted</summary>
+
+Sometimes, Windows scaling settings can interfere with an app's display, causing weird scaling or visual glitches. You can fix this by running the app in compatibility mode:
+
+1. Right-click BF2142 Hub's shortcut and select <mark style="color:blue;">Properties</mark>.
+2. In the <mark style="color:blue;">Compatibility</mark> tab, click <mark style="color:blue;">Change high DPI settings</mark>.
+3. Under <mark style="color:blue;">High DPI scaling override</mark>, check <mark style="color:blue;">Override high DPI scaling behavior</mark>.
+4. Set <mark style="color:blue;">Scaling performed by:</mark> to <mark style="color:blue;">Application</mark>.
+5. Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
 
 </details>
 
