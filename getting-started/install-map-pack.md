@@ -38,7 +38,7 @@ Start BF2142 Hub.
 {% endstep %}
 
 {% step %}
-In the <mark style="color:blue;">Download</mark> tab, double-click on <mark style="color:blue;">BF2142 MapPack v1.0</mark>.
+In the <mark style="color:blue;">Download</mark> tab, double-click on <mark style="color:blue;">BF2142 Reclamation MapPack (5.25)</mark>.
 {% endstep %}
 
 {% step %}
