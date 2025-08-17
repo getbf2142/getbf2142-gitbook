@@ -1,9 +1,23 @@
 ---
 description: Ready to play ? Here's how !
 icon: '0'
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
 ---
 
-# Before getting started
+# Before proceeding
 
 Follow tutorials ① through ⑥ in order — it’s super straightforward! Depending on your setup, you might be able to skip some steps or need to add a few extras. Don’t worry, this guide has you covered! It’ll help you figure out which steps are essential and which ones you can safely skip. Let’s get you into the game!
 

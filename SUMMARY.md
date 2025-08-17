@@ -13,7 +13,7 @@
 
 ## Getting Started
 
-* [Before getting started](getting-started/before-proceeding.md)
+* [Before proceeding](getting-started/before-proceeding.md)
 * [Install BF2142](getting-started/download-and-install-bf2142.md)
 * [Install v1.51 patch](getting-started/download-and-install-v1_51-patch.md)
 * [Install BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)

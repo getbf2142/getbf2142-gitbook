@@ -1,6 +1,20 @@
 ---
 description: Get in touch with our team — we are happy to help!
 icon: message-lines
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Contact us

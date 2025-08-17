@@ -1,6 +1,20 @@
 ---
 description: Your go-to for BF2142 resources!
 icon: house
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # Homepage
