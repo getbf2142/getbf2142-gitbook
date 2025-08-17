@@ -38,7 +38,7 @@ Alternatively, you can host a LAN server over a VLAN[^3] so your friends can sti
 
 <details>
 
-<summary>Do this first ! Disable any unused network adapters !</summary>
+<summary>Disable any unused network adapters !</summary>
 
 If your PC has more than one network adapter, like when you use programs such as Hamachi, VirtualBox, VMWare, or ExpressVPN, the game can sometimes choose the wrong adapter when trying to host a server.
 
@@ -59,6 +59,12 @@ To fix this, disable any network adapters you’re not using, and keep only the 
 A local server is a game server that shows up in your local server browser and can be accessed by anyone on your LAN network. This option is perfect for hosting a game night with family at home, or for playing with friends over the internet using a VLAN[^3].
 
 {% stepper %}
+{% step %}
+Disable any unused network adapters.
+
+Refer to the [expandable](host-server.md#disable-any-unused-network-adapters) above for details on how to do so.
+{% endstep %}
+
 {% step %}
 Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">LOCAL</mark>.
 {% endstep %}
@@ -84,7 +90,13 @@ Close the game if it’s running.
 {% endstep %}
 
 {% step %}
-In your home router’s control panel, forward these ports to your server’s local IP address:
+Disable any unused network adapters.
+
+Refer to the [expandable](host-server.md#disable-any-unused-network-adapters) above for details on how to do so.
+{% endstep %}
+
+{% step %}
+In your home router’s control panel, forward these ports to your device's local IPv4 address:
 
 * `29900` (UDP or Both) - Login Service
 * `17567` (Both) - Game Service
@@ -93,10 +105,12 @@ If you’re using BF2142Unlocker, make sure to also enable these two extra ports
 
 * `8085` (TCP or Both) – Unlock Service
 * `18300` (TCP or Both) – Login Service
+
+You may refer to [this guide](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide) on how to perform port forwarding.
 {% endstep %}
 
 {% step %}
-Visit [whatismyip.com](https://www.whatismyip.com/) to find your public IP address, and share it with your friends.
+Visit [whatismyip.com](https://www.whatismyip.com/) to find your public IPv4 address, and share it with your friends.
 {% endstep %}
 
 {% step %}
@@ -124,7 +138,13 @@ Close the game if it’s running.
 {% endstep %}
 
 {% step %}
-In your home router’s control panel, forward these ports to your server’s local IP address:
+Disable any unused network adapters.
+
+Refer to the [expandable](host-server.md#disable-any-unused-network-adapters) above for details on how to do so.
+{% endstep %}
+
+{% step %}
+In your home router’s control panel, forward these ports to your device’s local IP address:
 
 * `29900` (UDP or Both) - Login Service
 * `17567` (Both) - Game Service
@@ -133,6 +153,8 @@ If you’re using BF2142Unlocker, make sure to also enable these two extra ports
 
 * `8085` (TCP or Both) – Unlock Service
 * `18300` (TCP or Both) – Login Service
+
+You may refer to [this guide](https://www.noip.com/support/knowledgebase/general-port-forwarding-guide) on how to perform port forwarding.
 {% endstep %}
 
 {% step %}
@@ -156,7 +178,7 @@ Find the line `GameServerSettings.setInternet 0` and change the `0` to `1`. Save
 {% endstep %}
 
 {% step %}
-Go to [whatismyip.com](https://www.whatismyip.com/) to find your public IP address and share it with your friends.
+Go to [whatismyip.com](https://www.whatismyip.com/) to find your public IPv4 address and share it with your friends.
 {% endstep %}
 
 {% step %}

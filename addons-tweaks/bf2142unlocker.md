@@ -199,7 +199,7 @@ When you use <mark style="color:blue;">Host</mark> in the unlocker, you’re set
 
 {% stepper %}
 {% step %}
-Follow the [Host Server](../getting-started/host-server.md) steps to start your game server.
+Follow the [Host a server](../getting-started/host-server.md) steps to start your game server.
 
 Make sure you read all the expandable notes — don’t skip any!
 {% endstep %}
@@ -213,7 +213,7 @@ Have players enter your server’s IPv4 address in the unlocker’s <mark style=
 {% endstep %}
 
 {% step %}
-Follow the [Play Multiplayer](../getting-started/play-multiplayer.md) steps to join the game server.&#x20;
+Follow the [Play multiplayer](../getting-started/play-multiplayer.md) steps to join the game server.&#x20;
 
 To skip searching the server list, enable <mark style="color:blue;">Auto join server</mark> before clicking <mark style="color:blue;">Connect</mark>. This will connect your players directly to your game server.
 {% endstep %}

@@ -107,7 +107,7 @@ Also, take a look at the addons and tweaks section in the sidebar navigation —
 
 
 
-    Other less common causes include using an invalid birthdate format, invalid postal codes, or entering non-standard characters in any of the fields.
+    Other less common causes include using an invalid country code, postal code, birthdate format, or entering non-standard characters in any of the fields.
 
 [^7]: The resolution glitch occurs because the game creates a new set of profiles for you, which only include the default resolution settings. In Battlefield 2142, the resolution can actually be different before you log in and after you log in.
 
