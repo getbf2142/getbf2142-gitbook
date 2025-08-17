@@ -209,11 +209,10 @@ If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplay
 
 **Symptom(s):**
 
-* "You are not connected to the Internet. Click OK to select a soldier to play offline, or try to reconnect."
-* "Could not connect to EA Online. Retry, or click OK to go into Offline mode. If you proceed, try logging in again later."
+* "You are not connected to the Internet."
+* Getting stuck at "Contacting EA Master Server"
 * "Could not connect to EA Online."
 * "EA Master Server is down."
-* "EA Master Server is down. Please use BF2142Unlocker."
 
 **Soution(s):**
 
