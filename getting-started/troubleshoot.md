@@ -12,7 +12,7 @@ This is your go-to spot for solutions to some of the most common problems you mi
 
 <summary>G01: Running the game in windowed mode causes scaling issues or distortion</summary>
 
-Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md)
+Related Article(s): [Apply OpenSpy Patches](apply-openspy-patches.md)
 
 Sometimes, Windows scaling settings can interfere with a game’s display, causing weird scaling or visual glitches. You can fix this by running the game in compatibility mode:
 
@@ -58,7 +58,7 @@ This issue may be related to the game’s animation system or engine itself, and
 
 **Symptom(s):**
 
-* Stand still (don’t move forward or backward; moving sideways is fine—the issue will still appear).
+* Stand still (don’t move forward or backward; moving sideways is fine — the issue will still appear).
 * Move your mouse only horizontally; the problem doesn’t occur vertically.
 * The stutter happens when you move the mouse fast or over a long distance. Small aim adjustments are usually fine, but consistent sideways movement, even at slow speeds, can cause skipped frames.
 
@@ -135,18 +135,19 @@ If you see a Runtime Error or messages about `dice_py.dll` or `MSVCR**.dll` miss
 
 Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod.com/viewtopic.php?t=80268)
 
-**Symptoms:**
+**Symptom(s):**
 
 * "memory.dll: sanity check: block size xxxxxxx (xxxxxx mb) doesn't seem sane"
 * "memory.dll: all alloc attempts failed for size xxxxxxxxx"
 
-**Solutions:**
+**Solution(s):**
 
-* Set pagefile to be managed by the OS.
-* In Task Manager, set the game’s affinity to a single core.
 * Try lowering your in-game graphics settings (medium or low for everything).
 * Turn off Anti-Aliasing in-game.
-* Check for BIOS updates for your motherboard.
+
+- Set pagefile to be managed by the Operating System.
+- In Task Manager, set the game’s affinity to a single core.
+- Check for BIOS updates for your motherboard.
 
 </details>
 
@@ -174,7 +175,7 @@ Related Article(s): [Create an account](create-account.md)
 
 **Solution(s):**
 
-* Try using different entries for account name or email address, as they may already be associated with other accounts.
+* Use different entries for account name or email address, as they may already be associated with other accounts.
 * Ensure you use a valid country code, postal code, correct birthdate format, and avoid entering non-standard characters in any fields.
 
 </details>
@@ -202,18 +203,19 @@ If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplay
 **Soution(s):**
 
 * Ensure you have a steady internet connection.
+* Ensure you run BF2142 Hub as an administrator.
 * Reinstall the OpenSpy patches and confirm there are four green ticks.
 * Restart BF2142 Hub (close it completely, then reopen it).
-* Reinstall BF2142 Hub if the issue persists.
-* Always run BF2142 Hub as an administrator.
+* Use the Reset Hub tool in BF2142 Hub or do a reinstallation.
 
 - Make sure BF2142 is allowed through both private and public networks in Windows Firewall.
 - Check that no antivirus or firewall is blocking BF2142 from communicating externally.
 
-* Ask in the Reclamation Discord to see if others are experiencing the same issue. If so, the OpenSpy master server (login service) might be down or undergoing maintenance.
-* Use `ipconfig /flushdns` in Command Prompt to flush your DNS entries.
-* Switch to DNS services like `1.1.1.1` or `1.0.0.1` (Cloudflare).
-* Use a VPN service, such as ExpressVPN or ProtonVPN, to bypass ISP restrictions.
+* Ask in the Reclamation Discord to see if others are experiencing the same issue. If so, the OpenSpy master server (i.e., login service) might be down or undergoing maintenance.
+
+- Use `ipconfig /flushdns` in Command Prompt to flush your DNS entries.
+- Switch to DNS services like `1.1.1.1` or `1.0.0.1` (Cloudflare).
+- Use a VPN service, such as ExpressVPN or ProtonVPN, to bypass ISP restrictions.
 
 </details>
 
@@ -221,7 +223,7 @@ If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplay
 
 <summary>S03: No servers showing in the server browser, even with the patches installed</summary>
 
-Related Article(s): [Play multiplayer](play-multiplayer.md)
+Related Article(s): [Play Multiplayer](play-multiplayer.md)
 
 To view servers in the global server browser, ensure all server filter options are unchecked. For step-by-step instructions, click [here](play-multiplayer.md#joining-a-public-wan-server).
 
@@ -253,7 +255,7 @@ You might have an outdated map or be missing the required map.
 
 <summary>S05: "This server only allows players with unmodified content to join" error when joining a server</summary>
 
-Related Article(s): [Play multiplayer](play-multiplayer.md)
+Related Article(s): [Play Multiplayer](play-multiplayer.md)
 
 You may have modified files in your current mod or tried to join the server with the wrong mod selected.
 
@@ -284,7 +286,7 @@ This issue occurs when the game’s CD key cannot be found in your computer’s 
 
 **Solution(s):**
 
-* Use the CD Key fix feature in BF2142 Hub or Remaster Launcher.
+* Use the CD Key fix tool in BF2142 Hub or Remaster Launcher.
 * Navigate to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\Support`, launch `Battlefield 2142_code.exe`, and enter a [CD key](#user-content-fn-2)[^2].
 
 - Inject the registry file from [https://www.regfiles.net/registry/battlefield-2142-registry](https://www.regfiles.net/registry/battlefield-2142-registry) into your PC.
@@ -301,7 +303,7 @@ To play on NovGames servers, make sure you run the <mark style="color:blue;">ACT
 
 <details>
 
-<summary>H01: App exception or mdIBF error when starting BF2142 Hub</summary>
+<summary>H01: Application exception or mdIBF error when starting BF2142 Hub</summary>
 
 This usually happens when your ISP blocks certain IP addresses, which prevent BF2142 Hub from communicating with external services, or if the game’s information hasn’t been added to your computer’s registry, likely due to omitted steps during installation.
 

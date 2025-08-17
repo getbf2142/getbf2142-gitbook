@@ -70,12 +70,12 @@ Don’t forget to check out these tutorials to learn how to join a game or start
 
 * [Play Singleplayer](play-singleplayer.md)
 * [Play Multiplayer](play-multiplayer.md)
-* [Host Server](host-server.md)
+* [Host a server](host-server.md)
 
 For some players, the Remaster mod has become their new standard — many can’t imagine playing without it. Check out these tutorials to get started!
 
-1. [Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md)
-2. [Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md)
+1. [Install the Remaster mod](../project-remaster/download-and-install-remaster-mod.md)
+2. [Configure the Remaster Launcher](../project-remaster/configure-remaster-launcher.md)
 
 New to the game? We’ve got some manuals packed with helpful info, so it’s definitely worth setting aside a little time to check them out!
 

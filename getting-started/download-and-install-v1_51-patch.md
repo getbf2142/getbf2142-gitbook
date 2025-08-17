@@ -2,7 +2,7 @@
 description: 'Stay ahead: How to update your game to the latest version ...'
 ---
 
-# ② Install the v1.51 patch
+# ② Install v1.51 patch
 
 In this tutorial, we're going to guide you through all the steps to get your game updated to the very latest version. If you hit any snags or have any questions along the way, don't hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we're always happy to help you out!
 
@@ -24,7 +24,7 @@ In this tutorial, we're going to guide you through all the steps to get your gam
 
 <details>
 
-<summary>How to check my game's version ?</summary>
+<summary>How to check my game’s version ?</summary>
 
 If you’re ever unsure about your game’s version, just check the version string in this file:\
 `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods\bf2142\Mod.desc`
