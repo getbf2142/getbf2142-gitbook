@@ -156,9 +156,9 @@ Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod
 
 <summary>C05: Game crashes when clicking "Host" or "Singleplayer" in BF2142Unlocker</summary>
 
-Related Article(s): [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
+Related Article(s): [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md)
 
-`127.0.0.1` is usually the culprit behind most issues after clicking Host or Singleplayer. For details on how to fix this, check [here](../addons-tweaks/bf2142unlocker.md).
+`127.0.0.1` is usually the culprit behind most issues after clicking Host or Singleplayer. For details on how to fix this, check [here](../advanced/addons-tweaks/bf2142unlocker.md).
 
 </details>
 
@@ -190,7 +190,7 @@ Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-pat
 There are many potential causes for this issue, including your internet connection, BF2142 Hub, OpenSpy patches, firewall, antivirus, DNS, ISP, or even the master server itself.
 
 {% hint style="info" %}
-If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplayer with all unlocks using [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md).
+If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplayer with all unlocks using [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md).
 {% endhint %}
 
 **Symptom(s):**

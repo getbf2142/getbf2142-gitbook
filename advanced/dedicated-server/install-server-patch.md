@@ -4,13 +4,13 @@ icon: '2'
 
 # Install the server patch
 
-In this tutorial, we’ll be installing OpenSpy patches to the server client, which lets you host your server on the OpenSpy network — just like we did with the game client. If you’re curious about why this step is necessary, you can find more information [here](../getting-started/apply-openspy-patches.md).
+In this tutorial, we’ll be installing OpenSpy patches to the server client, which lets you host your server on the OpenSpy network — just like we did with the game client. If you’re curious about why this step is necessary, you can find more information [here](../../getting-started/apply-openspy-patches.md).
 
 ## Procedures
 
 {% stepper %}
 {% step %}
-Download the server patch from [Downloads](download-and-install-server-patch.md#downloads).
+Download the server patch from [Downloads](install-server-patch.md#downloads).
 {% endstep %}
 
 {% step %}

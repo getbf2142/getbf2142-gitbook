@@ -75,8 +75,8 @@ Don’t forget to check out these tutorials to learn how to join a game or start
 
 For some players, the Remaster mod has become their new standard — many can’t imagine playing without it. Check out these tutorials to get started!
 
-1. [Install the Remaster mod](../project-remaster/download-and-install-remaster-mod.md)
-2. [Configure the Remaster Launcher](../project-remaster/configure-remaster-launcher.md)
+1. [Install the Remaster mod](../advanced/project-remaster/download-and-install-remaster-mod.md)
+2. [Configure the Remaster Launcher](../advanced/project-remaster/configure-remaster-launcher.md)
 
 New to the game? We’ve got some manuals packed with helpful info, so it’s definitely worth setting aside a little time to check them out!
 

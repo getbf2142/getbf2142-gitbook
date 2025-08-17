@@ -70,7 +70,7 @@ Choose what fits your playstyle best, and we'll guide you through the rest!
 <summary>I prefer Remaster.</summary>
 
 You should follow these steps in order:\
-[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Install Map Pack](install-map-pack.md) (Optional) → [⑥ Create Account](create-account.md) → [Install Remaster Mod](../project-remaster/download-and-install-remaster-mod.md) → [Configure Remaster Launcher](../project-remaster/configure-remaster-launcher.md)
+[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Install Map Pack](install-map-pack.md) (Optional) → [⑥ Create Account](create-account.md) → [Install Remaster Mod](../advanced/project-remaster/download-and-install-remaster-mod.md) → [Configure Remaster Launcher](../advanced/project-remaster/configure-remaster-launcher.md)
 
 You may skip this step if you don't play on Reclamation servers:\
 [⑤ Install Map Pack](install-map-pack.md)
@@ -112,7 +112,7 @@ Sure, it might take a few extra steps compared to a super quick setup, but by do
 
 From there, you can dive in, create, or join games just like you would have back in the day. It's all about reliving that authentic BF2142 experience!
 
-If you're super eager to use BF2142Unlocker, you can check out the tutorial right [here](../addons-tweaks/bf2142unlocker.md)!
+If you're super eager to use BF2142Unlocker, you can check out the tutorial right [here](../advanced/addons-tweaks/bf2142unlocker.md)!
 
 </details>
 

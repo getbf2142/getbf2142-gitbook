@@ -26,7 +26,7 @@ Follow the on-screen instructions in the wizard to complete the installation.
 {% endstep %}
 
 {% step %}
-Next, make sure to [install the server patch](download-and-install-server-patch.md) — _don’t skip this step_!
+Next, make sure to [install the server patch](install-server-patch.md) — _don’t skip this step_!
 {% endstep %}
 {% endstepper %}
 

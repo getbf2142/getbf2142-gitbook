@@ -10,11 +10,11 @@ Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/hudfix_before.png" alt=""><figcaption><p>BEFORE: Without Widescreen Hudfix</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hudfix_before.png" alt=""><figcaption><p>BEFORE: Without Widescreen Hudfix</p></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../.gitbook/assets/hudfix_after.png" alt=""><figcaption><p>AFTER: With Widescreen Hudfix</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/hudfix_after.png" alt=""><figcaption><p>AFTER: With Widescreen Hudfix</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 

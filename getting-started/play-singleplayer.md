@@ -21,7 +21,7 @@ Select <mark style="color:blue;">SINGLEPLAY</mark>.
 {% step %}
 Configure your game settings and click <mark style="color:blue;">START PLAYLIST</mark>.
 
-Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
+Check out the [Server Settings](../advanced/addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
 {% endstepper %}
 
@@ -41,7 +41,7 @@ You need this setting:
 sv.numPlayersNeededToStart 1
 ```
 
-Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for instructions on how to do this.
+Check out the [Server Settings](../advanced/addons-tweaks/server-settings.md) guide for instructions on how to do this.
 
 </details>
 
@@ -53,6 +53,6 @@ Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">
 {% step %}
 Configure your game settings and click <mark style="color:blue;">START SERVER</mark>.
 
-Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
+Check out the [Server Settings](../advanced/addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
 {% endstepper %}

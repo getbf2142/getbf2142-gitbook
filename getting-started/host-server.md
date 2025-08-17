@@ -10,7 +10,7 @@ In this tutorial, you’ll learn how to host a simple server directly from the g
 * You’ll have fewer game settings to customize. **\[**[**?**](#user-content-fn-1)[^1]**]**
 * The person hosting the server must also be playing on it.
 
-For a full-featured, production server, you’d want to use a [dedicated server](../dedicated-server/install-server.md). However, this quick setup is usually enough for most situations.
+For a full-featured, production server, you’d want to use a [dedicated server](../advanced/dedicated-server/install-server.md). However, this quick setup is usually enough for most situations.
 
 <details>
 
@@ -73,7 +73,7 @@ Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">
 {% step %}
 In the <mark style="color:blue;">CREATE</mark> tab, configure your server settings and click <mark style="color:blue;">START SERVER</mark>.
 
-Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
+Check out the [Server Settings](../advanced/addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
 
 {% step %}
@@ -125,7 +125,7 @@ Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">
 {% step %}
 In the <mark style="color:blue;">CREATE</mark> tab, configure your server settings and click <mark style="color:blue;">START SERVER</mark>.
 
-Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
+Check out the [Server Settings](../advanced/addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
 {% endstepper %}
 
@@ -193,7 +193,7 @@ Select <mark style="color:blue;">MULTIPLAY</mark> → <mark style="color:blue;">
 {% step %}
 In the <mark style="color:blue;">CREATE</mark> tab, configure your server settings and click <mark style="color:blue;">START SERVER</mark>.
 
-Check out the [Server Settings](../addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
+Check out the [Server Settings](../advanced/addons-tweaks/server-settings.md) guide for details on extra cutomization settings.
 {% endstep %}
 
 {% step %}

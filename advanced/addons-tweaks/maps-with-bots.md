@@ -30,23 +30,23 @@ Maybe you’re looking for maps loaded with vehicles, or ones designed just for 
 
 #### **How to get these maps ?**
 
-* You can get the upgraded versions of `Belgrade`, `Suez Canal`, `Fall of Berlin`, and `Camp Gibraltar` through either the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod (preferred) or [BF2142 Hub](../getting-started/download-and-install-bf2142-hub.md).
-* To access `Breakthrough at Remagen` and `Strike at Karkand`, you’ll need the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod. For `Kursk`, you'll need [BF2142 Hub](../getting-started/download-and-install-bf2142-hub.md).
+* You can get the upgraded versions of `Belgrade`, `Suez Canal`, `Fall of Berlin`, and `Camp Gibraltar` through either the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod (preferred) or [BF2142 Hub](../../getting-started/download-and-install-bf2142-hub.md).
+* To access `Breakthrough at Remagen` and `Strike at Karkand`, you’ll need the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod. For `Kursk`, you'll need [BF2142 Hub](../../getting-started/download-and-install-bf2142-hub.md).
 * For our improved versions of `Desert Storm`, `Victory Village`, and `Street`, you can download them [here](maps-with-bots.md#what-you-will-get-from-us).
 
 </details>
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/victory_village_ingame.png" alt=""><figcaption><p>Victory Village</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/victory_village_ingame.png" alt=""><figcaption><p>Victory Village</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/sharqi_peninsula_ingame.png" alt=""><figcaption><p>Sharqi Peninsula</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/sharqi_peninsula_ingame.png" alt=""><figcaption><p>Sharqi Peninsula</p></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../.gitbook/assets/operation_amos_ingame.png" alt=""><figcaption><p>Operation Amos</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/operation_amos_ingame.png" alt=""><figcaption><p>Operation Amos</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/wall_of_jericho_ingame.png" alt=""><figcaption><p>Wall of Jericho (Great Wall)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/wall_of_jericho_ingame.png" alt=""><figcaption><p>Wall of Jericho (Great Wall)</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 
@@ -179,9 +179,9 @@ Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about
 
 </details>
 
-You should have BF2142 Hub installed. If you don't, click [here](../getting-started/download-and-install-bf2142-hub.md) to download and install it.
+You should have BF2142 Hub installed. If you don't, click [here](../../getting-started/download-and-install-bf2142-hub.md) to download and install it.
 
-Check out [this guide](../getting-started/install-map-pack.md#installing-individual-maps) to learn how to install individual maps from the [Reclamation Map Pack](../getting-started/install-map-pack.md) instead of downloading the entire pack.
+Check out [this guide](../../getting-started/install-map-pack.md#installing-individual-maps) to learn how to install individual maps from the [Reclamation Map Pack](../../getting-started/install-map-pack.md) instead of downloading the entire pack.
 
 ### What you will get from GetBF2142 ...
 

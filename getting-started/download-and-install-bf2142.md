@@ -88,7 +88,7 @@ Follow the setup wizard to complete the installation — there are a few importa
     TRCL-YBIJ-D4H4-Y3O5-1911
     ```
 * It’s recommended to install the game to the [default path](#user-content-fn-8)[^8], but you can choose a different location if you prefer.
-* For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod.
+* For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with the [Remaster](../advanced/project-remaster/download-and-install-remaster-mod.md) mod.
 * Feel free to skip BattleCammo setup by clicking <mark style="color:blue;">Cancel</mark>. **\[**[**?**](#user-content-fn-9)[^9]**]**
 * Select <mark style="color:blue;">No, install GameSpy Comrade later</mark> to skip GameSpy Comrade setup. **\[**[**?**](#user-content-fn-10)[^10]**]**
 * When asked to register an EA account, just click <mark style="color:blue;">REGISTER LATER</mark> to move on. **\[**[**?**](#user-content-fn-11)[^11]**]**
@@ -243,4 +243,4 @@ Amazon, eBay, and local used video game stores are usually the best places to lo
 
 [^13]: If you skip updating to the latest version, the game won’t launch and will keep asking for the disc. Here’s why: the patch removes the disc check, so without it, the game can’t start properly.
 
-[^14]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
+[^14]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Remaster mod](../advanced/project-remaster/download-and-install-remaster-mod.md).

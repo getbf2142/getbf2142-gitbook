@@ -14,11 +14,11 @@ However, that version is outdated. The team now uses a newer Reshade client and 
 
 {% columns %}
 {% column %}
-<figure><img src="../.gitbook/assets/reshade_remagen.gif" alt=""><figcaption><p>Breakthrough at Remagen</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reshade_remagen.gif" alt=""><figcaption><p>Breakthrough at Remagen</p></figcaption></figure>
 {% endcolumn %}
 
 {% column %}
-<figure><img src="../.gitbook/assets/reshade_street.gif" alt=""><figcaption><p>Street</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/reshade_street.gif" alt=""><figcaption><p>Street</p></figcaption></figure>
 {% endcolumn %}
 {% endcolumns %}
 

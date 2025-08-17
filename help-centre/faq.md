@@ -13,11 +13,11 @@ This is where you find answers to some of the commonly asked questions. If you h
 
 <summary>How do I get all the unlocks ?</summary>
 
-Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md), [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
+Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md), [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md)
 
 When you use OpenSpy as your login service, you get access to all unlocks as soon as you create a soldier. This means you’ll have all unlocks available in Singleplayer and LAN, provided you’re connected to the internet and OpenSpy is online.
 
-If you want access to all unlocks without needing an internet connection or OpenSpy, use [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md). This tool lets you host a master server locally on your own system.
+If you want access to all unlocks without needing an internet connection or OpenSpy, use [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md). This tool lets you host a master server locally on your own system.
 
 </details>
 
@@ -39,7 +39,7 @@ OpenSpy now lets you reset your password and manage your account at [https://acc
 
 You can’t change the FOV (field of view) in-game, since BF2142 is an older title and doesn’t offer as many video settings as modern games.&#x20;
 
-However, you can still achieve this by editing the game files. For step-by-step instructions, check out our [Field of View (FOV)](../addons-tweaks/fov.md) guide.
+However, you can still achieve this by editing the game files. For step-by-step instructions, check out our [Field of View (FOV)](../advanced/addons-tweaks/fov.md) guide.
 
 </details>
 
@@ -47,7 +47,7 @@ However, you can still achieve this by editing the game files. For step-by-step 
 
 <summary>How to add more bots in Singleplayer or Multiplayer LAN ?</summary>
 
-Refer to our [Add More Bots](../addons-tweaks/add-more-bots.md) guide for more details.
+Refer to our [Add More Bots](../advanced/addons-tweaks/add-more-bots.md) guide for more details.
 
 </details>
 
@@ -55,7 +55,7 @@ Refer to our [Add More Bots](../addons-tweaks/add-more-bots.md) guide for more d
 
 <summary>How to adjust ticket counts, team ratio, respawn time, and friendly fire in Singleplayer ?</summary>
 
-Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for more details.
+Refer to our [Server Settings](../advanced/addons-tweaks/server-settings.md) guide for more details.
 
 </details>
 
@@ -63,7 +63,7 @@ Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for mo
 
 <summary>How to adjust more server settings other than those avilable in the game menu ?</summary>
 
-Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for more details.
+Refer to our [Server Settings](../advanced/addons-tweaks/server-settings.md) guide for more details.
 
 </details>
 
@@ -71,6 +71,6 @@ Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for mo
 
 <summary>Where can I get more maps with bot support ?</summary>
 
-Refer to our [Maps with Bots](../addons-tweaks/maps-with-bots.md) guide for more details.
+Refer to our [Maps with Bots](../advanced/addons-tweaks/maps-with-bots.md) guide for more details.
 
 </details>
