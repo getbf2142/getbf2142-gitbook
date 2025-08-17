@@ -13,7 +13,7 @@ This is where you find answers to some of the commonly asked questions. If you h
 
 <summary>How do I get all the unlocks ?</summary>
 
-Related Article(s): [Apply OpenSpy patches](apply-openspy-patches.md), [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
+Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md), [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
 
 When you use OpenSpy as your login service, you get access to all unlocks as soon as you create a soldier. This means you’ll have all unlocks available in Singleplayer and LAN, provided you’re connected to the internet and OpenSpy is online.
 
@@ -25,7 +25,7 @@ If you want access to all unlocks without needing an internet connection or Open
 
 <summary>How to reset my password ?</summary>
 
-Related Article(s): [Create an account](create-account.md)
+Related Article(s): [Create an account](../getting-started/create-account.md)
 
 OpenSpy now lets you reset your password and manage your account at [https://account.openspy.net/login](https://account.openspy.net/login) (use Partner Code 20 - EA).
 

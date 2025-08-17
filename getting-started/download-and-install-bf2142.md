@@ -165,7 +165,7 @@ As the game has been nothing but abandoned by the developers and its publisher, 
 By proceeding to download the game, you agree that the resources provided on this page are simply a collection of Google search results, and that choosing to download the game using these resources is entirely your own decision.
 {% endhint %}
 
-The setup in this section was prepared by Novgames for the Russian-speaking community. This installer will automatically[^14] set the game to Russian and update it to the latest version.
+The setup in this section was prepared by Novgames for the Russian-speaking community. This installer will automatically set the game to Russian and update it to the latest version. **\[**[**?**](#user-content-fn-14)[^14]**]**
 
 If you download the game from the links below, you can skip the patching steps for v1.51, and you won’t need a serial key — the installer doesn’t require one.
 
@@ -243,4 +243,4 @@ Amazon, eBay, and local used video game stores are usually the best places to lo
 
 [^13]: If you skip updating to the latest version, the game won’t launch and will keep asking for the disc. Here’s why: the patch removes the disc check, so without it, the game can’t start properly.
 
-[^14]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install Remaster mod](../project-remaster/download-and-install-remaster-mod.md).
+[^14]: Although you cannot choose a language during the installation process, you can still make use of the Remaster Launcher to make a language switch later on. To gain access to the launcher, you will need to [install the Remaster mod](../project-remaster/download-and-install-remaster-mod.md).

@@ -13,7 +13,7 @@ This is your go-to spot for solutions to some of the most common problems you mi
 
 <summary>G01: Running the game in windowed mode causes scaling issues or distortion</summary>
 
-Related Article(s): [Apply OpenSpy Patches](apply-openspy-patches.md)
+Related Article(s): [Apply OpenSpy Patches](../getting-started/apply-openspy-patches.md)
 
 Sometimes, Windows scaling settings can interfere with a game’s display, causing weird scaling or visual glitches. You can fix this by running the game in compatibility mode:
 
@@ -168,7 +168,7 @@ Related Article(s): [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
 
 <summary>S01: Account creation error when creating an account</summary>
 
-Related Article(s): [Create an account](create-account.md)
+Related Article(s): [Create an account](../getting-started/create-account.md)
 
 **Symptom(s):**
 
@@ -185,7 +185,7 @@ Related Article(s): [Create an account](create-account.md)
 
 <summary>S02: Could not connect to EA Online or EA Master Server when logging in or creating an account</summary>
 
-Related Article(s): [Apply OpenSpy patches](apply-openspy-patches.md), [Install BF2142 Hub](download-and-install-bf2142-hub.md)
+Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md), [Install BF2142 Hub](../getting-started/download-and-install-bf2142-hub.md)
 
 There are many potential causes for this issue, including your internet connection, BF2142 Hub, OpenSpy patches, firewall, antivirus, DNS, ISP, or even the master server itself.
 
@@ -224,15 +224,15 @@ If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplay
 
 <summary>S03: No servers showing in the server browser, even with the patches installed</summary>
 
-Related Article(s): [Play Multiplayer](play-multiplayer.md)
+Related Article(s): [Play Multiplayer](../getting-started/play-multiplayer.md)
 
 To view servers in the global server browser:
 
-* Ensure all server filter options are unchecked. Review detailed steps [here](play-multiplayer.md#joining-a-public-wan-server).&#x20;
+* Ensure all server filter options are unchecked. Review detailed steps [here](../getting-started/play-multiplayer.md#joining-a-public-wan-server).&#x20;
 
 - Use the Missing Servers tool in BF2142 Hub.
 
-If you’re having problems viewing servers in the local server browser, check [here](play-multiplayer.md#joining-a-lan-server).
+If you’re having problems viewing servers in the local server browser, check [here](../getting-started/play-multiplayer.md#joining-a-lan-server).
 
 </details>
 
@@ -240,7 +240,7 @@ If you’re having problems viewing servers in the local server browser, check [
 
 <summary>S04: "This map contains customised content" error when joining a Reclamation server</summary>
 
-Related Article(s): [Apply OpenSpy patches](apply-openspy-patches.md), [Install the map pack](install-map-pack.md)
+Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md), [Install the map pack](../getting-started/install-map-pack.md)
 
 You might have an outdated map or be missing the required map.
 
@@ -260,7 +260,7 @@ You might have an outdated map or be missing the required map.
 
 <summary>S05: "This server only allows players with unmodified content to join" error when joining a server</summary>
 
-Related Article(s): [Play Multiplayer](play-multiplayer.md)
+Related Article(s): [Play Multiplayer](../getting-started/play-multiplayer.md)
 
 You may have modified files in your current mod or tried to join the server with the wrong mod selected.
 

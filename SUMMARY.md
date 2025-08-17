@@ -1,6 +1,9 @@
 # Table of contents
 
 * [Homepage](README.md)
+* [Help Centre](help-centre/README.md)
+  * [Troubleshoot](help-centre/troubleshoot.md)
+  * [FAQ](help-centre/faq.md)
 
 ## Getting Started
 
@@ -14,8 +17,6 @@
 * [Play Singleplayer](getting-started/play-singleplayer.md)
 * [Play Multiplayer](getting-started/play-multiplayer.md)
 * [Host a server](getting-started/host-server.md)
-* [Troubleshoot](getting-started/troubleshoot.md)
-* [FAQ](getting-started/faq.md)
 
 ## Project Remaster
 
@@ -30,7 +31,7 @@
 * [Widescreen HUD](addons-tweaks/hudfix.md)
 * [Add More Bots](addons-tweaks/add-more-bots.md)
 * [Unlimited Sprint](addons-tweaks/unlimited-sprint.md)
-* [Field of View (FOV)](addons-tweaks/fov.md)
+* [Field of View](addons-tweaks/fov.md)
 * [Maps with Bots](addons-tweaks/maps-with-bots.md)
 * [Server Settings](addons-tweaks/server-settings.md)
 * [Frostbite Chat](addons-tweaks/frostbite-chat.md)
