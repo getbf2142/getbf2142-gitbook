@@ -1,0 +1,6 @@
+---
+icon: server
+---
+
+# Dedicated Server
+

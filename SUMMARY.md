@@ -18,36 +18,31 @@
 * [Play Multiplayer](getting-started/play-multiplayer.md)
 * [Host a server](getting-started/host-server.md)
 
-## Project Remaster
+***
 
-* [Install the Remaster mod](project-remaster/download-and-install-remaster-mod.md)
-* [Configure the Remaster Launcher](project-remaster/configure-remaster-launcher.md)
-* [Further Readings](project-remaster/further-readings.md)
-
-## Addons / Tweaks
-
-* [Offline Rewards](addons-tweaks/offline-rewards.md)
-* [ReShade & Shaders](addons-tweaks/reshade.md)
-* [Widescreen HUD](addons-tweaks/hudfix.md)
-* [Add More Bots](addons-tweaks/add-more-bots.md)
-* [Unlimited Sprint](addons-tweaks/unlimited-sprint.md)
-* [Field of View](addons-tweaks/fov.md)
-* [Maps with Bots](addons-tweaks/maps-with-bots.md)
-* [Server Settings](addons-tweaks/server-settings.md)
-* [Frostbite Chat](addons-tweaks/frostbite-chat.md)
-* [BF2142Unlocker](addons-tweaks/bf2142unlocker.md)
-* [Custom Shortcuts](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures)
-
-## Dedicated Server
-
-* [Install the server](dedicated-server/install-server.md)
-* [Install the server patch](dedicated-server/download-and-install-server-patch.md)
-* [Host a dedicated server](dedicated-server/host-dedicated-server.md)
-
-## Others
-
-* [Github](https://github.com/getbf2142/getbf2142-gitbook)
-* [Discord](https://discord.gg/DaMVNknVnV)
-* [Contact us](others/contact-us.md)
-* [Feedback](others/feedback.md)
-* [Disclaimer](others/disclaimer.md)
+* [Project Remaster](project-remaster/README.md)
+  * [Install the Remaster mod](project-remaster/download-and-install-remaster-mod.md)
+  * [Configure the Remaster Launcher](project-remaster/configure-remaster-launcher.md)
+  * [Further Readings](project-remaster/further-readings.md)
+* [Addons / Tweaks](addons-tweaks/README.md)
+  * [Offline Rewards](addons-tweaks/offline-rewards.md)
+  * [ReShade & Shaders](addons-tweaks/reshade.md)
+  * [Widescreen HUD](addons-tweaks/hudfix.md)
+  * [Add More Bots](addons-tweaks/add-more-bots.md)
+  * [Unlimited Sprint](addons-tweaks/unlimited-sprint.md)
+  * [Field of View](addons-tweaks/fov.md)
+  * [Maps with Bots](addons-tweaks/maps-with-bots.md)
+  * [Server Settings](addons-tweaks/server-settings.md)
+  * [Frostbite Chat](addons-tweaks/frostbite-chat.md)
+  * [BF2142Unlocker](addons-tweaks/bf2142unlocker.md)
+  * [Custom Shortcuts](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures)
+* [Dedicated Server](dedicated-server/README.md)
+  * [Install the server](dedicated-server/install-server.md)
+  * [Install the server patch](dedicated-server/download-and-install-server-patch.md)
+  * [Host a dedicated server](dedicated-server/host-dedicated-server.md)
+* [Others](others/README.md)
+  * [Github](https://github.com/getbf2142/getbf2142-gitbook)
+  * [Discord](https://discord.gg/DaMVNknVnV)
+  * [Contact us](others/contact-us.md)
+  * [Feedback](others/feedback.md)
+  * [Disclaimer](others/disclaimer.md)
