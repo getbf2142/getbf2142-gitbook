@@ -41,10 +41,10 @@ This usually happens because the old DirectX9 engine is trying to use anti-alias
 
 **Solution(s):**
 
-* Turn off Anti-Aliasing in-game.
+* Turn off Anti-Aliasing in-game, or use the Anti-Aliasing Off Fix in BF2142 Hub.
   * If you want anti-aliasing, use your NVIDIA or AMD control panel to set it up for your graphics card instead.
 * Delete the `Battlefield 2142` folder in `C:\Users\...\Documents`. This will clean up your profiles — including any faulty video or audio settings — and clear your shader cache.
-  * You can also use the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Delete Profile</mark> function in <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>, which has a similar effect.
+  * You can achieve the same effect by using the Clear Cache and Delete Profile tool in BF2142 Hub, or the Clear Cache and Reset Game-Settings tool in the Remaster Launcher.
 
 </details>
 
@@ -83,11 +83,11 @@ BF2142 can have issues on modern PCs, with the most common cause being incompati
 **Solution(s):**
 
 * Delete the `Battlefield 2142` folder in `C:\Users\...\Documents`. This will clean up your profiles — including any faulty video or audio settings — and clear your shader cache.
-  * You can also use the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Delete Profile</mark> function in <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>, which has a similar effect.
+  * You can achieve the same effect by using the Clear Cache and Delete Profile tool in BF2142 Hub, or the Clear Cache and Reset Game-Settings tool in the Remaster Launcher.
 * Launch the game in windowed mode, and be sure to use a resolution and refresh rate that your monitor supports.&#x20;
-  * For example, if your monitor doesn’t support 120Hz and you select it, the game may crash. You can easily adjust these settings using <mark style="color:blue;">BF2142 Hub</mark> or <mark style="color:blue;">Remaster Launcher</mark>.
-  * To start fresh, navigate to `C:\Users\...\Documents\Battlefield 2142\Profiles\Default\Video.con` and update the resolution and frequency to `800x600@60Hz` on the line that says: `VideoSettings.setResolution`. Once done, repeat this process in the `0001` profile folder as well.
-* Run the [vidcon fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) \[[Ref](https://battlefield2142.co/faq/#blackscreen)] and see if it helps.
+  * You can easily adjust these settings using the tools provided in BF2142 Hub or Remaster Launcher.
+* If you’re using Windows 7, use the GameUX Fix in BF2142 Hub.
+* Run the [Vidcon Fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) \[[Ref](https://battlefield2142.co/faq/#blackscreen)] which patches your `Video.con` file and see if it helps.
 
 </details>
 
@@ -143,7 +143,7 @@ Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod
 **Solution(s):**
 
 * Try lowering your in-game graphics settings (medium or low for everything).
-* Turn off Anti-Aliasing in-game.
+* Turn off Anti-Aliasing in-game, or use the Anti-Aliasing Off Fix in BF2142 Hub.
 
 - Set pagefile to be managed by the Operating System.
 - In Task Manager, set the game’s affinity to a single core.
@@ -157,7 +157,7 @@ Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod
 
 Related Article(s): [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
 
-`127.0.0.1` is usually the culprit behind most issues after clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;">Singleplayer</mark>. For details on how to fix this, check [here](../addons-tweaks/bf2142unlocker.md).
+`127.0.0.1` is usually the culprit behind most issues after clicking Host or Singleplayer. For details on how to fix this, check [here](../addons-tweaks/bf2142unlocker.md).
 
 </details>
 
@@ -225,9 +225,13 @@ If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplay
 
 Related Article(s): [Play Multiplayer](play-multiplayer.md)
 
-To view servers in the global server browser, ensure all server filter options are unchecked. For step-by-step instructions, click [here](play-multiplayer.md#joining-a-public-wan-server).
+To view servers in the global server browser:
 
-If you’re referring to servers in the local server browser, check [here](play-multiplayer.md#joining-a-lan-server).
+* Ensure all server filter options are unchecked. Review detailed steps [here](play-multiplayer.md#joining-a-public-wan-server).&#x20;
+
+- Use the Missing Servers tool in BF2142 Hub.
+
+If you’re having problems viewing servers in the local server browser, check [here](play-multiplayer.md#joining-a-lan-server).
 
 </details>
 
@@ -267,10 +271,9 @@ You may have modified files in your current mod or tried to join the server with
 
 * If you’re joining Reclamation servers or any vanilla servers, make sure you’re using a vanilla BF2142 setup — don’t use any addons or tweaks that change files in `\mods\bf2142`.
 
-- You can only join servers that match the mod and files you have.
+- You can only join servers that match the mod and files you have, unless the server explicitly allows or uses modified content.
   * You can’t join a vanilla server with a mod enabled, or the other way around.
   * To join a modded server, you’ll need to have the exact same mod and files installed as the server.
-- Revert your changes before joining Reclamation or any multiplayer servers, unless the server explicitly allows or uses this mod.
 
 </details>
 
@@ -286,10 +289,10 @@ This issue occurs when the game’s CD key cannot be found in your computer’s 
 
 **Solution(s):**
 
-* Use the CD Key fix tool in BF2142 Hub or Remaster Launcher.
+* Use the CD-Key Fix tool in BF2142 Hub or Remaster Launcher.
 * Navigate to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\Support`, launch `Battlefield 2142_code.exe`, and enter a [CD key](#user-content-fn-2)[^2].
 
-- Inject the registry file from [https://www.regfiles.net/registry/battlefield-2142-registry](https://www.regfiles.net/registry/battlefield-2142-registry) into your PC.
+- Install the registry file from [https://www.regfiles.net/registry/battlefield-2142-registry](https://www.regfiles.net/registry/battlefield-2142-registry). If your game is installed through Origin / EA App, reinstall the game instead and do not use this.&#x20;
   * Adjust the `PATH` and [`CDKEY`](#user-content-fn-2)[^2] before downloading.
   * Edit the file with a text editor and change `Version` to `1.51` and `BuildNr` to `1.10.77.0`.
   * Save the changes and double-click the file to install it.
@@ -317,7 +320,7 @@ This usually happens when your ISP blocks certain IP addresses, which prevent BF
 
 * Use a VPN service, such as ExpressVPN or ProtonVPN, to bypass ISP restrictions.
 
-- Inject the registry file from [https://www.regfiles.net/registry/battlefield-2142-registry](https://www.regfiles.net/registry/battlefield-2142-registry) into your PC.
+- Install the registry file from [https://www.regfiles.net/registry/battlefield-2142-registry](https://www.regfiles.net/registry/battlefield-2142-registry). If your game is installed through Origin / EA App, reinstall the game instead and do not use this.&#x20;
   * Adjust the `PATH` and [`CDKEY`](#user-content-fn-2)[^2] before downloading.
   * Edit the file with a text editor and change `Version` to `1.51` and `BuildNr` to `1.10.77.0`.
   * Save the changes and double-click the file to install it.
@@ -341,4 +344,4 @@ Sometimes, Windows scaling settings can interfere with an app's display, causing
 
 [^1]: Whenever you install a new patch from BF2142 Hub, it updates your `BF2142.exe`, which means your compatibility settings will be reset.
 
-[^2]: e.g., `E6HH-DWUG-U8X1-R8F0-1911`
+[^2]: e.g., `E6HH-DWUG-U8X1-R8F0-1911` for Standard Edition
