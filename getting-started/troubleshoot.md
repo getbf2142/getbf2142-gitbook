@@ -183,9 +183,13 @@ Related Article(s): [Create an account](create-account.md)
 
 <summary>S02: Could not connect to EA Online or EA Master Server when logging in or creating an account</summary>
 
-Related Article(s): [Apply OpenSpy patches](apply-openspy-patches.md)
+Related Article(s): [Apply OpenSpy patches](apply-openspy-patches.md), [Install BF2142 Hub](download-and-install-bf2142-hub.md)
 
 There are many potential causes for this issue, including your internet connection, BF2142 Hub, OpenSpy patches, firewall, antivirus, DNS, ISP, or even the master server itself.
+
+{% hint style="info" %}
+If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplayer with all unlocks using [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md).
+{% endhint %}
 
 **Symptom(s):**
 

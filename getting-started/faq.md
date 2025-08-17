@@ -12,17 +12,19 @@ This is where you find answers to some of the commonly asked questions. If you h
 
 <summary>How do I get all the unlocks ?</summary>
 
-Related Article(s): [Install OpenSpy Patches](apply-openspy-patches.md)
+Related Article(s): [Apply OpenSpy patches](apply-openspy-patches.md), [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md)
 
-When you use OpenSpy as your login service, you automatically get access to all unlocks **\[**[**?**](#user-content-fn-1)[^1]**]**. This means you’ll have all unlocks available in Singleplayer and LAN, as long as you’re connected to the internet.
+When you use OpenSpy as your login service, you get access to all unlocks as soon as you create a soldier. This means you’ll have all unlocks available in Singleplayer and LAN, provided you’re connected to the internet and OpenSpy is online.
+
+If you want access to all unlocks without needing an internet connection or OpenSpy, use [BF2142Unlocker](../addons-tweaks/bf2142unlocker.md). This tool lets you host a master server locally on your own system.
 
 </details>
 
 <details>
 
-<summary>I forgot my password. How to reset it ?</summary>
+<summary>How to reset my password ?</summary>
 
-Related Article(s): [Create Account](create-account.md)
+Related Article(s): [Create an account](create-account.md)
 
 OpenSpy now lets you reset your password and manage your account at [https://account.openspy.net/login](https://account.openspy.net/login) (use Partner Code 20 - EA).
 
@@ -32,7 +34,7 @@ OpenSpy now lets you reset your password and manage your account at [https://acc
 
 <details>
 
-<summary>How to change Field of View (FOV) in-game ?</summary>
+<summary>How to change field of view in-game ?</summary>
 
 You can’t change the FOV (field of view) in-game, since BF2142 is an older title and doesn’t offer as many video settings as modern games.&#x20;
 
@@ -58,7 +60,7 @@ Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for mo
 
 <details>
 
-<summary>How to adjust more game / server settings other than those avilable in the UI ?</summary>
+<summary>How to adjust more server settings other than those avilable in the game menu ?</summary>
 
 Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for more details.
 
@@ -71,5 +73,3 @@ Refer to our [Server Settings](../addons-tweaks/server-settings.md) guide for mo
 Refer to our [Maps with Bots](../addons-tweaks/maps-with-bots.md) guide for more details.
 
 </details>
-
-[^1]: All unlocks are available to everyone as soon as you create a new soldier.
