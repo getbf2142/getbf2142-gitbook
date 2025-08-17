@@ -1,6 +1,6 @@
 ---
 description: 'Go solo: Two ways to enjoy singleplayer mode ...'
-icon: person
+icon: person-simple
 ---
 
 # Play Singleplayer

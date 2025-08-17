@@ -1,5 +1,6 @@
 ---
 description: Your go-to for BF2142 resources!
+icon: house
 ---
 
 # Homepage

@@ -1,3 +1,7 @@
+---
+icon: medal
+---
+
 # Offline Rewards
 
 This patch emulates the ranked server rewards system — pins, ribbons, badges, and medals — in your singleplayer or LAN coop games. It’s a great quality-of-life improvement that makes bot grinding much more fun. Imagine earning a bunch of medals in one game — it’s pretty satisfying!

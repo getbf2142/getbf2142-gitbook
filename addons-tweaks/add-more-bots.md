@@ -1,3 +1,7 @@
+---
+icon: user-robot
+---
+
 # Add More Bots
 
 A lot of BF2142 players want more bots—16 just isn’t enough! Modern PCs can easily handle 64+ bots for a much more immersive experience. If you love bot grinding, you’re in good company. Here’s how to increase the number of bots in your game.

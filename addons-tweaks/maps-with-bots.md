@@ -1,3 +1,7 @@
+---
+icon: map-location
+---
+
 # Maps with Bots
 
 If you’re a Battlefield fan who loves playing with bots, you’ve probably noticed that the standard map selection can get old fast. A lot of us wish there were more vanilla maps with bot support — or even the chance to play classic BF2 or 1942 maps in BF2142.

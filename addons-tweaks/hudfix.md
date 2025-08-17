@@ -1,3 +1,7 @@
+---
+icon: panorama
+---
+
 # Widescreen HUD
 
 When BF2142 first launched, it only supported 4:3 displays. Even though the v1.51 patch from EA added native widescreen support (which mostly just stretches the image horizontally), the game’s HUD still looks off on 16:9 resolutions.&#x20;

@@ -1,3 +1,7 @@
+---
+icon: sliders-up
+---
+
 # Server Settings
 
 In-game settings are pretty limited — singleplayer only lets you adjust rounds per map and bot skill. LAN mode offers more, like ticket ratio, friendly fire, and team ratio. But what if you want those options in singleplayer too, or want to change things like man down time and the number of players needed to start?

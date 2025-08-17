@@ -1,3 +1,7 @@
+---
+icon: eye
+---
+
 # Field of View (FOV)
 
 Unlike modern Battlefield games, BF2142 doesn’t let you adjust your FOV in-game. Many players find the default field of view too low, so this guide will show you how to change it to whatever you prefer!

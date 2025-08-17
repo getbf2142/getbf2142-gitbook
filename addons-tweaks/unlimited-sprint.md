@@ -1,3 +1,7 @@
+---
+icon: person-running-fast
+---
+
 # Unlimited Sprint
 
 If you’re getting used to the new Battlefield’s play style, you might find BF2142’s limited sprint a bit frustrating. Unlimited sprint is really just about convenience — some players see no reason not to have it. So, let’s mod BF2142 to give ourselves unlimited sprint too!

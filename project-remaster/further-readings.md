@@ -1,7 +1,7 @@
 ---
 description: Supplementary materials that are worth taking notes of.
 hidden: true
-icon: book-blank
+icon: objects-column
 ---
 
 # Further Readings

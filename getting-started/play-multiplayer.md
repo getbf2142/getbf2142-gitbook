@@ -1,6 +1,6 @@
 ---
 description: 'Jump in: Your guide to joining a server ...'
-icon: people-pants
+icon: people-pants-simple
 ---
 
 # Play Multiplayer

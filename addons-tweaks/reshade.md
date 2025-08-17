@@ -1,3 +1,7 @@
+---
+icon: umbrella-beach
+---
+
 # ReShade & Shaders
 
 Reshade adds a layer of shaders to the game, giving the visuals a big boost. It was first used in Project Reality for BF2 and has since been adapted for BF2142 as well.
