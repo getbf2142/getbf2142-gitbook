@@ -1,8 +1,9 @@
 ---
 description: 'Get online with OpenSpy: Patching your game for action !'
+icon: '4'
 ---
 
-# ④ Apply OpenSpy patches
+# Apply OpenSpy patches
 
 In this tutorial, we’ll show you how to get your game ready for OpenSpy, including installing the necessary patch and understanding why it's crucial for your online experience. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 

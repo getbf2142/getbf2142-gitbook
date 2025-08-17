@@ -1,4 +1,8 @@
-# ① Install the server
+---
+icon: '1'
+---
+
+# Install the server
 
 For a full-featured, production server, you’d want it to be dedicated. This tutorial will guide you through the steps to download and install the server.
 

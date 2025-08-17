@@ -1,8 +1,9 @@
 ---
 description: Where to download the mod? How to install the mod?
+icon: '1'
 ---
 
-# ① Install Remaster Mod
+# Install the Remaster mod
 
 For many players, the Remaster mod is a game-changer — they can't imagine playing without it! In this tutorial, we'll show you exactly how to download and install it.
 

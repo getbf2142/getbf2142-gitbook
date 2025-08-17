@@ -1,9 +1,10 @@
 ---
 description: Supplementary materials that are worth taking notes of.
 hidden: true
+icon: book-blank
 ---
 
-# ⍟ Further Readings
+# Further Readings
 
 Remaster Manual and [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html) are full of helpful info about the game and the mod, so we definitely recommend setting aside a bit of time to check them out.
 

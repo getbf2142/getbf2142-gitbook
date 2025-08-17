@@ -1,8 +1,9 @@
 ---
 description: 'Be the host: How to set up your own game server ...'
+icon: server
 ---
 
-# ⍟ Host a server
+# Host a server
 
 In this tutorial, you’ll learn how to host a simple server directly from the game. While this method is quick and easy, there are a few limitations:
 

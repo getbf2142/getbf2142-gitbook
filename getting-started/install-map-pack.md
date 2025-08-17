@@ -1,8 +1,9 @@
 ---
 description: 'Join the fight: How to install the Reclamation Map Pack ...'
+icon: '5'
 ---
 
-# ⑤ Install the map pack
+# Install the map pack
 
 The Reclamation community runs two multiplayer servers, both featuring their own modified versions of maps. To join their public servers, you’ll need to install their map pack or the specific map currently in rotation. Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
 

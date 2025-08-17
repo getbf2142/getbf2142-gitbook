@@ -1,8 +1,9 @@
 ---
 description: 'Jump in: Your guide to joining a server ...'
+icon: people-pants
 ---
 
-# ⍟ Play multiplayer
+# Play Multiplayer
 
 In this tutorial, we'll walk you through the steps to join a server. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 

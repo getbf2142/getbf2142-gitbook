@@ -1,8 +1,9 @@
 ---
 description: 'Go solo: Two ways to enjoy singleplayer mode ...'
+icon: person
 ---
 
-# ⍟ Play singleplayer
+# Play Singleplayer
 
 In this tutorial, we’ll walk you through two different ways to enjoy singleplayer mode. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 

@@ -1,8 +1,9 @@
 ---
 description: Frequently Asked Questions
+icon: message-question
 ---
 
-# ⍟ FAQ
+# FAQ
 
 This is where you find answers to some of the commonly asked questions. If you have questions that aren’t answered here, be sure to check out the [Reclamation FAQ page](https://battlefield2142.co/faq/) for more information.
 

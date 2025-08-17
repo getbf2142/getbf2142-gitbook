@@ -1,8 +1,9 @@
 ---
 description: Got issues ? Find answers here !
+icon: gear
 ---
 
-# ⍟ Troubleshoot
+# Troubleshoot
 
 This is your go-to spot for solutions to some of the most common problems you might run into. If you're facing something that isn't covered here, definitely head over to the [Reclamation FAQ page](https://battlefield2142.co/faq/) — you'll find even more helpful info there!
 

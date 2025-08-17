@@ -1,8 +1,9 @@
 ---
 description: 'Ready, set, play: Creating your account and setting up in-game options ...'
+icon: '6'
 ---
 
-# ⑥ Create an account
+# Create an account
 
 In this tutorial, we’ll walk you through how to create an account and set up several in-game settings. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 

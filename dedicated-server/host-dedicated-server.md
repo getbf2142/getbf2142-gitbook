@@ -1,4 +1,8 @@
-# ③ Hosting a dedicated server
+---
+icon: '3'
+---
+
+# Host a dedicated server
 
 This tutorial will guide you through the steps to host a dedicated _unranked_ server.
 

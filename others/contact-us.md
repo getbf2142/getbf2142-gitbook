@@ -1,5 +1,6 @@
 ---
 description: Get in touch with our team — we are happy to help!
+icon: message-lines
 ---
 
 # Contact us

@@ -4,24 +4,24 @@
 
 ## Getting Started
 
-* [⍟ Before getting started](getting-started/before-proceeding.md)
-* [① Install BF2142](getting-started/download-and-install-bf2142.md)
-* [② Install v1.51 patch](getting-started/download-and-install-v1_51-patch.md)
-* [③ Install BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
-* [④ Apply OpenSpy patches](getting-started/apply-openspy-patches.md)
-* [⑤ Install the map pack](getting-started/install-map-pack.md)
-* [⑥ Create an account](getting-started/create-account.md)
-* [⍟ Play Singleplayer](getting-started/play-singleplayer.md)
-* [⍟ Play Multiplayer](getting-started/play-multiplayer.md)
-* [⍟ Host a server](getting-started/host-server.md)
-* [⍟ Troubleshoot](getting-started/troubleshoot.md)
-* [⍟ FAQ](getting-started/faq.md)
+* [Before getting started](getting-started/before-proceeding.md)
+* [Install BF2142](getting-started/download-and-install-bf2142.md)
+* [Install v1.51 patch](getting-started/download-and-install-v1_51-patch.md)
+* [Install BF2142 Hub](getting-started/download-and-install-bf2142-hub.md)
+* [Apply OpenSpy patches](getting-started/apply-openspy-patches.md)
+* [Install the map pack](getting-started/install-map-pack.md)
+* [Create an account](getting-started/create-account.md)
+* [Play Singleplayer](getting-started/play-singleplayer.md)
+* [Play Multiplayer](getting-started/play-multiplayer.md)
+* [Host a server](getting-started/host-server.md)
+* [Troubleshoot](getting-started/troubleshoot.md)
+* [FAQ](getting-started/faq.md)
 
 ## Project Remaster
 
-* [① Install the Remaster mod](project-remaster/download-and-install-remaster-mod.md)
-* [② Configure the Remaster Launcher](project-remaster/configure-remaster-launcher.md)
-* [⍟ Further Readings](project-remaster/further-readings.md)
+* [Install the Remaster mod](project-remaster/download-and-install-remaster-mod.md)
+* [Configure the Remaster Launcher](project-remaster/configure-remaster-launcher.md)
+* [Further Readings](project-remaster/further-readings.md)
 
 ## Addons / Tweaks
 
@@ -39,9 +39,9 @@
 
 ## Dedicated Server
 
-* [① Install the server](dedicated-server/install-server.md)
-* [② Install the server patch](dedicated-server/download-and-install-server-patch.md)
-* [③ Host a dedicated server](dedicated-server/host-dedicated-server.md)
+* [Install the server](dedicated-server/install-server.md)
+* [Install the server patch](dedicated-server/download-and-install-server-patch.md)
+* [Host a dedicated server](dedicated-server/host-dedicated-server.md)
 
 ## Others
 

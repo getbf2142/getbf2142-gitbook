@@ -1,8 +1,9 @@
 ---
 description: 'Get connected: How to download and install BF2142 Hub ...'
+icon: '3'
 ---
 
-# ③ Install BF2142 Hub
+# Install BF2142 Hub
 
 In this tutorial, we'll walk you through the steps to download and install BF2142 Hub. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 

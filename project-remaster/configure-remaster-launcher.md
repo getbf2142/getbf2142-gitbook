@@ -1,8 +1,9 @@
 ---
 description: How to configure the launcher? How to start the game with the launcher?
+icon: '2'
 ---
 
-# ② Configure Remaster Launcher
+# Configure the Remaster Launcher
 
 This tutorial will walk you through how to configure the launcher and use it to launch the game. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 
