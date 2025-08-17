@@ -22,7 +22,8 @@ layout:
 Follow tutorials ① through ⑥ in order — it’s super straightforward! Depending on your setup, you might be able to skip some steps or need to add a few extras. Don’t worry, this guide has you covered! It’ll help you figure out which steps are essential and which ones you can safely skip. Let’s get you into the game!
 
 {% hint style="success" %}
-We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support. If you enjoy our work, please give us a 5-star rating or share a few kind words [here](../others/feedback.md)!
+We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support.\
+If you enjoy our work, please give us a 5-star rating or share a few kind words [here](../others/feedback.md)!
 {% endhint %}
 
 ### Game installed ?

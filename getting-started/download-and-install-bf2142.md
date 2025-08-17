@@ -46,7 +46,8 @@ If you’re determined to find a native Mac version, we wish you the best of luc
 ## Procedures
 
 {% hint style="success" %}
-We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support. If you enjoy our work, please give us a 5-star rating or share a few kind words [here](../others/feedback.md)!
+We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support.\
+If you enjoy our work, please give us a 5-star rating or share a few kind words [here](../others/feedback.md)!
 {% endhint %}
 
 {% stepper %}
