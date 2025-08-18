@@ -49,7 +49,7 @@ OpenSpy now lets you reset your password and manage your account at [https://acc
 
 <summary>G03: How to change the language ?</summary>
 
-If you have the Remaster mod installed, you can easily switch languages using the <mark style="color:blue;">Remaster Launcher</mark>.
+If you already have the [Remaster mod](../advanced/project-remaster/download-and-install-remaster-mod.md) installed, you can easily switch languages using the <mark style="color:blue;">Remaster Launcher</mark>.
 
 If you don’t have the mod, follow these steps to change the language manually:
 
