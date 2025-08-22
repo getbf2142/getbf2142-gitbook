@@ -44,7 +44,7 @@ Just a heads up: you’ll need to repeat these steps every time you click the in
 
 <details>
 
-<summary>G02: Having weird graphics glitches like blackouts or ghost objects</summary>
+<summary>G02: Having weird graphics glitches like blackouts, inverted colors, or ghost objects</summary>
 
 This usually happens because the old DirectX9 engine is trying to use anti-aliasing with a modern graphics card.
 
@@ -52,7 +52,8 @@ This usually happens because the old DirectX9 engine is trying to use anti-alias
 
 * See-through buildings
 * Ghost objects (e.g., invisible terrain or soldier units)
-* Blackouts of certain objects
+* Inverted colors
+* Object blackouts
 
 **Solution(s):**
 
@@ -112,7 +113,7 @@ BF2142 can have issues on modern PCs, with the most common cause being incompati
 
 <summary>C02: Game crashes when adjusting audio settings</summary>
 
-Game crashes like this can be caused by virtual audio drivers. If you have VirtualCable or Voicemeeter installed, you’ll likely run into issues.
+Game crashes like this are often caused by having more than 9 input audio interfaces. Applications like VirtualCable or Voicemeeter, which add multiple input audio interfaces, are likely to cause issues.
 
 **Symptom(s):**
 
@@ -121,9 +122,14 @@ Game crashes like this can be caused by virtual audio drivers. If you have Virtu
 
 **Solution(s):**
 
-* Open <mark style="color:blue;">Device Manager</mark> and disable any virtual drivers.
+* Open <mark style="color:blue;">Sound</mark> in <mark style="color:blue;">Control Panel</mark> and disable any unused input audio interfaces under the <mark style="color:blue;">Recording</mark> tab. Keep the number of active interfaces below 10.
+* Open <mark style="color:blue;">Device Manager</mark> and uninstall any unused input audio interfaces. Ensure the number of active interfaces remains below 10.
 
-- Set <mark style="color:blue;">AUDIO RENDERER</mark> to <mark style="color:blue;">Software</mark> and <mark style="color:blue;">ENABLE EAX</mark> to <mark style="color:blue;">NO</mark> in the game’s audio settings.
+- Uninstall any applications that add multiple input audio interfaces.
+
+* Set <mark style="color:blue;">AUDIO RENDERER</mark> to <mark style="color:blue;">Software</mark> and <mark style="color:blue;">ENABLE EAX</mark> to <mark style="color:blue;">NO</mark> in the game’s audio settings.
+
+Special thanks to Edouard @ Reclamation Discord for discovering the solution to this issue.
 
 </details>
 
@@ -243,7 +249,7 @@ Related Article(s): [Play Multiplayer](../getting-started/play-multiplayer.md)
 
 To view servers in the global server browser:
 
-* Ensure all server filter options are unchecked. Review detailed steps [here](../getting-started/play-multiplayer.md#joining-a-public-wan-server).&#x20;
+* Ensure all filter options are unchecked under the ADVANCED tab. Review detailed steps [here](../getting-started/play-multiplayer.md#joining-a-public-wan-server).&#x20;
 
 - Use the <mark style="color:blue;">Missing Servers</mark> tool in BF2142 Hub.
 
@@ -332,9 +338,11 @@ This usually happens when your ISP blocks certain IP addresses, which prevent BF
 
 **Symptom(s):**
 
-* "mdIBF.ReadConfig: Unexpected character encountered while parsing value: <. Path ", line 0, position 0."
-* "mdIBF.\*\*\*\*: Object reference not set to an instance of an object."
-* "the type initialisation function for b2142\_hub MDIBFclient has causes an exeption."
+* "mdIBF.ReadConfig: Unexpected character encountered while parsing value: <. Path ", line 0, position 0." (VPN)
+* "mdIBF.Banner: Object reference not set to an instance of an object." (VPN)
+* "mdIBF.ReadServer: Object reference not set to an instance of an object." (VPN)
+* "mdIBF.CDKeyLaunch: Object reference not set to an instance of an object." (Registry)
+* "the type initialisation function for b2142\_hub MDIBFclient has causes an exeption." (VPN)
 
 **Solution(s):**
 
@@ -364,6 +372,19 @@ Sometimes, Windows scaling settings can interfere with an app's display, causing
 4. Under <mark style="color:blue;">High DPI scaling override</mark>, check <mark style="color:blue;">Override high DPI scaling behavior</mark>.
 5. Set <mark style="color:blue;">Scaling performed by:</mark> to <mark style="color:blue;">Application</mark>.
 6. Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
+
+</details>
+
+<details>
+
+<summary>H03: Unable to install OpenSpy patches – no green ticks after clicking install</summary>
+
+You can get around this by manually installing the patches.
+
+1. Download the patches. \[[MediaFire](https://www.mediafire.com/file/98a6muljivaoidl/BF2142_OpenSpy_Patches.zip/file) | [Google Drive](https://drive.google.com/file/d/1SX1yyOhEGlUXKR3FBgbKRRCpvVsQ9iDJ/view)]
+2. Place `bf2142.exe`, `RendDX9_ori.dll`, and `RendDX9.dll` in your game directory, typically located at: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
+3. Replace or overwrite the files when prompted.
+4. Restart BF2142 Hub, and you should now see four green ticks.
 
 </details>
 
