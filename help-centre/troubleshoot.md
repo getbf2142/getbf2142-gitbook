@@ -381,7 +381,11 @@ Sometimes, Windows scaling settings can interfere with an app's display, causing
 
 You can get around this by manually installing the patches.
 
-1. Download the patches. \[[MediaFire](https://www.mediafire.com/file/98a6muljivaoidl/BF2142_OpenSpy_Patches.zip/file) | [Google Drive](https://drive.google.com/file/d/1SX1yyOhEGlUXKR3FBgbKRRCpvVsQ9iDJ/view)]
+1. Download the patches.\
+   Note that some browsers may flag this file as suspicious.
+   1. [MediaFire](https://www.mediafire.com/file/98a6muljivaoidl/BF2142_OpenSpy_Patches.zip/file)
+   2. [Google Drive](https://drive.google.com/file/d/1SX1yyOhEGlUXKR3FBgbKRRCpvVsQ9iDJ/view)
+   3. [Reclamation Discord](https://discord.com/invite/MEwBW9U)
 2. Place `bf2142.exe`, `RendDX9_ori.dll`, and `RendDX9.dll` in your game directory, typically located at: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
 3. Replace or overwrite the files when prompted.
 4. Restart BF2142 Hub, and you should now see four green ticks.

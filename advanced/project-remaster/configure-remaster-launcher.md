@@ -52,28 +52,11 @@ Adjust <mark style="color:blue;">Resolution</mark> from the drop-down menu to ma
 {% endstep %}
 
 {% step %}
-Go to the <mark style="color:blue;">Help</mark> page.
-{% endstep %}
-
-{% step %}
-Check if the debug message includes these lines:\
-<mark style="color:green;">Game version: v1.51 OK!</mark>\
-<mark style="color:red;">bf2142.exe: Not v1.51 or cracked.</mark>     <sub>(You will see this line if OpenSpy patches are installed properly.)</sub>\ <mark style="color:red;">bf2142\_4gb.exe: Missing! Patch first.</mark>   <sub>(You don't need 4gb ram patch because OpenSpy patches include it)</sub>\
-<mark style="color:red;">RendDX9.dll: Wrong file version!</mark>    <sub>(You will see this line if OpenSpy patches are installed properly.)</sub>\
-<mark style="color:green;">RendDX9\_ori.dll: OK!</mark>\
-<mark style="color:yellow;">Profile: Found, delete if stuck with a black screen.</mark>  <sub>(You will see this line if you logged in before.)</sub>
-{% endstep %}
-
-{% step %}
 Return to the <mark style="color:blue;">Play</mark> page.&#x20;
 {% endstep %}
 
 {% step %}
 Click <mark style="color:blue;">Start Game!</mark> to launch the game.
-{% endstep %}
-
-{% step %}
-The game may take a few seconds to start, so expect a brief black screen before the intro appears. **\[**[**?**](#user-content-fn-5)[^5]**]**
 {% endstep %}
 
 {% step %}
@@ -91,7 +74,7 @@ _**Congratulations! You have completed all the steps to get Remaster up and runn
 
 <summary>Just a few things to note ...</summary>
 
-* If you want to play an unmodded game or join an unmodded server, simply uncheck all options under <mark style="color:blue;">Play</mark> → <mark style="color:blue;">Launch-Settings</mark> and <mark style="color:blue;">Settings</mark> → <mark style="color:blue;">General</mark> before launching the game. **\[**[**?**](#user-content-fn-6)[^6]**]**
+* If you want to play an unmodded game or join an unmodded server, simply uncheck all options under <mark style="color:blue;">Play</mark> → <mark style="color:blue;">Launch-Settings</mark> and <mark style="color:blue;">Settings</mark> → <mark style="color:blue;">General</mark> before launching the game. **\[**[**?**](#user-content-fn-5)[^5]**]**
 
 - Vanilla weapons is a mini-mod included with Project Remaster. Enable this option if you want to play with weapons and gadgets that have their original (vanilla) stats.
 
@@ -129,6 +112,4 @@ Also, take a look at the addons and tweaks section in the sidebar navigation —
 
     2) Click the <mark style="color:blue;">Clear Cache</mark> button.
 
-[^5]: If you are using the full-screen mode, you may see the game blinking or resizing for a few times.
-
-[^6]: This ensures you’re running a pure, unmodded version, which is required for vanilla servers, or you may get kicked by anti-cheat for modified content.
+[^5]: This ensures you’re running a pure, unmodded version, which is required for vanilla servers, or you may get kicked by anti-cheat for modified content.

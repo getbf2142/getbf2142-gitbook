@@ -136,8 +136,11 @@ Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endtab %}
 
 {% tab title="Open Beta" %}
-**Project Remaster v16 2025-08-08 (2.57 GB)**\
-<sub>Ask nicely in</sub> [<sub>Discord</sub>](https://discord.gg/nVdDkgA) <sub>to join the v16 testing ...</sub>
+**Project Remaster v16 2025-08-08 (2.57 GB)**
+
+1. To join the v16 testing, hop into the [Discord server](https://discord.gg/nVdDkgA) and say, _"I would like to test out v16!"_ in the <mark style="color:blue;">general</mark> channel.
+2. Once you’ve been granted the <mark style="color:blue;">tester</mark> role, you’ll gain access to the testing channel.&#x20;
+3. Check the <mark style="color:blue;">pinned</mark> messages for the download link and detailed instructions on how to install and play.
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
 {% endtab %}
