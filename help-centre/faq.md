@@ -95,6 +95,17 @@ If the corresponding entries are missing in the registry, you may need to manual
 
 </details>
 
+<details>
+
+<summary>G04: How to play with bots ?</summary>
+
+Conquest Co-op (gpm\_coop) mode is the game mode that spawns bots, and any Conquest Co-op map will support them.
+
+* **Singleplayer:** Conquest Co-op is the default mode, so there’s no need to worry about selecting it.
+* **LAN:** Make sure to select Conquest Co-op as the game mode to play with bots.
+
+</details>
+
 ### (AT) Addons / Tweaks
 
 <details>

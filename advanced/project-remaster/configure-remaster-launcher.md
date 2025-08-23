@@ -11,7 +11,7 @@ This tutorial will walk you through how to configure the launcher and use it to 
 
 {% hint style="warning" %}
 Before configuring the launcher, make sure you’ve started the game at least once. **\[**[**?**](#user-content-fn-1)[^1]**]**\
-&#xNAN;_&#x4D;ake sure you’ve_ [_installed OpenSpy patches_](../../getting-started/apply-openspy-patches.md) _via BF2142 Hub._
+Make sure you’ve [installed OpenSpy patches](../../getting-started/apply-openspy-patches.md) via BF2142 Hub.
 {% endhint %}
 
 {% stepper %}

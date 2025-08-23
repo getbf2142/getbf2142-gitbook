@@ -85,13 +85,20 @@ The Project Remaster Team is actually planning to host some multiplayer events a
 
 ## Procedures
 
+{% hint style="warning" %}
+The following procedures apply only to v14.\
+If you’re using v16, please follow the instructions in the Remaster Discord.
+{% endhint %}
+
 {% stepper %}
 {% step %}
-Download the mod from [Downloads](download-and-install-remaster-mod.md#downloads).
+Download the mod from [Downloads](download-and-install-remaster-mod.md#downloads) → [Release](download-and-install-remaster-mod.md#release).
 {% endstep %}
 
 {% step %}
-Double-click the file to start the installer — it might take a moment for anything to appear. **\[**[**?**](#user-content-fn-1)[^1]**]**
+Double-click the file to start the installer.
+
+It might take a moment for anything to appear. **\[**[**?**](#user-content-fn-1)[^1]**]**
 {% endstep %}
 
 {% step %}
@@ -99,7 +106,9 @@ When prompted by <mark style="color:blue;">User Account Control</mark>, click <m
 {% endstep %}
 
 {% step %}
-If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-2)[^2]**]**
+When <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>.
+
+If you don't see the option, then **\[**[**...**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 
 {% step %}
@@ -135,11 +144,11 @@ Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
 {% endtab %}
 
-{% tab title="Open Beta" %}
+{% tab title="Closed Beta" %}
 **Project Remaster v16 2025-08-08 (2.57 GB)**
 
 1. To join the v16 testing, hop into the [Discord server](https://discord.gg/nVdDkgA) and say, _"I would like to test out v16!"_ in the <mark style="color:blue;">general</mark> channel.
-2. Once you’ve been granted the <mark style="color:blue;">tester</mark> role, you’ll gain access to the testing channel.&#x20;
+2. Once you’ve been granted the <mark style="color:blue;">tester</mark> role, you’ll gain access to the <mark style="color:blue;">testing</mark> channel.&#x20;
 3. Check the <mark style="color:blue;">pinned</mark> messages for the download link and detailed instructions on how to install and play.
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
@@ -148,4 +157,9 @@ Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 
 [^1]: The installer takes time to decompress files to prepare for the installation.
 
-[^2]: If you don’t see the <mark style="color:blue;">More Info</mark> option, right-click the installer and select <mark style="color:blue;">Properties</mark>. Check the <mark style="color:blue;">Unlock</mark> box, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. After that, try running the installer again starting from step 2.
+[^2]: If you don’t see the <mark style="color:blue;">More Info</mark> option:&#x20;
+
+    1. Right-click the installer and select <mark style="color:blue;">Properties</mark>.&#x20;
+
+    2) Check the <mark style="color:blue;">Unlock</mark> box, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.&#x20;
+    3) Run the installer again.
