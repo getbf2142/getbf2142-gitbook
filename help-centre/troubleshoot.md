@@ -27,9 +27,11 @@ This is your go-to spot for solutions to some of the most common problems you mi
 
 <summary>G01: Running the game in windowed mode causes scaling issues or distortion</summary>
 
-Related Article(s): [Apply OpenSpy Patches](../getting-started/apply-openspy-patches.md)
+Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md)
 
-Sometimes, Windows scaling settings can interfere with a game’s display, causing weird scaling or visual glitches. You can fix this by running the game in compatibility mode:
+Windows scaling settings can interfere with a game’s display due to non-functioning high DPI awareness. This can cause an application’s UI to appear distorted, pixelated, or unreadable on modern high-resolution screens, as it renders at a default DPI and is then bitmap-stretched by Windows.
+
+You can fix this by running the game in compatibility mode:
 
 1. Go to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
 2. Right-click `BF2142.exe` and select <mark style="color:blue;">Properties</mark>.
@@ -44,13 +46,13 @@ Just a heads up: you’ll need to repeat these steps every time you click the in
 
 <details>
 
-<summary>G02: Having weird graphics glitches like blackouts, inverted colors, or ghost objects</summary>
+<summary>G02: Having weird graphics glitches like blackouts, see-through, inverted colors, or ghost objects</summary>
 
 This usually happens because the old DirectX9 engine is trying to use anti-aliasing with a modern graphics card.
 
 **Symptom(s):**
 
-* See-through buildings
+* See-through or x-ray
 * Ghost objects (e.g., invisible terrain or soldier units)
 * Inverted colors
 * Object blackouts
@@ -364,7 +366,9 @@ This usually happens when your ISP blocks certain IP addresses, which prevent BF
 
 <summary>H02: BF2142 Hub scaling looks messed up or distorted</summary>
 
-Sometimes, Windows scaling settings can interfere with an app's display, causing weird scaling or visual glitches. You can fix this by running the app in compatibility mode:
+Windows scaling settings can interfere with an app’s display due to non-functioning high DPI awareness. This can cause an application’s UI to appear distorted, pixelated, or unreadable on modern high-resolution screens, as it renders at a default DPI and is then bitmap-stretched by Windows.
+
+You can fix this by running the app in compatibility mode:
 
 1. Go to the folder where your `BF2142 Hub.exe` is located — by default, that’s usually `C:\Program Files (x86)\BF2142 Hub 2`.
 2. Right-click `BF2142 Hub.exe` and select <mark style="color:blue;">Properties</mark>.
