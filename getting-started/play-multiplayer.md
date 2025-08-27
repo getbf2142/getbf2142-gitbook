@@ -97,7 +97,7 @@ In the <mark style="color:blue;">ADVANCED</mark> tab, uncheck all the filter opt
 {% endstep %}
 
 {% step %}
-You should now see a list of public servers. Double-click one to jon and play.
+You should now see a list of public servers. Double-click one to join and play.
 {% endstep %}
 {% endstepper %}
 
