@@ -17,13 +17,17 @@ For many players, the Remaster mod is a game-changer — they can't imagine play
 {% endcolumn %}
 {% endcolumns %}
 
+{% embed url="https://discord.com/invite/nVdDkgA" %}
+
 <details>
 
 <summary>What is Project Remaster ?</summary>
 
-Project Remaster, or the Remaster mod, is an awesome enhancement for Battlefield 2142 that breathes new life into this 15-year-old classic! It packs in high-resolution textures, ultra-realistic animations, and even new weapons — all seamlessly integrated into the game engine for a completely refreshed experience. The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing work, developing and maintaining it.
+Project Remaster, or the Remaster mod, is an awesome enhancement for Battlefield 2142 that breathes new life into this 15-year-old classic!&#x20;
 
-If you need support or want the latest updates, be sure to join their [Discord server](https://discord.com/invite/nVdDkgA)!
+It packs in high-resolution textures, ultra-realistic animations, and even new weapons — all seamlessly integrated into the game engine for a completely refreshed experience.&#x20;
+
+The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing work, developing and maintaining it. If you need support or want the latest updates, be sure to join their [Discord](https://discord.com/invite/nVdDkgA)!
 
 </details>
 

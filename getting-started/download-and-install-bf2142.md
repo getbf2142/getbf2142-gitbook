@@ -5,7 +5,9 @@ icon: '1'
 
 # Install BF2142
 
-In this tutorial, we'll walk you through all the best online spots to download the game and show you exactly how to install it properly. If you hit any snags or have questions, don't hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we're always happy to help you out!
+In this tutorial, we'll walk you through all the best online spots to download the game and show you exactly how to install it properly.
+
+{% embed url="https://discord.gg/DaMVNknVnV" %}
 
 <details>
 

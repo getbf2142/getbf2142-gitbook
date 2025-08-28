@@ -5,23 +5,17 @@ icon: '4'
 
 # Apply OpenSpy patches
 
-In this tutorial, we’ll show you how to get your game ready for OpenSpy, including installing the necessary patch and understanding why it's crucial for your online experience. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
+In this tutorial, we’ll show you how to get your game ready for OpenSpy, including installing the necessary patch and understanding why it's crucial for your online experience.
 
-{% columns %}
-{% column %}
+{% embed url="https://discord.gg/DaMVNknVnV" %}
+
 {% embed url="https://discord.com/invite/MEwBW9U" %}
-{% endcolumn %}
-
-{% column %}
-{% embed url="https://www.battlefield2142.co/" %}
-{% endcolumn %}
-{% endcolumns %}
 
 <details>
 
 <summary>What's OpenSpy ?</summary>
 
-OpenSpy is an open-source alternative to GameSpy, built to work perfectly with all GameSpy-supported games. For Battlefield 2142, the main community using the OpenSpy master server is the Reclamation group.
+[OpenSpy](https://openspy.net/) is an open-source alternative to [GameSpy](https://en.wikipedia.org/wiki/GameSpy#Shutdown), built to work perfectly with all GameSpy-supported games. For Battlefield 2142, the main community using the OpenSpy master server is the Reclamation group.
 
 </details>
 
@@ -45,7 +39,7 @@ When GameSpy shut down in 2014, BF2142's original online services went with it. 
 
 <summary>Are there other master servers besides OpenSpy ?</summary>
 
-Yep, there are a few others out there, like NovGames, PlayBF2142, and MAGMA. But honestly, OpenSpy, especially with the Reclamation community, is the most reliable and active one you'll find. Plus, BF2142 Hub makes it super easy to switch between OpenSpy and NovGames if you want to try them out!
+Yep, there are a few others out there, like [NovGames](https://novgames.ru/), and [PlayBF2142](http://play2142.ru/). But honestly, OpenSpy, especially with the Reclamation community, is the most reliable and active one you'll find. Plus, BF2142 Hub makes it super easy to switch between OpenSpy and NovGames if you want to try them out!
 
 </details>
 
@@ -53,7 +47,11 @@ Yep, there are a few others out there, like NovGames, PlayBF2142, and MAGMA. But
 
 <summary>What's Project Reclamation, and how does it tie into OpenSpy ?</summary>
 
-Project Reclamation is a community-driven effort focused on bringing Battlefield 2142's online features back to life! It uses the OpenSpy platform to recreate that master server experience GameSpy originally offered. Basically, Reclamation servers connect directly to the OpenSpy master server, making it super easy for you to find and jump into games, just like in the good old days!
+Project Reclamation is a community-driven effort focused on bringing Battlefield 2142's online features back to life!&#x20;
+
+It uses the OpenSpy platform to recreate that master server experience GameSpy originally offered. Basically, Reclamation servers connect directly to the OpenSpy master server, making it super easy for you to find and jump into games, just like in the good old days!
+
+If you want the latest updates or need some help, be sure to join their [Discord](https://discord.com/invite/MEwBW9U)!
 
 </details>
 
@@ -63,7 +61,7 @@ Project Reclamation is a community-driven effort focused on bringing Battlefield
 
 <figure><img src="../.gitbook/assets/reclamation_orig.png" alt="" width="563"><figcaption></figcaption></figure>
 
-The Reclamation community is absolutely still going strong! There are both EU and US servers, and the English-speaking community is super active on the [Reclamation Discord](https://discord.com/invite/MEwBW9U).
+The Reclamation community is still going strong! There are both EU and US servers, and the English-speaking community is super active on [Discord](https://discord.com/invite/MEwBW9U).
 
 Reclamation EU usually gets busy starting around 6 PM GMT, and Reclamation US picks up around 12 AM GMT. Weekends are even more active than weekdays during these times! You can jump into various game modes like Conquest, Conquest Coop, and Titan **\[**[**?**](#user-content-fn-1)[^1]**]**.
 

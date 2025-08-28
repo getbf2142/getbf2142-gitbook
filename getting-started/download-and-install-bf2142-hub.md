@@ -5,7 +5,11 @@ icon: '3'
 
 # Install BF2142 Hub
 
-In this tutorial, we'll walk you through the steps to download and install BF2142 Hub. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
+In this tutorial, we'll walk you through the steps to download and install BF2142 Hub.
+
+{% embed url="https://discord.gg/DaMVNknVnV" %}
+
+{% embed url="https://discord.com/invite/MEwBW9U" %}
 
 <details>
 
@@ -15,7 +19,7 @@ BF2142 Hub is a super useful tool that lets you install OpenSpy patches with jus
 
 This tool also has a bunch of troubleshooting and diagnostic features, which are awesome for fixing video problems, crashes, and other issues. Seriously, we can't recommend installing BF2142 Hub enough – it's not just for the patches, but also for all those handy resources.
 
-The amazing [Reclamation Team](https://battlefield2142.co/) develops and maintains this tool. If you want the latest updates or need some help, be sure to join their [Discord server](https://discord.com/invite/MEwBW9U)!
+The amazing [Reclamation Team](https://battlefield2142.co/) develops and maintains this tool. If you want the latest updates or need some help, be sure to join their [Discord](https://discord.com/invite/MEwBW9U)!
 
 </details>
 

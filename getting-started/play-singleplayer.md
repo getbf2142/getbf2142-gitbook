@@ -5,7 +5,9 @@ icon: person-simple
 
 # Play Singleplayer
 
-In this tutorial, we’ll walk you through two different ways to enjoy singleplayer mode. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
+In this tutorial, we’ll walk you through two different ways to enjoy singleplayer mode.
+
+{% embed url="https://discord.gg/DaMVNknVnV" %}
 
 ### Setting up a quick game in "SINGLEPLAY"&#x20;
 
