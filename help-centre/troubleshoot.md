@@ -432,7 +432,7 @@ Notes:
 
 <details>
 
-<summary>A03: Delete profile and cache</summary>
+<summary>A03: Delete Profile and Cache</summary>
 
 This resets your profiles — including any faulty video or audio settings — and clears the shader cache.
 
