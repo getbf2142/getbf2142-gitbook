@@ -25,19 +25,19 @@ The game may take a few seconds to start, so expect a brief black screen before 
 {% endstep %}
 
 {% step %}
-At the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It might take a moment for the next screen to appear. **\[**[**💡**](#user-content-fn-2)[^2]**] \[**[**⚙️**](#user-content-fn-3)[^3]**]**
+At the login screen, click <mark style="color:blue;">CREATE NEW ACCOUNT</mark>. It might take a moment for the next screen to appear. **\[**[**?**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 
 {% step %}
-Click <mark style="color:blue;">ACCEPT TERMS</mark>. **\[**[**?**](#user-content-fn-4)[^4]**]**
+Click <mark style="color:blue;">ACCEPT TERMS</mark>. **\[**[**?**](#user-content-fn-3)[^3]**]**
 {% endstep %}
 
 {% step %}
-Fill out the registration form **\[**[**?**](#user-content-fn-5)[^5]**]** — but make sure to remember your <mark style="color:blue;">EMAIL ADDRESS</mark>, <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. If you forgot your password **\[**[**...**](#user-content-fn-6)[^6]**]**
+Fill out the registration form **\[**[**?**](#user-content-fn-4)[^4]**]** — but make sure to remember your <mark style="color:blue;">EMAIL ADDRESS</mark>, <mark style="color:blue;">ACCOUNT NAME</mark> and <mark style="color:blue;">PASSWORD</mark>. If you forgot your password **\[**[**...**](#user-content-fn-5)[^5]**]**
 {% endstep %}
 
 {% step %}
-Click <mark style="color:blue;">CREATE</mark>. If you received an error, then **\[**[**...**](#user-content-fn-7)[^7]**]**
+Click <mark style="color:blue;">CREATE</mark>. If you received an error, then **\[**[**...**](#user-content-fn-6)[^6]**]**
 {% endstep %}
 
 {% step %}
@@ -49,15 +49,15 @@ Enter the <mark style="color:blue;">SOLDIER NAME</mark> you want to use in-game 
 {% endstep %}
 
 {% step %}
-You may notice the game resolution has changed. **\[**[**?**](#user-content-fn-8)[^8]**]**
+You may notice the game resolution has changed. **\[**[**?**](#user-content-fn-7)[^7]**]**
 {% endstep %}
 
 {% step %}
-To fix this, go to <mark style="color:blue;">OPTIONS</mark> → <mark style="color:blue;">VIDEO</mark> and adjust the resolution first. Only choose the resolution and refresh rate that your monitor actually supports. **\[**[**?**](#user-content-fn-9)[^9]**]**
+To fix this, go to <mark style="color:blue;">OPTIONS</mark> → <mark style="color:blue;">VIDEO</mark> and adjust the resolution first. Only choose the resolution and refresh rate your monitor supports. **\[**[**?**](#user-content-fn-8)[^8]**]**
 {% endstep %}
 
 {% step %}
-Check out the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) for tips on optimizing your video settings. I’d recommend setting everything to max, except for <mark style="color:blue;">ANTI-ALIASING</mark>, which should stay [<mark style="color:blue;">OFF</mark>](#user-content-fn-10)[^10]. **\[**[**?**](#user-content-fn-11)[^11]**]**
+Check out the [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_6.html) for tips on optimizing your video settings. I’d recommend setting everything to max, except for <mark style="color:blue;">ANTI-ALIASING</mark>, which should stay [<mark style="color:blue;">OFF</mark>](#user-content-fn-9)[^9]. **\[**[**?**](#user-content-fn-10)[^10]**]**
 {% endstep %}
 
 {% step %}
@@ -90,39 +90,33 @@ New to the game? We’ve got some manuals packed with helpful info, so it’s de
 
 Also, take a look at the addons and tweaks section in the sidebar navigation — you might find something that interests you!
 
-[^1]: If you are using the full-screen mode, you may see the game blinking or resizing for a few times.
+[^1]: If you’re in fullscreen, the game may blink or resize a few times — that’s normal.
 
-[^2]: It may take a little time for the server to process your requests, since most master servers are based in Europe or America. As long as you get a response within 10 seconds, that’s perfectly normal.
+[^2]: Server requests can take a few seconds to process — most master servers are in Europe or the U.S. A response within 10 seconds is perfectly normal.
 
-[^3]: If you keep getting stuck on <mark style="color:blue;">CONTACTING EA MASTER SERVER</mark>, try resetting the hub using the button in the <mark style="color:blue;">Help</mark> tab, then reinstall the OpenSpy patches.
+[^3]: One important thing to note from the <mark style="color:blue;">TERMS AND CONDITIONS</mark> is that your password is stored remotely in plain text, so just be aware of this when creating your account.
 
+[^4]: Most of the information you enter isn’t actually relevant, so it’s fine to use false details. Since master servers store your account data in plain text, it’s best to use a simple password (like `123456`).
 
-
-    If you’re sure you’ve applied the patches correctly, check to see if any AntiVirus or firewall applications are blocking the connections.
-
-[^4]: One important thing to note from the <mark style="color:blue;">TERMS AND CONDITIONS</mark> is that your password is stored remotely in plain text, so just be aware of this when creating your account.
-
-[^5]: Most of the information you enter isn’t actually relevant, so it’s fine to use false details. Since master servers store your account data in plain text, it’s best to use a simple password (like `123456`).
-
-[^6]: OpenSpy now lets you reset your password and manage your account at [https://account.openspy.net/login](https://account.openspy.net/login) (use Partner Code 20 - EA).
+[^5]: OpenSpy now lets you reset your password and manage your account at [https://account.openspy.net/login](https://account.openspy.net/login) (use Partner Code 20 - EA).
 
 
 
     When registering, use a valid email address so you can access these features. It's ok to use a fake email address if you're pretty sure that you won't forget your password.
 
-[^7]: Try different entries for <mark style="color:blue;">ACCOUNT NAME</mark> or <mark style="color:blue;">EMAIL ADDRESS</mark> as they may have been previously used by other accounts.
+[^6]: Try different entries for <mark style="color:blue;">ACCOUNT NAME</mark> or <mark style="color:blue;">EMAIL ADDRESS</mark> as they may have been previously used by other accounts.
 
 
 
     Other less common causes include using an invalid country code, postal code, birthdate format, or entering non-standard characters in any of the fields.
 
-[^8]: The resolution glitch occurs because the game creates a new set of profiles for you, which only include the default resolution settings. In Battlefield 2142, the resolution can actually be different before you log in and after you log in.
+[^7]: The resolution glitch occurs because the game creates a new set of profiles for you, which only include the default resolution settings. In Battlefield 2142, the resolution can actually be different before you log in and after you log in.
 
-[^9]: Choosing the wrong resolution or refresh rate is the most common reason for game crashes.
+[^8]: Choosing the wrong resolution or refresh rate is the most common reason for game crashes.
 
-[^10]: You can have it set to <mark style="color:blue;">4x</mark> if you don't encounter any issues with it.
+[^9]: You can have it set to <mark style="color:blue;">4x</mark> if you don't encounter any issues with it.
 
-[^11]: For some users, leaving Anti-aliasing enabled can cause strange graphical glitches, like being able to see through buildings. This usually happens because the old DirectX9 engine tries to handle anti-aliasing on modern graphics cards.&#x20;
+[^10]: For some users, leaving Anti-aliasing enabled can cause strange graphical glitches, like being able to see through buildings. This usually happens because the old DirectX9 engine tries to handle anti-aliasing on modern graphics cards.&#x20;
 
 
 

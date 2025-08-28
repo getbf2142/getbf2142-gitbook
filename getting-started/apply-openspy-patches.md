@@ -102,9 +102,7 @@ When prompted by <mark style="color:blue;">User Account Control</mark>, click <m
 {% endstep %}
 
 {% step %}
-Go to the <mark style="color:blue;">Help</mark> tab (the question mark icon) and check if the <mark style="color:blue;">GamePath</mark> is set to the correct folder.&#x20;
-
-If it isn't, click the gear icon to locate your game folder.
+Go to the <mark style="color:blue;">Help</mark> tab (the question mark icon) and check if the <mark style="color:blue;">GamePath</mark> is set to the correct folder. If it isn't, click the gear icon to locate your game folder.
 {% endstep %}
 
 {% step %}
@@ -120,9 +118,7 @@ Once you see <mark style="color:blue;">Patch completed, Enjoy!</mark>, click <ma
 {% endstep %}
 
 {% step %}
-After patching, make sure the checkmarks for `Patch 1.51`, `BF2142.exe`, `RendDX9.d`, `RendDX9ori.dll` are all <mark style="color:green;">green</mark>.
-
-If any aren't, repeat from step 6.
+After patching, make sure the checkmarks for `Patch 1.51`, `BF2142.exe`, `RendDX9.d`, `RendDX9ori.dll` are all <mark style="color:green;">green</mark>. If any aren't, repeat from step 6.
 {% endstep %}
 
 {% step %}
@@ -134,9 +130,7 @@ If you’re using Windows display scaling, you might see scaling issues when lau
 {% endstep %}
 
 {% step %}
-Next, make sure to [install the map pack](install-map-pack.md) if you plan to play on Reclamation servers.
-
-If not, you can skip this step and proceed to [create an account](create-account.md).
+Next, make sure to [install the map pack](install-map-pack.md) if you plan to play on Reclamation servers. If not, you can skip this step and proceed to [create an account](create-account.md).
 {% endstep %}
 {% endstepper %}
 
