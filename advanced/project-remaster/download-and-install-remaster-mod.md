@@ -27,7 +27,7 @@ Project Remaster, or the Remaster mod, is an awesome enhancement for Battlefield
 
 It packs in high-resolution textures, ultra-realistic animations, and even new weapons — all seamlessly integrated into the game engine for a completely refreshed experience.&#x20;
 
-The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing work, developing and maintaining it. If you need support or want the latest updates, be sure to join their [Discord](https://discord.com/invite/nVdDkgA)!
+The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing work, developing and maintaining it. If you need support or want the latest updates, be sure to join their [Discord](https://discord.com/invite/nVdDkgA) server!
 
 </details>
 

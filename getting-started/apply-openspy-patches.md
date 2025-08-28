@@ -11,7 +11,7 @@ In this tutorial, we’ll show you how to get your game ready for OpenSpy, inclu
 
 <details>
 
-<summary>What's OpenSpy ?</summary>
+<summary>What is OpenSpy ?</summary>
 
 [OpenSpy](https://openspy.net/) is an open-source alternative to [GameSpy](https://en.wikipedia.org/wiki/GameSpy#Shutdown), built to work perfectly with all GameSpy-supported games. For Battlefield 2142, the main community using the OpenSpy master server is the Reclamation group.
 
@@ -19,7 +19,7 @@ In this tutorial, we’ll show you how to get your game ready for OpenSpy, inclu
 
 <details>
 
-<summary>What's a Master Server ?</summary>
+<summary>What is a Master Server ?</summary>
 
 Master Server handles your login details and soldier data, shows you available game servers in your browser, and gets updates from those servers about player progress. OpenSpy is a perfect example of a Master Server that brings online services to games like Battlefield 2142!
 
@@ -43,13 +43,13 @@ Yep, there are a few others out there, like [NovGames](https://novgames.ru/), an
 
 <details>
 
-<summary>What's Project Reclamation, and how does it tie into OpenSpy ?</summary>
+<summary>What is Project Reclamation, and how does it tie into OpenSpy ?</summary>
 
 Project Reclamation is a community-driven effort focused on bringing Battlefield 2142's online features back to life!&#x20;
 
 It uses the OpenSpy platform to recreate that master server experience GameSpy originally offered. Basically, Reclamation servers connect directly to the OpenSpy master server, making it super easy for you to find and jump into games, just like in the good old days!
 
-If you want the latest updates or need some help, be sure to join their [Discord](https://discord.com/invite/MEwBW9U)!
+If you want the latest updates or need some help, be sure to join their [Discord](https://discord.com/invite/MEwBW9U) server!
 
 </details>
 
