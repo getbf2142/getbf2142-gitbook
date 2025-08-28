@@ -7,6 +7,16 @@ icon: '4'
 
 In this tutorial, we’ll show you how to get your game ready for OpenSpy, including installing the necessary patch and understanding why it's crucial for your online experience. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
 
+{% columns %}
+{% column %}
+{% embed url="https://discord.com/invite/MEwBW9U" %}
+{% endcolumn %}
+
+{% column %}
+{% embed url="https://www.battlefield2142.co/" %}
+{% endcolumn %}
+{% endcolumns %}
+
 <details>
 
 <summary>What's OpenSpy ?</summary>

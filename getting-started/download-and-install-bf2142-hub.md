@@ -23,7 +23,7 @@ The amazing [Reclamation Team](https://battlefield2142.co/) develops and maintai
 
 <summary>Can I install OpenSpy patches without BF2142 Hub ?</summary>
 
-Great question!
+Great question! [Here](../help-centre/troubleshoot.md#a05-install-openspy-patches-manually) is how!
 
 While you _can_ technically install OpenSpy patches without BF2142 Hub, we really don't recommend it. The OpenSpy servers might change their IP addresses, and if that happens, you could lose your connection.
 
@@ -66,6 +66,10 @@ Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using <mark s
 **BF2142 Hub v2 (1.2 MB)**
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/bf2142-hub-2" %}
+Source: [BF2142 Reclamation](https://battlefield2142.co/)
+{% endembed %}
+
+{% embed url="https://www.moddb.com/downloads/start/210984/all" %}
 Source: [BF2142 Reclamation](https://battlefield2142.co/)
 {% endembed %}
 {% endtab %}
