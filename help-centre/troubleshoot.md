@@ -34,11 +34,12 @@ Windows scaling settings can interfere with a game’s display due to non-functi
 **Symptom(s):**
 
 * UI appears distorted, pixelated, or unreadable on modern high-resolution screens.
-* UI renders at a default DPI and is then bitmap-stretched by Windows.
+* UI looks oversized or bitmap-stretched.
 
 **Solution(s)**
 
-* Enable High DPI Aware. See [A01](troubleshoot.md#a01-enable-high-dpi-aware).
+* Enable High DPI Aware ([A01](troubleshoot.md#a01-enable-high-dpi-aware)).
+* Run the game once in fullscreen mode, then switch to windowed mode.
 
 </details>
 
@@ -50,15 +51,19 @@ This usually happens because the old DirectX9 engine is trying to use anti-alias
 
 **Symptom(s):**
 
-* See-through or x-ray
+* See-through or x-ray visuals
 * Ghost objects (e.g., invisible terrain or soldier units)
 * Inverted colors
 * Object blackouts
 
 **Solution(s):**
 
-* Turn off Anti-Aliasing. See [A02](troubleshoot.md#a02-turn-off-anti-aliasing).
-* Delete Profile. See [A03](troubleshoot.md#a03-delete-profile).
+* Turn off Anti-Aliasing ([A02](troubleshoot.md#a02-turn-off-anti-aliasing)).
+* Delete Profile ([A03](troubleshoot.md#a03-delete-profile)).
+* Use a lower resolution and refresh rate.
+* Disable High DPI Aware ([A01](troubleshoot.md#a01-enable-high-dpi-aware)).
+
+- Reinstall the game.
 
 </details>
 
@@ -68,18 +73,16 @@ This usually happens because the old DirectX9 engine is trying to use anti-alias
 
 Related Article(s): [Stuttering, mouse skipping & FPS cap](https://www.lost-soldiers.org/v2.php?site=forum_topic\&topic=81\&type=ASC\&page=2#bigNO)
 
-This issue may be related to the game’s animation system or engine itself, and has nothing to do with the mouse polling rate.
+This issue is likely tied to the game’s animation system or engine, not your mouse polling rate.
 
 **Symptom(s):**
 
-* Stand still and don’t move forward or backward; moving sideways is fine — the issue will still appear.
-* Move your mouse only horizontally; the problem doesn’t occur vertically.
-* Stutter happens when you move the mouse fast or over a long distance.&#x20;
-* Small aim adjustments are usually fine, but consistent sideways movement, even at slow speeds, can cause skipped frames.
+* Stutters when moving the mouse quickly or over a long horizontal distance
+* Skipped frames during sideways movement
 
 **Solution(s):**
 
-* Unfortunately, there’s currently no known fix for this issue.
+* There’s currently no known fix.
 
 </details>
 
@@ -89,20 +92,22 @@ This issue may be related to the game’s animation system or engine itself, and
 
 <summary>C01: Game crashes to desktop after a flashing black screen</summary>
 
-BF2142 can have issues on modern PCs, with the most common cause being incompatible video modes or incorrect video settings.
+BF2142 can run into issues on modern PCs, most commonly due to incompatible video modes or incorrect video settings.
 
 **Symptom(s):**
 
-* Game crashes after a flashing black screen.
-* Game crashes way before the game intro or game menu shows.
+* Crash after a brief black screen
+* Crash before the intro or main menu appears
 
 **Solution(s):**
 
-* Delete Profile. See [A03](troubleshoot.md#a03-delete-profile).
+* Delete Profile ([A03](troubleshoot.md#a03-delete-profile)).
+* Enable High DPI Aware ([A01](troubleshoot.md#a01-enable-high-dpi-aware)).
 * Run the game in windowed mode.
-* Use a resolution and refresh rate that your monitor supports.&#x20;
-* If you’re using Windows 7, use the <mark style="color:blue;">GameUX Fix</mark> tool in BF2142 Hub.
-* Run the [Vidcon Fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) \[[Ref](https://battlefield2142.co/faq/#blackscreen)] which patches your `Video.con` file.
+* Use a resolution and refresh rate your monitor supports.&#x20;
+* Use the GameUX Fix tool in BF2142 Hub (Windows 7 only).
+* Run the [Vidcon Fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) ([#blackscreen](https://battlefield2142.co/faq/#blackscreen)).
+* Reinstall the game.
 
 </details>
 
@@ -110,23 +115,21 @@ BF2142 can have issues on modern PCs, with the most common cause being incompati
 
 <summary>C02: Game crashes when adjusting audio settings</summary>
 
-Game crashes like this are often caused by having more than 9 input audio interfaces. Applications like VirtualCable or Voicemeeter, which add multiple input audio interfaces, are likely to cause issues.
+Crashes often occur when you have over 9 input audio devices. Tools like VirtualCable or Voicemeeter that add multiple inputs are common culprits.
 
 **Symptom(s):**
 
-* Game crashes when you try to adjust audio settings in-game
-* Game crashes when joining a match, sometimes with audio beeping just before the crash.
+* Game crashes when adjusting in-game audio settings
+* Game crashes when joining a match, sometimes with a brief audio beep beforehand
 
 **Solution(s):**
 
-* Open <mark style="color:blue;">Sound</mark> in <mark style="color:blue;">Control Panel</mark> and disable any unused input audio interfaces under the <mark style="color:blue;">Recording</mark> tab. Keep the number of active interfaces below 10.
-* Open <mark style="color:blue;">Device Manager</mark> and uninstall any unused input audio interfaces. Ensure the number of active interfaces remains below 10.
+* In Control Panel > Sound > Recording, disable unused input devices. Keep active inputs under 10.
+* In Device Manager, uninstall unused input audio interfaces; keep active under 10.
+* Uninstall apps that add many inputs (e.g., VirtualCable, Voicemeeter).
+* Set Audio Renderer to Software and Enable EAX to No in-game.
 
-- Uninstall any applications that add multiple input audio interfaces.
-
-* Set <mark style="color:blue;">AUDIO RENDERER</mark> to <mark style="color:blue;">Software</mark> and <mark style="color:blue;">ENABLE EAX</mark> to <mark style="color:blue;">NO</mark> in the game’s audio settings.
-
-Special thanks to Edouard @ Reclamation Discord for discovering the solution to this issue.
+Special thanks to Edouard @ [Reclamation Discord](https://discord.com/invite/MEwBW9U) for discovering the solution to this issue.
 
 </details>
 
@@ -134,7 +137,7 @@ Special thanks to Edouard @ Reclamation Discord for discovering the solution to 
 
 <summary>C03: Runtime error or missing DLL error when starting the game</summary>
 
-If you see a Runtime Error or messages about `dice_py.dll` or `MSVCR**.dll` missing when launching the game, it usually means you’re missing the Microsoft Visual C++ Runtime Library.
+This usually occurs when the Microsoft Visual C++ Runtime Library is missing.
 
 **Symptom(s):**
 
@@ -144,8 +147,8 @@ If you see a Runtime Error or messages about `dice_py.dll` or `MSVCR**.dll` miss
 
 **Solution(s):**
 
-* Install the [Microsoft Visual C++ Runtime Library](https://aka.ms/vs/17/release/vc_redist.x86.exe).
-* Make sure your Windows is up to date.
+* Install [Microsoft Visual C++ Runtime Library](https://aka.ms/vs/17/release/vc_redist.x86.exe).
+* Update Windows.
 
 </details>
 
@@ -162,12 +165,13 @@ Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod
 
 **Solution(s):**
 
-* Turn off Anti-Aliasing. See [A02](troubleshoot.md#a02-turn-off-anti-aliasing).
-* Try lowering your in-game graphics settings (medium or low for everything).
+* Turn off Anti-Aliasing ([A02](troubleshoot.md#a02-turn-off-anti-aliasing)).
+* Lower in-game graphics settings (set everything to Medium or Low).
 
 - Set pagefile to be managed by the Operating System.
-- Set the game’s affinity to a single core in Task Manager.
-- Check for BIOS updates for your motherboard.
+- Set the game’s CPU affinity to a single core in Task Manager.
+- Check for and install any BIOS updates for your motherboard.
+- Reinstall the game.
 
 </details>
 
@@ -177,7 +181,15 @@ Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod
 
 Related Article(s): [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md)
 
-`127.0.0.1` is usually the culprit behind most issues after clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;">Singleplayer</mark>. For details on how to fix this, check [here](../advanced/addons-tweaks/bf2142unlocker.md).
+`127.0.0.1` is usually the culprit.
+
+**Symptom(s):**
+
+* Check [here](../advanced/addons-tweaks/bf2142unlocker.md) for details.
+
+**Solution(s):**
+
+* Check [here](../advanced/addons-tweaks/bf2142unlocker.md) for details.
 
 </details>
 
@@ -195,8 +207,8 @@ Related Article(s): [Create an account](../getting-started/create-account.md)
 
 **Solution(s):**
 
-* Use different entries for account name or email address, as they may already be associated with other accounts.
-* Ensure you use a valid country code, postal code, correct birthdate format, and avoid entering non-standard characters in any fields.
+* Try a different account name or email; they may already be in use.
+* Ensure your country code, postal code, and birthdate format are valid, and avoid non-standard characters in any fields.
 
 </details>
 
@@ -204,37 +216,36 @@ Related Article(s): [Create an account](../getting-started/create-account.md)
 
 <summary>S02: Could not connect to EA Online or EA Master Server when logging in or creating an account</summary>
 
-Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md), [Install BF2142 Hub](../getting-started/download-and-install-bf2142-hub.md)
+Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md)
 
-There are many potential causes for this issue, including your internet connection, BF2142 Hub, OpenSpy patches, firewall, antivirus, DNS, ISP, or even the master server itself.
+There are many potential causes for this issue — your internet connection, BF2142 Hub, OpenSpy patches, firewall/antivirus, DNS, ISP, or even the master server.
 
 {% hint style="info" %}
-If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplayer with all unlocks using [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md).
+If OpenSpy is down, switch to NovGames via BF2142 Hub, or play Singleplayer with all unlocks using [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md).
 {% endhint %}
 
 **Symptom(s):**
 
-* "You are not connected to the Internet. Click OK to select a soldier to play offline, or try to reconnect."
-* Getting stuck at "Contacting EA Master Server"
-* "Could not connect to EA Online. Retry, or click OK to go into Offline mode. If you proceed, try logging in again later."
-* "EA Master Server is down. Please use BF2142Unlocker"
+* Stuck at "Contacting EA Master Server"
+
+- "Could not connect to EA Online. Retry, or click OK to go into Offline mode. If you proceed, try logging in again later."
+- "EA Master Server is down. Please use BF2142Unlocker"
+- "You are not connected to the Internet. Click OK to select a soldier to play offline, or try to reconnect."
 
 **Soution(s):**
 
-* Ensure you have a steady internet connection.
-* Ensure you run BF2142 Hub as an administrator.
-* Reinstall the OpenSpy patches and confirm there are four green ticks.
-* Restart BF2142 Hub (close it completely, then reopen it).
-* Use the <mark style="color:blue;">Reset Hub</mark> tool in BF2142 Hub or do a reinstallation.
+* Ensure your internet connection is stable.
 
-- Make sure BF2142 is allowed through both private and public networks in Windows Firewall.
-- Check that no antivirus or firewall is blocking BF2142 from communicating externally.
-
-* Ask in the [Reclamation Discord](https://discord.com/invite/MEwBW9U) to see if others are experiencing the same issue. If so, the OpenSpy master server (i.e., login service) might be down or undergoing maintenance.
-
-- Use `ipconfig /flushdns` in Command Prompt to flush your DNS entries.
-- Switch to DNS services like `1.1.1.1` or `1.0.0.1` (Cloudflare).
-- Use a VPN service, such as ExpressVPN or ProtonVPN, to bypass ISP restrictions.
+- Reinstall OpenSpy patches and confirm four green ticks.
+- Install Openspy patches manually ([A05](troubleshoot.md#a05-install-openspy-patches-manually)).
+- Fully close and restart BF2142 Hub.
+- Use the Reset Hub tool in BF2142 Hub, or reinstall the Hub.
+- Allow BF2142 through Windows Firewall (both private and public).
+- Ensure your antivirus or firewall isn’t blocking BF2142 or the Hub.
+- Ask in the [Reclamation Discord](https://discord.com/invite/MEwBW9U) if others have the same issue (the OpenSpy master server may be down or in maintenance).
+- In Command Prompt, run: `ipconfig /flushdns`.
+- Switch DNS to `1.1.1.1` or `1.0.0.1` (Cloudflare).
+- Use a VPN (e.g., ExpressVPN or ProtonVPN) to bypass ISP restrictions.
 
 </details>
 
@@ -244,13 +255,15 @@ If OpenSpy is down, you can switch to NovGames via BF2142 Hub or play Singleplay
 
 Related Article(s): [Play Multiplayer](../getting-started/play-multiplayer.md)
 
-To view servers in the global server browser:
+**Symptom(s):**
 
-* Ensure all filter options are unchecked under the ADVANCED tab.  Review detailed steps [here](../getting-started/play-multiplayer.md#joining-a-public-wan-server).&#x20;
+* No servers visible in the server browser
 
-- Use the <mark style="color:blue;">Missing Servers</mark> tool in BF2142 Hub.
+**Solution(s):**
 
-If you’re having problems viewing servers in the local server browser, check [here](../getting-started/play-multiplayer.md#joining-a-lan-server).
+* Uncheck all filter options (see details [here](../getting-started/play-multiplayer.md#joining-a-public-wan-server)).
+
+- Use the Missing Servers tool in BF2142 Hub.
 
 </details>
 
@@ -258,9 +271,9 @@ If you’re having problems viewing servers in the local server browser, check [
 
 <summary>S04: "This map contains customised content" error when joining a Reclamation server</summary>
 
-Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md), [Install the map pack](../getting-started/install-map-pack.md)
+Related Article(s): [Install the map pack](../getting-started/install-map-pack.md)
 
-You might have an outdated map or be missing the required map.
+You might have an outdated or missing map.
 
 **Symptom(s):**
 
@@ -268,9 +281,9 @@ You might have an outdated map or be missing the required map.
 
 **Solution(s):**
 
-* Download the map pack or the specific map the server is running.
-* If you already have the map or map pack, note which map is causing issues, uninstall it, and then reinstall it using BF2142 Hub’s individual map option.
-* If you get kicked with this message when the server changes maps, that’s normal — just rejoin the server.
+* Download the required map pack or the specific map the server is running.
+* If you already have it, note the problematic map, uninstall it, then reinstall it using BF2142 Hub’s individual map option.
+* If you’re kicked with this message during a map change, that’s normal — just rejoin the server.
 
 </details>
 
@@ -280,7 +293,7 @@ You might have an outdated map or be missing the required map.
 
 Related Article(s): [Play Multiplayer](../getting-started/play-multiplayer.md)
 
-You may have modified files in your current mod or tried to join the server with the wrong mod selected.
+You may have modified files in your current mod or tried to join with the wrong mod selected.
 
 **Symptom(s):**
 
@@ -288,11 +301,9 @@ You may have modified files in your current mod or tried to join the server with
 
 **Solution(s):**
 
-* If you’re joining Reclamation servers or any vanilla servers, make sure you’re using a vanilla BF2142 setup — don’t use any addons or tweaks that change files in `\mods\bf2142`.
+* For Reclamation or any vanilla servers, use a clean vanilla BF2142 setup — no addons or file tweaks in `\mods\bf2142`.
 
-- You can only join servers that match the mod and files you have, unless the server explicitly allows or uses modified content.
-  * You can’t join a vanilla server with a mod enabled, or the other way around.
-  * To join a modded server, you’ll need to have the exact same mod and files installed as the server.
+- For modded servers, install the exact same mod and files the server is running.
 
 </details>
 
@@ -300,7 +311,9 @@ You may have modified files in your current mod or tried to join the server with
 
 <summary>S06: Invalid CD-Key error when joining a server</summary>
 
-This issue occurs when the game’s CD key cannot be found in your computer’s registry, likely due to some omitted steps during installation.
+Related Article(s): [Install BF2142](../getting-started/download-and-install-bf2142.md)
+
+This issue occurs when the game’s CD key isn’t found in your registry, likely due to skipped installation steps.
 
 **Symptom(s):**
 
@@ -308,20 +321,12 @@ This issue occurs when the game’s CD key cannot be found in your computer’s 
 
 **Solution(s):**
 
-* Use the <mark style="color:blue;">CD-Key Fix</mark> tool in BF2142 Hub or Remaster Launcher.
-* Navigate to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\Support`, launch `Battlefield 2142_code.exe`, and enter a [CD key](#user-content-fn-1)[^1].
+* Use the CD-Key Fix tool in BF2142 Hub or Remaster Launcher.
+* For NovGames servers, run the ACTIVATOR and click Activate.
+* Go to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\Support`, launch `Battlefield 2142_code.exe`, and enter a [CD key](#user-content-fn-1)[^1].
 
-- Install the missing registry files:
-  1. Download the registry file from [https://www.regfiles.net/registry/battlefield-2142-registry](https://www.regfiles.net/registry/battlefield-2142-registry).
-     * **Note:** If your game is installed through Origin/EA App, reinstall the game instead and avoid using this file.
-  2. Adjust the <mark style="color:blue;">PATH</mark> and <mark style="color:blue;">CDKEY</mark> before downloading.
-  3. Open the file with a text editor and update:
-     * <mark style="color:blue;">Version</mark> to `1.51`.
-     * <mark style="color:blue;">BuildNr</mark> to `1.10.77.0`.
-  4. Save the changes and double-click the file to install it.
+- Install the missing registry files ([A04](troubleshoot.md#a04-install-the-registry-files)).
 - Reinstall the game.
-
-To play on NovGames servers, make sure you run the <mark style="color:blue;">ACTIVATOR</mark> and click the <mark style="color:blue;">Activate</mark> button at least once to apply the NovGames CD key fix. This step is usually completed during installation.
 
 </details>
 
@@ -331,7 +336,7 @@ To play on NovGames servers, make sure you run the <mark style="color:blue;">ACT
 
 <summary>H01: Application exception or mdIBF error when starting BF2142 Hub</summary>
 
-This usually happens when your ISP blocks certain IP addresses, which prevent BF2142 Hub from communicating with external services, or if the game’s information hasn’t been added to your computer’s registry, likely due to omitted steps during installation.
+This usually happens when your ISP blocks certain IPs (preventing BF2142 Hub from reaching external services) or when the game’s info is missing from your registry due to skipped install steps.
 
 **Symptom(s):**
 
@@ -343,16 +348,9 @@ This usually happens when your ISP blocks certain IP addresses, which prevent BF
 
 **Solution(s):**
 
-* Use a VPN service, such as ExpressVPN or ProtonVPN, to bypass ISP restrictions.
+* Use a VPN (e.g., ExpressVPN or ProtonVPN) to bypass ISP restrictions.
 
-- Install the missing registry files.
-  1. Download the registry file from [https://www.regfiles.net/registry/battlefield-2142-registry](https://www.regfiles.net/registry/battlefield-2142-registry).
-     * **Note:** If your game is installed through Origin/EA App, reinstall the game instead and avoid using this file.
-  2. Adjust the <mark style="color:blue;">PATH</mark> and <mark style="color:blue;">CDKEY</mark> before downloading.
-  3. Open the file with a text editor and update:
-     * <mark style="color:blue;">Version</mark> to `1.51`.
-     * <mark style="color:blue;">BuildNr</mark> to `1.10.77.0`.
-  4. Save the changes and double-click the file to install it.
+- Install the missing registry files ([A04](troubleshoot.md#a04-install-the-registry-files)).
 - Reinstall the game.
 
 </details>
@@ -361,16 +359,16 @@ This usually happens when your ISP blocks certain IP addresses, which prevent BF
 
 <summary>H02: BF2142 Hub scaling looks messed up or distorted</summary>
 
-Windows scaling settings can interfere with an app's display due to non-functioning high DPI awareness.
+Windows scaling settings can interfere with an application’s display due to non-functioning high DPI awareness.
 
 **Symptom(s):**
 
 * UI appears distorted, pixelated, or unreadable on modern high-resolution screens.
-* UI renders at a default DPI and is then bitmap-stretched by Windows.
+* UI looks oversized or bitmap-stretched.
 
-**Solution(s)**
+**Solution(s):**
 
-* Enable High DPI Aware. See [A01](troubleshoot.md#a01-enable-high-dpi-aware).
+* Enable High DPI Aware ([A01](troubleshoot.md#a01-enable-high-dpi-aware)).
 
 </details>
 
@@ -378,16 +376,15 @@ Windows scaling settings can interfere with an app's display due to non-function
 
 <summary>H03: Unable to install OpenSpy patches – no green ticks after clicking install</summary>
 
-You can get around this by manually installing the patches.
+**Symptom(s):**
 
-1. Download the patches.\
-   Note that some browsers may flag this file as suspicious.
-   1. [MediaFire](https://www.mediafire.com/file/98a6muljivaoidl/BF2142_OpenSpy_Patches.zip/file)
-   2. [Google Drive](https://drive.google.com/file/d/1SX1yyOhEGlUXKR3FBgbKRRCpvVsQ9iDJ/view)
-   3. [Reclamation Discord](https://discord.com/invite/MEwBW9U)
-2. Place `bf2142.exe`, `RendDX9_ori.dll`, and `RendDX9.dll` in your game directory, typically located at: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
-3. Replace or overwrite the files when prompted.
-4. Restart BF2142 Hub, and you should now see four green ticks.
+* No response after clicking Install
+* Not all components show green ticks
+
+**Solution(s):**
+
+* Run BF2142 Hub as an administrator.
+* Install OpenSpy patches manually ([A05](troubleshoot.md#a05-install-openspy-patches-manually)).
 
 </details>
 
@@ -439,7 +436,30 @@ Delete the `Battlefield 2142` folder in `C:\Users\...\Documents`. This will clea
 
 <summary>A04: Install the registry files</summary>
 
+1. Download the registry file from [https://www.regfiles.net/registry/battlefield-2142-registry](https://www.regfiles.net/registry/battlefield-2142-registry). **Note:** If your game is installed through Origin/EA App, reinstall the game instead and avoid using this file.
+2. Adjust the <mark style="color:blue;">PATH</mark> and <mark style="color:blue;">CDKEY</mark> before downloading.
+3. Open the file with a text editor and update:
 
+* <mark style="color:blue;">Version</mark> to `1.51`.
+
+- <mark style="color:blue;">BuildNr</mark> to `1.10.77.0`.
+
+4. Save the changes and double-click the file to install it.
+
+</details>
+
+<details>
+
+<summary>A05: Install OpenSpy patches manually</summary>
+
+1. Download the patches.\
+   Note that some browsers may flag this file as suspicious.
+   1. [MediaFire](https://www.mediafire.com/file/98a6muljivaoidl/BF2142_OpenSpy_Patches.zip/file)
+   2. [Google Drive](https://drive.google.com/file/d/1SX1yyOhEGlUXKR3FBgbKRRCpvVsQ9iDJ/view)
+   3. [Reclamation Discord](https://discord.com/invite/MEwBW9U)
+2. Place `bf2142.exe`, `RendDX9_ori.dll`, and `RendDX9.dll` in your game directory, typically located at: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
+3. Replace or overwrite the files when prompted.
+4. Restart BF2142 Hub, and you should now see four green ticks.
 
 </details>
 
