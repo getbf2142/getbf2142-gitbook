@@ -5,7 +5,7 @@ icon: people-pants-simple
 
 # Play Multiplayer
 
-In this tutorial, we'll walk you through the steps to join a server.
+In this tutorial, we'll walk you through the steps to join a server. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
 
 {% embed url="https://discord.gg/7SBMKRy6q9" %}
 

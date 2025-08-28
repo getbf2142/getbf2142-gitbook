@@ -5,7 +5,9 @@ icon: server
 
 # Host a server
 
-In this tutorial, you’ll learn how to host a simple server directly from the game. While this method is quick and easy, there are a few limitations:
+In this tutorial, you’ll learn how to host a simple server directly from the game. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
+
+While this method is quick and easy, there are a few limitations:
 
 * You’ll have fewer game settings to customize. **\[**[**?**](#user-content-fn-1)[^1]**]**
 * The person hosting the server must also be playing on it.

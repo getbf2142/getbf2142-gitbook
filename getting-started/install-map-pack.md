@@ -7,8 +7,6 @@ icon: '5'
 
 Reclamation runs two multiplayer servers, both featuring their own modified versions of maps. To join their public servers, you’ll need to install their map pack or the specific map currently in rotation. Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
 
-{% embed url="https://discord.gg/7SBMKRy6q9" %}
-
 {% embed url="https://discord.com/invite/MEwBW9U" %}
 
 <details>

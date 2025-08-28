@@ -5,7 +5,7 @@ icon: '6'
 
 # Create an account
 
-In this tutorial, we’ll walk you through how to create an account and set up several in-game settings.
+In this tutorial, we’ll walk you through how to create an account and set up several in-game settings. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
 
 {% embed url="https://discord.gg/7SBMKRy6q9" %}
 

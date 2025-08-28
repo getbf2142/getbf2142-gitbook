@@ -5,7 +5,7 @@ icon: '1'
 
 # Install the Remaster mod
 
-For many players, the Remaster mod is a game-changer — they can't imagine playing without it! In this tutorial, we'll show you exactly how to download and install it.
+For many players, the Remaster mod is a game-changer — they can't imagine playing without it! In this tutorial, we'll show you exactly how to download and install it. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
 
 {% columns %}
 {% column %}

@@ -5,7 +5,7 @@ icon: '2'
 
 # Install v1.51 patch
 
-In this tutorial, we're going to guide you through all the steps to get your game updated to the very latest version.
+In this tutorial, we're going to guide you through all the steps to get your game updated to the very latest version. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
 
 {% embed url="https://discord.gg/7SBMKRy6q9" %}
 

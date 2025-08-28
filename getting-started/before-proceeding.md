@@ -19,16 +19,17 @@ layout:
 
 # Before proceeding
 
-Follow tutorials ① through ⑥ in order — it’s super straightforward! Depending on your setup, you might be able to skip some steps or need to add a few extras. Don’t worry, this guide has you covered! It’ll help you figure out which steps are essential and which ones you can safely skip. Let’s get you into the game!
+Follow tutorials ①–⑥ in order — it’s super straightforward! Depending on your setup, you may be able to skip some steps or add a few extras. This guide will help you identify what’s essential and what you can safely skip. Let’s get you into the game!
+
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 {% hint style="success" %}
-We are here to help — Join our [Discord](https://discord.gg/7SBMKRy6q9) server to receive support.\
 If you enjoy our work, please give us a 5-star rating or share a few kind words [here](../others/feedback.md)!
 {% endhint %}
 
 ### Game installed ?
 
-Alright, let's figure out your next steps! This will help you decide if you can skip either tutorial in ① or ②, or if you need to complete both. We'll get you sorted!
+This will help you decide if you can skip either tutorial in ① or ②, or if you need to complete both. We'll get you sorted!
 
 <details>
 

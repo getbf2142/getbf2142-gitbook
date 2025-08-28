@@ -5,7 +5,7 @@ icon: '1'
 
 # Install BF2142
 
-In this tutorial, we'll walk you through all the best online spots to download the game and show you exactly how to install it properly.
+In this tutorial, we'll walk you through all the best online spots to download the game and show you exactly how to install it properly. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
 
 {% embed url="https://discord.gg/7SBMKRy6q9" %}
 
@@ -48,7 +48,6 @@ If you’re determined to find a native Mac version, we wish you the best of luc
 ## Procedures
 
 {% hint style="success" %}
-We are here to help — Join our [Discord](https://discord.gg/7SBMKRy6q9) server to receive support.\
 If you enjoy our work, please give us a 5-star rating or share a few kind words [here](../others/feedback.md)!
 {% endhint %}
 
