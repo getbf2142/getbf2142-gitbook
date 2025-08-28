@@ -59,7 +59,7 @@ This usually happens because the old DirectX9 engine is trying to use anti-alias
 **Solution(s):**
 
 * Turn off Anti-Aliasing ([A02](troubleshoot.md#a02-turn-off-anti-aliasing)).
-* Delete Profile ([A03](troubleshoot.md#a03-delete-profile)).
+* Delete Profile and Cache ([A03](troubleshoot.md#a03-delete-profile)).
 * Use a lower resolution and refresh rate.
 * Disable High DPI Aware ([A01](troubleshoot.md#a01-enable-high-dpi-aware)).
 
@@ -101,11 +101,11 @@ BF2142 can run into issues on modern PCs, most commonly due to incompatible vide
 
 **Solution(s):**
 
-* Delete Profile ([A03](troubleshoot.md#a03-delete-profile)).
+* Delete Profile and Cache ([A03](troubleshoot.md#a03-delete-profile)).
 * Enable High DPI Aware ([A01](troubleshoot.md#a01-enable-high-dpi-aware)).
 * Run the game in windowed mode.
 * Use a resolution and refresh rate your monitor supports.&#x20;
-* Use the GameUX Fix tool in BF2142 Hub (Windows 7 only).
+* Use the <mark style="color:blue;">GameUX Fix</mark> tool in BF2142 Hub (Windows 7 only).
 * Run the [Vidcon Fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) ([#blackscreen](https://battlefield2142.co/faq/#blackscreen)).
 * Reinstall the game.
 
@@ -124,10 +124,10 @@ Crashes often occur when you have over 9 input audio devices. Tools like Virtual
 
 **Solution(s):**
 
-* In Control Panel > Sound > Recording, disable unused input devices. Keep active inputs under 10.
-* In Device Manager, uninstall unused input audio interfaces; keep active under 10.
+* In <mark style="color:blue;">Control Panel</mark> > <mark style="color:blue;">Sound</mark> > <mark style="color:blue;">Recording</mark>, disable unused input devices. Keep active inputs under 10.
+* In <mark style="color:blue;">Device Manager</mark>, uninstall unused input audio interfaces; keep active under 10.
 * Uninstall apps that add many inputs (e.g., VirtualCable, Voicemeeter).
-* Set Audio Renderer to Software and Enable EAX to No in-game.
+* Set <mark style="color:blue;">Audio Renderer</mark> to <mark style="color:blue;">Software</mark> and <mark style="color:blue;">Enable EAX</mark> to <mark style="color:blue;">No</mark> in-game.
 
 Special thanks to Edouard @ [Reclamation Discord](https://discord.com/invite/MEwBW9U) for discovering the solution to this issue.
 
@@ -168,8 +168,8 @@ Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod
 * Turn off Anti-Aliasing ([A02](troubleshoot.md#a02-turn-off-anti-aliasing)).
 * Lower in-game graphics settings (set everything to Medium or Low).
 
-- Set pagefile to be managed by the Operating System.
-- Set the game’s CPU affinity to a single core in Task Manager.
+- Set pagefile to be managed by the Operating System in `SystemPropertiesPerformance.exe`.
+- Set the game’s CPU affinity to a single core in <mark style="color:blue;">Task Manager</mark>.
 - Check for and install any BIOS updates for your motherboard.
 - Reinstall the game.
 
@@ -239,11 +239,11 @@ If OpenSpy is down, switch to NovGames via BF2142 Hub, or play Singleplayer with
 - Reinstall OpenSpy patches and confirm four green ticks.
 - Install Openspy patches manually ([A05](troubleshoot.md#a05-install-openspy-patches-manually)).
 - Fully close and restart BF2142 Hub.
-- Use the Reset Hub tool in BF2142 Hub, or reinstall the Hub.
-- Allow BF2142 through Windows Firewall (both private and public).
+- Use the <mark style="color:blue;">Reset Hub</mark> tool in BF2142 Hub, or reinstall the Hub.
+- Allow BF2142 through <mark style="color:blue;">Windows Firewall</mark> (both private and public).
 - Ensure your antivirus or firewall isn’t blocking BF2142 or the Hub.
 - Ask in the [Reclamation Discord](https://discord.com/invite/MEwBW9U) if others have the same issue (the OpenSpy master server may be down or in maintenance).
-- In Command Prompt, run: `ipconfig /flushdns`.
+- In <mark style="color:blue;">Command Prompt</mark>, run: `ipconfig /flushdns`
 - Switch DNS to `1.1.1.1` or `1.0.0.1` (Cloudflare).
 - Use a VPN (e.g., ExpressVPN or ProtonVPN) to bypass ISP restrictions.
 
@@ -263,7 +263,7 @@ Related Article(s): [Play Multiplayer](../getting-started/play-multiplayer.md)
 
 * Uncheck all filter options (see details [here](../getting-started/play-multiplayer.md#joining-a-public-wan-server)).
 
-- Use the Missing Servers tool in BF2142 Hub.
+- Use the <mark style="color:blue;">Missing Servers</mark> tool in BF2142 Hub.
 
 </details>
 
@@ -321,8 +321,8 @@ This issue occurs when the game’s CD key isn’t found in your registry, likel
 
 **Solution(s):**
 
-* Use the CD-Key Fix tool in BF2142 Hub or Remaster Launcher.
-* For NovGames servers, run the ACTIVATOR and click Activate.
+* Use the <mark style="color:blue;">CD-Key Fix</mark> tool in BF2142 Hub or Remaster Launcher.
+* For NovGames servers, run the ACTIVATOR and click <mark style="color:blue;">Activate</mark>.
 * Go to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\Support`, launch `Battlefield 2142_code.exe`, and enter a [CD key](#user-content-fn-1)[^1].
 
 - Install the missing registry files ([A04](troubleshoot.md#a04-install-the-registry-files)).
@@ -394,21 +394,23 @@ Windows scaling settings can interfere with an application’s display due to no
 
 <summary>A01: Enable High DPI Aware</summary>
 
-If you're fixing the scaling issue for the game itself, you will do this for BF2142.exe.
+If you’re fixing scaling for the game, do this for `BF2142.exe`. For BF2142 Hub, do it for `BF2142 Hub.exe`.
 
-Go to the folder where your `BF2142.exe` is located — by default, that’s usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
+* Game: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`
+* Hub: `C:\Program Files (x86)\BF2142 Hub 2`
 
-Go to the folder where your `BF2142 Hub.exe` is located — by default, that’s usually `C:\Program Files (x86)\BF2142 Hub 2`.
+Steps:
 
-1. Right-click the `.exe` file and select <mark style="color:blue;">Properties</mark>.
-2. In the <mark style="color:blue;">Compatibility</mark> tab, click <mark style="color:blue;">Change high DPI settings</mark>.
+1. Right-click the `.exe` and select <mark style="color:blue;">Properties</mark>.
+2. Go to the <mark style="color:blue;">Compatibility</mark> tab > <mark style="color:blue;">Change high DPI settings</mark>.
 3. Under <mark style="color:blue;">High DPI scaling override</mark>, check <mark style="color:blue;">Override high DPI scaling behavior</mark>.
 4. Set <mark style="color:blue;">Scaling performed by:</mark> to <mark style="color:blue;">Application</mark>.
-5. Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
+5. Click <mark style="color:blue;">Apply</mark>, then <mark style="color:blue;">OK</mark>.
 
-Just a heads up: you’ll need to repeat these steps every time you click the install button in BF2142 Hub. **\[**[**?**](#user-content-fn-2)[^2]**]**
+Notes:
 
-**To disable...**
+* You’ll need to repeat these steps each time you click <mark style="color:blue;">Install</mark> in BF2142 Hub. **\[**[**?**](#user-content-fn-2)[^2]**]**
+* To disable High DPI Aware, just uncheck <mark style="color:blue;">Override high DPI scaling behavior</mark> in step 3.
 
 </details>
 
@@ -416,35 +418,48 @@ Just a heads up: you’ll need to repeat these steps every time you click the in
 
 <summary>A02: Turn off Anti-Aliasing</summary>
 
-Turn off <mark style="color:blue;">Anti-Aliasing</mark> in-game, or use the <mark style="color:blue;">Anti-Aliasing Off</mark> tool in BF2142 Hub.
+There are two ways to do this:
 
-* If you want anti-aliasing, use your NVIDIA or AMD control panel to set it up for your graphics card instead.
+* Turn off <mark style="color:blue;">Anti-Aliasing</mark> in-game.
+* Use the <mark style="color:blue;">Anti-Aliasing Off</mark> tool in BF2142 Hub.
 
-</details>
+Notes:
 
-<details>
-
-<summary>A03: Delete Profile</summary>
-
-Delete the `Battlefield 2142` folder in `C:\Users\...\Documents`. This will clean up your profiles — including any faulty video or audio settings — and clear your shader cache.
-
-* You can achieve the same effect by using the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Delete Profile</mark> tool in BF2142 Hub, or the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Reset Game-Settings</mark> tool in Remaster Launcher.
+* If you’re not having issues, you can set <mark style="color:blue;">Anti-Aliasing</mark> to <mark style="color:blue;">4x</mark>.
+* If you must turn it off but still want smoothing, force Anti-Aliasing via your NVIDIA or AMD control panel instead.
 
 </details>
 
 <details>
 
-<summary>A04: Install the registry files</summary>
+<summary>A03: Delete profile and cache</summary>
 
-1. Download the registry file from [https://www.regfiles.net/registry/battlefield-2142-registry](https://www.regfiles.net/registry/battlefield-2142-registry). **Note:** If your game is installed through Origin/EA App, reinstall the game instead and avoid using this file.
+This resets your profiles — including any faulty video or audio settings — and clears the shader cache.
+
+There are three ways to do this:
+
+* Delete the `Battlefield 2142` folder in `C:\Users\...\Documents`.
+
+- Use the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Delete Profile</mark> tool in BF2142 Hub
+- Use the <mark style="color:blue;">Clear Cache</mark> and <mark style="color:blue;">Reset Game-Settings</mark> tool in the Remaster Launcher.
+
+</details>
+
+<details>
+
+<summary>A04: Install the missing registry files</summary>
+
+{% hint style="danger" %}
+If your game was installed via EA App or Origin, reinstall the game instead and do not use this method.
+{% endhint %}
+
+1. Download the registry file [here](https://www.regfiles.net/registry/battlefield-2142-registry).
 2. Adjust the <mark style="color:blue;">PATH</mark> and <mark style="color:blue;">CDKEY</mark> before downloading.
-3. Open the file with a text editor and update:
+3. Open the file in a text editor and set:
+   * <mark style="color:blue;">Version</mark> to `1.51`
+   * <mark style="color:blue;">BuildNr</mark> to `1.10.77.0`
 
-* <mark style="color:blue;">Version</mark> to `1.51`.
-
-- <mark style="color:blue;">BuildNr</mark> to `1.10.77.0`.
-
-4. Save the changes and double-click the file to install it.
+4) Save, then double-click the file to install.
 
 </details>
 
@@ -452,14 +467,13 @@ Delete the `Battlefield 2142` folder in `C:\Users\...\Documents`. This will clea
 
 <summary>A05: Install OpenSpy patches manually</summary>
 
-1. Download the patches.\
-   Note that some browsers may flag this file as suspicious.
+1. Download the patches.
    1. [MediaFire](https://www.mediafire.com/file/98a6muljivaoidl/BF2142_OpenSpy_Patches.zip/file)
    2. [Google Drive](https://drive.google.com/file/d/1SX1yyOhEGlUXKR3FBgbKRRCpvVsQ9iDJ/view)
    3. [Reclamation Discord](https://discord.com/invite/MEwBW9U)
-2. Place `bf2142.exe`, `RendDX9_ori.dll`, and `RendDX9.dll` in your game directory, typically located at: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`.
+2. Place `bf2142.exe`, `RendDX9_ori.dll`, and `RendDX9.dll` in your game directory: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`
 3. Replace or overwrite the files when prompted.
-4. Restart BF2142 Hub, and you should now see four green ticks.
+4. Restart BF2142 Hub — you should now see four green ticks.
 
 </details>
 

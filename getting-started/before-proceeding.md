@@ -59,7 +59,7 @@ You can skip these steps: [① Install BF2142](download-and-install-bf2142.md), 
 
 <details>
 
-<summary>Yes, I already have the game installed via Origin.</summary>
+<summary>Yes, I already have the game installed via EA App or Origin.</summary>
 
 That is equivalent to having the Deluxe Edition installed.
 
