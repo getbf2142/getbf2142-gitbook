@@ -388,7 +388,7 @@ Windows scaling settings can interfere with an application’s display due to no
 
 </details>
 
-### Common Actions
+### (A) Common Actions
 
 <details>
 
