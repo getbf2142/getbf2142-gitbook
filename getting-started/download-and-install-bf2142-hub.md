@@ -7,7 +7,7 @@ icon: '3'
 
 In this tutorial, we'll walk you through the steps to download and install BF2142 Hub.
 
-{% embed url="https://discord.gg/DaMVNknVnV" %}
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 {% embed url="https://discord.com/invite/MEwBW9U" %}
 

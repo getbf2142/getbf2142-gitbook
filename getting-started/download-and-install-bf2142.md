@@ -7,7 +7,7 @@ icon: '1'
 
 In this tutorial, we'll walk you through all the best online spots to download the game and show you exactly how to install it properly.
 
-{% embed url="https://discord.gg/DaMVNknVnV" %}
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 <details>
 
@@ -48,7 +48,7 @@ If you’re determined to find a native Mac version, we wish you the best of luc
 ## Procedures
 
 {% hint style="success" %}
-We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support.\
+We are here to help — Join our [Discord](https://discord.gg/7SBMKRy6q9) server to receive support.\
 If you enjoy our work, please give us a 5-star rating or share a few kind words [here](../others/feedback.md)!
 {% endhint %}
 

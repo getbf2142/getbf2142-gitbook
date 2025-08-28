@@ -7,7 +7,7 @@ icon: person-simple
 
 In this tutorial, we’ll walk you through two different ways to enjoy singleplayer mode.
 
-{% embed url="https://discord.gg/DaMVNknVnV" %}
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 ### Setting up a quick game in "SINGLEPLAY"&#x20;
 

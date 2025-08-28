@@ -7,7 +7,7 @@ icon: '4'
 
 In this tutorial, we’ll show you how to get your game ready for OpenSpy, including installing the necessary patch and understanding why it's crucial for your online experience.
 
-{% embed url="https://discord.gg/DaMVNknVnV" %}
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 {% embed url="https://discord.com/invite/MEwBW9U" %}
 

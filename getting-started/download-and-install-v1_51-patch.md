@@ -7,7 +7,7 @@ icon: '2'
 
 In this tutorial, we're going to guide you through all the steps to get your game updated to the very latest version.
 
-{% embed url="https://discord.gg/DaMVNknVnV" %}
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 <details>
 

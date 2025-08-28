@@ -7,7 +7,7 @@ icon: '6'
 
 In this tutorial, we’ll walk you through how to create an account and set up several in-game settings.
 
-{% embed url="https://discord.gg/DaMVNknVnV" %}
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 ## Procedures
 

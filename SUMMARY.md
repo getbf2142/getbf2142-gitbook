@@ -6,7 +6,7 @@
   * [FAQ](help-centre/faq.md)
 * [Others](others/README.md)
   * [Github](https://github.com/getbf2142/getbf2142-gitbook)
-  * [Discord](https://discord.gg/DaMVNknVnV)
+  * [Discord](https://discord.gg/7SBMKRy6q9)
   * [Contact us](others/contact-us.md)
   * [Feedback](others/feedback.md)
   * [Disclaimer](others/disclaimer.md)

@@ -21,7 +21,7 @@ layout:
 
 This is your go-to spot for solutions to some of the most common problems you might run into. If you're facing something that isn't covered here, definitely head over to the [Reclamation FAQ page](https://battlefield2142.co/faq/) — you'll find even more helpful info there!
 
-{% embed url="https://discord.com/invite/DaMVNknVnV" %}
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 {% embed url="https://discord.com/invite/MEwBW9U" %}
 

@@ -21,6 +21,8 @@ layout:
 
 Ready to jump back into 2142? You're in the right place! We're here to help you rediscover the thrill of BF2142, whether you're looking to relive those epic battles or just need a hand finding a copy of the game. Get ready to dive back into action with us!
 
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
+
 <details>
 
 <summary>Why we created GetBF2142</summary>
@@ -94,7 +96,7 @@ And the real highlight? _Titan mode_! This unique multiplayer experience offers 
 
 </details>
 
-**Click** [**here**](getting-started/before-proceeding.md) **to get started! Join our** [**Discord**](https://discord.gg/DaMVNknVnV) **server to receive support.**
+**Click** [**here**](getting-started/before-proceeding.md) **to get started! Join our** [**Discord**](https://discord.gg/7SBMKRy6q9) **server to receive support.**
 
 If you enjoy our work, please give us a 5-star rating or share a few kind words [here](others/feedback.md)!
 

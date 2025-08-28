@@ -12,7 +12,7 @@ In this tutorial, you’ll learn how to host a simple server directly from the g
 
 For a full-featured, production server, you’d want to use a [dedicated server](../advanced/dedicated-server/install-server.md). However, this quick setup is usually enough for most situations.
 
-{% embed url="https://discord.gg/DaMVNknVnV" %}
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 <details>
 

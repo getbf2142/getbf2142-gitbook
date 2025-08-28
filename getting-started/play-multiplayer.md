@@ -5,9 +5,9 @@ icon: people-pants-simple
 
 # Play Multiplayer
 
-In this tutorial, we'll walk you through the steps to join a server. If you have any questions or run into any issues, don’t hesitate to join our [Discord](https://discord.gg/DaMVNknVnV) server — we’re always happy to help!
+In this tutorial, we'll walk you through the steps to join a server.
 
-{% embed url="https://discord.gg/DaMVNknVnV" %}
+{% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 <details>
 

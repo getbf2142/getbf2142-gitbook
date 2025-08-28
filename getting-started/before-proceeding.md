@@ -22,7 +22,7 @@ layout:
 Follow tutorials ① through ⑥ in order — it’s super straightforward! Depending on your setup, you might be able to skip some steps or need to add a few extras. Don’t worry, this guide has you covered! It’ll help you figure out which steps are essential and which ones you can safely skip. Let’s get you into the game!
 
 {% hint style="success" %}
-We are here to help — Join our [Discord](https://discord.gg/DaMVNknVnV) server to receive support.\
+We are here to help — Join our [Discord](https://discord.gg/7SBMKRy6q9) server to receive support.\
 If you enjoy our work, please give us a 5-star rating or share a few kind words [here](../others/feedback.md)!
 {% endhint %}
 
@@ -71,12 +71,9 @@ You can skip these steps: [① Install BF2142](download-and-install-bf2142.md), 
 
 This choice will help you figure out if you need to tackle any extra tutorials beyond ③ - ⑥. Here's a quick guide to help you pick:
 
-* Mostly playing public multiplayer on Reclamation servers?\
-  Stick with _Vanilla_. It's the classic experience for those servers. **\[**[**?**](#user-content-fn-1)[^1]**]**
-* More into singleplayer or LAN parties with your buddies?\
-  Go for _Remaster_! It offers some cool enhancements for those modes. **\[**[**?**](#user-content-fn-2)[^2]**]**
-* Still not sure which one to pick?\
-  No worries! _Remaster_ is a safe bet and a great all-round choice. **\[**[**?**](#user-content-fn-3)[^3]**]**
+* Mostly playing public multiplayer on Reclamation servers? Stick with _Vanilla_. **\[**[**?**](#user-content-fn-1)[^1]**]**
+* More into singleplayer or LAN parties with your buddies? Go for _Remaster_! **\[**[**?**](#user-content-fn-2)[^2]**]**
+* Still not sure which one to pick? No worries! _Remaster_ is a safe bet. **\[**[**?**](#user-content-fn-3)[^3]**]**
 
 Choose what fits your playstyle best, and we'll guide you through the rest!
 
