@@ -111,6 +111,7 @@ BF2142 can run into issues on modern PCs, most commonly due to incompatible vide
 * Use a resolution and refresh rate your monitor supports.&#x20;
 * Use the <mark style="color:blue;">GameUX Fix</mark> tool in BF2142 Hub (Windows 7 only).
 * Run the [Vidcon Fix](https://battlefield2142.co/bf2142_vidcon_fix.exe) ([#blackscreen](https://battlefield2142.co/faq/#blackscreen)).
+* Follow the procedures in [this video](https://www.youtube.com/watch?v=M4Bur6pjBXA).
 * Reinstall the game.
 
 </details>
