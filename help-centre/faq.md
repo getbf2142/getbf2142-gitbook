@@ -110,6 +110,14 @@ Conquest Co-op (gpm\_coop) mode is the game mode that spawns bots, and any Conqu
 
 </details>
 
+<details>
+
+<summary>G05: How to use Battle Recorder ?</summary>
+
+
+
+</details>
+
 ### (AT) Addons / Tweaks
 
 <details>

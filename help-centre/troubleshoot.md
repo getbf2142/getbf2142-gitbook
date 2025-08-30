@@ -335,6 +335,45 @@ This issue occurs when the game’s CD key isn’t found in your registry, likel
 
 </details>
 
+### (G) Games
+
+<details>
+
+<summary>G01: Game freezes when the ALT key is pressed</summary>
+
+Some say it’s a bug introduced in the latest patch.
+
+**Symptom(s):**
+
+* 3D map icons appear or disappear
+* Game freezes
+
+**Solution(s):**
+
+* Press <mark style="color:blue;">ESC</mark> to return to the menu, then press <mark style="color:blue;">ESC</mark> again to resume the game.
+* Disable or rebind ALT in key bindings if it triggers overlays.
+* Restart the game.
+
+</details>
+
+<details>
+
+<summary>G02: Cannot see the demo files or recordings in Battle Recorder</summary>
+
+For some reason, demo files don’t show up on the Battle Recorder page when OpenSpy patches are installed.
+
+**Symptom(s):**
+
+* Empty list under <mark style="color:blue;">Community</mark> > <mark style="color:blue;">Battle Recorder</mark> > <mark style="color:blue;">Library</mark>
+
+**Solution(s):**
+
+* Manually create the `Demos` folder in `Battlefield 2142\mods` before you start recording.
+* After recording, copy files from `Battlefield 2142\mods\Demos` to `Documents\Battlefield 2142\Profiles\Default\demos`.
+* Use [The Sir. Community Battle Director](https://www.moddb.com/downloads/the-sir-community-bf2-bf2142-battle-director-1) to launch the game directly into the recorded demo.
+
+</details>
+
 ### (H) BF2142 Hub
 
 <details>
@@ -479,6 +518,16 @@ If your game was installed via EA App or Origin, reinstall the game instead and 
 2. Place `bf2142.exe`, `RendDX9_ori.dll`, and `RendDX9.dll` in your game directory: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`
 3. Replace or overwrite the files when prompted.
 4. Restart BF2142 Hub — you should now see four green ticks.
+
+</details>
+
+### (D) Diagnostics
+
+<details>
+
+<summary>Diagnostics</summary>
+
+
 
 </details>
 
