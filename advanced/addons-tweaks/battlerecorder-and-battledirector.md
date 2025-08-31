@@ -14,7 +14,7 @@ With OpenSpy patches, demo files won’t appear under Community > Battle Recorde
 
 {% stepper %}
 {% step %}
-Manually create the Demos folder at `Battlefield 2142\mods\<MOD>`.
+Create the `Demos` folder at `Battlefield 2142\mods\<MOD>`.
 {% endstep %}
 
 {% step %}
@@ -26,7 +26,7 @@ Read <mark style="color:blue;">Quick Help</mark> in BattleDirector.
 {% endstep %}
 
 {% step %}
-Set <mark style="color:blue;">Game</mark> to <mark style="color:blue;">Battlefield 2142</mark> and set <mark style="color:blue;">Game EXE Location</mark> to your BF2142 executable in the <mark style="color:blue;">Settings</mark> tab.
+In <mark style="color:blue;">Settings</mark>, set <mark style="color:blue;">Game</mark> to <mark style="color:blue;">Battlefield 2142</mark> and set <mark style="color:blue;">Game EXE Location</mark> to your BF2142 executable .
 {% endstep %}
 
 {% step %}
@@ -72,15 +72,11 @@ Join a server with BattleRecorder enabled and properly configured.
 {% endstep %}
 
 {% step %}
-After the round ends, go to Community > Battle Recorder and download the demo under Bookmarks.
+After the round ends, go to <mark style="color:blue;">Community</mark> > <mark style="color:blue;">Battle Recorder</mark> and download the demo under <mark style="color:blue;">Bookmarks</mark>.
 {% endstep %}
 
 {% step %}
-Once downloaded, select the file in your Library and press Play.
-{% endstep %}
-
-{% step %}
-Demos are saved to: `Documents\Battlefield 2142\Profiles\Default\demos`.
+Demos are saved to `Documents\Battlefield 2142\Profiles\Default\demos`.
 {% endstep %}
 
 {% step %}
@@ -90,33 +86,58 @@ Copy them to `Battlefield 2142\mods\<MOD>\Demos` to view in BattleDirector.
 
 ### Viewing a demo with BattleDirector
 
-1. Start BattleDirector.
-2. In the Settings tab, configure, FPS, FOV, Hide Nametags, Hide Huds.
-3. Configure <mark style="color:blue;">Resolution</mark>. For full widescreen, add `+widescreen 1` to the second input box (append other flags as needed).
-4. In the Launcher tab, select the Mod you used to record the demo.
-5. Select the demo you want to view, then click Record New Track.
-6. To change the speed at which your demo plays back press the Q key.&#x20;
-7. Press “Q” to bring up the play controls.  From here you can also Start or Pause the demo. Unfortunately there is no option to Rewind. DO NOT press the restart button as it will mess up the recording.
-8. press the T key to bring up the Camera Rose. You can cycle between players here and also change from free cam or to player cam.
-9. Commands:\
-   To remove the HUD from your screen while watching a demo (the mini map, and any text on the screen): **renderer.drawHud 0**\
-   To put the HUD back on: **renderer.drawHud 1**\
-   demo.ShutdownDemo - Stops and closes down current demo run\
-   demo.adjustDemoFov - Adjust the DOV while watching a demo. Good FOV for cinematic shots (per HawkeAssult): 40-50
-10. Here are some shortcut keys for some quick actions\
-    1: pause    \
-    2: play @ regular speed    \
-    3: play @ 5% speed    \
-    4: play @ 25% speed    \
-    5: play @ 50% speed    \
-    6: play @ regular speed    \
-    7: play @ 150% speed    \
-    8: play @ 300% speed    \
-    Spacebar: cycle forward between players.    \
-    Shift + Spacebar: cycle backwards between players.    \
-    Right Mouse Button: cycle between free camera and player camera.    \
-    Mouse wheel: zoom camera in and out when locked onto a player.    \
-    W, A, S, D, Ctrl and Shift: move free camera around map, forward, left, backwards, right, down and up.
+{% stepper %}
+{% step %}
+Start BattleDirector.
+{% endstep %}
+
+{% step %}
+In <mark style="color:blue;">Settings</mark>, configure <mark style="color:blue;">FPS</mark>, <mark style="color:blue;">FOV</mark>, Hide <mark style="color:blue;">Nametags</mark>, and <mark style="color:blue;">Hide HUD</mark>.
+{% endstep %}
+
+{% step %}
+Set <mark style="color:blue;">Resolution</mark> and check <mark style="color:blue;">Windowed</mark> if needed.
+
+For full widescreen, add `+widescreen 1` to the second input box (append other flags as needed).
+{% endstep %}
+
+{% step %}
+In the <mark style="color:blue;">Launcher</mark> tab, select the <mark style="color:blue;">Mod</mark> used to record the demo.
+{% endstep %}
+
+{% step %}
+Choose the demo and click <mark style="color:blue;">Record New Track</mark>.
+{% endstep %}
+{% endstepper %}
+
+* Press `Q` to open play controls (Start/Pause, speed control). Note: no rewind. Do not press Restart — it will mess up the recording.
+* Press `T` to open the Camera Rose to switch players and toggle between free cam and player cam.
+* Commands:
+  * Hide HUD: `renderer.drawHud 0`
+  * Show HUD: `renderer.drawHud 1`
+  * Exit current demo: `demo.ShutdownDemo`
+  *   Adjust demo FOV: `demo.adjustDemoFov 90`
+
+      Tip: For cinematic shots, try FOV 40–50.
+* Here are some handy shortcut keys for quick control:
+  *   Speed
+
+      * 1: Pause
+      * 2: Play at normal speed
+      * 3: Play at 5% speed
+      * 4: Play at 25% speed
+      * 5: Play at 50% speed
+      * 6: Play at normal speed
+      * 7: Play at 150% speed
+      * 8: Play at 300% speed
+
+
+  * Camera & Navigation
+    * Spacebar: Cycle forward between players
+    * Shift + Spacebar: Cycle backward between players
+    * Right Mouse Button: Toggle between free camera and player camera
+    * Mouse Wheel: Zoom when locked onto a player
+    * W/A/S/D/Ctrl/Shift: Move free camera (forward/left/back/right/down/up)
 
 ### Downloads
 
