@@ -48,3 +48,7 @@
   * [Install the server patch](advanced/dedicated-server/install-server-patch.md)
   * [Host a dedicated server](advanced/dedicated-server/host-dedicated-server.md)
 * [Ranked Server](https://prmp.boards.net/board/9/guides)
+
+***
+
+* [User Manual](user-manual.md)
