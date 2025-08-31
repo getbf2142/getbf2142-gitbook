@@ -59,7 +59,7 @@ Don’t forget to make the same changes to `Soldiers_bp1_server.zip` if you plan
 
 Special thanks to:
 
-* [FFOLKES](https://forums.bf2s.com/profile.php?id=5041) for sharing details on how to modify sprint @ [BF2S Forum](https://forums.bf2s.com/viewtopic.php?id=23762)
+* [FFOLKES](https://forums.bf2s.com/profile.php?id=5041) for sharing details on how to modify sprint @ [Unlimited Sprint SP Modification](https://forums.bf2s.com/viewtopic.php?id=23762)
 
 [^1]: `_o` denotes the original.
 

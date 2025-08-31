@@ -63,8 +63,8 @@ This usually happens because the old DirectX9 engine is trying to use anti-alias
 **Solution(s):**
 
 * Turn off Anti-Aliasing ([A02](troubleshoot.md#a02-turn-off-anti-aliasing)).
-* Delete Profile and Cache ([A03](troubleshoot.md#a03-delete-profile)).
-* Use a lower resolution and refresh rate.
+* Delete Profile and Cache ([A03](troubleshoot.md#a03-delete-profile-and-cache)).
+* Use a lower resolution and refresh rate. **\[**[**?**](#user-content-fn-1)[^1]**]**
 * Disable High DPI Aware ([A01](troubleshoot.md#a01-enable-high-dpi-aware)).
 
 - Reinstall the game.
@@ -105,7 +105,7 @@ BF2142 can run into issues on modern PCs, most commonly due to incompatible vide
 
 **Solution(s):**
 
-* Delete Profile and Cache ([A03](troubleshoot.md#a03-delete-profile)).
+* Delete Profile and Cache ([A03](troubleshoot.md#a03-delete-profile-and-cache)).
 * Enable High DPI Aware ([A01](troubleshoot.md#a01-enable-high-dpi-aware)).
 * Run the game in windowed mode.
 * Use a resolution and refresh rate your monitor supports.&#x20;
@@ -140,26 +140,49 @@ Special thanks to Edouard @ [Reclamation Discord](https://discord.com/invite/MEw
 
 <details>
 
-<summary>C03: Runtime error or missing DLL error when starting the game</summary>
+<summary>C03: Game freezes or crashes when the ALT key is pressed</summary>
 
-This usually occurs when the Microsoft Visual C++ Runtime Library is missing.
+Related Article(s): [1.5 Alt Tab Crash](https://forum.realitymod.com/viewtopic.php?t=66463)
+
+Some say it’s a bug introduced in the latest patch.
 
 **Symptom(s):**
 
-* "The code execution cannot proceed because MSVCP71.dll was not found. Reinstalling the program may fix this problem."
-* "The code execution cannot proceed because dice\_py.dll was not found. Reinstalling the program may fix this problem."
-* "Runtime Error! This application has requested the Runtime to terminate it in an unusual way."
+* 3D map icons appear or disappear
+* Game freezes or crashes
 
 **Solution(s):**
 
-* Install [Microsoft Visual C++ Runtime Library](https://aka.ms/vs/17/release/vc_redist.x86.exe).
-* Update Windows.
+* Turn off Anti-Aliasing ([A02](troubleshoot.md#a02-turn-off-anti-aliasing)) for Alt-Tab crashes.
+* Press <mark style="color:blue;">ESC</mark> to return to the menu, then press <mark style="color:blue;">ESC</mark> again to resume the game.
+* Disable or rebind ALT in key bindings if it triggers external overlays.
+* Restart the game.
 
 </details>
 
 <details>
 
-<summary>C04: "memory.dll sanity check" error when joining a game or loading a map</summary>
+<summary>C04: Runtime error or missing DLL error when starting the game</summary>
+
+This usually occurs when the Microsoft Visual C++ Runtime Library is missing.
+
+**Symptom(s):**
+
+* "The code execution cannot proceed because MSVCP71.dll was not found. Reinstalling the program may fix this problem." (2003)
+* "The code execution cannot proceed because dice\_py.dll was not found. Reinstalling the program may fix this problem."
+* "Runtime Error! This application has requested the Runtime to terminate it in an unusual way."
+
+**Solution(s):**
+
+* Install [Microsoft Visual C++ 2015-2022 Redistributable](https://aka.ms/vs/17/release/vc_redist.x86.exe).
+* Install [Microsoft Visual C++ 2003 Redistributable](troubleshoot.md#a06-install-microsoft-visual-c-2003-redistributable) ([A06](troubleshoot.md#a06-install-microsoft-visual-c-2003-redistributable)).
+* Download the missing .dll files online (use at your own risk).
+
+</details>
+
+<details>
+
+<summary>C05: "memory.dll sanity check" error when joining a game or loading a map</summary>
 
 Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod.com/viewtopic.php?t=80268)
 
@@ -182,7 +205,7 @@ Related Article(s): [memory.dll sanity check.... error](https://forum.realitymod
 
 <details>
 
-<summary>C05: Game crashes when clicking "Host" or "Singleplayer" in BF2142Unlocker</summary>
+<summary>C06: Game crashes when clicking "Host" or "Singleplayer" in BF2142Unlocker</summary>
 
 Related Article(s): [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md)
 
@@ -223,7 +246,7 @@ Related Article(s): [Create an account](../getting-started/create-account.md)
 
 Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md)
 
-There are many potential causes for this issue — your internet connection, BF2142 Hub, OpenSpy patches, firewall/antivirus, DNS, ISP, or even the master server.
+There are many potential causes for this issue — your internet connection, BF2142 Hub, OpenSpy patches, firewall/antivirus, ISP, or even the master server.
 
 {% hint style="info" %}
 If OpenSpy is down, switch to NovGames via BF2142 Hub, or play Singleplayer with all unlocks using [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md).
@@ -248,9 +271,8 @@ If OpenSpy is down, switch to NovGames via BF2142 Hub, or play Singleplayer with
 - Allow BF2142 through <mark style="color:blue;">Windows Firewall</mark> (both private and public).
 - Ensure your antivirus or firewall isn’t blocking BF2142 or the Hub.
 - Ask in the [Reclamation Discord](https://discord.com/invite/MEwBW9U) if others have the same issue (the OpenSpy master server may be down or in maintenance).
-- In <mark style="color:blue;">Command Prompt</mark>, run: `ipconfig /flushdns`
-- Switch DNS to `1.1.1.1` or `1.0.0.1` (Cloudflare).
-- Use a VPN (e.g., ExpressVPN or ProtonVPN) to bypass ISP restrictions.
+
+* Use a VPN (e.g., ExpressVPN or ProtonVPN) to bypass ISP restrictions.
 
 </details>
 
@@ -328,7 +350,7 @@ This issue occurs when the game’s CD key isn’t found in your registry, likel
 
 * Use the <mark style="color:blue;">CD-Key Fix</mark> tool in BF2142 Hub or Remaster Launcher.
 * For NovGames servers, run the ACTIVATOR and click <mark style="color:blue;">Activate</mark>.
-* Go to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\Support`, launch `Battlefield 2142_code.exe`, and enter a [CD key](#user-content-fn-1)[^1].
+* Go to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\Support`, launch `Battlefield 2142_code.exe`, and enter a [CD key](#user-content-fn-2)[^2].
 
 - Install the missing registry files ([A04](troubleshoot.md#a04-install-the-registry-files)).
 - Reinstall the game.
@@ -339,29 +361,7 @@ This issue occurs when the game’s CD key isn’t found in your registry, likel
 
 <details>
 
-<summary>G01: Game freezes when the ALT key is pressed</summary>
-
-Related Article(s): [1.5 Alt Tab Crash](https://forum.realitymod.com/viewtopic.php?t=66463)
-
-Some say it’s a bug introduced in the latest patch.
-
-**Symptom(s):**
-
-* 3D map icons appear or disappear
-* Game freezes or crashes
-
-**Solution(s):**
-
-* Turn off Anti-Aliasing ([A02](troubleshoot.md#a02-turn-off-anti-aliasing)) for Alt-Tab crashes.
-* Press <mark style="color:blue;">ESC</mark> to return to the menu, then press <mark style="color:blue;">ESC</mark> again to resume the game.
-* Disable or rebind ALT in key bindings if it triggers external overlays.
-* Restart the game.
-
-</details>
-
-<details>
-
-<summary>G02: Cannot see the demo files or recordings in Battle Recorder</summary>
+<summary>G01: Cannot find the demo files or recordings in BattleRecorder</summary>
 
 Related Article(s): [BattleRecorder & BattleDirector](../advanced/addons-tweaks/battlerecorder-and-battledirector.md)
 
@@ -373,7 +373,7 @@ For some reason, demo files don’t show up on the Battle Recorder page when Ope
 
 **Solution(s):**
 
-* Use [Battle Director](https://www.moddb.com/downloads/the-sir-community-bf2-bf2142-battle-director-1) to launch the game directly into the recorded demo.
+* Use [BattleDirector](../advanced/addons-tweaks/battlerecorder-and-battledirector.md) to launch the game directly into the recorded demo.
 
 </details>
 
@@ -432,7 +432,10 @@ Windows scaling settings can interfere with an application’s display due to no
 **Solution(s):**
 
 * Run BF2142 Hub as an administrator.
-* Install OpenSpy patches manually ([A05](troubleshoot.md#a05-install-openspy-patches-manually)).
+
+- Fully close and restart BF2142 Hub.
+- Use the <mark style="color:blue;">Reset Hub</mark> tool in BF2142 Hub, or reinstall the Hub.
+- Install OpenSpy patches manually ([A05](troubleshoot.md#a05-install-openspy-patches-manually)).
 
 </details>
 
@@ -457,7 +460,7 @@ Steps:
 
 Notes:
 
-* You’ll need to repeat these steps each time you click <mark style="color:blue;">Install</mark> in BF2142 Hub. **\[**[**?**](#user-content-fn-2)[^2]**]**
+* You’ll need to repeat these steps each time you click <mark style="color:blue;">Install</mark> in BF2142 Hub. **\[**[**?**](#user-content-fn-3)[^3]**]**
 * To disable High DPI Aware, just uncheck <mark style="color:blue;">Override high DPI scaling behavior</mark> in step 3.
 
 </details>
@@ -525,6 +528,21 @@ If your game was installed via EA App or Origin, reinstall the game instead and 
 
 </details>
 
+<details>
+
+<summary>A06: Install Microsoft Visual C++ 2003 Redistributable</summary>
+
+Related Article(s): [Where to download Microsoft Visual C++ 2003 Redistributable](https://stackoverflow.com/a/6132093), [How to install msvcr71.dll correctly](https://stackoverflow.com/a/24722020)
+
+The Visual C++ 2003 Runtime Library wasn’t available as a standalone download — it was included with the .NET Framework 1.1 installer.
+
+1. Download and install [.NET Framework 1.1](https://web.archive.org/web/20210517233454/http://www.microsoft.com/en-us/download/details.aspx?id=26).
+2. Download and install [.NET Framework SDK 1.1](https://web.archive.org/web/20210625111546/https://www.microsoft.com/en-us/download/details.aspx?id=16217).
+
+You’ll need to install both so that `msvcr71.dll` and `msvcp71.dll` are added to your `System32` folder.
+
+</details>
+
 ### (D) Diagnostics
 
 <details>
@@ -535,6 +553,8 @@ If your game was installed via EA App or Origin, reinstall the game instead and 
 
 </details>
 
-[^1]: e.g., `E6HH-DWUG-U8X1-R8F0-1911` for Standard Edition
+[^1]: First try 1024x768@60Hz (4:3) in the Hub. If that works, try 1600x900@60Hz (16:9) and enable Widescreen support.
 
-[^2]: Whenever you install a new patch from BF2142 Hub, it updates your `BF2142.exe`, which means your compatibility settings will be reset.
+[^2]: e.g., `E6HH-DWUG-U8X1-R8F0-1911` for Standard Edition
+
+[^3]: Whenever you install a new patch from BF2142 Hub, it updates your `BF2142.exe`, which means your compatibility settings will be reset.

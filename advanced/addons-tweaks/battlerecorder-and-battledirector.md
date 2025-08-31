@@ -98,7 +98,7 @@ In <mark style="color:blue;">Settings</mark>, configure <mark style="color:blue;
 {% step %}
 Set <mark style="color:blue;">Resolution</mark> and check <mark style="color:blue;">Windowed</mark> if needed.
 
-For full widescreen, add `+widescreen 1` to the second input box (append other flags as needed).
+For full widescreen, add `+widescreen 1` to the second input box (append [other flags](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures) as needed).
 {% endstep %}
 
 {% step %}
@@ -108,36 +108,53 @@ In the <mark style="color:blue;">Launcher</mark> tab, select the <mark style="co
 {% step %}
 Choose the demo and click <mark style="color:blue;">Record New Track</mark>.
 {% endstep %}
+
+{% step %}
+You should now see the map loading screen. Once it finishes, click <mark style="color:blue;">JOIN GAME</mark>.
+{% endstep %}
+
+{% step %}
+### Basic Controls
+
+Press `Q` to open the Play Rose (start, pause, speed control). There is rewind. Do not press Restart — it will mess up the recording.
+
+Press `T` to open the Camera Rose to switch players and toggle between free cam and player cam.
+{% endstep %}
+
+{% step %}
+### Console Commands
+
+* Hide HUD: `renderer.drawHud 0`
+* Show HUD: `renderer.drawHud 1`
+* Exit current demo: `demo.ShutdownDemo`
+*   Adjust demo FOV: `demo.adjustDemoFov 90`
+
+    For cinematic shots, try FOV 40–50.
+{% endstep %}
+
+{% step %}
+### Play Shortcuts
+
+* `1`: Pause
+* `2`: Play at normal speed
+* `3`: Play at 5% speed
+* `4`: Play at 25% speed
+* `5`: Play at 50% speed
+* `6`: Play at normal speed
+* `7`: Play at 150% speed
+* `8`: Play at 300% speed
+{% endstep %}
+
+{% step %}
+### Camera Shortcuts
+
+* `Spacebar`: Cycle forward between players
+* `Shift + Spacebar`: Cycle backward between players
+* `Right Mouse Button`: Toggle between free camera and player camera
+* `Mouse Wheel`: Zoom when locked onto a player
+* `W`/`A`/`S`/`D`/`Ctrl`/`Shift`: Move free camera (forward/left/back/right/down/up)
+{% endstep %}
 {% endstepper %}
-
-* Press `Q` to open play controls (Start/Pause, speed control). Note: no rewind. Do not press Restart — it will mess up the recording.
-* Press `T` to open the Camera Rose to switch players and toggle between free cam and player cam.
-* Commands:
-  * Hide HUD: `renderer.drawHud 0`
-  * Show HUD: `renderer.drawHud 1`
-  * Exit current demo: `demo.ShutdownDemo`
-  *   Adjust demo FOV: `demo.adjustDemoFov 90`
-
-      Tip: For cinematic shots, try FOV 40–50.
-* Here are some handy shortcut keys for quick control:
-  *   Speed
-
-      * 1: Pause
-      * 2: Play at normal speed
-      * 3: Play at 5% speed
-      * 4: Play at 25% speed
-      * 5: Play at 50% speed
-      * 6: Play at normal speed
-      * 7: Play at 150% speed
-      * 8: Play at 300% speed
-
-
-  * Camera & Navigation
-    * Spacebar: Cycle forward between players
-    * Shift + Spacebar: Cycle backward between players
-    * Right Mouse Button: Toggle between free camera and player camera
-    * Mouse Wheel: Zoom when locked onto a player
-    * W/A/S/D/Ctrl/Shift: Move free camera (forward/left/back/right/down/up)
 
 ### Downloads
 
@@ -157,10 +174,21 @@ N/A
 {% endtab %}
 {% endtabs %}
 
+### Known Issues
+
+* If BattleDirector fails to start with “See the logfile … for details”, install [Microsoft Visual C++ 2003 Redistributable](../../help-centre/troubleshoot.md#a06-install-microsoft-visual-c-2003-redistributable).
+* In-game player animations (e.g., “Thank you” via Q) don’t play back in demos.
+* Recording may break (pause/crash) when the host player dies.
+* AVIs often only render correctly in Windowed mode; Fullscreen AVIs can be corrupt.
+* AVI files over 4GB tend to break rendering. Record via OBS or keep clips small to stay under 4GB.
+  * 1520x855 (3.6GB) — working
+  * 1744x981 (4.1GB) — not working
+  * 1808x1017 (4.1GB) — not working
+
 ### Acknowledgements
 
 Special thanks to
 
-* higuy and HawkeAssault for sharing details on getting demo files working @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
-* [https://forum.realitymod.com/viewtopic.php?t=94558](https://forum.realitymod.com/viewtopic.php?t=94558)
-* [https://forums.bf2s.com/viewtopic.php?id=6845](https://forums.bf2s.com/viewtopic.php?id=6845)
+* higuy and HawkeAssault for sharing their findings @ [BF2142 Reclamation](https://discord.com/invite/MEwBW9U) ([BattleDirector SOP](https://discord.com/channels/404188413915299870/404484616846704660/1301036476003389472))
+* Cheiftain\_UK for the quick checklist to record demo files @ [Battlerecorder](https://forum.realitymod.com/viewtopic.php?t=94558)
+* [DMFDxUconn](https://forums.bf2s.com/profile.php?id=4788) for BattleRecorder insights @ [Battle Recorder Information](https://forums.bf2s.com/viewtopic.php?id=6845)
