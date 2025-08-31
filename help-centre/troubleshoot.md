@@ -341,17 +341,20 @@ This issue occurs when the game’s CD key isn’t found in your registry, likel
 
 <summary>G01: Game freezes when the ALT key is pressed</summary>
 
+Related Article(s): [1.5 Alt Tab Crash](https://forum.realitymod.com/viewtopic.php?t=66463)
+
 Some say it’s a bug introduced in the latest patch.
 
 **Symptom(s):**
 
 * 3D map icons appear or disappear
-* Game freezes
+* Game freezes or crashes
 
 **Solution(s):**
 
+* Turn off Anti-Aliasing ([A02](troubleshoot.md#a02-turn-off-anti-aliasing)) for Alt-Tab crashes.
 * Press <mark style="color:blue;">ESC</mark> to return to the menu, then press <mark style="color:blue;">ESC</mark> again to resume the game.
-* Disable or rebind ALT in key bindings if it triggers overlays.
+* Disable or rebind ALT in key bindings if it triggers external overlays.
 * Restart the game.
 
 </details>
@@ -359,6 +362,8 @@ Some say it’s a bug introduced in the latest patch.
 <details>
 
 <summary>G02: Cannot see the demo files or recordings in Battle Recorder</summary>
+
+Related Article(s): [BattleRecorder & BattleDirector](../advanced/addons-tweaks/battlerecorder-and-battledirector.md)
 
 For some reason, demo files don’t show up on the Battle Recorder page when OpenSpy patches are installed.
 
@@ -368,9 +373,7 @@ For some reason, demo files don’t show up on the Battle Recorder page when Ope
 
 **Solution(s):**
 
-* Manually create the `Demos` folder in `Battlefield 2142\mods` before you start recording.
-* After recording, copy files from `Battlefield 2142\mods\Demos` to `Documents\Battlefield 2142\Profiles\Default\demos`.
-* Use [The Sir. Community Battle Director](https://www.moddb.com/downloads/the-sir-community-bf2-bf2142-battle-director-1) to launch the game directly into the recorded demo.
+* Use [Battle Director](https://www.moddb.com/downloads/the-sir-community-bf2-bf2142-battle-director-1) to launch the game directly into the recorded demo.
 
 </details>
 
@@ -385,6 +388,7 @@ This usually happens when your ISP blocks certain IPs (preventing BF2142 Hub fro
 **Symptom(s):**
 
 * "mdIBF.ReadConfig: Unexpected character encountered while parsing value: <. Path ", line 0, position 0." (VPN)
+* "mdIBF.ReadConfig: The request was aborted: The operation has timed out." (VPN)
 * "mdIBF.Banner: Object reference not set to an instance of an object." (VPN)
 * "mdIBF.ReadServer: Object reference not set to an instance of an object." (VPN)
 * "mdIBF.CDKeyLaunch: Object reference not set to an instance of an object." (Registry)

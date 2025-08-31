@@ -41,6 +41,7 @@
   * [Server Settings](advanced/addons-tweaks/server-settings.md)
   * [Frostbite Chat](advanced/addons-tweaks/frostbite-chat.md)
   * [BF2142Unlocker](advanced/addons-tweaks/bf2142unlocker.md)
+  * [BattleRecorder & BattleDirector](advanced/addons-tweaks/battlerecorder-and-battledirector.md)
   * [Custom Shortcuts](https://www.moddb.com/tutorials/how-to-install-and-start-any-bf2142-mod-universal-tutorial-with-pictures)
 * [Dedicated Server](advanced/dedicated-server/README.md)
   * [Install the server](advanced/dedicated-server/install-server.md)
