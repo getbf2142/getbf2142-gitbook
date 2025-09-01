@@ -428,10 +428,10 @@ Windows scaling settings can interfere with an application’s display due to no
 
 <summary>A01: Enable High DPI Aware</summary>
 
-If you’re fixing scaling for the game, do this for `BF2142.exe`. For the Hub, do it for `BF2142 Hub.exe`.
+If you’re fixing scaling for the game, apply it to `BF2142.exe`. For the Hub, apply it to `BF2142 Hub.exe`.
 
 * Game: `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`
-* Hub: `C:\Program Files (x86)\BF2142 Hub 2`
+* Hub: `C:\Program Files (x86)\BF2142 Hub 2`&#x20;
 
 Steps:
 

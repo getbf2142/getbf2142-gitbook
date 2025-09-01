@@ -18,56 +18,69 @@ For a full-featured, production server, you’d want to use a [dedicated server]
 
 <details>
 
-<summary>Just a couple of things to note ...</summary>
+<summary>Important notes</summary>
 
-* You only need to set up port forwarding if you want your server to be accessible over the internet (WAN), and it’s something only the host needs to do. **\[**[**?**](#user-content-fn-2)[^2]**]**
-* Disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on. See details below.
+* You only need port forwarding if you want your server accessible over the internet (WAN), and only the host needs to set it up. **\[**[**?**](#user-content-fn-2)[^2]**]**
+* Disable unused network adapters; keep only the one(s) you’ll host on (details below).
 
-- Whenever you see a Windows Firewall prompt, be sure to allow the game (or app if you use BF2142Unlocker) to communicate through both private and public networks — this helps prevent any connection issues.
-- For WAN servers, LAN players (like family at home) can join using your local IP address, while friends from other locations can join using your public IP address — as long as port forwarding is set up correctly.
-- If you start the game with a mod enabled, any server you host will also be modded.
-
-</details>
-
-<details>
-
-<summary>Port forwarding isn't working for me !?</summary>
-
-If you set up port forwarding after your server is already running, you’ll need to restart the server for it to take effect.
-
-If you’ve set up port forwarding correctly but others still can’t connect, your ISP might be using CGNAT (Carrier-Grade NAT), which blocks port forwarding. In that case, contact your ISP to see if you can opt out.
-
-Alternatively, you can host a LAN server over a VLAN[^3] so your friends can still join and play together!
+- When prompted by Windows Firewall, allow the game (or BF2142Unlocker) on both Private and Public networks to avoid connection issues.
+- For WAN servers: LAN players at home join via your local IP; friends elsewhere join via your public IP — assuming port forwarding is configured correctly.
+- If you launch the game with a mod, any server you host will also be modded.
 
 </details>
 
 <details>
 
-<summary>Disable any unused network adapters !</summary>
+<summary>Port forwarding troubleshoots</summary>
 
-If your PC has more than one network adapter, like when you use programs such as Hamachi, VirtualBox, VMWare, or ExpressVPN, the game can sometimes choose the wrong adapter when trying to host a server.
+* If you configure port forwarding after the server is running, restart the server for changes to take effect.
+* If port forwarding is set up correctly but others still can’t connect, your ISP may be using CGNAT (Carrier-Grade NAT), which blocks port forwarding. Contact your ISP to opt out.
+* Alternatively, host a LAN server over a VLAN so friends can still join and play together.
 
-To fix this, disable any network adapters you’re not using, and keep only the one(s) you need for hosting your server on **\[**[**?**](#user-content-fn-4)[^4]**]**.
+</details>
 
-1. Go to <mark style="color:blue;">Network and Sharing Center</mark> in your <mark style="color:blue;">Control Panel</mark>.
+<details>
 
-2) Click <mark style="color:blue;">Change adapter settings</mark>.
-3) Right-click any adapter you want to disable and select <mark style="color:blue;">Disable</mark>.
-4) If you can’t disable an adapter, use <mark style="color:blue;">PowerShell</mark> as an Administrator:\
-   `Disable-NetAdapter -Name "Adapter Name"`\
-   <sup>(Re-enable later with</sup> <sup></sup><sup>`Enable-NetAdapter -Name "Adapter Name"`</sup><sup>)</sup>
+<summary>LAN over the Internet</summary>
+
+If port forwarding isn’t feasible but you still want to play online with friends, a VLAN is your best option.
+
+Apps like [Hamachi](https://vpn.net/), [GameRanger](https://www.gameranger.com/), or [Radamin VPN](https://www.radmin-vpn.com/) create a secure virtual network that simulates a LAN. Typically, you and your friends just:
+
+* Install the app and create accounts
+* Create or join a room to connect to the same LAN
+* Use the IP address assigned by the app to host or join a server
+
+For setup details, refer to the app’s documentation or resources.
+
+</details>
+
+<details>
+
+<summary>Disabling network adapters</summary>
+
+If your PC has multiple network adapters (e.g., from Hamachi, VirtualBox, VMware, ExpressVPN), the game may pick the wrong one when hosting.
+
+To fix this, disable adapters you’re not using and keep only the one(s) needed for hosting. **\[**[**?**](#user-content-fn-3)[^3]**]**
+
+1. Go to <mark style="color:blue;">Control Panel</mark> → <mark style="color:blue;">Network and Sharing Center</mark> → <mark style="color:blue;">Change adapter settings</mark>.
+
+2) Right-click the adapter you want to disable → <mark style="color:blue;">Disable</mark>.
+
+If you can’t disable it via UI, use <mark style="color:blue;">PowerShell</mark> (Run as Administrator):
+
+* Disable: `Disable-NetAdapter -Name "Adapter Name"`
+* Enable: `Enable-NetAdapter -Name "Adapter Name"`
 
 </details>
 
 ### Hosting a LAN Server
 
-A local server is a game server that shows up in your local server browser and can be accessed by anyone on your LAN network. This option is perfect for hosting a game night with family at home, or for playing with friends over the internet using a VLAN[^3].
+A local server is a game server that shows up in your local server browser and can be accessed by anyone on your LAN network. This option is perfect for hosting a game night with family at home, or for playing with friends over the internet using a virtual LAN tool.
 
 {% stepper %}
 {% step %}
-Disable any unused network adapters.
-
-Refer to the [expandable](host-server.md#disable-any-unused-network-adapters) above for details on how to do so.
+Disable any unused network adapters (see the [expandable](host-server.md#disabling-network-adapters) above).
 {% endstep %}
 
 {% step %}
@@ -95,9 +108,7 @@ Close the game if it’s running.
 {% endstep %}
 
 {% step %}
-Disable any unused network adapters.
-
-Refer to the [expandable](host-server.md#disable-any-unused-network-adapters) above for details on how to do so.
+Disable any unused network adapters  (see the [expandable](host-server.md#disabling-network-adapters) above).
 {% endstep %}
 
 {% step %}
@@ -145,7 +156,7 @@ Close the game if it’s running.
 {% step %}
 Disable any unused network adapters.
 
-Refer to the [expandable](host-server.md#disable-any-unused-network-adapters) above for details on how to do so.
+Refer to the expandable above for details on how to do so.
 {% endstep %}
 
 {% step %}
@@ -203,7 +214,7 @@ Check out the [Server Settings](../advanced/addons-tweaks/server-settings.md) gu
 {% step %}
 Your server should now appear in the online server browser.
 
-To check if everything is set up correctly, press <mark style="color:blue;">Esc</mark> in-game and go to the server browser — your server should be listed there.
+To check if everything is set up correctly, press `Esc` in-game and go to the server browser — your server should be listed there.
 
 If port forwarding isn’t set up properly, your server will still show up in the list, but others won’t be able to join.
 {% endstep %}
@@ -215,10 +226,8 @@ If port forwarding isn’t set up properly, your server will still show up in th
 
 [^2]: If you’re hosting your server over a VLAN, there’s no need for port forwarding — it works just like a regular LAN setup.
 
-[^3]: i.e., virtual LAN, e.g., [Hamachi](https://vpn.net/), [PartyLAN](https://github.com/gyf304/partylan)
-
-[^4]: If you’re running your server over a VLAN or VPN, make sure to keep both your main internet connection (WiFi or Ethernet — whichever you use) and your VLAN or VPN adapters enabled.
+[^3]: If you’re hosting over a VLAN or VPN, keep both your main internet connection (Wi‑Fi or Ethernet) and your VLAN/VPN adapters enabled.
 
 
 
-    These virtual adapters usually have higher priority, so your server will often host on them by default. If you’re not sure which one is being used, open Command Prompt and run `ipconfig` — the adapters that show up first generally have higher priority.
+    These virtual adapters usually have higher priority, so your server will often bind to them by default. Not sure which one is in use? Open <mark style="color:blue;">Command Prompt</mark> and run `ipconfig` — the adapters listed first typically have higher priority.

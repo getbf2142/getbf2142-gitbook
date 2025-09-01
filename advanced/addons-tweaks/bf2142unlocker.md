@@ -96,7 +96,7 @@ Click <mark style="color:blue;">Host</mark>.
 
 ### Windowed Mode Distortion
 
-If the game window looks distorted in windowed mode, fix it by enabling High DPI Aware.
+If the game looks distorted in windowed mode, [enable High DPI Aware](../../help-centre/troubleshoot.md#a01-enable-high-dpi-aware) to fix it. Similarly, apply the same fix to `BF2142Unlocker.exe` if you encounter the same issue with it.
 
 {% stepper %}
 {% step %}
@@ -104,7 +104,7 @@ Go to your `Battlefield 2142` folder.
 {% endstep %}
 
 {% step %}
-Right-click each `.exe` (`BF2142.exe`, `BF2142Patched.exe`, `BF2142Unlocker.exe`) → <mark style="color:blue;">Properties</mark> → <mark style="color:blue;">Compatibility</mark> → <mark style="color:blue;">Change high DPI settings</mark>.
+Right-click each `.exe` (`BF2142.exe`, `BF2142Patched.exe`) → <mark style="color:blue;">Properties</mark> → <mark style="color:blue;">Compatibility</mark> → <mark style="color:blue;">Change high DPI settings</mark>.
 {% endstep %}
 
 {% step %}
@@ -119,6 +119,12 @@ Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</m
 ### Hosting a Server over LAN or WAN
 
 When you use <mark style="color:blue;">Host</mark> in the unlocker, you’re setting up a master server — but you still need to host the actual game server in-game.
+
+{% hint style="warning" %}
+Allow `BF2142.exe`, `BF2142Patched.exe` (in the game folder), and `BF2142Unlocker.exe` (in the Unlocker folder) through both Private and Public networks to avoid connection issues.
+
+<mark style="color:blue;">Control Panel</mark> → <mark style="color:blue;">System and Security</mark> → <mark style="color:blue;">Windows Defender Firewall</mark> → <mark style="color:blue;">Allow an app or feature through Windows Defender Firewall</mark>. Add the executables for both network types.
+{% endhint %}
 
 {% stepper %}
 {% step %}
