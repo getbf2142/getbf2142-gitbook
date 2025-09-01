@@ -6,6 +6,8 @@ icon: unlock-keyhole
 
 Once you’re familiar with the game, you might want to see all server lists, join games quickly, or host your own master server with full unlocks and stats offline. BF2142Unlocker does all this for you — no manual patching needed. Just launch it and use the straightforward interface to join, switch servers, or host games with ease.
 
+{% embed url="https://discord.com/invite/nVdDkgA" %}
+
 <details>
 
 <summary>Something interesting ...</summary>
@@ -22,20 +24,29 @@ Once you’re familiar with the game, you might want to see all server lists, jo
 ### Downloads
 
 {% tabs %}
-{% tab title="64-bit" %}
-**BF2142Unlocker v0.9.7 RC7 - Windows 64-bit (16.78 MB)**
+{% tab title="Download" %}
+**BF2142Unlocker v0.9.7 RC9 - Windows 64-bit (21.31 MB)**
 
-{% embed url="https://www.mediafire.com/file/xy2bdlgibsd364b/BF2142Unlocker_v0.9.7_rc7_win_64bit.zip/file" %}
+{% embed url="https://www.mediafire.com/file/4enku1h05qbt6dr/BF2142Unlocker_v0.9.7_rc9_win_64bit.zip/file" %}
 Source: Dankrad from [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
 {% endtab %}
 
-{% tab title="32-bit" %}
-**BF2142Unlocker v0.9.7 RC7 - Windows 32-bit (17.22 MB)**
+{% tab title="Changelog" %}
+#### Technical Changes
 
-{% embed url="https://www.mediafire.com/file/8gs8autnir44irf/BF2142Unlocker_v0.9.7_rc7_win_32bit.zip/file" %}
-Source: Dankrad from [BF2142 Remastered](https://discord.gg/nVdDkgA)
-{% endembed %}
+* Downgraded programming language since gui wrapper library is dead and not compiling with newest programming language version
+* Fixed installation and build steps in readme
+* Fixed build script since some GTK shared libraries are gone now and new needed to be included
+* Fixed some pointer castings since C compiler become more strict
+
+#### Consumer Changes
+
+* Removed PlayBF2142 master server from server.ini config file since there isn't listed any server anymore
+* Fixed domain of OpenSpy master server in server.ini config file (fixes login and account creation in BF2142Unlocker)
+* Added antialiasing 2 samples to BF2142Unlocker settings page
+* Added functionality to overwrite hosts string in BF2142 executable
+  * Info: Battlefield 2142 checks on startup if the ip address it's trying to connect to is located in hosts file. If so, the game crashes on startup (black screen crash). With the hosts string overrwrite in BF2142 executable the game shouldn't crash anymore. Special thanks to @Dennie for the analyse and finding! :)
 {% endtab %}
 {% endtabs %}
 
@@ -43,11 +54,15 @@ Source: Dankrad from [BF2142 Remastered](https://discord.gg/nVdDkgA)
 
 Once you've downloaded the app and lauched it ...
 
+{% hint style="danger" %}
+Antivirus tools like Norton may flag some unlocker files as suspicious and quarantine them. Rest assured, the unlocker files are safe. If this happens, restore the files and add the entire unlocker folder to your antivirus exceptions.
+{% endhint %}
+
 {% stepper %}
 {% step %}
 **Set the Game Path**
 
-Select your Battlefield 2142 folder — usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`, but it might be different for you.
+Select your `Battlefield 2142` folder — usually `C:\Program Files (x86)\Electronic Arts\Battlefield 2142`, but it might be different for you.
 {% endstep %}
 
 {% step %}
@@ -79,109 +94,13 @@ Click <mark style="color:blue;">Host</mark>.
 {% endstep %}
 {% endstepper %}
 
-### Play Quick Fix
-
-After clicking <mark style="color:blue;">Host</mark> or <mark style="color:blue;">Singleplayer</mark> under the <mark style="color:blue;">Play</mark> tab ...
-
-**If you :**
-
-* See the game crashes after a black screen
-* Don’t see any new messages in the unlocker terminal before the game intro appears
-* Get stuck or see popups at the login screen **\[**[**?**](#user-content-fn-1)[^1]**]**
-* See "connection to server lost" at the main menu,
-* Or the game crashes immediately after launching a map (not half way through) **\[**[**?**](#user-content-fn-2)[^2]**]**
-
-… it’s very likely something is blocking `127.0.0.1`.&#x20;
-
-{% hint style="info" %}
-Dankrad, the creator of the unlocker app, investigated the issue and discovered that the game reads the `hosts` file on startup. It appears the game checks for certain (patched) IP addresses in the `hosts` file and crashes if any are found. This might be one of the major causes behind the black screen crashes we’ve been encountering.
-{% endhint %}
-
-**Quick Solution :**
-
-{% stepper %}
-{% step %}
-Go to `C:\Windows\System32\drivers\etc` and open the `hosts` file with a text editor.
-{% endstep %}
-
-{% step %}
-Comment out any `127.0.0.1` entries (add `#` at the start of the line).
-
-Comment them out while playing BF2142, and you can always re-enable them later.
-{% endstep %}
-
-{% step %}
-Save the file.
-
-If you can’t save, move it to your desktop, edit, then move it back — or open your editor as admin.
-{% endstep %}
-{% endstepper %}
-
-**Fallback Solution :**
-
-{% stepper %}
-{% step %}
-Follow [these steps](../../getting-started/host-server.md#do-this-first-disable-any-unused-network-adapters) to disable any network adapters you’re not using.
-{% endstep %}
-
-{% step %}
-Click <mark style="color:blue;">Host</mark> in the unlocker.
-{% endstep %}
-
-{% step %}
-Close the game window as soon as it appears.
-{% endstep %}
-
-{% step %}
-Enter your local IPv4 address (find it with `ipconfig` in `cmd`) in the <mark style="color:blue;">IP-Address</mark> box.
-{% endstep %}
-
-{% step %}
-Click <mark style="color:blue;">Connect</mark>.
-{% endstep %}
-{% endstepper %}
-
-The quick solution uses `127.0.0.1` (no network needed); the fallback connects through your server’s network interface if `127.0.0.1` doesn’t work.
-
-### Multiplayer Quick Fix
-
-You can now play online on any OpenSpy server with the quick fix below:
-
-{% stepper %}
-{% step %}
-Navigate to `...\BF2142Unlocker_v0.9.7_rc7_win_64bit\bin\config`
-{% endstep %}
-
-{% step %}
-Open `server.ini` with a text editor.
-{% endstep %}
-
-{% step %}
-Under the `[OpenSpy]` section, replace:
-
-```batch
-stella_prod="http://stella.prod.openspy.net/"
-```
-
-with:
-
-```batch
-stella_prod="http://bf2142-pc.openspy.net/"
-```
-{% endstep %}
-
-{% step %}
-Save the file.
-{% endstep %}
-{% endstepper %}
-
 ### Windowed Mode Distortion
 
-If the game window looks distorted in windowed mode, it’s probably due to Windows display scaling.
+If the game window looks distorted in windowed mode, fix it by enabling High DPI Aware.
 
 {% stepper %}
 {% step %}
-Go to your game folder.
+Go to your `Battlefield 2142` folder.
 {% endstep %}
 
 {% step %}
@@ -197,7 +116,7 @@ Click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</m
 {% endstep %}
 {% endstepper %}
 
-### Hosting an Externally Accessible Server
+### Hosting a Server over LAN or WAN
 
 When you use <mark style="color:blue;">Host</mark> in the unlocker, you’re setting up a master server — but you still need to host the actual game server in-game.
 
@@ -213,23 +132,19 @@ Share your server’s IPv4 address (local or global, depending on your setup) wi
 {% endstep %}
 
 {% step %}
-Have players enter your server’s IPv4 address in the unlocker’s <mark style="color:blue;">IP-Address</mark> box and click <mark style="color:blue;">Connect</mark>. This connects them to your master server.
-{% endstep %}
+Have players enter your server’s IPv4 address in the Unlocker’s <mark style="color:blue;">IP-Address</mark> box, enable <mark style="color:blue;">Auto join server</mark>, then click <mark style="color:blue;">Connect</mark>.
 
-{% step %}
-Follow the [Play multiplayer](../../getting-started/play-multiplayer.md) steps to join the game server.&#x20;
-
-To skip searching the server list, enable <mark style="color:blue;">Auto join server</mark> before clicking <mark style="color:blue;">Connect</mark>. This will connect your players directly to your game server.
+This will connect them to your master server and game server in one go.
 {% endstep %}
 {% endstepper %}
+
+### Whitelisting Components to Windows Firewall
+
+
 
 ### Acknowledgements
 
 Special thanks to
 
-* Dankrad for creating BF2142Unlocker and sharing details on multiplayer quick fixes @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
-* Dennie for discovering quick fixes for the host / singleplayer crash @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
-
-[^1]: You shouldn’t even see the login screen — if it appears, something went wrong with the setup.
-
-[^2]: If it still persists after deleting the cache, something went wrong with loading the unlocks.
+* Dankrad for creating and maintaining BF2142Unlocker @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
+* Dennie for sharing his findings on the host / singleplayer crash @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)

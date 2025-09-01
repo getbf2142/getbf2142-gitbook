@@ -51,5 +51,9 @@
 
 ## Documents
 
-* [Manual](documents/maual.md)
+* [Manual](documents/manual.md)
 * [Game Guide](documents/game-guide.md)
+
+## Archive
+
+* [BF2142Unlocker v0.9.7 RC7](archive/bf2142unlocker-v0.9.7-rc7.md)
