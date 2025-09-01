@@ -9,6 +9,16 @@ This tutorial will walk you through how to configure the launcher and use it to 
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
 
+<details>
+
+<summary>Important Notes</summary>
+
+* If you want to play unmodded or join an unmodded server, uncheck all options under <mark style="color:blue;">Play</mark> → <mark style="color:blue;">Launch-Settings</mark> and <mark style="color:blue;">Settings</mark> → <mark style="color:blue;">General</mark> before launching.
+
+- If you hit crashes, startup issues, or graphics glitches, use the troubleshooting and diagnosis tools on the <mark style="color:blue;">Help</mark> page. The offline manual in the launcher also has helpful fixes.
+
+</details>
+
 ## Procedures
 
 {% hint style="warning" %}
@@ -46,7 +56,7 @@ Navigate to the <mark style="color:blue;">Settings</mark> page.
 {% endstep %}
 
 {% step %}
-Enable options like <mark style="color:blue;">Unlock FPS (120HZ)</mark>, <mark style="color:blue;">Widescreen Fix</mark>, [<mark style="color:blue;">HUD-Fix</mark>](#user-content-fn-4)[^4], <mark style="color:blue;">Blood Patch</mark> and <mark style="color:blue;">Reshade</mark> under the <mark style="color:blue;">General</mark> section.
+Enable options like <mark style="color:blue;">Unlock FPS (120HZ)</mark>, <mark style="color:blue;">Widescreen Fix</mark>, [HUD-Fix](../addons-tweaks/hudfix.md), <mark style="color:blue;">Blood Patch</mark> and [ReShade](../addons-tweaks/reshade.md) under the <mark style="color:blue;">General</mark> section.
 {% endstep %}
 
 {% step %}
@@ -62,31 +72,9 @@ Click <mark style="color:blue;">Start Game!</mark> to launch the game.
 {% endstep %}
 
 {% step %}
-Be sure to read all the [Remarks](configure-remaster-launcher.md#remarks) — they’re important!
-{% endstep %}
-
-{% step %}
 _**Congratulations! You have completed all the steps to get Remaster up and running! See you on the battlefield!**_
 {% endstep %}
 {% endstepper %}
-
-## Remarks
-
-<details>
-
-<summary>Just a few things to note ...</summary>
-
-* If you want to play an unmodded game or join an unmodded server, simply uncheck all options under <mark style="color:blue;">Play</mark> → <mark style="color:blue;">Launch-Settings</mark> and <mark style="color:blue;">Settings</mark> → <mark style="color:blue;">General</mark> before launching the game. **\[**[**?**](#user-content-fn-5)[^5]**]**
-
-- Vanilla weapons is a mini-mod included with Project Remaster. Enable this option if you want to play with weapons and gadgets that have their original (vanilla) stats.
-
-* The <mark style="color:blue;">Play Offline</mark> page lets you launch the Offline Singleplayer mini-mod. This version bypasses the master server and disables customization features.
-
-- You can adjust the Reshade overlay in-game by pressing <mark style="color:blue;">Shift+F2</mark>. If you notice any graphical glitches, try turning off the LUT on certain maps.
-
-* If you run into issues like crashes, the game not starting, or graphics glitches, the troubleshooting and diagnosis tools on the <mark style="color:blue;">Help</mark> page are very useful. The offline manual included with the launcher can also provide helpful tips for fixing problems.
-
-</details>
 
 ## Follow-ups
 
@@ -103,15 +91,3 @@ Also, take a look at the addons and tweaks section in the sidebar navigation —
 [^2]: Battlefield 2142 is a 32-bit game, so it can use a maximum of 4GB of RAM. The 4GB RAM Patch helps prevent crashes caused by memory overflow, making the game more stable even though it can’t use more than 4GB.
 
 [^3]: We need to disable this option because the OpenSpy patches from BF2142 Hub already include this fix by default.
-
-[^4]: You should clear your shader-cache when enabling / disabling this setting, else the game will crash.
-
-
-
-    To clear the shader cache:
-
-    1. Go to the <mark style="color:blue;">Settings</mark> page.
-
-    2) Click the <mark style="color:blue;">Clear Cache</mark> button.
-
-[^5]: This ensures you’re running a pure, unmodded version, which is required for vanilla servers, or you may get kicked by anti-cheat for modified content.

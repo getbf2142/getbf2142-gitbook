@@ -26,7 +26,7 @@ However, that version is outdated. The team now uses a newer Reshade client and 
 
 <details>
 
-<summary>If you have Remaster mod installed ...</summary>
+<summary>Already got the Remaster mod installed ?</summary>
 
 Activating Reshade is super easy with the mod's launcher, simply:
 
@@ -60,7 +60,7 @@ If you installed the game somewhere other than `C:\Program Files (x86)\Electroni
 ### Downloads
 
 {% tabs %}
-{% tab title="Downloads" %}
+{% tab title="Download" %}
 **BF2142 ReShade & Shaders Patch v14 (4.2 MB)**
 
 {% embed url="https://www.mediafire.com/file/omrlv57o1vh0k98/BF2142_Reshade_PRv14.zip/file" %}
@@ -68,7 +68,7 @@ If you installed the game somewhere other than `C:\Program Files (x86)\Electroni
 {% embed url="https://drive.google.com/file/d/1W1SdhJ14TMcm9y3ttx9QSs4RKySJ0LyL" %}
 {% endtab %}
 
-{% tab title="Changelogs" %}
+{% tab title="Changelog" %}
 N/A
 {% endtab %}
 {% endtabs %}

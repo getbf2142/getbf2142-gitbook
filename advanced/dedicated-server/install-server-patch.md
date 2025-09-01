@@ -51,15 +51,17 @@ Next, you’ll use what you’ve just installed to set up and [host a dedicated 
 ## Downloads
 
 {% tabs %}
-{% tab title="Downloads" %}
+{% tab title="Download" %}
 **Server Patch (20 KB)**
+
+{% embed url="https://www.moddb.com/downloads/start/211249/all" %}
 
 {% embed url="https://www.moddb.com/downloads/bf2142-server-patch-1" %}
 
 {% embed url="https://drive.google.com/file/d/1YCNd2G1NcWEctS74aIpaMfHOTP1NxLow" %}
 {% endtab %}
 
-{% tab title="Changelogs" %}
+{% tab title="Changelog" %}
 N/A
 {% endtab %}
 {% endtabs %}

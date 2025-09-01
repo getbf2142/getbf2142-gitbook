@@ -64,19 +64,17 @@ Next, be sure to [apply OpenSpy patches](apply-openspy-patches.md) using <mark s
 ## Downloads
 
 {% tabs %}
-{% tab title="Downloads" %}
+{% tab title="Download" %}
 **BF2142 Hub v2 (1.2 MB)**
+
+{% embed url="https://www.moddb.com/downloads/start/210984/all" %}
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/bf2142-hub-2" %}
 Source: [BF2142 Reclamation](https://battlefield2142.co/)
 {% endembed %}
-
-{% embed url="https://www.moddb.com/downloads/start/210984/all" %}
-Source: [BF2142 Reclamation](https://battlefield2142.co/)
-{% endembed %}
 {% endtab %}
 
-{% tab title="Changelogs" %}
+{% tab title="Changelog" %}
 N/A
 {% endtab %}
 {% endtabs %}

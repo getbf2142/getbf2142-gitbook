@@ -41,7 +41,7 @@ If you have any questions or run into any issues, feel free to join our [Discord
 ### Downloads
 
 {% tabs %}
-{% tab title="Downloads" %}
+{% tab title="Download" %}
 **BF2142 Frostbite Chat Addon v2 (6.5 MB)**
 
 {% embed url="https://www.mediafire.com/file/c1gedm33j83lqs3/BF2142_Frostbite_Chat_v2.zip/file" %}
@@ -55,7 +55,7 @@ If you have any questions or run into any issues, feel free to join our [Discord
 {% embed url="https://drive.google.com/file/d/11EZxAiPjxZFICzqdKOZTF9uJzpHcpzbF" %}
 {% endtab %}
 
-{% tab title="Changelogs" %}
+{% tab title="Changelog" %}
 **v2**
 
 * Ported from the BF2 HOB mod instead of the BF2 Frostbite MenuShader to support HD fonts

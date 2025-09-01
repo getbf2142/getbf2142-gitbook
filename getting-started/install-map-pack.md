@@ -47,7 +47,7 @@ In the <mark style="color:blue;">Download</mark> tab, double-click on <mark styl
 {% step %}
 This will open your browser to the download link of the pack.
 
-Download `ReclamationMapPack.zip` (ModDB, 5.41 GB) or from [here](https://www.moddb.com/games/battlefield-2142/downloads/bf2142-reclamation-map-pack-march-21st-2025).
+Download `ReclamationMapPack.zip` (ModDB, 5.41 GB) or from [Downloads](install-map-pack.md#downloads).
 {% endstep %}
 
 {% step %}
@@ -80,3 +80,21 @@ Choose the maps you want to download from the <mark style="color:blue;">Availabl
 To uninstall a map, select it from the <mark style="color:blue;">Installed Maps</mark> box and click <mark style="color:blue;"><<</mark>.
 {% endstep %}
 {% endstepper %}
+
+### Downloads
+
+{% tabs %}
+{% tab title="Download" %}
+**BF2142 Reclamation Map Pack - March 21st 2025 (5.41 GB)**
+
+{% embed url="https://www.moddb.com/downloads/start/287584/all" %}
+
+{% embed url="https://www.moddb.com/games/battlefield-2142/downloads/bf2142-reclamation-map-pack-march-21st-2025" %}
+Source: [HawkeAssault](https://www.moddb.com/members/hawkeassault) @ [ModDB](https://www.moddb.com/)
+{% endembed %}
+{% endtab %}
+
+{% tab title="Changelog" %}
+N/A
+{% endtab %}
+{% endtabs %}

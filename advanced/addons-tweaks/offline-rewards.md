@@ -51,7 +51,7 @@ Drag and drop the `python` folder from the `.zip` file into the root directory o
 ### Downloads
 
 {% tabs %}
-{% tab title="Downloads" %}
+{% tab title="Download" %}
 **BF2142 Offline Rewards Patch v2 (37 KB)**
 
 {% embed url="https://www.mediafire.com/file/35dhux0ys3sjxr2/BF2142_Offline_Rewards_v2.zip/file" %}
@@ -63,7 +63,7 @@ Drag and drop the `python` folder from the `.zip` file into the root directory o
 {% embed url="https://drive.google.com/file/d/16WwI7T8NAv3oJaNS4BysAfJ2Uev2ugrd" %}
 {% endtab %}
 
-{% tab title="Changelogs" %}
+{% tab title="Changelog" %}
 **v2**
 
 * Added support for all Remaster mod weapons in `constants.py`

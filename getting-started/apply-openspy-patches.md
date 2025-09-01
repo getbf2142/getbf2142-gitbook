@@ -82,10 +82,6 @@ Absolutely! Connecting to OpenSpy is a real privilege — you get all the unlock
 
 ## Procedures
 
-{% hint style="warning" %}
-Before patching your game, it’s a good idea to make backup copies of your `BF2142.exe` and `RendDX9.dll` files from your game folder. **\[**[**?**](#user-content-fn-2)[^2]**]**
-{% endhint %}
-
 {% hint style="danger" %}
 BF2142 Hub is a 64-bit application and won’t run on 32-bit Windows XP. If you’re using Windows XP, check out [this guide](https://battlefield2142.co/faq#notwin32) for alternative steps you can take.
 {% endhint %}
@@ -96,7 +92,7 @@ Right-click <mark style="color:blue;">BF2142 Hub</mark> shortcut on your desktop
 {% endstep %}
 
 {% step %}
-Go to the <mark style="color:blue;">Compatibility</mark> tab, check <mark style="color:blue;">Run this program as an administrator</mark>, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. **\[**[**?**](#user-content-fn-3)[^3]**]**
+Go to the <mark style="color:blue;">Compatibility</mark> tab, check <mark style="color:blue;">Run this program as an administrator</mark>, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>. **\[**[**?**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 
 {% step %}
@@ -125,6 +121,8 @@ Once you see <mark style="color:blue;">Patch completed, Enjoy!</mark>, click <ma
 
 {% step %}
 After patching, make sure the checkmarks for `Patch 1.51`, `BF2142.exe`, `RendDX9.d`, `RendDX9ori.dll` are all <mark style="color:green;">green</mark>. If any aren't, repeat from step 6.
+
+If this doesn’t work, consider [installing the patches manually](../help-centre/troubleshoot.md#a05-install-openspy-patches-manually).
 {% endstep %}
 
 {% step %}
@@ -142,6 +140,4 @@ Next, make sure to [install the map pack](install-map-pack.md) if you plan to pl
 
 [^1]: Reclamation servers use some cool auto-managing scripts that tweak maps and game modes depending on how many players are online. Just a heads-up, Titan matches won't kick off until there are at least 20 players in the server!
 
-[^2]: This way, you’ll have a safety net in case anything goes wrong during the patching process.
-
-[^3]: Running as administrator helps prevent permission issues during patching.
+[^2]: Running as administrator helps prevent permission issues during patching.

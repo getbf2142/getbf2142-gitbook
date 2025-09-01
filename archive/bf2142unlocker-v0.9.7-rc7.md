@@ -1,8 +1,13 @@
 ---
+description: THIS PAGE IS DEPRECATED.
 icon: unlock-keyhole
 ---
 
 # BF2142Unlocker v0.9.7 RC7
+
+{% hint style="danger" %}
+This page has been archived. Refer to [this page](../advanced/addons-tweaks/bf2142unlocker.md) for the latest update.
+{% endhint %}
 
 Once you’re familiar with the game, you might want to see all server lists, join games quickly, or host your own master server with full unlocks and stats offline. BF2142Unlocker does all this for you — no manual patching needed. Just launch it and use the straightforward interface to join, switch servers, or host games with ease.
 
@@ -26,7 +31,7 @@ Once you’re familiar with the game, you might want to see all server lists, jo
 **BF2142Unlocker v0.9.7 RC7 - Windows 64-bit (16.78 MB)**
 
 {% embed url="https://www.mediafire.com/file/xy2bdlgibsd364b/BF2142Unlocker_v0.9.7_rc7_win_64bit.zip/file" %}
-Source: Dankrad from [BF2142 Remastered](https://discord.gg/nVdDkgA)
+Source: [Dankrad](https://github.com/Dankr4d) from [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
 {% endtab %}
 

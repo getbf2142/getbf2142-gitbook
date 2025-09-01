@@ -8,7 +8,7 @@ This tutorial will guide you through the steps to host a dedicated _unranked_ se
 
 <details>
 
-<summary>Just a couple of things to note ...</summary>
+<summary>Important Notes</summary>
 
 * Port forwarding is only needed if you want your server to be accessible over the internet (WAN), and only the host needs to set it up.
 

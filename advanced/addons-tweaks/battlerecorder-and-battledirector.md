@@ -159,17 +159,25 @@ Press `T` to open the Camera Rose to switch players and toggle between free cam 
 ### Downloads
 
 {% tabs %}
-{% tab title="Downloads" %}
-**BF2142 Battle Director 1.6 (5.74 MB)**
-
-{% embed url="https://www.moddb.com/downloads/the-sir-community-bf2-bf2142-battle-director-1" %}
-
+{% tab title="Download" %}
 **BF2142 Battle Director 1.7 (20.05 MB)**
 
+{% embed url="https://www.moddb.com/downloads/start/151152/all" %}
+
 {% embed url="https://www.moddb.com/downloads/the-sir-community-battledirector-v1-7" %}
+Source: [GameWatcher](https://www.moddb.com/members/gamewatcher) @ [ModDB](https://www.moddb.com/)
+{% endembed %}
+
+**BF2142 Battle Director 1.6 (5.74 MB)**
+
+{% embed url="https://www.moddb.com/downloads/start/162132/all" %}
+
+{% embed url="https://www.moddb.com/downloads/the-sir-community-bf2-bf2142-battle-director-1" %}
+Source: [GameWatcher](https://www.moddb.com/members/gamewatcher) @ [ModDB](https://www.moddb.com/)
+{% endembed %}
 {% endtab %}
 
-{% tab title="Changelogs" %}
+{% tab title="Changelog" %}
 N/A
 {% endtab %}
 {% endtabs %}

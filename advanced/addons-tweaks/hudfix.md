@@ -27,7 +27,7 @@ Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142
 
 <details>
 
-<summary>If you have Remaster mod installed ...</summary>
+<summary>Already got the Remaster mod installed ?</summary>
 
 To activate Widescreen Hudfix for your Remaster gameplay:
 
@@ -110,7 +110,7 @@ And that’s it — you’re all set!
 ### Downloads
 
 {% tabs %}
-{% tab title="Downloads" %}
+{% tab title="Download" %}
 **BF2142 Widescreen Hudfix v2 (15 KB)**
 
 {% embed url="https://www.mediafire.com/file/ia2cflxe1nowqdq/BF2142_Widescreen_Hudfix_v2.zip/file" %}
@@ -122,7 +122,7 @@ And that’s it — you’re all set!
 {% embed url="https://drive.google.com/file/d/1mr9ijag238J-j275uS1Ff_T0ew29jYhT" %}
 {% endtab %}
 
-{% tab title="Changelogs" %}
+{% tab title="Changelog" %}
 **v2**
 
 * Widescreen support has been added to the Commander screen.
@@ -134,7 +134,7 @@ And that’s it — you’re all set!
 
 * Revert your changes before joining Reclamation or any multiplayer servers, unless the server explicitly allows or uses this mod.
 * If you host a server with this tweak, players who join will also need to make this change.
-* To uninstall the fix, simply undo the changes you made and clear cache in `\Documents\Battlefield 2142\mods\`.
+* To uninstall the fix, simply undo the changes you made and [clear cache](../../help-centre/troubleshoot.md#a03-delete-profile-and-cache) in `\Documents\Battlefield 2142\mods\`.
 
 ### Acknowledgements
 

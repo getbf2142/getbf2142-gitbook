@@ -25,11 +25,9 @@ This is where you find answers to some of the commonly asked questions. If you h
 
 {% embed url="https://discord.com/invite/MEwBW9U" %}
 
-### (G) General
-
 <details>
 
-<summary>G01: How do I get all the unlocks ?</summary>
+<summary>G01: How to get all the unlocks ?</summary>
 
 Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md), [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md)
 
@@ -51,7 +49,7 @@ OpenSpy now lets you reset your password and manage your account at [https://acc
 
 <details>
 
-<summary>G03: How to change the language ?</summary>
+<summary>G03: How to change the game language ?</summary>
 
 If you already have the Remaster mod installed, you can easily switch languages using the <mark style="color:blue;">Remaster Launcher</mark>.
 
@@ -102,6 +100,14 @@ Conquest Co-op (gpm\_coop) mode is the mode that spawns bots, and any Conquest C
 
 </details>
 
+<details>
+
+<summary>G05: How to add more bots to Singleplayer or Multiplayer LAN ?</summary>
+
+Refer to [Add More Bots](../advanced/addons-tweaks/add-more-bots.md) for more details.
+
+</details>
+
 ### (AT) Addons / Tweaks
 
 <details>
@@ -111,14 +117,6 @@ Conquest Co-op (gpm\_coop) mode is the mode that spawns bots, and any Conquest C
 You can’t change the FOV (field of view) in-game, since BF2142 is an older title and doesn’t offer as many video settings as modern games.&#x20;
 
 However, you can still achieve this by editing the game files. For step-by-step instructions, check out our [Field of View (FOV)](../advanced/addons-tweaks/fov.md) guide.
-
-</details>
-
-<details>
-
-<summary>AT02: How to add more bots to Singleplayer or Multiplayer LAN ?</summary>
-
-Refer to [Add More Bots](../advanced/addons-tweaks/add-more-bots.md) for more details.
 
 </details>
 

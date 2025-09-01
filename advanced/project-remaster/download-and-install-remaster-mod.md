@@ -63,7 +63,7 @@ The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing
 
 <details>
 
-<summary>What mini-mods come with the v14 installation ?</summary>
+<summary>What mini-mods come with the installation ?</summary>
 
 1. `Project_Remaster_v14` is the main mod.\
    It contains the complete mod (textures, models, maps etc.) and will be used for hosting your multiplayer / singleplayer game.

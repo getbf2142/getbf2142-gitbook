@@ -110,7 +110,7 @@ Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md
 
 <details>
 
-<summary>Just a couple of things to note ...</summary>
+<summary>Important Notes</summary>
 
 * If you’re new to the game, we recommend sticking with the _Standard Edition_, since our tutorials are designed specifically for that version.
 

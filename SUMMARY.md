@@ -49,11 +49,10 @@
   * [Host a dedicated server](advanced/dedicated-server/host-dedicated-server.md)
 * [Ranked Server](https://prmp.boards.net/board/9/guides)
 
-## Documents
+***
 
-* [Manual](documents/manual.md)
-* [Game Guide](documents/game-guide.md)
-
-## Archive
-
-* [BF2142Unlocker v0.9.7 RC7](archive/bf2142unlocker-v0.9.7-rc7.md)
+* [Documents](documents/README.md)
+  * [Manual](documents/manual.md)
+  * [Game Guide](documents/game-guide.md)
+* [Archive](archive/README.md)
+  * [BF2142Unlocker v0.9.7 RC7](archive/bf2142unlocker-v0.9.7-rc7.md)

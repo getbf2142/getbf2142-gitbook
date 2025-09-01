@@ -33,7 +33,7 @@ Next, make sure to [install the server patch](install-server-patch.md) â€” _donâ
 ## Downloads
 
 {% tabs %}
-{% tab title="Downloads" %}
+{% tab title="Download" %}
 **Server Setup (140 MB)**
 
 {% embed url="https://www.bf-games.net/downloads/mirror/4659" %}
@@ -41,7 +41,7 @@ Next, make sure to [install the server patch](install-server-patch.md) â€” _donâ
 {% embed url="https://drive.google.com/file/d/1RtsJs7_mO6BLtMhSmEdBsUutc_QAQY97/view?usp=sharing" %}
 {% endtab %}
 
-{% tab title="Changelogs" %}
+{% tab title="Changelog" %}
 N/A
 {% endtab %}
 {% endtabs %}

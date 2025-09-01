@@ -92,12 +92,10 @@ Some browsers might block this installer from downloading or opening. Watch [thi
 
 **Patch v1.51 Full Installer (2.3 GB)**
 
-{% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-v151-full" %}
-Source: [LordSte](https://www.moddb.com/members/lordste) on [ModDB](https://www.moddb.com/)
-{% endembed %}
-
 {% embed url="https://www.moddb.com/downloads/start/193467/all" %}
-Source: [LordSte](https://www.moddb.com/members/lordste) on [ModDB](https://www.moddb.com/)
+
+{% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-v151-full" %}
+Source: [LordSte](https://www.moddb.com/members/lordste) @ [ModDB](https://www.moddb.com/)
 {% endembed %}
 {% endtab %}
 
@@ -114,24 +112,18 @@ Make sure to install v1.50 patch first, and then follow it with v1.51 patch to u
 
 **Patch&#x20;**<mark style="color:red;">**v1.50**</mark>**&#x20;Installer (523 MB)**
 
-Use this if the above link doesn't work.
+{% embed url="https://www.moddb.com/downloads/start/14721/all" %}
 
 {% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-150" %}
-Source: [RhodN](https://www.moddb.com/members/grafix1) on [ModDB](https://www.moddb.com/)
-{% endembed %}
-
-{% embed url="https://www.moddb.com/downloads/start/14721/all" %}
-Source: [RhodN](https://www.moddb.com/members/grafix1) on [ModDB](https://www.moddb.com/)
+Source: [RhodN](https://www.moddb.com/members/grafix1) @ [ModDB](https://www.moddb.com/)
 {% endembed %}
 
 **Patch&#x20;**<mark style="color:red;">**v1.51**</mark>**&#x20;Installer (1.95 GB)**
 
-{% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-v151-patch-final" %}
-&#x20;Source: [ytres](https://www.moddb.com/members/sdgsdgsdgsdg) on [ModDB](https://www.moddb.com/)
-{% endembed %}
-
 {% embed url="https://www.moddb.com/downloads/start/30520/all" %}
-&#x20;Source: [ytres](https://www.moddb.com/members/sdgsdgsdgsdg) on [ModDB](https://www.moddb.com/)
+
+{% embed url="https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-v151-patch-final" %}
+&#x20;Source: [ytres](https://www.moddb.com/members/sdgsdgsdgsdg) @ [ModDB](https://www.moddb.com/)
 {% endembed %}
 {% endtab %}
 {% endtabs %}

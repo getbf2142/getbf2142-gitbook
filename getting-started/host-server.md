@@ -18,7 +18,7 @@ For a full-featured, production server, you’d want to use a [dedicated server]
 
 <details>
 
-<summary>Important notes</summary>
+<summary>Important Notes</summary>
 
 * You only need port forwarding if you want your server accessible over the internet (WAN), and only the host needs to set it up. **\[**[**?**](#user-content-fn-2)[^2]**]**
 * Disable unused network adapters; keep only the one(s) you’ll host on (details below).
@@ -31,17 +31,7 @@ For a full-featured, production server, you’d want to use a [dedicated server]
 
 <details>
 
-<summary>Port forwarding troubleshoots</summary>
-
-* If you configure port forwarding after the server is running, restart the server for changes to take effect.
-* If port forwarding is set up correctly but others still can’t connect, your ISP may be using CGNAT (Carrier-Grade NAT), which blocks port forwarding. Contact your ISP to opt out.
-* Alternatively, host a LAN server over a VLAN so friends can still join and play together.
-
-</details>
-
-<details>
-
-<summary>LAN over the Internet</summary>
+<summary>LAN Overr The Internet</summary>
 
 If port forwarding isn’t feasible but you still want to play online with friends, a VLAN is your best option.
 
@@ -57,7 +47,7 @@ For setup details, refer to the app’s documentation or resources.
 
 <details>
 
-<summary>Disabling network adapters</summary>
+<summary>Disabling Network Adapters</summary>
 
 If your PC has multiple network adapters (e.g., from Hamachi, VirtualBox, VMware, ExpressVPN), the game may pick the wrong one when hosting.
 
@@ -71,6 +61,16 @@ If you can’t disable it via UI, use <mark style="color:blue;">PowerShell</mark
 
 * Disable: `Disable-NetAdapter -Name "Adapter Name"`
 * Enable: `Enable-NetAdapter -Name "Adapter Name"`
+
+</details>
+
+<details>
+
+<summary>Port Forwarding Troubleshoots</summary>
+
+* If you configure port forwarding after the server is running, restart the server for changes to take effect.
+* If port forwarding is set up correctly but others still can’t connect, your ISP may be using CGNAT (Carrier-Grade NAT), which blocks port forwarding. Contact your ISP to opt out.
+* Alternatively, host a LAN server over a VLAN so friends can still join and play together.
 
 </details>
 

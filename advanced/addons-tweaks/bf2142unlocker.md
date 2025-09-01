@@ -10,14 +10,13 @@ Once you’re familiar with the game, you might want to see all server lists, jo
 
 <details>
 
-<summary>Something interesting ...</summary>
+<summary>Special Remarks</summary>
 
-* With the unlocker, you’re setting up a master server, but you’ll still need to host the actual game server from within the game itself.
-* `v0.9.7` lets you host without any network adapters, while `v0.9.4` requires one — even if it’s not connected to the internet.
+* With the Unlocker, you’re setting up a master server, but you’ll still need to host the actual game server from within the game itself.
 
-- Technically, with `v0.9.7`, you can host both your master server and game server even if you’re not connected to any network or don’t have any network adapters.
+- You can host both your master server and game server even if you’re not connected to any network or don’t have any network adapters.
 
-* In `v0.9.7`, <mark style="color:blue;">Host</mark> uses `0.0.0.0` and <mark style="color:blue;">Singleplayer</mark> uses `127.0.0.1`.
+* <mark style="color:blue;">Host</mark> uses `0.0.0.0` and <mark style="color:blue;">Singleplayer</mark> uses `127.0.0.1`.
 
 </details>
 
@@ -28,25 +27,31 @@ Once you’re familiar with the game, you might want to see all server lists, jo
 **BF2142Unlocker v0.9.7 RC9 - Windows 64-bit (21.31 MB)**
 
 {% embed url="https://www.mediafire.com/file/4enku1h05qbt6dr/BF2142Unlocker_v0.9.7_rc9_win_64bit.zip/file" %}
-Source: Dankrad from [BF2142 Remastered](https://discord.gg/nVdDkgA)
+Source: [Dankrad](https://github.com/Dankr4d) @ [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
+
+**BF2142Unlocker v0.9.7 RC7 - Windows 64-bit (16.78 MB)**
+
+{% embed url="https://docs.getbf2142.net/archive/bf2142unlocker-v0.9.7-rc7" %}
 {% endtab %}
 
 {% tab title="Changelog" %}
-#### Technical Changes
+**v0.9.7 RC9**
 
-* Downgraded programming language since gui wrapper library is dead and not compiling with newest programming language version
-* Fixed installation and build steps in readme
-* Fixed build script since some GTK shared libraries are gone now and new needed to be included
-* Fixed some pointer castings since C compiler become more strict
+**Technical Changes**
 
-#### Consumer Changes
+* Downgraded the programming language (GUI wrapper library is deprecated and no longer compiles with the latest version)
+* Fixed installation and build steps in the README
+* Updated the build script to include new required GTK shared libraries
+* Fixed pointer castings to satisfy stricter C compiler rules
 
-* Removed PlayBF2142 master server from server.ini config file since there isn't listed any server anymore
-* Fixed domain of OpenSpy master server in server.ini config file (fixes login and account creation in BF2142Unlocker)
-* Added antialiasing 2 samples to BF2142Unlocker settings page
-* Added functionality to overwrite hosts string in BF2142 executable
-  * Info: Battlefield 2142 checks on startup if the ip address it's trying to connect to is located in hosts file. If so, the game crashes on startup (black screen crash). With the hosts string overrwrite in BF2142 executable the game shouldn't crash anymore. Special thanks to @Dennie for the analyse and finding! :)
+**Consumer Changes**
+
+* Removed PlayBF2142 master server from server.ini (no servers listed there anymore)
+* Corrected the OpenSpy master server domain in server.ini (fixes login and account creation in BF2142Unlocker)
+* Added “Antialiasing: 2 samples” to BF2142Unlocker settings
+* Added functionality to overwrite the hosts string inside the BF2142 executable
+  * Note: Battlefield 2142 checks on startup whether the IP it’s connecting to is listed in the hosts file. If it is, the game can crash on startup (black screen). Overwriting the hosts string in the BF2142 executable prevents this crash. Special thanks to @Dennie for the analysis and find!
 {% endtab %}
 {% endtabs %}
 
@@ -96,7 +101,7 @@ Click <mark style="color:blue;">Host</mark>.
 
 ### Windowed Mode Distortion
 
-If the game looks distorted in windowed mode, [enable High DPI Aware](../../help-centre/troubleshoot.md#a01-enable-high-dpi-aware) to fix it. Similarly, apply the same fix to `BF2142Unlocker.exe` if you encounter the same issue with it.
+If the game looks distorted in windowed mode, [enable High DPI Aware](../../help-centre/troubleshoot.md#a01-enable-high-dpi-aware) to fix it.
 
 {% stepper %}
 {% step %}
@@ -128,7 +133,7 @@ Allow `BF2142.exe`, `BF2142Patched.exe` (in the game folder), and `BF2142Unlocke
 
 {% stepper %}
 {% step %}
-Follow the [Host a server](../../getting-started/host-server.md) steps to start your game server.
+Follow the steps in [Host a server](../../getting-started/host-server.md) to start your game server.
 
 Make sure you read all the expandable notes — don’t skip any!
 {% endstep %}
@@ -138,15 +143,11 @@ Share your server’s IPv4 address (local or global, depending on your setup) wi
 {% endstep %}
 
 {% step %}
-Have players enter your server’s IPv4 address in the Unlocker’s <mark style="color:blue;">IP-Address</mark> box, enable <mark style="color:blue;">Auto join server</mark>, then click <mark style="color:blue;">Connect</mark>.
+Have players enter your server’s IPv4 address in the Unlocker’s <mark style="color:blue;">IP-Address</mark> box, enable <mark style="color:blue;">Auto join server</mark>, then click <mark style="color:blue;">Connect</mark>.&#x20;
 
 This will connect them to your master server and game server in one go.
 {% endstep %}
 {% endstepper %}
-
-### Whitelisting Components to Windows Firewall
-
-
 
 ### Acknowledgements
 
