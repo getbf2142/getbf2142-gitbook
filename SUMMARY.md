@@ -49,6 +49,7 @@
   * [Host a dedicated server](advanced/dedicated-server/host-dedicated-server.md)
 * [Ranked Server](https://prmp.boards.net/board/9/guides)
 
-***
+## Documents
 
-* [User Manual](user-manual.md)
+* [Manual](documents/maual.md)
+* [Game Guide](documents/game-guide.md)

@@ -12,7 +12,7 @@ In this tutorial, we’ll walk you through how to create an account and set up s
 ## Procedures
 
 {% hint style="warning" %}
-Whenever you see a Windows Firewall prompt, be sure to allow the game to communicate through both private and public networks to prevent any connection issues.
+Whenever a Windows Firewall prompt appears, allow the game through both private and public networks to avoid connection issues.
 {% endhint %}
 
 {% stepper %}
