@@ -1,5 +1,5 @@
 ---
-description: Frequently Asked Questions
+description: Got questions? Check our FAQ!
 icon: message-question
 layout:
   width: default
@@ -27,7 +27,7 @@ This is where you find answers to some of the commonly asked questions. If you h
 
 <details>
 
-<summary>G01: How to get all the unlocks ?</summary>
+<summary>How to get all the unlocks ?</summary>
 
 Related Article(s): [Apply OpenSpy patches](../getting-started/apply-openspy-patches.md), [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md)
 
@@ -39,7 +39,7 @@ If you want all unlocks without an internet connection or OpenSpy, use [BF2142Un
 
 <details>
 
-<summary>G02: How to reset my password ?</summary>
+<summary>How to reset my password ?</summary>
 
 Related Article(s): [Create an account](../getting-started/create-account.md)
 
@@ -49,7 +49,7 @@ OpenSpy now lets you reset your password and manage your account at [https://acc
 
 <details>
 
-<summary>G03: How to change the game language ?</summary>
+<summary>How to change the game language ?</summary>
 
 If you already have the Remaster mod installed, you can easily switch languages using the <mark style="color:blue;">Remaster Launcher</mark>.
 
@@ -91,7 +91,7 @@ If those registry entries are missing, install the missing registry files ([A04]
 
 <details>
 
-<summary>G04: How to play with bots ?</summary>
+<summary>How to play with bots ?</summary>
 
 Conquest Co-op (gpm\_coop) mode is the mode that spawns bots, and any Conquest Co-op map supports them.
 
@@ -102,44 +102,50 @@ Conquest Co-op (gpm\_coop) mode is the mode that spawns bots, and any Conquest C
 
 <details>
 
-<summary>G05: How to add more bots to Singleplayer or Multiplayer LAN ?</summary>
+<summary>How to add more bots ?</summary>
 
-Refer to [Add More Bots](../advanced/addons-tweaks/add-more-bots.md) for more details.
+Related Article(s): [Add More Bots](../advanced/addons-tweaks/add-more-bots.md)
 
 </details>
 
-### (AT) Addons / Tweaks
+<details>
+
+<summary>Are there more (conquest_coop) maps with bot support ?</summary>
+
+Related Article(s): [Maps with Bots](../advanced/addons-tweaks/maps-with-bots.md)
+
+</details>
 
 <details>
 
-<summary>AT01: How to change field of view in-game ?</summary>
+<summary>How to adjust the ticket counts, team ratio, and respawn time in Singleplayer ?</summary>
+
+Related Article(s): [Server Settings](../advanced/addons-tweaks/server-settings.md)
+
+</details>
+
+<details>
+
+<summary>How to adjust more server settings other than those avilable in the game menu ?</summary>
+
+Related Article(s): [Server Settings](../advanced/addons-tweaks/server-settings.md)
+
+</details>
+
+<details>
+
+<summary>How to use BattleRecorder and BattleDirector ?</summary>
+
+Related Article(s): [BattleRecorder & BattleDirector](../advanced/addons-tweaks/battlerecorder-and-battledirector.md)
+
+</details>
+
+<details>
+
+<summary>How to change field of view in-game ?</summary>
 
 You can’t change the FOV (field of view) in-game, since BF2142 is an older title and doesn’t offer as many video settings as modern games.&#x20;
 
 However, you can still achieve this by editing the game files. For step-by-step instructions, check out our [Field of View (FOV)](../advanced/addons-tweaks/fov.md) guide.
-
-</details>
-
-<details>
-
-<summary>AT03: How to adjust ticket counts, team ratio, and respawn time in Singleplayer ?</summary>
-
-Refer to [Server Settings](../advanced/addons-tweaks/server-settings.md) for more details.
-
-</details>
-
-<details>
-
-<summary>AT04: How to adjust more server settings other than those avilable in the game menu ?</summary>
-
-Refer to [Server Settings](../advanced/addons-tweaks/server-settings.md) for more details.
-
-</details>
-
-<details>
-
-<summary>AT05: Where can I get more maps with bot support ?</summary>
-
-Refer to [Maps with Bots](../advanced/addons-tweaks/maps-with-bots.md) for more details.
 
 </details>

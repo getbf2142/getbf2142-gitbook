@@ -1,40 +1,21 @@
 ---
-description: How to configure the launcher? How to start the game with the launcher?
+description: 'Launch into action: Configuring and using your game launcher ...'
 icon: '2'
 ---
 
-# Configure the Remaster Launcher
+# Launch Project Remaster
 
-This tutorial will walk you through how to configure the launcher and use it to launch the game. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
+This tutorial will show you two ways to launch the mod, and if you're using the Remaster Launcher, we'll walk you through setting it up and getting your game started with it. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
 
-<details>
-
-<summary>Important Notes</summary>
-
-* If you want to play unmodded or join an unmodded server, uncheck all options under <mark style="color:blue;">Play</mark> → <mark style="color:blue;">Launch-Settings</mark> and <mark style="color:blue;">Settings</mark> → <mark style="color:blue;">General</mark> before launching.
-
-- If you hit crashes, startup issues, or graphics glitches, use the troubleshooting and diagnosis tools on the <mark style="color:blue;">Help</mark> page. The offline manual in the launcher also has helpful fixes.
-
-</details>
-
-## Procedures
+## Launching the mod with Remaster Launcher
 
 {% hint style="warning" %}
-Before configuring the launcher, make sure you’ve started the game at least once. **\[**[**?**](#user-content-fn-1)[^1]**]**\
-Make sure you’ve [installed OpenSpy patches](../../getting-started/apply-openspy-patches.md) via BF2142 Hub.
+Make sure you’ve installed [OpenSpy patches](../../getting-started/apply-openspy-patches.md) via BF2142 Hub.
 {% endhint %}
 
 {% stepper %}
-{% step %}
-Right-click the <mark style="color:blue;">Remaster Launcher</mark> shortcut on your desktop and select <mark style="color:blue;">Properties</mark>.&#x20;
-{% endstep %}
-
-{% step %}
-Go to the <mark style="color:blue;">Compatibility</mark> tab, check <mark style="color:blue;">Run this program as an administrator</mark>, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.
-{% endstep %}
-
 {% step %}
 Double-click the <mark style="color:blue;">Remaster Launcher</mark> shortcut to start the launcher.
 {% endstep %}
@@ -44,11 +25,7 @@ When prompted by <mark style="color:blue;">User Account Control</mark>, click <m
 {% endstep %}
 
 {% step %}
-Go to the <mark style="color:blue;">Play</mark> page.
-{% endstep %}
-
-{% step %}
-Under the <mark style="color:blue;">Launch-Settings</mark> section, disable the [<mark style="color:blue;">4GB Ram Patch</mark>](#user-content-fn-2)[^2] option. **\[**[**?**](#user-content-fn-3)[^3]**]**
+In the <mark style="color:blue;">Play</mark> tab, under <mark style="color:blue;">Launch-Settings</mark>, disable the [<mark style="color:blue;">4GB Ram Patch</mark>](#user-content-fn-1)[^1] option. **\[**[**?**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 
 {% step %}
@@ -56,19 +33,15 @@ Navigate to the <mark style="color:blue;">Settings</mark> page.
 {% endstep %}
 
 {% step %}
-Enable options like <mark style="color:blue;">Unlock FPS (120HZ)</mark>, <mark style="color:blue;">Widescreen Fix</mark>, [HUD-Fix](../addons-tweaks/hudfix.md), <mark style="color:blue;">Blood Patch</mark> and [ReShade](../addons-tweaks/reshade.md) under the <mark style="color:blue;">General</mark> section.
+In the <mark style="color:blue;">Settings</mark> tab, under <mark style="color:blue;">General</mark>, enable <mark style="color:blue;">Unlock FPS (120HZ)</mark>, <mark style="color:blue;">Widescreen Fix</mark>, [HUD-Fix](../addons-tweaks/hudfix.md), <mark style="color:blue;">Blood Patch</mark> and [ReShade](../addons-tweaks/reshade.md).
 {% endstep %}
 
 {% step %}
-Adjust <mark style="color:blue;">Resolution</mark> from the drop-down menu to match the one you have in-game.
+Adjust <mark style="color:blue;">Resolution</mark> from the drop-down menu to match the one you set in-game.
 {% endstep %}
 
 {% step %}
-Return to the <mark style="color:blue;">Play</mark> page.&#x20;
-{% endstep %}
-
-{% step %}
-Click <mark style="color:blue;">Start Game!</mark> to launch the game.
+Return to the <mark style="color:blue;">Play</mark> tab and click <mark style="color:blue;">Start Game!</mark> to launch.
 {% endstep %}
 
 {% step %}
@@ -76,7 +49,29 @@ _**Congratulations! You have completed all the steps to get Remaster up and runn
 {% endstep %}
 {% endstepper %}
 
+## Launching the mod with BF2142 Hub
+
+{% hint style="info" %}
+We recommend using the Launcher whenever you want to toggle addons or tweak bot count.  Some troubleshooting tools exist only in the Hub, and others only in the Launcher — so it’s best to use both and get the best of both worlds.
+{% endhint %}
+
+{% stepper %}
+{% step %}
+Launch BF2142 Hub.
+{% endstep %}
+
+{% step %}
+In the <mark style="color:blue;">Home</mark> Tab, under <mark style="color:blue;">Game Settings</mark>, select the mod from the <mark style="color:blue;">GAME MOD</mark> dropdown menu.
+{% endstep %}
+
+{% step %}
+Click the <mark style="color:blue;">Let's Play!!</mark> button to run the game.
+{% endstep %}
+{% endstepper %}
+
 ## Follow-ups
+
+If you hit crashes, startup issues, or graphics glitches, use the troubleshooting and diagnosis tools in the launcher or the Hub. The offline manual in the launcher also has helpful fixes.
 
 New to the mod or modding? We’ve got some manuals packed with helpful info, so it’s definitely worth setting aside a little time to check them out!
 
@@ -86,8 +81,6 @@ New to the mod or modding? We’ve got some manuals packed with helpful info, so
 
 Also, take a look at the addons and tweaks section in the sidebar navigation — you might find something that interests you!
 
-[^1]: It’s not strictly mandatory, but it does make things easier. Starting the game once will create a profile for you, which allows you to set the launch resolution in Remaster Launcher.
+[^1]: Battlefield 2142 is a 32-bit game and can only use up to 4GB of RAM. The 4GB RAM Patch helps prevent memory overflow crashes and improves stability.
 
-[^2]: Battlefield 2142 is a 32-bit game, so it can use a maximum of 4GB of RAM. The 4GB RAM Patch helps prevent crashes caused by memory overflow, making the game more stable even though it can’t use more than 4GB.
-
-[^3]: We need to disable this option because the OpenSpy patches from BF2142 Hub already include this fix by default.
+[^2]: We need to disable this option because the OpenSpy patches from BF2142 Hub already include this fix by default.

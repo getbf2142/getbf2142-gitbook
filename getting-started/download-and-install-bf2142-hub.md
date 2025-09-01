@@ -45,7 +45,7 @@ Download <mark style="color:blue;">BF2142 Hub v2</mark> from [Downloads](downloa
 {% endstep %}
 
 {% step %}
-Double-click the file to run it.
+Double-click the file to run the installer.
 {% endstep %}
 
 {% step %}

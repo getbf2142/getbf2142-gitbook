@@ -52,7 +52,7 @@ Download <mark style="color:blue;">Patch v1.51 Full Installer</mark> [here](http
 {% endstep %}
 
 {% step %}
-Double-click the file to start the installer - it may take a moment for anything to appear. **\[**[**?**](#user-content-fn-2)[^2]**]**
+Double-click the file to run the installer — it may take a moment for anything to appear. **\[**[**?**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 
 {% step %}

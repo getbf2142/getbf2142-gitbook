@@ -6,7 +6,7 @@ icon: panorama
 
 When BF2142 first launched, it only supported 4:3 displays. Even though the v1.51 patch from EA added native widescreen support (which mostly just stretches the image horizontally), the game’s HUD still looks off on 16:9 resolutions.&#x20;
 
-Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142 that properly resizes HUD elements for widescreen displays. This fix is included with the [Project Remaster](../project-remaster/download-and-install-remaster-mod.md) v14 installation, and in this guide, we’ll also show you how to install it if you don’t have the mod.
+Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142 that properly resizes HUD elements for widescreen displays. This fix is included with the [Project Remaster](../project-remaster/install-project-remaster.md) v14 installation, and in this guide, we’ll also show you how to install it if you don’t have the mod.
 
 {% columns %}
 {% column %}
@@ -134,7 +134,7 @@ And that’s it — you’re all set!
 
 * Revert your changes before joining Reclamation or any multiplayer servers, unless the server explicitly allows or uses this mod.
 * If you host a server with this tweak, players who join will also need to make this change.
-* To uninstall the fix, simply undo the changes you made and [clear cache](../../help-centre/troubleshoot.md#a03-delete-profile-and-cache) in `\Documents\Battlefield 2142\mods\`.
+* To uninstall the fix, simply undo the changes you made and [clear cache](../../help-centre/troubleshoot.md#a03-delete-profile-and-cache).
 
 ### Acknowledgements
 

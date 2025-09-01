@@ -1,5 +1,5 @@
 ---
-description: Ready to play ? Here's how !
+description: Ready to play? Here's how!
 icon: '0'
 layout:
   width: default
@@ -68,7 +68,7 @@ You can skip these steps: [① Install BF2142](download-and-install-bf2142.md), 
 
 </details>
 
-### Vanilla or Remaster ? Let's Decide !
+### Vanilla or Remaster ?
 
 This choice will help you figure out if you need to tackle any extra tutorials beyond ③ - ⑥. Here's a quick guide to help you pick:
 
@@ -77,18 +77,6 @@ This choice will help you figure out if you need to tackle any extra tutorials b
 * Still not sure which one to pick? No worries! _Remaster_ is a safe bet. **\[**[**?**](#user-content-fn-3)[^3]**]**
 
 Choose what fits your playstyle best, and we'll guide you through the rest!
-
-<details>
-
-<summary>I prefer Remaster.</summary>
-
-You should follow these steps in order:\
-[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Install Map Pack](install-map-pack.md) (Optional) → [⑥ Create Account](create-account.md) → [Install Remaster Mod](../advanced/project-remaster/download-and-install-remaster-mod.md) → [Configure Remaster Launcher](../advanced/project-remaster/configure-remaster-launcher.md)
-
-You may skip this step if you don't play on Reclamation servers:\
-[⑤ Install Map Pack](install-map-pack.md)
-
-</details>
 
 <details>
 
@@ -101,23 +89,35 @@ You should follow these steps:\
 
 <details>
 
+<summary>I prefer Remaster.</summary>
+
+You should follow these steps in order:\
+[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Install Map Pack](install-map-pack.md) → [⑥ Create Account](create-account.md) → [Install Project Remaster](../advanced/project-remaster/install-project-remaster.md) → [Launch Project Remaster](../advanced/project-remaster/configure-remaster-launcher.md)
+
+You may skip this step if you don't play on Reclamation servers:\
+[⑤ Install Map Pack](install-map-pack.md)
+
+</details>
+
+<details>
+
 <summary>I'm using Windows XP 32-bit.</summary>
 
 BF2142 Hub is a 64-bit application and won’t run on 32-bit operating systems. If you’re using Windows XP, it’s best to stick with Vanilla.
 
 You can skip these steps:\
-[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md), [④ Install OpenSpy Patches](apply-openspy-patches.md)&#x20;
+[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md), [④ Install OpenSpy Patches](apply-openspy-patches.md)
 
 You should follow these steps:\
-[Install OpenSpy Patches for XP](https://www.moddb.com/mods/bf2142-reclamation-xp-install-package/downloads/bf2142-reclamation-xp-install-package) \[[Ref](https://battlefield2142.co/faq#notwin32)] → [⑤ Install Map Pack](install-map-pack.md) → [⑥ Create Account](create-account.md)
+[Install OpenSpy Patches for XP](https://www.moddb.com/mods/bf2142-reclamation-xp-install-package/downloads/bf2142-reclamation-xp-install-package) \[[#notwin32](https://battlefield2142.co/faq#notwin32)] → [⑤ Install Map Pack](install-map-pack.md) → [⑥ Create Account](create-account.md)
 
 </details>
 
-### You may wonder ...
+### But why ?
 
 <details>
 
-<summary>Why don't our guides cover BF2142Unlocker ?</summary>
+<summary>Why didn't our guides cover BF2142Unlocker ?</summary>
 
 We're actually huge fans of nostalgia and really enjoy helping new players install the game the classic way.
 
@@ -125,7 +125,7 @@ Sure, it might take a few extra steps compared to a super quick setup, but by do
 
 From there, you can dive in, create, or join games just like you would have back in the day. It's all about reliving that authentic BF2142 experience!
 
-If you're super eager to use BF2142Unlocker, you can check out the tutorial right [here](../advanced/addons-tweaks/bf2142unlocker.md)!
+If you're super eager to use BF2142Unlocker, you can check out [this tutorial](../advanced/addons-tweaks/bf2142unlocker.md).
 
 </details>
 

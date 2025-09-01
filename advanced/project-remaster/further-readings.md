@@ -12,7 +12,7 @@ Remaster Manual and [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.htm
 
 <figure><img src="../../.gitbook/assets/tweak_guide.png" alt=""><figcaption><p>Tweak Guide</p></figcaption></figure>
 
-These materials are great resources if you want to dive deeper into the game. They come built right into the mod — just install the [Remaster](download-and-install-remaster-mod.md) mod and use the launcher buttons to access them.
+These materials are great resources if you want to dive deeper into the game. They come built right into the mod — just install the [Remaster](install-project-remaster.md) mod and use the launcher buttons to access them.
 
 <figure><img src="../../.gitbook/assets/launcher_manual.png" alt="" width="375"><figcaption><p>Remaster Launcher</p></figcaption></figure>
 

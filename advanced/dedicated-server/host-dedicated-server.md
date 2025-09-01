@@ -19,7 +19,7 @@ This tutorial will guide you through the steps to host a dedicated _unranked_ se
 
 ### Hosting a Modded Server
 
-In this example, we demonstrate how to host a dedicated server for the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod.&#x20;
+In this example, we demonstrate how to host a dedicated server for the [Remaster](../project-remaster/install-project-remaster.md) mod.&#x20;
 
 {% stepper %}
 {% step %}

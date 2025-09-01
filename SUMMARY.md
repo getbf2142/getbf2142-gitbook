@@ -27,8 +27,8 @@
 ## Advanced
 
 * [Project Remaster](advanced/project-remaster/README.md)
-  * [Install the Remaster mod](advanced/project-remaster/download-and-install-remaster-mod.md)
-  * [Configure the Remaster Launcher](advanced/project-remaster/configure-remaster-launcher.md)
+  * [Install Project Remaster](advanced/project-remaster/install-project-remaster.md)
+  * [Launch Project Remaster](advanced/project-remaster/configure-remaster-launcher.md)
   * [Further Readings](advanced/project-remaster/further-readings.md)
 * [Addons / Tweaks](advanced/addons-tweaks/README.md)
   * [Offline Rewards](advanced/addons-tweaks/offline-rewards.md)

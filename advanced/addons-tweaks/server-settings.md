@@ -8,7 +8,7 @@ In-game settings are pretty limited — singleplayer only lets you adjust rounds
 
 In this tutorial, we’ll cover how to make all these settings configurable for both singleplayer and multiplayer (LAN). There are several ways to do this, each with its own trade-offs. Just choose the method that works best for you and follow the steps.
 
-### Method 1
+### Option 1
 
 **Editing ServerSettings.con in \Profiles\Default**
 
@@ -49,7 +49,7 @@ The reason is that BF2142 can be pretty buggy when reading server settings — i
 {% endstep %}
 {% endstepper %}
 
-### Method 2
+### Option 2
 
 **Editing GameLogicInit.con in \mods\\\<MOD>**
 
@@ -101,7 +101,8 @@ rem ↓ remove "The game will start when 1 more player join" in LAN games
 </strong><strong>sv.spawnTime 10
 </strong>rem ↓ the amount of time in seconds you can be revived by a medic
 sv.manDownTime 10
-rem ↓ set the ticket scaling to 100% - unchanged, set it higher to scale up
+rem ↓ set the ticket scaling to 100%
+rem ↓ override singleplayer's 200% multiplier
 sv.ticketRatio 100
 sv.teamRatioPercent 100
 sv.autoBalanceTeam 0
@@ -120,7 +121,7 @@ sv.friendlyFireWithMines 0
 
 The list above isn’t complete — some settings aren’t shown because they’re deprecated, only available on ranked servers, or not useful for regular gameplay.
 
-### Acknowledgements:
+### Acknowledgements
 
 Special thanks to:
 

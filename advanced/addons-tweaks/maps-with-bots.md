@@ -30,8 +30,8 @@ Maybe you’re looking for maps loaded with vehicles, or ones designed just for 
 
 #### **How to get these maps ?**
 
-* You can get the upgraded versions of `Belgrade`, `Suez Canal`, `Fall of Berlin`, and `Camp Gibraltar` through either the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod (preferred) or [BF2142 Hub](../../getting-started/download-and-install-bf2142-hub.md).
-* To access `Breakthrough at Remagen` and `Strike at Karkand`, you’ll need the [Remaster](../project-remaster/download-and-install-remaster-mod.md) mod. For `Kursk`, you'll need [BF2142 Hub](../../getting-started/download-and-install-bf2142-hub.md).
+* You can get the upgraded versions of `Belgrade`, `Suez Canal`, `Fall of Berlin`, and `Camp Gibraltar` through either the [Remaster](../project-remaster/install-project-remaster.md) mod (preferred) or [BF2142 Hub](../../getting-started/download-and-install-bf2142-hub.md).
+* To access `Breakthrough at Remagen` and `Strike at Karkand`, you’ll need the [Remaster](../project-remaster/install-project-remaster.md) mod. For `Kursk`, you'll need [BF2142 Hub](../../getting-started/download-and-install-bf2142-hub.md).
 * For our improved versions of `Desert Storm`, `Victory Village`, and `Street`, you can download them [here](maps-with-bots.md#what-you-will-get-from-us).
 
 </details>
@@ -123,7 +123,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 </details>
 
-Interested? Click [here](../project-remaster/download-and-install-remaster-mod.md) to download and install the Remaster mod.
+Interested? Click [here](../project-remaster/install-project-remaster.md) to download and install the Remaster mod.
 
 ### What you will get from BF2142 Hub ...
 

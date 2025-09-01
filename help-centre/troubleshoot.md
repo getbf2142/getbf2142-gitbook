@@ -1,5 +1,5 @@
 ---
-description: Got issues ? Find answers here !
+description: Got issues? Find answers here!
 icon: gear
 layout:
   width: default

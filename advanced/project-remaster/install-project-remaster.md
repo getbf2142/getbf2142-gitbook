@@ -1,9 +1,9 @@
 ---
-description: Where to download the mod? How to install the mod?
+description: 'Level up your game: How to download and install the Remaster mod ...'
 icon: '1'
 ---
 
-# Install the Remaster mod
+# Install Project Remaster
 
 For many players, the Remaster mod is a game-changer — they can't imagine playing without it! In this tutorial, we'll show you exactly how to download and install it. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
 
@@ -66,14 +66,14 @@ The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing
 <summary>What mini-mods come with the installation ?</summary>
 
 1. `Project_Remaster_v14` is the main mod.\
-   It contains the complete mod (textures, models, maps etc.) and will be used for hosting your multiplayer / singleplayer game.
-2. `Project_Remaster_v14_offline` is a mini-mod for offline singleplayer.\
-   • It works without an internet connection.\
-   • The customization screen will not work.\
-   • You have pre-defined soldier load-outs and kit load-outs with some fixed unlocks.\
-   • Loot dead bots' backpacks to use other load-outs.
-3. `Project_Remaster_v14_vanilla_weapons` is a mini-mod with all weapons and gadgets having their vanilla stats (damage, recoil, rate of fire, amount of ammo etc.).\
-   It also removes the new 4th primary rifles from the soldiers. Animations, however, stay the same as in the main mod.
+   It contains the full mod (textures, models, maps, etc.) and will be used to host your multiplayer or singleplayer game.
+2. `Project_Remaster_v14_offline` is a mini-mod for offline singleplayer.
+   * Works offline (no internet required).
+   * Customization screen is disabled.
+   * Uses predefined soldier and kit loadouts with fixed unlocks.
+   * Loot fallen bots’ backpacks to switch to other loadouts.
+
+1) `Project_Remaster_v14_vanilla_weapons` is a mini-mod where all weapons and gadgets use their original (vanilla) stats—damage, recoil, rate of fire, ammo counts, etc. It also removes the new fourth primary rifles from soldiers. Animations remain the same as in the main mod.
 
 </details>
 
@@ -83,7 +83,7 @@ The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing
 
 Right now, there aren't any official servers for Remaster since it's mostly designed for offline play. But don't worry — the mod fully supports multiplayer, so you can definitely play with your friends over LAN or WAN!&#x20;
 
-The Project Remaster Team is actually planning to host some multiplayer events after the v16 full release, so keep an eye out for those!
+The team is actually planning to host some multiplayer events after the v16 full release, so keep an eye out for those!
 
 </details>
 
@@ -96,13 +96,11 @@ If you’re using v16, please follow the instructions in the Remaster Discord.
 
 {% stepper %}
 {% step %}
-Download the mod from [Downloads](download-and-install-remaster-mod.md#downloads) → [Release](download-and-install-remaster-mod.md#release).
+Download the mod from [Downloads](install-project-remaster.md#downloads) → [Release](install-project-remaster.md#release).
 {% endstep %}
 
 {% step %}
-Double-click the file to start the installer.
-
-It might take a moment for anything to appear. **\[**[**?**](#user-content-fn-1)[^1]**]**
+Double-click the file to start the installer — It might take a moment for anything to appear. **\[**[**?**](#user-content-fn-1)[^1]**]**
 {% endstep %}
 
 {% step %}
@@ -110,9 +108,7 @@ When prompted by <mark style="color:blue;">User Account Control</mark>, click <m
 {% endstep %}
 
 {% step %}
-When <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>.
-
-If you don't see the option, then **\[**[**...**](#user-content-fn-2)[^2]**]**
+When <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-2)[^2]**]**
 {% endstep %}
 
 {% step %}

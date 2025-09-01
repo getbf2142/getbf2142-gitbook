@@ -78,19 +78,26 @@ Don’t forget to check out these tutorials to learn how to join a game or start
 * [Play Singleplayer](play-singleplayer.md)
 * [Play Multiplayer](play-multiplayer.md)
 * [Host a server](host-server.md)
+* [BF2142Unlocker](../advanced/addons-tweaks/bf2142unlocker.md) (for advanced users)
+
+Got questions or run into a snag? No worries, we've got some awesome self-serve resources to help you out!
+
+* [Troubleshoot](../help-centre/troubleshoot.md)
+* [FAQ](../help-centre/faq.md)
 
 For some players, the Remaster mod has become their new standard — many can’t imagine playing without it. Check out these tutorials to get started!
 
-1. [Install the Remaster mod](../advanced/project-remaster/download-and-install-remaster-mod.md)
-2. [Configure the Remaster Launcher](../advanced/project-remaster/configure-remaster-launcher.md)
+1. [Install Project Remaster](../advanced/project-remaster/install-project-remaster.md)
+2. [Launch Project Remaster](../advanced/project-remaster/configure-remaster-launcher.md)
 
 New to the game? We’ve got some manuals packed with helpful info, so it’s definitely worth setting aside a little time to check them out!
 
-* [User Manual](https://drive.google.com/file/d/1bimGHQ7c1pBk7Db2QkXHRW81G6UHpcVS)
-* [Prima eGuide](https://archive.org/details/Battlefield_2142_Prima_Official_eGuide)
+* [Manual](../documents/manual.md)
+* [Game Guide](../documents/game-guide.md)
 * [Tweak Guide](https://tweakguides.dmegaming.com/BF2142_1.html)
+* [Modding Wiki](https://classic-battlefield-modding.fandom.com/wiki/Classic_Battlefield_Modding_Wikia) (for advanced users)
 
-Also, take a look at the addons and tweaks section in the sidebar navigation — you might find something that interests you!
+Also, take a look at the [Addons / Tweaks](../advanced/addons-tweaks/) section — you might find something that interests you!&#x20;
 
 [^1]: If you’re in fullscreen, the game may blink or resize a few times — that’s normal.
 

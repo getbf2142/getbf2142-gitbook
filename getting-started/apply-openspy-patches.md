@@ -1,5 +1,5 @@
 ---
-description: 'Get online with OpenSpy: Patching your game for action !'
+description: 'Get online with OpenSpy: Patching your game for action!'
 icon: '4'
 ---
 
@@ -96,7 +96,7 @@ Go to the <mark style="color:blue;">Compatibility</mark> tab, check <mark style=
 {% endstep %}
 
 {% step %}
-Double-click the shortcut to launch BF2142 Hub.
+Double-click <mark style="color:blue;">BF2142 Hub</mark> shortcut to launch BF2142 Hub.
 {% endstep %}
 
 {% step %}
