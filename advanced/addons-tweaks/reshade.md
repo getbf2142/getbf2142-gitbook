@@ -12,15 +12,7 @@ The original post about **Reshade for BF2142** by the [Project Remaster Team](ht
 
 However, that version is outdated. The team now uses a newer Reshade client and has updated shader presets. The latest Reshade package for BF2142 is included with the [Project Remaster](../project-remaster/install-project-remaster.md) v14 installation. In this guide, we’ll also cover how to install ReShade if you don’t have the mod.
 
-{% columns %}
-{% column %}
-<figure><img src="../../.gitbook/assets/reshade_remagen.gif" alt=""><figcaption><p>Breakthrough at Remagen</p></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../../.gitbook/assets/reshade_street.gif" alt=""><figcaption><p>Street</p></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
+<div><figure><img src="../../.gitbook/assets/reshade_remagen.gif" alt=""><figcaption><p>Breakthrough at Remagen</p></figcaption></figure> <figure><img src="../../.gitbook/assets/reshade_street.gif" alt=""><figcaption><p>Street</p></figcaption></figure></div>
 
 ### Installation
 

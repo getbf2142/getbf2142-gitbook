@@ -8,15 +8,7 @@ When BF2142 first launched, it only supported 4:3 displays. Even though the v1.5
 
 Thanks to the Project Remaster Team for creating a widescreen HUD fix for BF2142 that properly resizes HUD elements for widescreen displays. This fix is included with the [Project Remaster](../project-remaster/install-project-remaster.md) v14 installation, and in this guide, we’ll also show you how to install it if you don’t have the mod.
 
-{% columns %}
-{% column %}
-<figure><img src="../../.gitbook/assets/hudfix_before.png" alt=""><figcaption><p>BEFORE: Without Widescreen Hudfix</p></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../../.gitbook/assets/hudfix_after.png" alt=""><figcaption><p>AFTER: With Widescreen Hudfix</p></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
+<div><figure><img src="../../.gitbook/assets/hudfix_before.png" alt=""><figcaption><p>BEFORE</p></figcaption></figure> <figure><img src="../../.gitbook/assets/hudfix_after.png" alt=""><figcaption><p>AFTER</p></figcaption></figure></div>
 
 ### Preparations
 

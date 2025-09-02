@@ -6,15 +6,7 @@ icon: eye
 
 Unlike modern Battlefield games, BF2142 doesn’t let you adjust your FOV in-game. Many players find the default field of view too low, so this guide will show you how to change it to whatever you prefer!
 
-{% columns %}
-{% column %}
-<figure><img src="../../.gitbook/assets/kursk_fov_1_1.png" alt="" width="375"><figcaption><p>1.1</p></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../../.gitbook/assets/kursk_fov_1_5.png" alt="" width="375"><figcaption><p>1.5</p></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
+<div><figure><img src="../../.gitbook/assets/kursk_fov_1_1.png" alt="" width="563"><figcaption><p>1.1</p></figcaption></figure> <figure><img src="../../.gitbook/assets/kursk_fov_1_5.png" alt="" width="563"><figcaption><p>1.5</p></figcaption></figure></div>
 
 ### Preparations
 

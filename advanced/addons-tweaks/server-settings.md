@@ -28,7 +28,7 @@ Open `ServerSettings.con` with a text editor.
 {% endstep %}
 
 {% step %}
-Edit your game settings as needed.
+Edit your game settings as needed. Do not add new settings. `GameServerSettings.ANYTHING` is not the same as `sv.ANYTHING`.
 {% endstep %}
 
 {% step %}

@@ -6,6 +6,8 @@ icon: unlock-keyhole
 
 Once you’re familiar with the game, you might want to see all server lists, join games quickly, or host your own master server with full unlocks and stats offline. BF2142Unlocker does all this for you — no manual patching needed. Just launch it and use the straightforward interface to join, switch servers, or host games with ease.
 
+<div><figure><img src="../../.gitbook/assets/unlocker_2.png" alt=""><figcaption><p>Host Master Server</p></figcaption></figure> <figure><img src="../../.gitbook/assets/unlocker_1.png" alt=""><figcaption><p>Play Multiplayer</p></figcaption></figure></div>
+
 {% embed url="https://discord.com/invite/nVdDkgA" %}
 
 <details>

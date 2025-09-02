@@ -6,6 +6,8 @@ icon: clapperboard-play
 
 Imagine reliving your most epic Battlefield 2142 moments, but from a whole new perspective! BattleRecorder, a fantastic built-in feature, lets you do just that — you can rewatch your past games from a thrilling third-person view. And to dive into those awesome recordings, all you need is BattleDirector. Get ready to see your battles like never before!
 
+<div><figure><img src="../../.gitbook/assets/battlerecorder_1.png" alt=""><figcaption><p>Source: ordinary_chicken @ <a href="https://discord.com/invite/MEwBW9U">BF2142 Reclamation</a></p></figcaption></figure> <figure><img src="../../.gitbook/assets/battlerecorder_2.png" alt=""><figcaption><p>Source: ordinary_chicken @ <a href="https://discord.com/invite/MEwBW9U">BF2142 Reclamation</a></p></figcaption></figure></div>
+
 {% hint style="warning" %}
 With OpenSpy patches, demo files won’t appear under <mark style="color:blue;">Community</mark> > <mark style="color:blue;">Battle Recorder</mark> in-game.
 {% endhint %}

@@ -8,55 +8,17 @@ If you’re a Battlefield fan who loves playing with bots, you’ve probably not
 
 Maybe you’re looking for maps loaded with vehicles, or ones designed just for epic walker or tank battles. In this guide, I’ll show you where to find these custom maps and share some top recommendations to help you build the ultimate collection.
 
-<details>
+<div><figure><img src="../../.gitbook/assets/victory_village_ingame.png" alt=""><figcaption><p>Victory Village</p></figcaption></figure> <figure><img src="../../.gitbook/assets/operation_amos_ingame.png" alt=""><figcaption><p>Operation Amos</p></figcaption></figure></div>
 
-<summary>Top picks for the best Conquest Coop maps</summary>
+<div><figure><img src="../../.gitbook/assets/sharqi_peninsula_ingame.png" alt=""><figcaption><p>Sharqi Peninsula</p></figcaption></figure> <figure><img src="../../.gitbook/assets/wall_of_jericho_ingame.png" alt=""><figcaption><p>Wall of Jericho (Great Wall)</p></figcaption></figure></div>
 
-#### **This is just my personal take ...**
-
-* `Belgrade` offers street fighting that isn’t too intense, with plenty of open areas.
-* `Suez Canal` is a sniper’s dream, with a linear layout that really suits long-range play.
-* `Fall of Berlin` delivers classic street battles in Berlin with a great atmosphere.
-* `Camp Gibraltar` is all about close-quarters combat — perfect for shotgun and assault fans.
-
-- `Breakthrough at Remagen` is my pick for the best snow map for sentry guns and sniping.
-- `Strike at Karkand` brings that BF2 nostalgic, linear Middle Eastern street fighting vibe.
-
-* `Desert Storm` feels a lot like BF1’s Sinai Desert — an open map with hills, perfect for tank and walker battles, and a paradise for engineers.
-* `Kursk` is a forest map, perfect for tank and walker battles, and a paradise for engineers.
-
-- `Victory Village` is a European town map focused on street fighting.
-- `Street` is another linear Middle Eastern map, great for intense street battles.
-
-#### **How to get these maps ?**
-
-* You can get the upgraded versions of `Belgrade`, `Suez Canal`, `Fall of Berlin`, and `Camp Gibraltar` through either the [Remaster](../project-remaster/install-project-remaster.md) mod (preferred) or [BF2142 Hub](../../getting-started/download-and-install-bf2142-hub.md).
-* To access `Breakthrough at Remagen` and `Strike at Karkand`, you’ll need the [Remaster](../project-remaster/install-project-remaster.md) mod. For `Kursk`, you'll need [BF2142 Hub](../../getting-started/download-and-install-bf2142-hub.md).
-* For our improved versions of `Desert Storm`, `Victory Village`, and `Street`, you can download them [here](maps-with-bots.md#what-you-will-get-from-us).
-
-</details>
-
-{% columns %}
-{% column %}
-<figure><img src="../../.gitbook/assets/victory_village_ingame.png" alt=""><figcaption><p>Victory Village</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/sharqi_peninsula_ingame.png" alt=""><figcaption><p>Sharqi Peninsula</p></figcaption></figure>
-{% endcolumn %}
-
-{% column %}
-<figure><img src="../../.gitbook/assets/operation_amos_ingame.png" alt=""><figcaption><p>Operation Amos</p></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/wall_of_jericho_ingame.png" alt=""><figcaption><p>Wall of Jericho (Great Wall)</p></figcaption></figure>
-{% endcolumn %}
-{% endcolumns %}
-
-### What we got from Vanilla BF2142 ...
+### Vanilla BF2142
 
 You got just 5 maps with bot support for singleplayer and multiplayer.
 
 <details>
 
-<summary>List of Conquest Coop maps in Vanilla BF2142</summary>
+<summary>Map List (Conquest_Coop)</summary>
 
 * Belgrade - 16
 
@@ -70,7 +32,7 @@ You got just 5 maps with bot support for singleplayer and multiplayer.
 
 </details>
 
-### What you will get from Project Remaster ...
+### Project Remaster
 
 You'll get a long list of maps with bot support for both singleplayer and multiplayer.
 
@@ -80,7 +42,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 <details>
 
-<summary>List of Conquest Coop maps in Project Remaster</summary>
+<summary>Map List (Conquest_Coop)</summary>
 
 #### Core Maps
 
@@ -123,9 +85,9 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 </details>
 
-Interested? Click [here](../project-remaster/install-project-remaster.md) to download and install the Remaster mod.
+Interested? Click [here](../project-remaster/install-project-remaster.md) to download and install the mod.
 
-### What you will get from BF2142 Hub ...
+### BF2142 Hub
 
 From the many maps available in the Reclamation Map Pack, only a handful support bots.
 
@@ -133,7 +95,7 @@ If you’re looking to play new maps with bots in singleplayer or multiplayer, h
 
 <details>
 
-<summary>List of Conquest Coop maps in Reclamation Map Pack</summary>
+<summary>Map List (Conquest_Coop)</summary>
 
 Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
 
@@ -183,7 +145,7 @@ You should have BF2142 Hub installed. If you don't, click [here](../../getting-s
 
 Check out [this guide](../../getting-started/install-map-pack.md#installing-individual-maps) to learn how to install individual maps from the [Reclamation Map Pack](../../getting-started/install-map-pack.md) instead of downloading the entire pack.
 
-### What you will get from GetBF2142 ...
+### GetBF2142
 
 You’ll get a few maps from the Reclamation Map Pack that we’ve fixed or tweaked for a better experience. These maps are mostly custom maps or maps from another Battlefield series.
 

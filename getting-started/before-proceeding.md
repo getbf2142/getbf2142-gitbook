@@ -42,7 +42,7 @@ You should follow these steps:\
 
 <details>
 
-<summary>Yes, I already have the Standard Edition installed.</summary>
+<summary>Yes, I have Standard Edition installed.</summary>
 
 You can skip this step: [① Install BF2142](download-and-install-bf2142.md)
 
@@ -52,7 +52,7 @@ You should follow this step: [② Install v1.51 Patch](download-and-install-v1_5
 
 <details>
 
-<summary>Yes, I already have the Deluxe Edition installed.</summary>
+<summary>Yes, I have Deluxe Edition installed.</summary>
 
 You can skip these steps: [① Install BF2142](download-and-install-bf2142.md), [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
 
@@ -60,9 +60,9 @@ You can skip these steps: [① Install BF2142](download-and-install-bf2142.md), 
 
 <details>
 
-<summary>Yes, I already have the game installed via EA App or Origin.</summary>
+<summary>Yes, I have the game installed via EA App or Origin.</summary>
 
-That is equivalent to having the Deluxe Edition installed.
+That is equivalent to having Deluxe Edition installed.
 
 You can skip these steps: [① Install BF2142](download-and-install-bf2142.md), [② Install v1.51 Patch](download-and-install-v1_51-patch.md)
 
@@ -91,8 +91,8 @@ You should follow these steps:\
 
 <summary>I prefer Remaster.</summary>
 
-You should follow these steps in order:\
-[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → [⑤ Install Map Pack](install-map-pack.md) → [⑥ Create Account](create-account.md) → [Install Project Remaster](../advanced/project-remaster/install-project-remaster.md) → [Launch Project Remaster](../advanced/project-remaster/configure-remaster-launcher.md)
+You should follow these steps:\
+[③ Install ​BF2142 Hub](download-and-install-bf2142-hub.md) → [④ Install OpenSpy Patches](apply-openspy-patches.md) → ([⑤ Install Map Pack](install-map-pack.md)) → [⑥ Create Account](create-account.md) → [Install Project Remaster](../advanced/project-remaster/install-project-remaster.md) → [Launch Project Remaster](../advanced/project-remaster/configure-remaster-launcher.md)
 
 You may skip this step if you don't play on Reclamation servers:\
 [⑤ Install Map Pack](install-map-pack.md)
