@@ -26,7 +26,7 @@ A local server is a game server that shows up in your local server browser and c
 
 <details>
 
-<summary>Cannot find your server in the local server browser ?</summary>
+<summary>Server is not showing up in the local server browser</summary>
 
 First, make sure you’re connected to the same LAN network as the server host. If you still can’t find the server in the local server browser, even when it’s running, try this:
 
@@ -36,19 +36,20 @@ First, make sure you’re connected to the same LAN network as the server host. 
 
 #### **Why this is happening ?**
 
-Usually, this happens if your PC has more than one network adapter — like when you use programs such as Hamachi, VirtualBox, VMWare, or ExpressVPN. The game can sometimes choose the wrong adapter when trying to join a server.
+If your PC has multiple network adapters (e.g., from Hamachi, VirtualBox, VMware, ExpressVPN), the game may pick the wrong one for multiplayer.
 
 #### How to fix this ?
 
-Disable any network adapters you’re not using, and keep only the one(s) you need for joining the server **\[**[**?**](#user-content-fn-2)[^2]**]**.
+Disable adapters you’re not using and keep only the one(s) needed. **\[**[**?**](#user-content-fn-2)[^2]**]**
 
-1. Go to <mark style="color:blue;">Network and Sharing Center</mark> in your <mark style="color:blue;">Control Panel</mark>.
+1. Go to <mark style="color:blue;">Control Panel</mark> → <mark style="color:blue;">Network and Sharing Center</mark> → <mark style="color:blue;">Change adapter settings</mark>.
 
-2) Click <mark style="color:blue;">Change adapter settings</mark>.
-3) Right-click any adapter you want to disable and select <mark style="color:blue;">Disable</mark>.
-4) If you can’t disable an adapter, use <mark style="color:blue;">PowerShell</mark> as an Administrator:\
-   `Disable-NetAdapter -Name "Adapter Name"`\
-   (Re-enable later with `Enable-NetAdapter -Name "Adapter Name"`)
+2) Right-click the adapter you want to disable → <mark style="color:blue;">Disable</mark>.
+
+If you can’t disable it via UI, use <mark style="color:blue;">PowerShell</mark> (Run as Administrator):
+
+* Disable: `Disable-NetAdapter -Name "Adapter Name"`
+* Enable: `Enable-NetAdapter -Name "Adapter Name"`
 
 Do this first on the server computer, then on any computers trying to connect. This should help your LAN server show up in the local server browser!
 
@@ -114,11 +115,7 @@ Click <mark style="color:blue;">OK</mark> to connect.
 
 [^1]: If you’re using a VLAN or VPN, make sure to enter your VLAN or VPN IP address — not your regular local IP (from router) that connects you to the internet.
 
-[^2]: If you’re joining a server that runs over a VLAN or VPN, make sure to keep both your main internet connection (WiFi or Ethernet — whichever you use) and your VLAN or VPN adapters enabled.
-
-
-
-    These virtual adapters usually have higher priority, so your server will often host on them by default. If you’re not sure which one is being used, open Command Prompt and run `ipconfig` — the adapters that show up first generally have higher priority.
+[^2]: If you’re connecting over a VLAN or VPN, keep both your main internet connection (Wi‑Fi or Ethernet) and your VLAN/VPN adapters enabled.
 
 [^3]: If you don't, you'll see no multiplayer servers showing up in the list.
 

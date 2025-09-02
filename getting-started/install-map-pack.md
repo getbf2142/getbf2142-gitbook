@@ -11,7 +11,7 @@ Reclamation runs two multiplayer servers, both featuring their own modified vers
 
 <details>
 
-<summary>Is it mandatory to download this pack ?</summary>
+<summary>Is this pack optional or mandatory?</summary>
 
 No, the pack is only needed if you want to play on Reclamation servers.
 
@@ -19,7 +19,7 @@ No, the pack is only needed if you want to play on Reclamation servers.
 
 <details>
 
-<summary>Can I download the maps individually ?</summary>
+<summary>Are individual map downloads available?</summary>
 
 Yes, you can download the maps individually without downloading the entire pack.
 
@@ -27,7 +27,7 @@ Yes, you can download the maps individually without downloading the entire pack.
 
 <details>
 
-<summary>Where are the maps installed ?</summary>
+<summary>Where can I find the installed maps?</summary>
 
 The maps are automatically installed to the `\mods\bf2142\Levels` folder.
 

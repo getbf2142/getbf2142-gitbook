@@ -11,13 +11,13 @@ In this tutorial, we'll walk you through all the best online spots to download t
 
 <details>
 
-<summary>Can your PC handle BF2142 ?</summary>
+<summary>Can my PC handle this game?</summary>
 
-Good news! Most modern laptops or desktops should have no trouble running the game.
+Most modern laptops and desktops should run the game just fine.
 
-If your PC can smoothly handle Windows 7 (or anything newer!) and runs programs like Office 2013 or later without breaking a sweat, you’re all set. If your PC struggles, though, it might be a sign that it’s time for an upgrade! 😄
+If your PC handles Windows 7 (or newer) and apps like Office 2013 smoothly, you’re good to go.
 
-Here are the absolute minimum requirements, just in case you want to double-check:
+Minimum requirements:
 
 * OS: Windows XP, with Administrator Access
 * CPU: 1.7 GHz Intel Pentium 4 / AMD Athlon XP
@@ -30,18 +30,29 @@ Here are the absolute minimum requirements, just in case you want to double-chec
 
 <details>
 
-<summary>Is there a Mac version of BF2142 ?</summary>
+<summary>Can I play this game on Linux or on a Steam Deck?</summary>
 
-Technically, yes, there is a Mac version of the game. However, we don’t provide any downloads for it here on our site.
+You can install and play the game on Linux using [Wine](https://www.winehq.org/) or [PlayOnLinux](https://www.playonlinux.com/en/). Use this [video](https://www.youtube.com/watch?v=P4ew0AT496U) and [guide](https://www.gamersonlinux.com/forum/threads/battlefield-2142-guide.1799/) as references.
 
-If you’re eager to play BF2142 on your Mac, your best options are:
+You can install and play the game on Steam Deck. Use this [video](https://www.youtube.com/watch?v=sZjC76ft-14) as a reference.
 
-* Running it through a Windows virtual machine, or
-* Setting up Boot Camp to run Windows directly on your Mac.
+Substitute with our resources where applicable.
 
-These methods usually provide the smoothest experience.
+</details>
 
-If you’re determined to find a native Mac version, we wish you the best of luck! You’ll likely need to do some serious digging on Google to track it down.
+<details>
+
+<summary>Can I play this game on macOS?</summary>
+
+There is a Mac version, but it was built for PowerPC and isn’t compatible with modern macOS.
+
+If you want to play on a Mac, your best options are:
+
+* Run Windows in a VM (e.g., [VirtualBox](https://www.virtualbox.org/) or [VMWare](https://www.vmware.com/products/desktop-hypervisor/workstation-and-fusion))
+* Use [Boot Camp](https://support.apple.com/en-au/guide/bootcamp-assistant/welcome/mac) to install Windows
+* Install the game via [Wine](https://www.winehq.org/) or [PlayOnMac](https://www.playonmac.com/en/)
+
+If you’re set on a native Mac build, you’ll need to do some serious Googling!
 
 </details>
 
@@ -53,7 +64,7 @@ If you enjoy our work, please give us a 5-star rating or share a few kind words 
 
 {% stepper %}
 {% step %}
-Download the game [here](https://www.mediafire.com/file/g6xhktutdtnpgs3/BF2142_Setup.rar/file) or from [Downloads](download-and-install-bf2142.md#downloads) → [Standard Edition v1.01](download-and-install-bf2142.md#standard-edition-v1.01).
+Download the game setup from [Downloads](download-and-install-bf2142.md#downloads) → [Standard Edition v1.01](download-and-install-bf2142.md#standard-edition-v1.01).
 {% endstep %}
 
 {% step %}
@@ -90,7 +101,7 @@ Follow the setup wizard to complete the installation — there are a few importa
     TRCL-YBIJ-D4H4-Y3O5-1911
     ```
 * It’s recommended to install the game to the [default path](#user-content-fn-8)[^8], but you can choose a different location if you prefer.
-* For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with the [Remaster](../advanced/project-remaster/install-project-remaster.md) mod.
+* For the best experience, install the <mark style="color:blue;">English version</mark> to take advantage of the <mark style="color:blue;">HD English fonts</mark> included with [Project Remaster](../advanced/project-remaster/).
 * Feel free to skip BattleCammo setup by clicking <mark style="color:blue;">Cancel</mark>. **\[**[**?**](#user-content-fn-9)[^9]**]**
 * Select <mark style="color:blue;">No, install GameSpy Comrade later</mark> to skip GameSpy Comrade setup. **\[**[**?**](#user-content-fn-10)[^10]**]**
 * When asked to register an EA account, just click <mark style="color:blue;">REGISTER LATER</mark> to move on. **\[**[**?**](#user-content-fn-11)[^11]**]**

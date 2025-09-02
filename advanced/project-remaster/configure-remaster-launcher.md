@@ -7,7 +7,7 @@ icon: '2'
 
 This tutorial will show you two ways to launch the mod, and if you're using the Remaster Launcher, we'll walk you through setting it up and getting your game started with it. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
 
-{% embed url="https://discord.com/invite/nVdDkgA" %}
+{% embed url="https://discord.gg/nVdDkgA" %}
 
 ## Launching the mod with Remaster Launcher
 

@@ -31,7 +31,7 @@ For a full-featured, production server, you’d want to use a [dedicated server]
 
 <details>
 
-<summary>LAN Overr The Internet</summary>
+<summary>LAN Over Internet</summary>
 
 If port forwarding isn’t feasible but you still want to play online with friends, a VLAN is your best option.
 
@@ -61,6 +61,8 @@ If you can’t disable it via UI, use <mark style="color:blue;">PowerShell</mark
 
 * Disable: `Disable-NetAdapter -Name "Adapter Name"`
 * Enable: `Enable-NetAdapter -Name "Adapter Name"`
+
+Reference: [https://superuser.com/questions/610733/networking-games-cant-see-join-anyone-elses-lan-servers-unless-i-host](https://superuser.com/questions/610733/networking-games-cant-see-join-anyone-elses-lan-servers-unless-i-host)
 
 </details>
 

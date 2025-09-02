@@ -11,7 +11,7 @@ In this tutorial, we'll walk you through the steps to download and install BF214
 
 <details>
 
-<summary>Why do we need BF2142 Hub ?</summary>
+<summary>Why is BF2142 Hub necessary?</summary>
 
 BF2142 Hub is a super useful tool that lets you install OpenSpy patches with just one click! You'll need these patches to get past the login screen, see servers, and play online. We'll dive deeper into how master servers work in the [next tutorial](apply-openspy-patches.md), but for now, just know these patches are key!
 
@@ -23,7 +23,7 @@ The amazing [Reclamation Team](https://battlefield2142.co/) develops and maintai
 
 <details>
 
-<summary>Can I install OpenSpy patches without BF2142 Hub ?</summary>
+<summary>Can I install OpenSpy patches without BF2142 Hub?</summary>
 
 Great question! [Here](../help-centre/troubleshoot.md#a05-install-openspy-patches-manually) is how!
 

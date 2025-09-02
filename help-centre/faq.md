@@ -25,6 +25,8 @@ This is where you find answers to some of the commonly asked questions. If you h
 
 {% embed url="https://discord.com/invite/MEwBW9U" %}
 
+{% embed url="https://discord.gg/nVdDkgA" %}
+
 <details>
 
 <summary>How to get all the unlocks ?</summary>

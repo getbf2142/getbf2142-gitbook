@@ -117,7 +117,7 @@ You should follow these steps:\
 
 <details>
 
-<summary>Why didn't our guides cover BF2142Unlocker ?</summary>
+<summary>Why didn't our guides cover BF2142Unlocker?</summary>
 
 We're actually huge fans of nostalgia and really enjoy helping new players install the game the classic way.
 
@@ -131,7 +131,7 @@ If you're super eager to use BF2142Unlocker, you can check out [this tutorial](.
 
 <details>
 
-<summary>Why are there so many steps ?</summary>
+<summary>Why are there so many steps?</summary>
 
 We get it — getting an older game up and running can sometimes feel like a bit of a puzzle, and there are definitely a few spots where things can go sideways. That's exactly why we take the time to walk you through each and every step!
 

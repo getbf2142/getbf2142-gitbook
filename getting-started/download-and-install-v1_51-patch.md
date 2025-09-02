@@ -11,7 +11,7 @@ In this tutorial, we're going to guide you through all the steps to get your gam
 
 <details>
 
-<summary>Why do we need this patch ?</summary>
+<summary>Why is this patch needed?</summary>
 
 * DRM[^1] is officially removed — you no longer need the game disc to launch the game. For more info, see the [No-CD Patch](https://tweakguides.dmegaming.com/BF2142_4.html) section in Tweak Guide.
 
@@ -27,7 +27,7 @@ In this tutorial, we're going to guide you through all the steps to get your gam
 
 <details>
 
-<summary>How to check my game’s version ?</summary>
+<summary>How do I check the game version?</summary>
 
 If you’re ever unsure about your game’s version, just check the version string in this file:\
 `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods\bf2142\Mod.desc`
@@ -38,9 +38,9 @@ If you still need the disc to launch the game, that means you haven’t updated 
 
 <details>
 
-<summary>Can I skip installing this patch ?</summary>
+<summary>Can I skip this patch?</summary>
 
-You can skip this tutorial if your game is already updated to version 1.51. But, if it's not and you skip this, you won't be able to play because the game will still need the disc to start. That’s why we always stress how important this step is!
+You can skip this if your game is already updated to version 1.51. But, if it's not and you skip this, you won't be able to play because the game will still need the disc to start. That’s why we always stress how important this step is!
 
 </details>
 
@@ -48,7 +48,7 @@ You can skip this tutorial if your game is already updated to version 1.51. But,
 
 {% stepper %}
 {% step %}
-Download <mark style="color:blue;">Patch v1.51 Full Installer</mark> [here](https://www.moddb.com/games/battlefield-2142/downloads/battlefield-2142-update-v151-full) or from [Downloads](download-and-install-v1_51-patch.md#downloads) → [Standalone Installer](download-and-install-v1_51-patch.md#standalone-installer).
+Download <mark style="color:blue;">Patch v1.51 Full Installer</mark> from [Downloads](download-and-install-v1_51-patch.md#downloads) → [Standalone Installer](download-and-install-v1_51-patch.md#standalone-installer).
 {% endstep %}
 
 {% step %}

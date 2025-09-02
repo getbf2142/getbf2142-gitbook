@@ -1,6 +1,20 @@
 ---
 description: THIS PAGE IS DEPRECATED.
 icon: unlock-keyhole
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
 ---
 
 # BF2142Unlocker v0.9.7 RC7

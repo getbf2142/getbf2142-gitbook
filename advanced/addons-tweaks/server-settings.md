@@ -53,7 +53,7 @@ The reason is that BF2142 can be pretty buggy when reading server settings — i
 
 **Editing GameLogicInit.con in \mods\\\<MOD>**
 
-This is my preferred method: just add the settings you want to override to `GameLogicInit.con` — usually the ones you can’t change in-game. For anything you can adjust in-game, just leave it out of this file.&#x20;
+This is the preferred method: just add the settings you want to override to `GameLogicInit.con` — usually the ones you can’t change in-game. For anything you can adjust in-game, just leave it out of this file.&#x20;
 
 The only downside is you might forget what you’ve added, so if you no longer need certain flags, make sure to remove or comment them out.
 

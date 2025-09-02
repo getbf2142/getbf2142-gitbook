@@ -6,7 +6,7 @@ icon: umbrella-beach
 
 Reshade adds a layer of shaders to the game, giving the visuals a big boost. It was first used in Project Reality for BF2 and has since been adapted for BF2142 as well.
 
-The original post about **Reshade for BF2142** by the [Project Remaster Team](https://discord.com/invite/nVdDkgA) is here:&#x20;
+The original post about **Reshade for BF2142** by the Project Remaster Team is here:&#x20;
 
 {% embed url="https://www.moddb.com/downloads/bf2142-reshade" %}
 
@@ -18,7 +18,7 @@ However, that version is outdated. The team now uses a newer Reshade client and 
 
 <details>
 
-<summary>Already got the Remaster mod installed ?</summary>
+<summary>Already got the Remaster mod installed?</summary>
 
 Activating Reshade is super easy with the mod's launcher, simply:
 

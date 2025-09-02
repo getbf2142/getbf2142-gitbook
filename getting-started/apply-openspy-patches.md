@@ -11,7 +11,7 @@ In this tutorial, we’ll show you how to get your game ready for OpenSpy, inclu
 
 <details>
 
-<summary>What is OpenSpy ?</summary>
+<summary>OpenSpy</summary>
 
 [OpenSpy](https://openspy.net/) is an open-source alternative to [GameSpy](https://en.wikipedia.org/wiki/GameSpy#Shutdown), built to work perfectly with all GameSpy-supported games. For Battlefield 2142, the main community using the OpenSpy master server is the Reclamation group.
 
@@ -19,7 +19,7 @@ In this tutorial, we’ll show you how to get your game ready for OpenSpy, inclu
 
 <details>
 
-<summary>What is a Master Server ?</summary>
+<summary>Master Server</summary>
 
 Master Server handles your login details and soldier data, shows you available game servers in your browser, and gets updates from those servers about player progress. OpenSpy is a perfect example of a Master Server that brings online services to games like Battlefield 2142!
 
@@ -27,7 +27,7 @@ Master Server handles your login details and soldier data, shows you available g
 
 <details>
 
-<summary>Why do we need OpenSpy patches ?</summary>
+<summary>OpenSpy Patches</summary>
 
 When GameSpy shut down in 2014, BF2142's original online services went with it. But don't worry! OpenSpy patches redirect your game to use the OpenSpy master server instead, which means you can log in and play online again!
 
@@ -35,7 +35,7 @@ When GameSpy shut down in 2014, BF2142's original online services went with it. 
 
 <details>
 
-<summary>Are there other master servers besides OpenSpy ?</summary>
+<summary>OpenSpy Alternatives</summary>
 
 Yep, there are a few others out there, like [NovGames](https://novgames.ru/), and [PlayBF2142](http://play2142.ru/). But honestly, OpenSpy, especially with the Reclamation community, is the most reliable and active one you'll find. Plus, BF2142 Hub makes it super easy to switch between OpenSpy and NovGames if you want to try them out!
 
@@ -43,7 +43,7 @@ Yep, there are a few others out there, like [NovGames](https://novgames.ru/), an
 
 <details>
 
-<summary>What is Project Reclamation, and how does it tie into OpenSpy ?</summary>
+<summary>Project Reclamation</summary>
 
 Project Reclamation is a community-driven effort focused on bringing Battlefield 2142's online features back to life!&#x20;
 
@@ -55,7 +55,7 @@ If you want the latest updates or need some help, be sure to join their [Discord
 
 <details>
 
-<summary>How's the Reclamation community doing ? Still active ?</summary>
+<summary>Reclamation Community</summary>
 
 <figure><img src="../.gitbook/assets/reclamation_orig.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -74,9 +74,9 @@ Once you've done that, just jump in and you'll find a welcoming and active commu
 
 <details>
 
-<summary>Do we get all the unlocks with OpenSpy ?</summary>
+<summary>Gadgets &#x26; Unlocks</summary>
 
-Absolutely! Connecting to OpenSpy is a real privilege — you get all the unlocks as soon as you create a new soldier. As long as you're online, you'll have access to everything in both singleplayer and multiplayer modes. That makes it perfect for grinding against bots in a Conquest Coop game!
+Connecting to OpenSpy is a real privilege — you get all the unlocks as soon as you create a new soldier. As long as you're online, you'll have access to everything in both singleplayer and multiplayer modes. That makes it perfect for grinding against bots in a Conquest Coop game!
 
 </details>
 

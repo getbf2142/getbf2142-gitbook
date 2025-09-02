@@ -25,6 +25,8 @@ This is your go-to spot for solutions to some of the most common problems you mi
 
 {% embed url="https://discord.com/invite/MEwBW9U" %}
 
+{% embed url="https://discord.gg/nVdDkgA" %}
+
 ### (G) Graphics
 
 <details>

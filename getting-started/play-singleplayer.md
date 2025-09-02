@@ -35,9 +35,9 @@ Once your game is [OpenSpy-ready](apply-openspy-patches.md), the customization s
 
 <details>
 
-<summary>How to fix "The game will start when 1 more player(s) join" ?</summary>
+<summary>"The game will start when 1 more player(s) join"</summary>
 
-You need this setting:
+To fix this, you need to apply this setting:
 
 ```batch
 sv.numPlayersNeededToStart 1

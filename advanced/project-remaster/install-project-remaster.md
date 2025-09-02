@@ -7,33 +7,25 @@ icon: '1'
 
 For many players, the Remaster mod is a game-changer — they can't imagine playing without it! In this tutorial, we'll show you exactly how to download and install it. If you hit any snags or have questions, hop into our [Discord](https://discord.gg/7SBMKRy6q9) — we’re always happy to help!
 
-{% columns %}
-{% column %}
-{% embed url="https://www.youtube.com/watch?v=eziEoqH9cCY" %}
-{% endcolumn %}
-
-{% column %}
 {% embed url="https://www.youtube.com/watch?v=cia523SYcto" %}
-{% endcolumn %}
-{% endcolumns %}
 
-{% embed url="https://discord.com/invite/nVdDkgA" %}
+{% embed url="https://discord.gg/nVdDkgA" %}
 
 <details>
 
-<summary>What is Project Remaster ?</summary>
+<summary>Overview</summary>
 
 Project Remaster, or the Remaster mod, is an awesome enhancement for Battlefield 2142 that breathes new life into this 15-year-old classic!&#x20;
 
 It packs in high-resolution textures, ultra-realistic animations, and even new weapons — all seamlessly integrated into the game engine for a completely refreshed experience.&#x20;
 
-The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing work, developing and maintaining it. If you need support or want the latest updates, be sure to join their [Discord](https://discord.com/invite/nVdDkgA) server!
+[Project Remaster Team](https://prmp.boards.net/) is behind all this amazing work, developing and maintaining it. If you need support or want the latest updates, be sure to join their [Discord](https://discord.gg/nVdDkgA) server!
 
 </details>
 
 <details>
 
-<summary>What exactly does this mod offer ?</summary>
+<summary>Features</summary>
 
 * 4K resolution and 120Hz / 144Hz framerate support
 
@@ -63,7 +55,7 @@ The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing
 
 <details>
 
-<summary>What mini-mods come with the installation ?</summary>
+<summary>Mini-mods</summary>
 
 1. `Project_Remaster_v14` is the main mod.\
    It contains the full mod (textures, models, maps, etc.) and will be used to host your multiplayer or singleplayer game.
@@ -79,9 +71,9 @@ The [Project Remaster Team](https://prmp.boards.net/) is behind all this amazing
 
 <details>
 
-<summary>Are there any servers that run this mod ?</summary>
+<summary>Servers</summary>
 
-Right now, there aren't any official servers for Remaster since it's mostly designed for offline play. But don't worry — the mod fully supports multiplayer, so you can definitely play with your friends over LAN or WAN!&#x20;
+Right now, there aren't any official servers for Remaster since it's mostly designed for offline play. But don't worry — the mod fully supports multiplayer, so you can definitely play with your friends over LAN, VLAN or WAN!&#x20;
 
 The team is actually planning to host some multiplayer events after the v16 full release, so keep an eye out for those!
 
