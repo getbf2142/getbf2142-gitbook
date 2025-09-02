@@ -1,5 +1,5 @@
 ---
-description: 'Ready, set, play: Creating your account and setting up in-game options ...'
+description: 'Ready, set, play: Creating your account and setting up in-game options.'
 icon: '6'
 ---
 

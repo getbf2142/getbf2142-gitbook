@@ -1,5 +1,5 @@
 ---
-description: 'Go solo: Two ways to enjoy singleplayer mode ...'
+description: 'Go solo: Two ways to enjoy singleplayer mode.'
 icon: person-simple
 ---
 

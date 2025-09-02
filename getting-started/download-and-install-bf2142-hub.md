@@ -1,5 +1,5 @@
 ---
-description: 'Get connected: How to download and install BF2142 Hub ...'
+description: 'Get connected: How to download and install BF2142 Hub.'
 icon: '3'
 ---
 

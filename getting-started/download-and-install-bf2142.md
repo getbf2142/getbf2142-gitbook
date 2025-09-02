@@ -1,5 +1,5 @@
 ---
-description: 'Get started: Where to download and how to install the game ...'
+description: 'Get started: Where to download and how to install the game.'
 icon: '1'
 ---
 

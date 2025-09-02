@@ -1,5 +1,5 @@
 ---
-description: 'Join the fight: How to install the Reclamation Map Pack ...'
+description: 'Join the fight: How to install the Reclamation Map Pack.'
 icon: '5'
 ---
 

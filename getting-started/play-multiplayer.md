@@ -1,5 +1,5 @@
 ---
-description: 'Jump in: Your guide to joining a server ...'
+description: 'Jump in: Your guide to joining a server.'
 icon: people-pants-simple
 ---
 

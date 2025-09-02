@@ -1,5 +1,5 @@
 ---
-description: 'Stay ahead: How to update your game to the latest version ...'
+description: 'Stay ahead: How to update your game to the latest version.'
 icon: '2'
 ---
 

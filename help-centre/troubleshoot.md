@@ -346,7 +346,7 @@ This issue occurs when the game’s CD key isn’t found in your registry, likel
 
 <details>
 
-<summary>G01: Cannot find the demo files or recordings in BattleRecorder</summary>
+<summary>G01: Cannot find demo files or recordings in BattleRecorder</summary>
 
 Related Article(s): [BattleRecorder & BattleDirector](../advanced/addons-tweaks/battlerecorder-and-battledirector.md)
 
@@ -359,6 +359,34 @@ For some reason, demo files don’t show up on the Battle Recorder page when Ope
 **Solution(s):**
 
 * Use [BattleDirector](../advanced/addons-tweaks/battlerecorder-and-battledirector.md) to launch the game directly into the recorded demo.
+
+</details>
+
+<details>
+
+<summary>G02: Mouse or keyboard not working after loading into a map</summary>
+
+Related Article(s): [Mouse not working in-game](https://forum.realitymod.com/viewtopic.php?t=146450), [Mouse or keyboard not working after joining](https://forum.realitymod.com/viewtopic.php?t=110622), [Spawn selection cursor stuck](https://www.reddit.com/r/Battlefield2/comments/o9kr76/spawn_selection_cursor_stuck)
+
+This is likely an issue with a corrupted controls.con file or a hiccup in how the game detects input devices.
+
+**Symptom(s):**
+
+* Mouse and keyboard work in menus
+* Mouse and keyboard don’t work after loading into a map
+* `Alt-Tab` works, but `Esc` doesn’t return to the main menu
+* All control options appear blank
+
+**Solution(s):**
+
+* Reset controls: Options → Controls → Reset to Default
+* Delete Profile and Cache ([A03](troubleshoot.md#a03-delete-profile-and-cache)).
+
+- Try different USB ports and unplug unnecessary devices
+
+* Disable mouse acceleration: <mark style="color:blue;">Control Pane</mark>l → Mouse → Pointer Options → Uncheck <mark style="color:blue;">Enhance pointer precision</mark>
+* Fully quit any overlay software (e.g., Origin, GeForce Experience, Discord, etc.)
+* Reboot your PC
 
 </details>
 

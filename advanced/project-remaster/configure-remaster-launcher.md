@@ -1,5 +1,5 @@
 ---
-description: 'Launch into action: Configuring and using your game launcher ...'
+description: 'Launch into action: Configuring and using your game launcher.'
 icon: '2'
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: 'Level up your game: How to download and install the Remaster mod ...'
+description: 'Level up your game: How to download and install the Remaster mod.'
 icon: '1'
 ---
 

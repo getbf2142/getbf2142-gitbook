@@ -1,5 +1,5 @@
 ---
-description: 'Be the host: How to set up your own game server ...'
+description: 'Be the host: How to set up your own game server.'
 icon: server
 ---
 
