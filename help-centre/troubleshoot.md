@@ -379,12 +379,12 @@ This is likely an issue with a corrupted controls.con file or a hiccup in how th
 
 **Solution(s):**
 
-* Reset controls: Options → Controls → Reset to Default
+* Reset controls: <mark style="color:blue;">Options</mark> → <mark style="color:blue;">Controls</mark> → <mark style="color:blue;">Reset to Default</mark>
 * Delete Profile and Cache ([A03](troubleshoot.md#a03-delete-profile-and-cache)).
 
 - Try different USB ports and unplug unnecessary devices
 
-* Disable mouse acceleration: <mark style="color:blue;">Control Pane</mark>l → Mouse → Pointer Options → Uncheck <mark style="color:blue;">Enhance pointer precision</mark>
+* Disable mouse acceleration: <mark style="color:blue;">Control Pane</mark>l → <mark style="color:blue;">Mouse</mark> → <mark style="color:blue;">Pointer Options</mark> → Uncheck <mark style="color:blue;">Enhance pointer precision</mark>
 * Fully quit any overlay software (e.g., Origin, GeForce Experience, Discord, etc.)
 * Reboot your PC
 
@@ -558,9 +558,95 @@ You’ll need to install both so that `msvcr71.dll` and `msvcp71.dll` are added 
 
 <details>
 
-<summary>Diagnostics</summary>
+<summary>D01: Get help with your diagnostics results</summary>
+
+This is the usual way to get support:
+
+1. Join one or more of the Discord servers listed above.
+
+2) Share the copied diagnostics in the Discord help channel.
+
+3. Briefly describe what’s happening and what you’ve tried.
+
+To get a copy of your diagnostics results:
+
+1. Launch <mark style="color:blue;">BF2142 Hub</mark>.
+2. Go to the <mark style="color:blue;">Help</mark> tab and click <mark style="color:blue;">Advanced Diagnostics</mark>.
+3. Click <mark style="color:blue;">Copy</mark>, then paste the results wherever you’re asking for help.
+
+</details>
+
+<details>
+
+<summary>D02: [File Check]</summary>
+
+Here’s an example of <mark style="color:blue;">\[File Check]</mark> in Diagnostics:
+
+```
+[File Check]
+BF2142.exe [rm_bf2142_lma]: Offical RM BF2142.exe 1.51 file with LAA
+RendDX9.dll [os_rendDX9]: Offical OpenSpy RendDX9.dll file
+RendDX9_ori.dll [ea_rendDX9_v1.51]: Offical EA RendDX9.dll file
+BF Version from Mod.desc [1.51] : Passed
+```
+
+{% hint style="warning" %}
+For the game to run properly, your diagnostics should match the results shown above exactly.
+{% endhint %}
+
+* BF version in Mod.desc
+  * Issue: Differs from expected
+  * Cause: Haven’t patched to v1.51
+  * Fix: [Install v1.51 patch](../getting-started/download-and-install-v1_51-patch.md)
+* BF2142.exe, RendDX9.dll, RendDX9\_ori.dll
+  * Issue: Differs from expected
+  * Cause: OpenSpy patches weren’t installed correctly
+  * Fix: Reinstall via the Hub or apply the patches manually ([A05](troubleshoot.md#a05-install-openspy-patches-manually)).
+* All
+  * Issue: “The file does not exist or not found”
+  * Cause: GamePath isn't correct in the Hub
+  * Fix: Correct GamePath in the Hub or reinstall the game
+
+</details>
+
+<details>
+
+<summary>D03: [Registry Info]</summary>
+
+Here’s an example of <mark style="color:blue;">\[Registry Info]</mark> in Diagnostics:
+
+```
+[Registry Info]
+Application Name : Does not exist
+Build Number : 1.10.77.0
+Install directory : C:\Program Files (x86)\Electronic Arts\Battlefield 2142
+Install Type : Does not exist
+Language : English
+Locale : en_US
+Version : 1.51
+Compatibility : HIGHDPIAWARE
+RemasterVersion : Does not exist
+RemasterInstallPath : Does not exist
+```
 
 
+
+* Application Name, Install Type, Compatbibility, RemasterVersion, RemasterInstallPath
+  * Issue: "Does not exist"
+  * Cause: No related entries in the registry
+  * Fix: Requires no action
+* Install Directory, Language, Locale, Version
+  * Issue: "Does not exist"
+  * Cause: No related entries in the registry
+  * Fix: Install the registry files ([A04](troubleshoot.md#a04-install-the-registry-files))
+* Build Number, Version
+  * Issue: Differs from expected
+  * Cause: Haven’t patched to v1.51
+  * Fix: [Install v1.51 patch](../getting-started/download-and-install-v1_51-patch.md)
+* REG
+  * Issue: `REG: SOFTWARE\WOW6432Node\Electronic Arts\EA Games\Battlefield 2142\ does not exist.` or `REG: SOFTWARE\WOW6432Node\Electronic Arts\EA Games\Battlefield 2142\Addons\ does not exist.`
+  * Cause: Missing registry files
+  * Fix: Install the registry files ([A04](troubleshoot.md#a04-install-the-registry-files))
 
 </details>
 
