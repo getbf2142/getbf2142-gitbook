@@ -26,6 +26,12 @@ Once you’re familiar with the game, you might want to see all server lists, jo
 
 {% tabs %}
 {% tab title="Download" %}
+**BF2142Unlocker v0.9.7 RC10 - Windows 64-bit (21.3 MB)**
+
+{% embed url="https://www.mediafire.com/file/ym6h881mvgevkg7/BF2142Unlocker_v0.9.7_rc10_win_64bit.zip/file" %}
+Source: [Dankrad](https://github.com/Dankr4d) @ [BF2142 Remastered](https://discord.gg/nVdDkgA)
+{% endembed %}
+
 **BF2142Unlocker v0.9.7 RC9 - Windows 64-bit (21.31 MB)**
 
 {% embed url="https://www.mediafire.com/file/4enku1h05qbt6dr/BF2142Unlocker_v0.9.7_rc9_win_64bit.zip/file" %}
@@ -38,6 +44,14 @@ Source: [Dankrad](https://github.com/Dankr4d) @ [BF2142 Remastered](https://disc
 {% endtab %}
 
 {% tab title="Changelog" %}
+**v0.9.7 RC10**
+
+* In-game OpenSpy stats and buddy list are working again (server.ini now stores the FESL address separately).
+* Fixed NovGames account creation (now queries the country list and uses the country code if found).
+* Partially fixed Unlocker crashes when the FESL server doesn’t respond.
+
+***
+
 **v0.9.7 RC9**
 
 **Technical Changes**
