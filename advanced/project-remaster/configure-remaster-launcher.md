@@ -21,6 +21,10 @@ Double-click the <mark style="color:blue;">Remaster Launcher</mark> shortcut to 
 {% endstep %}
 
 {% step %}
+If <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>.
+{% endstep %}
+
+{% step %}
 When prompted by <mark style="color:blue;">User Account Control</mark>, click <mark style="color:blue;">Yes</mark> to allow the app to make changes on your device.
 {% endstep %}
 

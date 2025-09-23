@@ -56,8 +56,12 @@ Once the download finishes, click the <mark style="color:blue;">MapPack Installe
 
 {% step %}
 A command-line window will appear and close automatically when the installation is done.
+{% endstep %}
 
+{% step %}
 If you prefer not to use the installer, you can manually extract all map folders from the `.zip` file to the `\mods\bf2142\Levels` folder.
+
+Each map’s folder should be placed directly inside the Levels folder with no extra parent folder.
 {% endstep %}
 {% endstepper %}
 

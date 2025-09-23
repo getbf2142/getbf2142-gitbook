@@ -8,9 +8,7 @@ If you’re a Battlefield fan who loves playing with bots, you’ve probably not
 
 Maybe you’re looking for maps loaded with vehicles, or ones designed just for epic walker or tank battles. In this guide, I’ll show you where to find these custom maps and share some top recommendations to help you build the ultimate collection.
 
-<div><figure><img src="../../.gitbook/assets/victory_village_ingame.png" alt=""><figcaption><p>Victory Village</p></figcaption></figure> <figure><img src="../../.gitbook/assets/operation_amos_ingame.png" alt=""><figcaption><p>Operation Amos</p></figcaption></figure></div>
-
-<div><figure><img src="../../.gitbook/assets/sharqi_peninsula_ingame.png" alt=""><figcaption><p>Sharqi Peninsula</p></figcaption></figure> <figure><img src="../../.gitbook/assets/wall_of_jericho_ingame.png" alt=""><figcaption><p>Wall of Jericho (Great Wall)</p></figcaption></figure></div>
+<div><figure><img src="../../.gitbook/assets/victory_village_ingame.png" alt=""><figcaption><p>Victory Village</p></figcaption></figure> <figure><img src="../../.gitbook/assets/operation_amos_ingame.png" alt=""><figcaption><p>Operation Amos</p></figcaption></figure> <figure><img src="../../.gitbook/assets/wall_of_jericho_ingame.png" alt=""><figcaption><p>Wall of Jericho</p></figcaption></figure> <figure><img src="../../.gitbook/assets/sharqi_peninsula_ingame.png" alt=""><figcaption><p>Sharqi Peninsula</p></figcaption></figure></div>
 
 ### Vanilla BF2142
 
@@ -18,7 +16,7 @@ You got just 5 maps with bot support for singleplayer and multiplayer.
 
 <details>
 
-<summary>Map List (Conquest_Coop)</summary>
+<summary>Map List</summary>
 
 * Belgrade - 16
 
@@ -42,7 +40,7 @@ You’ll also find bot support added to more vanilla maps, plus support for diff
 
 <details>
 
-<summary>Map List (Conquest_Coop)</summary>
+<summary>Map List</summary>
 
 #### Core Maps
 
@@ -95,7 +93,7 @@ If you’re looking to play new maps with bots in singleplayer or multiplayer, h
 
 <details>
 
-<summary>Map List (Conquest_Coop)</summary>
+<summary>Map List</summary>
 
 Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about the maps in the pack.
 
@@ -141,9 +139,35 @@ Click [here](https://www.battlefield2142.co/maps/v3.html) for more details about
 
 </details>
 
-You should have BF2142 Hub installed. If you don't, click [here](../../getting-started/download-and-install-bf2142-hub.md) to download and install it.
+Check out [this guide](../../getting-started/install-map-pack.md#installing-individual-maps) to learn how to install individual maps instead of downloading the entire pack.
 
-Check out [this guide](../../getting-started/install-map-pack.md#installing-individual-maps) to learn how to install individual maps from the [Reclamation Map Pack](../../getting-started/install-map-pack.md) instead of downloading the entire pack.
+### ModDB
+
+Most working maps on ModDB are included in the Reclamation Map Pack, but there are two new maps not in the pack that are worth trying. There's a partial bot support for the Titan map in the 48-player layout.
+
+<details>
+
+<summary>Map List</summary>
+
+* Close Encounter - 16/32/48/64
+
+- Frosty Peaks - 64
+
+</details>
+
+{% tabs %}
+{% tab title="Close Encounter" %}
+{% embed url="https://www.moddb.com/games/battlefield-2142/addons/close-encounter-beta-version" %}
+Source: [zynthasius](https://www.moddb.com/members/zynthasius) @ [ModDB](https://www.moddb.com/)
+{% endembed %}
+{% endtab %}
+
+{% tab title="Frosty Peaks" %}
+{% embed url="https://www.moddb.com/games/battlefield-2142/addons/frosty-peaks-beta-version" %}
+Source: [zynthasius](https://www.moddb.com/members/zynthasius) @ [ModDB](https://www.moddb.com/)
+{% endembed %}
+{% endtab %}
+{% endtabs %}
 
 ### GetBF2142
 
@@ -153,9 +177,26 @@ Just a heads up: this version isn’t compatible with Reclamation servers.
 
 <details>
 
-<summary>Street - 16 | BF2</summary>
+<summary>Map List</summary>
 
+* Street - 16 \[BF2]
+* Desert Storm - 16
+* Victory Village - 16 \[BF Heroes]
+* Sharqi Peninsula - 16 \[BF2]
+* Operation Amos - 16 \[BF2]
+* Wall of Jericho (Great Wall) - 32/64 \[BF2]
+
+</details>
+
+{% hint style="info" %}
+To install the map, extract the files to `...\Battlefield 2142\mods\<MOD>\Levels`. **\[**[**?**](#user-content-fn-9)[^9]**]**
+{% endhint %}
+
+{% tabs %}
+{% tab title="Street" %}
 Street is a BF2 community map by spfreak that’s now been ported to BF2142 with solid bot support, making it a blast to play. Set in a Middle Eastern town, the map features a linear layout of control points and plenty of urban cover for intense street battles.
+
+{% embed url="https://drive.google.com/file/d/13KGr74VHJZ0cEUhrWTj0lILPQYoCEedl" %}
 
 #### **What's changed ?**
 
@@ -166,14 +207,12 @@ Street is a BF2 community map by spfreak that’s now been ported to BF2142 with
 
 * Full credit goes to spfreak and TGW for porting the map from BF2 to BF2142.
 * You can find the original version in the Reclamation Map Pack.
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary>Desert Storm - 16</summary>
-
+{% tab title="Desert Storm" %}
 Set in a wide-open desert, Desert Storm gives off strong BF1 Sinai Desert vibes right from the start. Every control point is packed with vehicles, making it perfect for large-scale tank and walker battles. With solid bot support, this custom map is a lot of fun to play on.
+
+{% embed url="https://drive.google.com/file/d/1R4RM4BgTphDS1MHi7UOybneauD9Fd_IN" %}
 
 #### What's changed ?
 
@@ -184,16 +223,14 @@ Set in a wide-open desert, Desert Storm gives off strong BF1 Sinai Desert vibes 
 
 * Full credit goes to Jeff & Robin (if I’m not mistaken), the creators of the map.
 * You can find the original version in the Reclamation Map Pack.
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary>Victory Village - 16 | BF Heroes</summary>
-
+{% tab title="Victory Village" %}
 Victory Village is a well-known map from Battlefield: Heroes, now adapted to work in vanilla BF2142 with decent bot support. While it’s playable, there are still a few quirks.
 
 Originally, [Victory Village 2142](https://www.moddb.com/games/battlefield-2142/addons/na16686) with bot support was released by [yone](https://www.moddb.com/members/yone) on ModDB, but it often crashed on newer versions of the game. Later, [matthysjordaan](https://www.moddb.com/members/matthysjordaan) published [Victory Village (Fixed)](https://www.moddb.com/addons/victory-village-fixed), which loads properly but dropped bot support. We’ve combined both versions and added our own tweaks to bring this map back for Conquest Coop.
+
+{% embed url="https://drive.google.com/file/d/16tQTpHsVWRzDdANgcCxDBuu5PWxNt3Qi" %}
 
 #### What's changed?
 
@@ -206,14 +243,12 @@ Originally, [Victory Village 2142](https://www.moddb.com/games/battlefield-2142/
 
 * Full credit goes to [yone](https://www.moddb.com/members/yone) and [matthysjordaan](https://www.moddb.com/members/matthysjordaan) for porting the map from BFHeroes to BF2142.
 * The original versions are available on ModDB and in the Reclamation Map Pack.
+{% endtab %}
 
-</details>
-
-<details>
-
-<summary>Sharqi Peninsula - 16 | BF2</summary>
-
+{% tab title="Sharqi Peninsula" %}
 Sharqi Peninsula is a classic Middle Eastern map from Battlefield 2, known for its iconic construction site control point. Now, it’s been ported to BF2142 with fixes to make bot support playable.
+
+{% embed url="https://drive.google.com/file/d/11TrHvUL2v9573yHqbN0KtgP07KTkg-5_" %}
 
 #### What’s changed ?
 
@@ -225,16 +260,13 @@ Keep in mind, bot support is still a bit buggy — bots can struggle with stairs
 #### Acknowledgements
 
 * Full credit goes to TGW for porting the map from BF2 to BF2142.
+* You can find the original version in the Reclamation Map Pack.
+{% endtab %}
 
-- You can find the original version in the Reclamation Map Pack.
-
-</details>
-
-<details>
-
-<summary>Operation Amos - 16 | BF2</summary>
-
+{% tab title="Operation Amos" %}
 Operation Amos is a popular Chinese map from Battlefield 2, now ported to BF2142 with improvements for playable bot support.
+
+{% embed url="https://drive.google.com/file/d/1Hn28cacrI1D5QX2d6ACmf1PpD1yp70Ue" %}
 
 #### What's changed ?
 
@@ -246,16 +278,13 @@ Keep in mind, bot support is still a bit buggy — bots can struggle with vehicl
 #### Acknowledgements
 
 * Full credit goes to BF:A Ha-Knomboe Boy and TGW for porting the map from BF2 to BF2142.
+* You can find the original version in the Reclamation Map Pack.
+{% endtab %}
 
-- You can find the original version in the Reclamation Map Pack.
-
-</details>
-
-<details>
-
-<summary>Wall of Jericho (Great Wall) - 32/64 | BF2</summary>
-
+{% tab title="Wall of Jericho" %}
 Wall of Jericho, known as Great Wall in BF2, is a classic Battlefield map set in China.
+
+{% embed url="https://drive.google.com/file/d/1WvAlmqDOlT1_tBm_sbnMqbJsC7hxF6VK" %}
 
 #### What's changed ?
 
@@ -267,32 +296,9 @@ Since the map features a walled city, bots aren’t always smart enough to find 
 #### Acknowledgements
 
 * Full credit goes to TGW for porting the map from BF2 to BF2142.
-
-- You can find the original version in the Reclamation Map Pack.
-
-</details>
-
-{% hint style="info" %}
-To install the map, extract the files to `...\Battlefield 2142\mods\<MOD>\Levels`. **\[**[**?**](#user-content-fn-9)[^9]**]**
-{% endhint %}
-
-{% columns %}
-{% column %}
-{% embed url="https://drive.google.com/file/d/13KGr74VHJZ0cEUhrWTj0lILPQYoCEedl" %}
-
-{% embed url="https://drive.google.com/file/d/1R4RM4BgTphDS1MHi7UOybneauD9Fd_IN" %}
-
-{% embed url="https://drive.google.com/file/d/16tQTpHsVWRzDdANgcCxDBuu5PWxNt3Qi" %}
-{% endcolumn %}
-
-{% column %}
-{% embed url="https://drive.google.com/file/d/11TrHvUL2v9573yHqbN0KtgP07KTkg-5_" %}
-
-{% embed url="https://drive.google.com/file/d/1Hn28cacrI1D5QX2d6ACmf1PpD1yp70Ue" %}
-
-{% embed url="https://drive.google.com/file/d/1WvAlmqDOlT1_tBm_sbnMqbJsC7hxF6VK" %}
-{% endcolumn %}
-{% endcolumns %}
+* You can find the original version in the Reclamation Map Pack.
+{% endtab %}
+{% endtabs %}
 
 [^1]: Highway Tampa is a remake of its Battlefield 2 version. The map mostly retains the original layout but is recreated with BF2142 objects throughout.
 

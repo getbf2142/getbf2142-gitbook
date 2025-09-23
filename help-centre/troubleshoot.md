@@ -293,7 +293,8 @@ You might have an outdated or missing map.
 
 **Solution(s):**
 
-* Download the required map pack or the specific map the server is running.
+* Install the required map pack or the specific map the server is running.
+* Each map’s folder in the pack should be placed directly inside the Levels folder with no extra parent folder.
 * If you already have it, note the problematic map, uninstall it, then reinstall it using BF2142 Hub’s individual map option.
 * If you’re kicked with this message during a map change, that’s normal — just rejoin the server.
 

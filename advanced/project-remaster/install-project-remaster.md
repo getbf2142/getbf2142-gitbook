@@ -88,70 +88,49 @@ If you’re using v16, please follow the instructions in the Remaster Discord.
 
 {% stepper %}
 {% step %}
-Download the mod from [Downloads](install-project-remaster.md#downloads) → [Release](install-project-remaster.md#release).
+Download the mod from [Downloads](install-project-remaster.md#downloads).
 {% endstep %}
 
 {% step %}
-Double-click the file to start the installer — It might take a moment for anything to appear. **\[**[**?**](#user-content-fn-1)[^1]**]**
+Extract the folders from the `.zip` file into the game's mods folder, typically located at:\
+`C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods`
 {% endstep %}
 
 {% step %}
-When prompted by <mark style="color:blue;">User Account Control</mark>, click <mark style="color:blue;">Yes</mark> to allow the installer to make changes on your device.
+Navigate to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods\Project_Remaster_v17\Tools\Launcher` (or the equivalent path based on your setup).
 {% endstep %}
 
 {% step %}
-When <mark style="color:blue;">Windows Defender SmartScreen</mark> shows <mark style="color:blue;">Windows Protected Your PC</mark>, click <mark style="color:blue;">More Info</mark> and then <mark style="color:blue;">Run Anyway</mark>. If you don't see the option, then **\[**[**...**](#user-content-fn-2)[^2]**]**
+Open `remaster.ini` using a text editor.
 {% endstep %}
 
 {% step %}
-Follow the on-screen instructions in the wizard to complete the installation.
-
-* When prompted with <mark style="color:blue;">Please select the language that the game should run in</mark>, it’s best to choose <mark style="color:blue;">English language (HD Fonts)</mark>.
-* Double-check the installation path — if the installer doesn’t find your game folder automatically, make sure to set it to the correct location.
+Edit the `Path` under `Settings` and `Aisettings` to match your setup, then save the file.
 {% endstep %}
 
 {% step %}
-Next, [configure Remaster Launcher](configure-remaster-launcher.md).
+Right-click on `Remaster_Launcher.exe` and select <mark style="color:blue;">Send to Desktop</mark> to create a shortcut.
+{% endstep %}
+
+{% step %}
+Next, [launch Project Remaster](configure-remaster-launcher.md).
 {% endstep %}
 {% endstepper %}
 
 ## Downloads
 
-{% hint style="info" %}
-Download the version you’d like to use — we recommend going with v14 BETA13 or v16.
-{% endhint %}
-
 {% tabs %}
-{% tab title="Release" %}
-**Project Remaster v14 BETA13 Setup (3.6 GB)**
+{% tab title="Download" %}
+**Project Remaster v17 2025-09-19 (2.8 GB)**
 
-{% embed url="https://drive.google.com/file/d/1CqDNfcjALCEs1KEkJut2k2VTeGGUwx4Q/view?usp=share_link" %}
-Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
-{% endembed %}
-
-**Project Remaster v14 BETA14 Setup (3.6 GB)**
-
-{% embed url="https://drive.google.com/file/d/11Lo-b3Hv9jMpoSYz0frVC4cgNiwpFS4Y" %}
+{% embed url="https://www.patreon.com/posts/new-beta-v17-19-139240534" %}
 Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
 {% endtab %}
 
-{% tab title="Closed Beta" %}
-**Project Remaster v16 2025-08-08 (2.57 GB)**
-
-1. To join the v16 testing, hop into the [Discord server](https://discord.gg/nVdDkgA) and say, _"I would like to test out v16!"_ in the <mark style="color:blue;">general</mark> channel.
-2. Once you’ve been granted the <mark style="color:blue;">tester</mark> role, you’ll gain access to the <mark style="color:blue;">testing</mark> channel.&#x20;
-3. Check the <mark style="color:blue;">pinned</mark> messages for the download link and detailed instructions on how to install and play.
+{% tab title="Changelog" %}
+Join the Remastered discord server to receive updates.
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
 {% endtab %}
 {% endtabs %}
-
-[^1]: The installer takes time to decompress files to prepare for the installation.
-
-[^2]: If you don’t see the <mark style="color:blue;">More Info</mark> option:&#x20;
-
-    1. Right-click the installer and select <mark style="color:blue;">Properties</mark>.&#x20;
-
-    2) Check the <mark style="color:blue;">Unlock</mark> box, then click <mark style="color:blue;">Apply</mark> and <mark style="color:blue;">OK</mark>.&#x20;
-    3) Run the installer again.
