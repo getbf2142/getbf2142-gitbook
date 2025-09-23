@@ -81,18 +81,13 @@ The team is actually planning to host some multiplayer events after the v16 full
 
 ## Procedures
 
-{% hint style="warning" %}
-The following procedures apply only to v14.\
-If you’re using v16, please follow the instructions in the Remaster Discord.
-{% endhint %}
-
 {% stepper %}
 {% step %}
 Download the mod from [Downloads](install-project-remaster.md#downloads).
 {% endstep %}
 
 {% step %}
-Extract the folders from the `.zip` file into the game's mods folder, typically located at:\
+Extract the folders from the `.zip` file into the game's mods folder, typically located at\
 `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods`
 {% endstep %}
 
@@ -129,7 +124,7 @@ Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endtab %}
 
 {% tab title="Changelog" %}
-Join the Remastered discord server to receive updates.
+Join the discord server to receive support and updates.
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
 {% endtab %}
