@@ -96,14 +96,6 @@ Navigate to `C:\Program Files (x86)\Electronic Arts\Battlefield 2142\mods\Projec
 {% endstep %}
 
 {% step %}
-Open `remaster.ini` using a text editor.
-{% endstep %}
-
-{% step %}
-Edit the `Path` under `Settings` and `Aisettings` to match your setup, then save the file.
-{% endstep %}
-
-{% step %}
 Right-click on `Remaster_Launcher.exe` and select <mark style="color:blue;">Send to Desktop</mark> to create a shortcut.
 {% endstep %}
 
