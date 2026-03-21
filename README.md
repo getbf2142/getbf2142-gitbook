@@ -1,6 +1,22 @@
 ---
 description: Your go-to for BF2142 resources!
 icon: house
+layout:
+  width: default
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: false
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # Homepage
@@ -56,7 +72,9 @@ If you have any questions or concerns, please reach out — we’re always happy
 
 </details>
 
-#### No time to waste !
+***
+
+## Play in 15 mins
 
 Guess what? You can have Battlefield 2142 up and running perfectly _in less than 15 minutes_! That's right, you'll be diving into action before you know it. Let's get you set up and ready to play!
 
@@ -127,7 +145,10 @@ Tweak your video and audio settings
 
 If you enjoy our work, please give us a 5-star rating or share a few kind words [here](others/feedback.md)!
 
+***
+
 #### Disclaimer
 
-* This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), or Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
-* This website is neither affiliated with nor endorsed by OpenSpy, Project Reclamation, or Project Remaster.
+This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), or Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
+
+This website is neither affiliated with nor endorsed by OpenSpy, Project Reclamation, or Project Remaster.
