@@ -86,6 +86,36 @@ And the real highlight? _Titan mode_! This unique multiplayer experience offers 
 
 If you enjoy our work, please give us a 5-star rating or share a few kind words [here](others/feedback.md)!
 
+#### We got everything you need !
+
+Here at GetBF2142, we provide very detailed information on the following topics:
+
+{% stepper %}
+{% step %}
+Download Battlefield 2142 + Install Battlefield 2142
+
+(fast links available: Google Drive, Mediafire, etc.)
+{% endstep %}
+
+{% step %}
+Download + Install BF2142 Hub v2
+{% endstep %}
+
+{% step %}
+Install&#x20;
+{% endstep %}
+{% endstepper %}
+
+1. Download and install the game (fast links available: Google Drive, Mediafire, etc.)
+2. Patch to v1.51
+3. Install BF2142 Hub v2
+4. Install OpenSpy patches
+5. (Optional) Install Reclamation Map Pack for Reclamation servers
+6. Set up BF2142 Hub and launch the game
+7. Create your in-game account
+8. Tweak your video and audio settings
+9. (Optional) Install the Remaster mod and configure Remaster Launcher
+
 #### Disclaimer
 
 * This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), or Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
