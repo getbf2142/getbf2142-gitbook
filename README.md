@@ -143,9 +143,11 @@ Tweak your video and audio settings
 {% endstep %}
 {% endstepper %}
 
+{% hint style="success" %}
 **Click** [**here**](getting-started/before-proceeding.md) **to get started! Join our** [**Discord**](https://discord.gg/7SBMKRy6q9) **server to receive support.**
 
 If you enjoy our work, please give us a 5-star rating or share a few kind words [here](others/feedback.md)!
+{% endhint %}
 
 
 
