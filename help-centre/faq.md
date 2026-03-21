@@ -1,20 +1,6 @@
 ---
 description: Got questions? Check our FAQ!
 icon: message-question
-layout:
-  width: default
-  title:
-    visible: true
-  description:
-    visible: true
-  tableOfContents:
-    visible: true
-  outline:
-    visible: true
-  pagination:
-    visible: false
-  metadata:
-    visible: true
 ---
 
 # FAQ
@@ -149,5 +135,13 @@ Related Article(s): [BattleRecorder & BattleDirector](../advanced/addons-tweaks/
 You can’t change the FOV (field of view) in-game, since BF2142 is an older title and doesn’t offer as many video settings as modern games.&#x20;
 
 However, you can still achieve this by editing the game files. For step-by-step instructions, check out our [Field of View (FOV)](../advanced/addons-tweaks/fov.md) guide.
+
+</details>
+
+<details>
+
+<summary>Can I play this game on Linux, Steam Deck or Mac?</summary>
+
+Related Article(s): [Install BF2142](../getting-started/download-and-install-bf2142.md)
 
 </details>
