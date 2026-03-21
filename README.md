@@ -149,7 +149,7 @@ If you enjoy our work, please give us a 5-star rating or share a few kind words 
 
 
 
-### Disclaimer
+## Disclaimer
 
 This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), or Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
 
