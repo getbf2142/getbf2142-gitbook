@@ -62,7 +62,7 @@ Guess what? You can have Battlefield 2142 up and running perfectly _in less than
 
 <details>
 
-<summary>The story of 2142</summary>
+<summary>What BF2142 is all about</summary>
 
 Battlefield 2142 is the epic sequel to the critically acclaimed Battlefield 2, transporting you to a distant future where a new ice age has engulfed the world. In this frozen, unforgiving environment, two massive superpowers — the European Union (EU) and the Pan-Asian Coalition (PAC) — clash in a desperate fight for survival and dominance.
 
@@ -84,20 +84,26 @@ And the real highlight? _Titan mode_! This unique multiplayer experience offers 
 
 {% stepper %}
 {% step %}
-Download Battlefield 2142 + Install Battlefield 2142\
-&#xNAN;_(fast links available: Google Drive, Mediafire, etc.)_
+Download Battlefield 2142\
+&#xNAN;_&#x57;e provide premium downloads from Google Drive + Mediafire that you can't find elsewhere._
 {% endstep %}
 
 {% step %}
-Download + Install v1.51 Patch
+Install Battlefield 2142\
+&#xNAN;_&#x57;e will guide you through every steps to install the game properly._
 {% endstep %}
 
 {% step %}
-Download + Install BF2142 Hub v2
+Install v1.51 Patch
 {% endstep %}
 
 {% step %}
-Install OpenSpy Patches
+Install BF2142 Hub v2
+{% endstep %}
+
+{% step %}
+Install OpenSpy Patches\
+&#xNAN;_&#x57;e will illustrate clearly why you need to install the patches._
 {% endstep %}
 
 {% step %}
