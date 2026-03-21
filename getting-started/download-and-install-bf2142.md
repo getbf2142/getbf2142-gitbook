@@ -32,9 +32,11 @@ Minimum requirements:
 
 <summary>Can I play this game on Linux?</summary>
 
-Yes, definitely! Follow this guide by Morschi @ BF2142 Remastered.
+Yes, definitely! Follow this guide by Morschi @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA).
 
 {% embed url="https://docs.google.com/document/d/1itfdj2IWGuGtT5GOujP4VtLJvvq725ACy8bAE-wwPOI/edit?usp=sharing" %}
+Source: Morschi @ [BF2142 Remastered](https://discord.com/invite/nVdDkgA)
+{% endembed %}
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
 There are experts in the discord server who play the game on Linux.
@@ -48,13 +50,19 @@ Alternatively, you can install and play the game on Linux using [Wine](https://w
 
 <summary>Can I play this game On Steam Deck?</summary>
 
-You can install and play the game on Steam Deck. Use this [video](https://www.youtube.com/watch?v=sZjC76ft-14) as a reference.
+Yes, definitely! Follow this guide by [InterestingRun6612](https://www.reddit.com/user/InterestingRun6612/) @ [r/bf2142](https://www.reddit.com/r/bf2142/).
+
+{% embed url="https://www.reddit.com/r/bf2142/comments/1o52bfv/guide_bf2142_on_steam_deck/" %}
+Source: [InterestingRun6612](https://www.reddit.com/user/InterestingRun6612/) @ [r/bf2142](https://www.reddit.com/r/bf2142/)
+{% endembed %}
+
+Alternatively, you can use this [video](https://www.youtube.com/watch?v=sZjC76ft-14) as a reference.
 
 </details>
 
 <details>
 
-<summary>Can I play this game on macOS?</summary>
+<summary>Can I play this game on Mac?</summary>
 
 There is a Mac version, but it was built for PowerPC and isn’t compatible with modern macOS.
 
@@ -65,6 +73,10 @@ If you want to play on a Mac, your best options are:
 * Install the game via [Wine](https://www.winehq.org/) or [PlayOnMac](https://www.playonmac.com/en/)
 
 If you’re set on a native Mac build, you’ll need to do some serious Googling!
+
+{% embed url="https://www.reddit.com/r/macgaming/comments/1n591du/it_seems_battlefield_2142_is_impossible_to_run/" %}
+Source: [apachey](https://www.reddit.com/user/apachey/) @ [r/macgaming](https://www.reddit.com/r/macgaming/)
+{% endembed %}
 
 </details>
 
@@ -166,10 +178,6 @@ Source: [GetBF2142](https://docs.getbf2142.net/)
 
 {% embed url="https://www.mediafire.com/file/1eugw0jb8tr93e3/Battlefield_2142_Setup.rar/file" %}
 &#x20;Source: [BF2142 Reworked](https://mozziefiles.wixsite.com/bf2142)
-{% endembed %}
-
-{% embed url="https://oldgamesdownload.com/battlefield-2142-gdx1/" %}
-Source: [Old Games Download](https://oldgamesdownload.com/)
 {% endembed %}
 {% endtab %}
 
