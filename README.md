@@ -82,19 +82,14 @@ And the real highlight? _Titan mode_! This unique multiplayer experience offers 
 
 </details>
 
-**Click** [**here**](getting-started/before-proceeding.md) **to get started! Join our** [**Discord**](https://discord.gg/7SBMKRy6q9) **server to receive support.**
-
-If you enjoy our work, please give us a 5-star rating or share a few kind words [here](others/feedback.md)!
-
-#### We got everything you need !
-
-Here at GetBF2142, we provide very detailed information on the following topics:
-
 {% stepper %}
 {% step %}
-Download Battlefield 2142 + Install Battlefield 2142
+Download Battlefield 2142 + Install Battlefield 2142\
+&#xNAN;_(fast links available: Google Drive, Mediafire, etc.)_
+{% endstep %}
 
-(fast links available: Google Drive, Mediafire, etc.)
+{% step %}
+Download + Install v1.51 Patch
 {% endstep %}
 
 {% step %}
@@ -102,19 +97,29 @@ Download + Install BF2142 Hub v2
 {% endstep %}
 
 {% step %}
-Install&#x20;
+Install OpenSpy Patches
+{% endstep %}
+
+{% step %}
+(Optional) Install Reclamation Map Pack for Reclamation servers
+{% endstep %}
+
+{% step %}
+Launch the game and create your in-game account
+{% endstep %}
+
+{% step %}
+Tweak your video and audio settings
+{% endstep %}
+
+{% step %}
+(Optional) Install the Remaster mod and configure Remaster Launcher
 {% endstep %}
 {% endstepper %}
 
-1. Download and install the game (fast links available: Google Drive, Mediafire, etc.)
-2. Patch to v1.51
-3. Install BF2142 Hub v2
-4. Install OpenSpy patches
-5. (Optional) Install Reclamation Map Pack for Reclamation servers
-6. Set up BF2142 Hub and launch the game
-7. Create your in-game account
-8. Tweak your video and audio settings
-9. (Optional) Install the Remaster mod and configure Remaster Launcher
+**Click** [**here**](getting-started/before-proceeding.md) **to get started! Join our** [**Discord**](https://discord.gg/7SBMKRy6q9) **server to receive support.**
+
+If you enjoy our work, please give us a 5-star rating or share a few kind words [here](others/feedback.md)!
 
 #### Disclaimer
 
