@@ -23,6 +23,8 @@ layout:
 
 Ready to jump back into 2142? You're in the right place! We're here to help you rediscover the thrill of BF2142, whether you're looking to relive those epic battles or just need a hand finding a copy of the game. Get ready to dive back into action with us!
 
+
+
 {% embed url="https://discord.gg/7SBMKRy6q9" %}
 
 <details>
@@ -72,7 +74,7 @@ If you have any questions or concerns, please reach out — we’re always happy
 
 </details>
 
-***
+
 
 ## Play in 15 mins
 
@@ -145,9 +147,9 @@ Tweak your video and audio settings
 
 If you enjoy our work, please give us a 5-star rating or share a few kind words [here](others/feedback.md)!
 
-***
 
-#### Disclaimer
+
+### Disclaimer
 
 This website is neither affiliated with nor endorsed by GameSpy, Digital Illusions CE (DICE), or Electronic Arts (EA). All trademarks and copyrights belong to their respective owners.
 
