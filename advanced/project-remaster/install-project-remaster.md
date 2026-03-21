@@ -64,11 +64,21 @@ It packs in high-resolution textures, ultra-realistic animations, and even new w
 
 <details>
 
-<summary>Servers</summary>
+<summary>Official Server</summary>
 
-Right now, there aren't any official servers for Remaster since it's mostly designed for offline play. But don't worry — the mod fully supports multiplayer, so you can definitely play with your friends over LAN, VLAN or WAN!&#x20;
+You didn't see it wrong! There **IS** an official server running the mod now!
 
-The team is actually planning to host some multiplayer events after the v16 full release, so keep an eye out for those!
+All you need to do is to install v17b2 and join the <mark style="color:blue;">Project Remaster v17b2</mark> server.
+
+The team is also planning to host some multiplayer events after the v16 full release, so keep an eye out for those!
+
+</details>
+
+<details>
+
+<summary>LAN Party</summary>
+
+The mod fully supports multiplayer, so you can definitely play with your friends over LAN, VLAN or WAN!&#x20;
 
 </details>
 
@@ -104,23 +114,27 @@ Next, [launch Project Remaster](configure-remaster-launcher.md).
 **Project Remaster v17b3 2026.03.16 (2.62 GB)**
 
 {% embed url="https://www.patreon.com/posts/beta-v17b3-2026-153174947" %}
+
+{% embed url="https://drive.google.com/file/d/1Uhg2mSAtiBKTKIrS6fcZqWXtY18Q-7wE/view?usp=drive_link" %}
 Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
 
-{% embed url="https://discord.com/invite/nVdDkgA" %}
-Join the discord server and ask nicely in the text channels for becoming a tester.
+**Project Remaster v17b2 2025.09.30 (2.57 GB) - Multiplayer**
+
+{% embed url="https://drive.google.com/file/d/1UtrgY_Qyq-WHh0ID-GpogRYijI0hwZRB/view?usp=sharing" %}
+Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
+
+**Becoming a Tester**
+
+Join the discord server and ask nicely in the text channels for becoming a tester.
+
+{% embed url="https://discord.com/invite/nVdDkgA" %}
 {% endtab %}
 
 {% tab title="Changelog" %}
-Join the discord server to receive support and updates.
-
 {% embed url="https://discord.com/invite/nVdDkgA" %}
-You will receive the latest support and updates by joining the discord server.
-{% endembed %}
 
 {% embed url="https://www.patreon.com/c/Sgt_Prof" %}
-Patreon is the place where you can support the mod development and receive official updates.&#x20;
-{% endembed %}
 {% endtab %}
 {% endtabs %}
