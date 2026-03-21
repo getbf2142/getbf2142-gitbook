@@ -1,5 +1,5 @@
 ---
-description: 'Get online with OpenSpy: Patching your game for action!'
+description: 'Get online with OpenSpy: Patching BF2142 for real deal!'
 icon: '4'
 ---
 

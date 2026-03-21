@@ -1,5 +1,7 @@
 ---
-description: 'Get started: Where to download BF2142 and how to install the game.'
+description: >-
+  Get started: Where to safely download BF2142 and how to properly install the
+  game.
 icon: '1'
 ---
 

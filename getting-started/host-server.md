@@ -1,5 +1,5 @@
 ---
-description: 'Be the host: How to set up your own game server.'
+description: 'Be the host: How to set up your own BF2142 server.'
 icon: server
 ---
 
@@ -22,10 +22,9 @@ For a full-featured, production server, you’d want to use a [dedicated server]
 
 * You only need port forwarding if you want your server accessible over the internet (WAN), and only the host needs to set it up. **\[**[**?**](#user-content-fn-2)[^2]**]**
 * Disable unused network adapters; keep only the one(s) you’ll host on (details below).
-
-- When prompted by Windows Firewall, allow the game (or BF2142Unlocker) on both Private and Public networks to avoid connection issues.
-- For WAN servers: LAN players at home join via your local IP; friends elsewhere join via your public IP — assuming port forwarding is configured correctly.
-- If you launch the game with a mod, any server you host will also be modded.
+* When prompted by Windows Firewall, allow the game (or BF2142Unlocker) on both Private and Public networks to avoid connection issues.
+* For WAN servers: LAN players at home join via your local IP; friends elsewhere join via your public IP — assuming port forwarding is configured correctly.
+* If you launch the game with a mod, any server you host will also be modded.
 
 </details>
 
@@ -54,8 +53,7 @@ If your PC has multiple network adapters (e.g., from Hamachi, VirtualBox, VMware
 To fix this, disable adapters you’re not using and keep only the one(s) needed for hosting. **\[**[**?**](#user-content-fn-3)[^3]**]**
 
 1. Go to <mark style="color:blue;">Control Panel</mark> → <mark style="color:blue;">Network and Sharing Center</mark> → <mark style="color:blue;">Change adapter settings</mark>.
-
-2) Right-click the adapter you want to disable → <mark style="color:blue;">Disable</mark>.
+2. Right-click the adapter you want to disable → <mark style="color:blue;">Disable</mark>.
 
 If you can’t disable it via UI, use <mark style="color:blue;">PowerShell</mark> (Run as Administrator):
 

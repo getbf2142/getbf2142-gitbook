@@ -1,5 +1,5 @@
 ---
-description: 'Jump in: Your guide to joining a server.'
+description: 'Jump in: Your guide to joining a BF2142 server.'
 icon: people-pants-simple
 ---
 
@@ -15,8 +15,7 @@ In this tutorial, we'll walk you through the steps to join a server. If you hit 
 
 * For Reclamation or any vanilla servers, use a clean vanilla BF2142 setup — no addons or file tweaks in `\mods\bf2142`.&#x20;
 * To join Reclamation servers, you’ll also need to [install their map pack](install-map-pack.md).
-
-- For modded servers, install the exact same mod and files the server is running.
+* For modded servers, install the exact same mod and files the server is running.
 
 </details>
 
@@ -43,8 +42,7 @@ If your PC has multiple network adapters (e.g., from Hamachi, VirtualBox, VMware
 Disable adapters you’re not using and keep only the one(s) needed. **\[**[**?**](#user-content-fn-2)[^2]**]**
 
 1. Go to <mark style="color:blue;">Control Panel</mark> → <mark style="color:blue;">Network and Sharing Center</mark> → <mark style="color:blue;">Change adapter settings</mark>.
-
-2) Right-click the adapter you want to disable → <mark style="color:blue;">Disable</mark>.
+2. Right-click the adapter you want to disable → <mark style="color:blue;">Disable</mark>.
 
 If you can’t disable it via UI, use <mark style="color:blue;">PowerShell</mark> (Run as Administrator):
 
