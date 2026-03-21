@@ -85,7 +85,7 @@ And the real highlight? _Titan mode_! This unique multiplayer experience offers 
 {% stepper %}
 {% step %}
 Download Battlefield 2142\
-&#xNAN;_&#x57;e provide premium downloads from Google Drive + Mediafire that you can't find elsewhere._
+&#xNAN;_&#x57;e provide premium downloads that you can't find elsewhere._
 {% endstep %}
 
 {% step %}
