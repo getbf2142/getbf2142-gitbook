@@ -28,27 +28,21 @@ It packs in high-resolution textures, ultra-realistic animations, and even new w
 <summary>Features</summary>
 
 * 4K resolution and 120Hz / 144Hz framerate support
-
-- True 16:9 HUD with widescreen fix
-- HD textures for soldiers, maps, and weapons
-- Enhanced sounds, 3D models, and animations
-- HD English fonts
-
+* True 16:9 HUD with widescreen fix
+* HD textures for soldiers, maps, and weapons
+* Enhanced sounds, 3D models, and animations
+* HD English fonts
 * HD crosshairs for all weapons&#x20;
 * HD minimaps
-
-- New weapons (handguns, anti-material rifles, SMGs, anti-vehicles, etc.)
-- Gameplay balance improvements (spawn points, tatical objects, etc.)
-
+* New weapons (handguns, anti-material rifles, SMGs, anti-vehicles, etc.)
+* Gameplay balance improvements (spawn points, tatical objects, etc.)
 * Blood patch included
-
-- Reshade overlay and SMAA support
-- New customisation screen
-- 4th and 5th primary rifle slots for each soldier class
-- 4th, 5th, and 6th squad leader slots for each soldier class
-- Smarter bot AI for Conquest Coop maps
-- Bot support added to more maps and layouts (see the map list [here](../addons-tweaks/maps-with-bots.md#list-of-maps-in-project-remaster-w-bot-support))
-
+* Reshade overlay and SMAA support
+* New customisation screen
+* 4th and 5th primary rifle slots for each soldier class
+* 4th, 5th, and 6th squad leader slots for each soldier class
+* Smarter bot AI for Conquest Coop maps
+* Bot support added to more maps and layouts (see the map list [here](../addons-tweaks/maps-with-bots.md#list-of-maps-in-project-remaster-w-bot-support))
 * Includes a launcher, manual, and debugging tools
 
 </details>
@@ -64,8 +58,7 @@ It packs in high-resolution textures, ultra-realistic animations, and even new w
    * Customization screen is disabled.
    * Uses predefined soldier and kit loadouts with fixed unlocks.
    * Loot fallen bots’ backpacks to switch to other loadouts.
-
-1) `Project_Remaster_v14_vanilla_weapons` is a mini-mod where all weapons and gadgets use their original (vanilla) stats—damage, recoil, rate of fire, ammo counts, etc. It also removes the new fourth primary rifles from soldiers. Animations remain the same as in the main mod.
+3. `Project_Remaster_v14_vanilla_weapons` is a mini-mod where all weapons and gadgets use their original (vanilla) stats—damage, recoil, rate of fire, ammo counts, etc. It also removes the new fourth primary rifles from soldiers. Animations remain the same as in the main mod.
 
 </details>
 
@@ -108,10 +101,14 @@ Next, [launch Project Remaster](configure-remaster-launcher.md).
 
 {% tabs %}
 {% tab title="Download" %}
-**Project Remaster v17 2025-09-19 (2.8 GB)**
+**Project Remaster v17b3 2026.03.16 (2.62 GB)**
 
-{% embed url="https://www.patreon.com/posts/new-beta-v17-19-139240534" %}
+{% embed url="https://www.patreon.com/posts/beta-v17b3-2026-153174947" %}
 Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
+{% endembed %}
+
+{% embed url="https://discord.com/invite/nVdDkgA" %}
+Join the discord server and ask nicely in the text channels for becoming a tester.
 {% endembed %}
 {% endtab %}
 
@@ -119,5 +116,11 @@ Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 Join the discord server to receive support and updates.
 
 {% embed url="https://discord.com/invite/nVdDkgA" %}
+You will receive the latest support and updates by joining the discord server.
+{% endembed %}
+
+{% embed url="https://www.patreon.com/c/Sgt_Prof" %}
+Patreon is the place where you can support the mod development and receive official updates.&#x20;
+{% endembed %}
 {% endtab %}
 {% endtabs %}
