@@ -119,7 +119,9 @@ Next, [launch Project Remaster](configure-remaster-launcher.md).
 Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 {% endembed %}
 
-**Project Remaster v17b2 2025.09.30 (2.57 GB) - Multiplayer**
+**Project Remaster v17b2 2025.09.30 (2.57 GB)**
+
+You will need this version to play on the official server.
 
 {% embed url="https://drive.google.com/file/d/1UtrgY_Qyq-WHh0ID-GpogRYijI0hwZRB/view?usp=sharing" %}
 Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
