@@ -201,12 +201,6 @@ At the end of installation, you’ll see the <mark style="color:blue;">ACTIVATOR
 
 **Setup (2.44 GB)**
 
-{% embed url="https://novgames.ru/download_en/" %}
-Source: [NovGames](https://novgames.ru/)
-{% endembed %}
-
-{% embed url="https://www.mediafire.com/file/1k7kdaxblradlo1/BF2142_Novgames.zip/file" %}
-
 {% embed url="https://drive.google.com/file/d/1DBy_cPleUuHD2SgGPrqjjjTtArod1OUO/view" %}
 Mirrored from [NovGames](https://novgames.ru/)
 {% endembed %}
