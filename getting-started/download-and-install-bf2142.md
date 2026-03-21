@@ -30,13 +30,25 @@ Minimum requirements:
 
 <details>
 
-<summary>Can I play this game on Linux or on a Steam Deck?</summary>
+<summary>Can I play this game on Linux?</summary>
 
-You can install and play the game on Linux using [Wine](https://www.winehq.org/) or [PlayOnLinux](https://www.playonlinux.com/en/). Use this [video](https://www.youtube.com/watch?v=P4ew0AT496U) and [guide](https://www.gamersonlinux.com/forum/threads/battlefield-2142-guide.1799/) as references.
+Yes, definitely! Follow this guide by Morschi @ BF2142 Remastered.
+
+{% embed url="https://docs.google.com/document/d/1itfdj2IWGuGtT5GOujP4VtLJvvq725ACy8bAE-wwPOI/edit?usp=sharing" %}
+
+{% embed url="https://discord.com/invite/nVdDkgA" %}
+There are experts in the discord server who play the game on Linux.
+{% endembed %}
+
+Alternatively, you can install and play the game on Linux using [Wine](https://www.winehq.org/) or [PlayOnLinux](https://www.playonlinux.com/en/). Use this [video](https://www.youtube.com/watch?v=P4ew0AT496U) and [guide](https://www.gamersonlinux.com/forum/threads/battlefield-2142-guide.1799/) as references.
+
+</details>
+
+<details>
+
+<summary>Can I play this game On Steam Deck?</summary>
 
 You can install and play the game on Steam Deck. Use this [video](https://www.youtube.com/watch?v=sZjC76ft-14) as a reference.
-
-Substitute with our resources where applicable.
 
 </details>
 
@@ -124,12 +136,9 @@ Next, make sure to [patch the game to v1.51](download-and-install-v1_51-patch.md
 <summary>Important Notes</summary>
 
 * If you’re new to the game, we recommend sticking with the _Standard Edition_, since our tutorials are designed specifically for that version.
-
-- It doesn’t matter which edition you start with — once everything is patched up, they’ll all be the same.
-
+* It doesn’t matter which edition you start with — once everything is patched up, they’ll all be the same.
 * If you have any concerns about the sources, consider installing an anti-virus beforehand or downloading the base game from a source you trust — it’s important that you feel comfortable with the process.
-
-- Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which no longer allows you to log in), this is one of the few remaining options available.
+* Keep in mind, this isn’t an official way to get the game. Unfortunately, aside from buying a second-hand copy (which no longer allows you to log in), this is one of the few remaining options available.
 
 </details>
 

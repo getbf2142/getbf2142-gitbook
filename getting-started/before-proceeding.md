@@ -5,7 +5,7 @@ icon: '0'
 
 # Before proceeding
 
-Follow tutorials ①–⑥ in order — it’s super straightforward! Depending on your setup, you may be able to skip some steps or add a few extras. This guide will help you identify what’s essential and what you can safely skip. Let’s get you into the game!
+Follow tutorials ① – ⑥ in order — it’s super straightforward! Depending on your setup, you may be able to skip some steps or add a few extras. This guide will help you identify what’s essential and what you can safely skip. Let’s get you into the game!
 
 {% embed url="https://discord.gg/7SBMKRy6q9" %}
 
