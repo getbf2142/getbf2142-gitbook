@@ -109,10 +109,12 @@ Go to the <mark style="color:blue;">Help</mark> tab (the question mark icon) and
 
 {% step %}
 From the <mark style="color:blue;">Redirects\*</mark> drop-down menu, select <mark style="color:blue;">OpenSpy</mark> and click <mark style="color:blue;">Install</mark>.
+
+If `mdIBF.DNS` error pops up, you can safely ignore it.
 {% endstep %}
 
 {% step %}
-When asked <mark style="color:blue;">Are you sure you want to patch the game?</mark>, click <mark style="color:blue;">Yes</mark> .
+When asked <mark style="color:blue;">Are you sure you want to patch the game?</mark>, click <mark style="color:blue;">Yes</mark>.
 {% endstep %}
 
 {% step %}
