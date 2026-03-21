@@ -1,5 +1,5 @@
 ---
-description: 'Stay ahead: How to update your game to the latest version.'
+description: 'Stay ahead: How to update BF2142 to the latest version.'
 icon: '2'
 ---
 
@@ -14,13 +14,9 @@ In this tutorial, we're going to guide you through all the steps to get your gam
 <summary>Why is this patch needed?</summary>
 
 * DRM[^1] is officially removed — you no longer need the game disc to launch the game. For more info, see the [No-CD Patch](https://tweakguides.dmegaming.com/BF2142_4.html) section in Tweak Guide.
-
-- Enjoy a more immersive field of view and easier multitasking with widescreen support
-
+* Enjoy a more immersive field of view and easier multitasking with widescreen support
 * Northern Strike expansion is now included for free. This marks a final farewell to the game, as DICE has moved on to Battlefield 3 and beyond.
-
-- This patch unlocks the game’s final features, bug fixes, and extra content.
-
+* This patch unlocks the game’s final features, bug fixes, and extra content.
 * Most current master servers (like OpenSpy), game servers (such as Reclamation), and popular mods (like Project Remaster) require v1.51.
 
 </details>
