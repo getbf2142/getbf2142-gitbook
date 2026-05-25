@@ -111,6 +111,14 @@ Next, [launch Project Remaster](configure-remaster-launcher.md).
 
 {% tabs %}
 {% tab title="Download" %}
+**Project Remaster v17 FULL PRE-RELEASE 2026.05.12 (2.57 GB)**
+
+{% embed url="https://www.patreon.com/posts/159130660" %}
+
+{% embed url="https://drive.google.com/file/d/1zGEcAhFfbxrAvQZyYGFmRzyA1oMuYKct/view" %}
+Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
+{% endembed %}
+
 **Project Remaster v17b3 2026.03.16 (2.62 GB)**
 
 {% embed url="https://www.patreon.com/posts/beta-v17b3-2026-153174947" %}
@@ -121,7 +129,9 @@ Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
 
 **Project Remaster v17b2 2025.09.30 (2.57 GB)**
 
+{% hint style="warning" %}
 You will need this version to play on the official server.
+{% endhint %}
 
 {% embed url="https://drive.google.com/file/d/1UtrgY_Qyq-WHh0ID-GpogRYijI0hwZRB/view?usp=sharing" %}
 Source: [BF2142 Remastered](https://discord.gg/nVdDkgA)
